@@ -1,0 +1,156 @@
+======================================================================
+                        ACM SIGCOMM Workshop on
+                Information-Centric Networking (ICN-2012)
+
+
+                           August 17, 2012
+                             Helsinki, Finland
+
+                       http://www.neclab.eu/icn-2012/
+======================================================================
+
+                            Call For Papers
+                            ---------------
+
+The rapid development of Information-Centric Networking (ICN) concepts
+in the last few years is one of the significant results from multiple
+international Future Internet research activities. Based on the ICN
+concepts, the principal communication paradigm is no longer end-to-end
+data delivery between hosts as in the current Internet
+architecture. Instead, ICN-based network architectures focus directly
+on retrieving information objects securely, reliably, scalably, and
+efficiently.  These architectural design efforts aim to directly
+address the network challenges that arise from the increasing demand
+for highly scalable content distribution, from accelerated growths of
+mobile devices, and from wide deployment of Internet-of-things (IoT).
+
+The resulting network architectures are expected to leverage
+in-network storage, multiparty communication through replication and
+interaction models to provide effective and efficient data
+distribution in the communication services, and to provide effective
+solutions in securing the network infrastructure as well as user data.
+
+Important research topics for ICN include: naming and addressing (how
+to name information objects, how to represent location information),
+routing and resolution (deciding on how to forward "interest" in
+information and actual information objects, whether and how to resolve
+information object names to lower layer identifiers during that
+process), resource management (implications of in-network caching and
+paradigms such as receiver-orientation to resource sharing, congestion
+control etc.) and security (privacy, data protection and key
+distribution have to be adapted to the new communication models).
+
+
+This workshop invites original contributions on Information-Centric
+Networking architecture topics, specific algorithms and protocols, as
+well as on results from implementations and experimentation.
+
+
+                       ICN-2012 topics of Interest
+                       ---------------------------
+
+* Naming and addressing
+* Routing and name resolution
+* Routing and name resolution scalability
+* Support for mobility
+* Support for / avoidance of middle boxes
+* Models and/or compensation schemes for user contribution to network
+  resources (bandwidth, storage for caching, battery, processing, name
+  resolution, etc.)
+* Resource management (caching strategies, congestion control)
+* Security, privacy and trust
+* Testbeds and simulations frameworks
+* Metadata and network extensions
+* Real-time traffic over ICN (voice, video, etc)
+* PDUs, fragmentation and “packet size” implications on design
+* Should ICN be an overlay or an underlay
+* Performance evaluation
+* Inter-domain operations (protocols, policies, etc.)
+* Limitations of ICNs
+
+
+                         Submission instructions
+                         ------------------------
+
+All submissions must be original work that has not been submitted to
+any other workshop, conference, or journal. The workshop will accept
+papers describing completed work as well as work-in-progress and
+ongoing experiments. Papers describing practical experiments are
+especially invited.  Submissions must be no greater than 6 pages in
+length and must be in PDF format. Reviews will be single-blind: please
+include authors name and affiliation in the submission.
+
+Submission website:  http://conferences.sigcomm.org/sigcomm/2012/icn.php
+
+
+                             Important Dates
+                             ---------------
+
+Abstract registration:  extended to March 22, 2012
+Submissions due:        extended to April 1, 2012
+Notification:           May 7 2012
+Camera ready due:       May 25, 2012
+Date of the Workshop:   August 13 or 17, 2012
+
+
+                          Steering Committee
+                <icn2012-organizers@listserv.netlab.nec.de>
+                -------------------------------------------
+
+Dirk Kutscher, NEC Laboratories Europe -  Germany
+Giacomo Morabito, University of Catania - Italy
+Boerje Ohlman, Ericsson - Sweden
+George C. Polyzos, AUEB - Greece
+Ignacio Solis, PARC - USA
+Lixia Zhang, UCLA - USA
+
+                         Technical Program Chairs
+                         ------------------------
+
+* Dirk Kutscher, NEC Laboratories Europe
+* Börje Ohlman, Ericsson
+* Ignacio Solis, PARC
+
+
+                       Technical program committee
+                       ---------------------------
+
+* Bengt Ahlgren, SICS
+* Hitoshi Asaeda, Keio University
+* Tohru Asami, The University of Tokyo
+* Jun Bi, Tsinghua University
+* Nicola Blefari-Melazzi, U Rome
+* Giovanna Carofiglio, ALU
+* Yanghee Choi, Seoul Nat. U
+* Dave Clark, MIT
+* Costas Courcoubetis, AUEB
+* Andrea Detti, U Rome
+* Stephen Farrell, Trinity College Dublin
+* Volker Hilt, ALU
+* Jussi Kangasharju, Helsinki University
+* Holger Karl, Universitaet Paderborn
+* Gunnar Karlsson, KTH
+* Teemu Koponen, Nicira
+* Anders Lindgren, SICS
+* Daniel Massey, Colorado SU
+* Christos Papadopoulos, Colorado SU
+* George Pavlou, UCL
+* Dave Oran, Cisco
+* Joerg Ott, Aalto University
+* Max Ott, NICTA
+* Jarno Rajahalme, NSN
+* Thomas Schmidt, HAW Hamburg
+* Scott Shenker, ICSI
+* Karen Sollins, MIT
+* Sasu Tarkoma, University of Helsinki
+* Dirk Trossen, Cambridge Univ.
+* Ryuji Wakikawa, Toyota ITC
+* Lan Wang, U Memphis
+* George Xylomenos, AUEB
+* Tomohiko Yagyu, NEC
+* Edmund Yeh, Yale University
+* Beichuan Zhang, U Arizona
+
+                                 Contact
+                                 -------
+<icn2012-organizers@listserv.netlab.nec.de>

@@ -1,0 +1,225 @@
+/* Liang Wang */
+
+@font-face {
+    font-family: "CaviarDreams";
+    src: url("http://lxwang.users.cs.helsinki.fi/2012/css/CaviarDreams.ttf");
+}
+
+@font-face {
+    font-family: "FUTURAXK";
+    src: url("http://lxwang.users.cs.helsinki.fi/2012/css/FUTURAXK.ttf");
+}
+
+#cmttbl {
+	text-align:left;
+	border-spacing:0;
+}
+
+#cmttbl .trt1a td, #cmttbl .trt1a th {
+	vertical-align: text-top;
+	padding: 0 0.5em 0.2em 0;
+}
+
+#cmttbl .trt1b td, #cmttbl .trt1b th {
+	vertical-align: text-top;
+	padding: 0 0.5em 1.5em 0;
+}
+
+li {
+	margin-bottom: 1em;
+}
+
+.pctbl {
+	text-align:left;
+	border-spacing:0;
+}
+
+.pctbl td, .pctbl th {
+	vertical-align: text-top;
+	padding: 0 0.5em 0.2em 0;
+}
+
+.wstbl {
+	width: 100%;
+}
+
+.wstbl td {
+	padding: 0 1.5em 0em 1em;
+}
+
+.wslnk {
+	font-size: 1.2em;
+	display: block;
+}
+
+.supporter {
+	width: 100%;
+	margin: auto;
+}
+
+.supporter div {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.supporter img {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.supporter h2 {
+	text-align: center;
+}
+
+.newstbl p {
+	margin:0;
+	font-size:1em;
+}
+
+.datetbl p {
+	margin:0;
+	font-size:1em;
+}
+
+.hcls {
+	padding: 0.2em 0.4em;
+	background: #A1BA00;
+	color: white;
+	font-weight: 500;
+	border: #A1BA00 solid 2px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.lnkcls:link {
+	text-decoration: none;
+	margin: 0.1em;
+	padding: 0.2em 0.3em;
+	background-color: white;
+	font-size: 0.9em;
+	color: #2489CE;
+	border: #2489CE solid 1px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.lnkcls:hover {
+	text-decoration: none;
+	margin: 0.1em;
+	padding: 0.2em 0.3em;
+	background-color: #2489CE;
+	font-size: 0.9em;
+	color: white;
+	border: #2489CE solid 1px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.datetag {
+	background-color:#4A4A4A; 
+	color: white; 
+	padding:0.1em 0.5em;
+	margin-right: 0.5em; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px;
+}
+
+#toolbar {
+	position: fixed;
+	list-style: none;
+	margin: 12px 9px 0 0;
+	padding: 0;
+	top: 0px;
+	right: 35px;
+}
+
+#toolbar li {
+	float: right;
+	margin: 0px 2px;
+	padding: 0;
+	width: 25px;
+	height: 25px;
+}
+
+#twbtn {
+	display: block;
+	background-image: url(../images/social-icon.png);
+	background-position: 0 0px;
+	width: 25px;
+	height: 25px;
+}
+
+#twbtn:hover {
+	background-position: 0 -25px;
+}
+
+#fbbtn {
+	display: block;
+	background-image: url(../images/social-icon.png);
+	background-position: -25px 0px;
+	width: 25px;
+	height: 25px;
+}
+
+#fbbtn:hover {
+	background-position: -25px -25px;
+}
+
+#gpbtn {
+	display: block;
+	background-image: url(../images/social-icon.png);
+	background-position: -50px 0px;
+	width: 25px;
+	height: 25px;
+}
+
+#gpbtn:hover {
+	background-position: -50px -25px;
+}
+
+#csebtn {
+	position: fixed;
+	list-style: none;
+	top: 3px;
+	right: 3px;
+}
+
+#cse {
+	width: 50%;
+	border: black solid 1px;
+	position: absolute;
+	top: 3px;
+	right: 25%;
+	z-index: 999;
+}
+
+#jqm-home .ui-listview-inset .ui-li {
+	background-image: none;
+}
+
+#jqm-home .ui-listview-inset .ui-li a {
+	color: #000000;
+}
+
+#jqm-home .ui-listview-inset .ui-btn {
+	/** background-color: #6EC8E8; **/
+}
+
+#jqm-home .ui-listview-inset .ui-btn-hover-d {
+	/** background-color: #FFCC00; **/
+}
+
+#jqm-home .ui-listview-inset .page-now {
+    background-color: #FFCC00;
+}
+
+#jqm-home .cthm1a {
+	background-color: lightgray;
+}
+
+#jqm-home .cthm1b {
+	background-color: none;
+}

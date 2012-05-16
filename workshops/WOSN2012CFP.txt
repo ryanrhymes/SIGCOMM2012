@@ -1,0 +1,70 @@
+		ACM SIGCOMM Workshop on Online Social Networks (WOSN'12)
+			(Friday Aug 17, 2012)
+
+			Helsinki, Finland		
+
+With nearly half the world's population with access to the Internet
+being present on an Online Social Network, the field has infiltrated
+most walks of life. A significant fraction of mind-share in the form
+of applications, diverse access interfaces, and a large economic
+ecosystem has developed around this field. Going past the simple
+characterization and enumeration of properties, the networking
+research community has shown significant interest in attacking various
+problems associated with OSNs. WOSN'12 will bring together networking
+researchers and practitioners to discuss the challenges and important
+questions posed by emerging social applications. Of particular
+interest are problems related to system architecture design, explosion
+of new media traffic, and mobile access. WOSN'12 will facilitate
+cross-disciplinary discussion of relevance to computer networking
+involving new ideas and applications and experimental results. The 
+workshop solicits original papers on ongoing work as well as 
+position papers. All papers are limited to 6 pages (10 pt).
+
+Topics of interest include, but are not limited to the following:
+
+	Implications of social networking on network design 
+	Network architecture design to support large scale social applications 
+	Search strategies in social networks 
+	Reputation and trust systems
+	Anonymity and privacy  
+	Economic incentives for privacy 
+	Architecture and design of external OSN applications 
+	Decentralized (ad hoc) network applications and services 
+	Measurement and analysis of online communities 
+
+
+Program Committee
+	Alessandro Acquisti CMU
+	Virgilio Almeida    UFMG, Brazil
+	Landon Cox          Duke University
+	Yafei Dai           Peking University, China
+	Josh Elman          Greylock Partners
+	Lixin Gao	    Univ of Massachusetts, Amherst
+	Krishna Gummadi     Max-Planck Institute for Software Systems
+	Pankaj Gupta	    Twitter Inc.
+	Emre Kiciman        Microsoft Research
+	Yongdae Kim         University Minnesota
+	Cecilia Mascolo     University of Cambridge 
+	Alan Mislove        Northeastern University
+	Sue Moon            KAIST, Korea
+	Jennifer Neville    Purdue University
+	Eamonn O'Neill      University of Bath, U.K.
+	Reza Rejaie         Univ of Oregon
+	Keith Ross          NYU-Polytechnic University
+	Alessandra Sala     Bell Labs, Ireland
+	James Salter        Government Communications HQ, UK
+	Stefan Saroiu       Microsoft Research (PC Co-Chair)
+	Walter Willinger    AT&T Labs--Research
+	Ben Zhao            UC Santa Barbara (PC Co-Chair)
+
+Workshop Organizer
+	 Balachander Krishnamurthy (AT&T Labs--Research)
+
+Important dates:
+        Paper submission due:                   Wed March 14 23:59 GMT
+        Acceptance notification:                Fri April 20
+        Camera-ready copy due:                  Mon June 4
+	Workshop 				Friday Aug 17
+
+URL for submission will be available as a link for workshops from 
+	http://conferences.sigcomm.org/sigcomm/2012/wosn12.php

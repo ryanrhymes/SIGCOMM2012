@@ -1,0 +1,64 @@
+ACM SIGCOMM Workshop on Mobile Gaming
+
+Mon 13 Aug 2012
+
+Helsinki, Finland 
+
+While they are a relatively new phenomenon, games on smartphones have become wildly popular with 
+users. Games consistently dominate the top purchases on mobile app marketplaces. With the intense 
+competition that has ensued in this industry, games are now rapidly incorporating sophisticated 
+technologies that have been adapted to the mobile computing environment, many of which are of 
+growing importance to researchers. There are many research challenges across graphics, energy 
+consumption, network latency, HCI, security, and sensor networking. While this field is interdisciplinary 
+by nature, many proposed ideas have direct impact on how networking protocols and infrastructures 
+are designed and managed.
+
+In this first Mobile Gaming workshop at SIGCOMM, we will bring together practitioners as well as 
+interested researchers to discuss the latest developments in this growing field. We will identify what we 
+have already achieved, the challenges that lie ahead, and promising avenues forward. Topics of interest 
+include, but are not limited to: 
+
+• cheating in networked mobile games
+• reducing the energy consumption of mobile games
+• increasing the quality of graphics on phones
+• tolerating limited bandwidth and high latency on wireless links in games
+• impact of device limitations on mobile game players
+• mobile games that interact with other devices in the vicinity such as TVs, sensors, and other phones
+• protocols and architectural designs or concerns for next generation mobile games
+• optimizing game servers and transport for mobile users
+• cross-device gaming (e.g. phones, slates, PCs, consoles)
+• novel game types and/or interaction modalities
+• matchmaking for mobile multiplayer games
+• detailed traffic measurements or usability studies of mobile games
+• massively multiplayer mobile gaming
+
+All submissions must be original work not under review at any other workshop, conference, or journal. 
+The workshop will accept papers describing completed work as well as work-in-progress, so long as the 
+promise of the approach is demonstrated. Radical ideas or position papers, potentially of a controversial 
+nature, are strongly encouraged. Submissions must be no greater than 6 pages in length and author 
+names and affiliations should be included in the submission. Submissions must follow the formatting 
+guidelines at http://conferences.sigcomm.org/sigcomm/2012/
+
+Workshop Chairs
+Sharad Agarwal (Microsoft Research)
+Rajesh Krishna Balan (Singapore Management University)
+
+Program Committee
+Sharad Agarwal (Microsoft Research)
+Aditya Akella (U. Wisconsin-Madison)
+Rajesh Balan (Singapore Management University)
+Suman Banerjee (U. Wisconsin-Madison)
+David Chu (Microsoft Research)
+Janne Lindqvist (Rutgers University)
+April Slayden Mitchell (Hewlett-Packard Labs)
+Jeffrey Pang (AT&T Labs)
+Junehwa Song (KAIST)
+Lin Zhong (Rice University)
+
+Important dates:
+Submission deadline: 15 March 2012
+Author notification: 15 May 2012
+Camera ready: 1 June 2012
+Workshop: 13 August 2012
+
+URL for submission: https://apollo.smu.edu.sg/mobigames12/
