@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="Information-Centric Networking(ICN)";
         include("include/header.php");
 ?>
 

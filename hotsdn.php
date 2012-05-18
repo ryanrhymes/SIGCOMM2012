@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="Hot Topics in Software Defined Networking (HotSDN)";
         include("include/header.php");
 ?>
 

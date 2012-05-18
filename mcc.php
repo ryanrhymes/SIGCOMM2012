@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="MCC: Mobile Cloud Computing";
         include("include/header.php");
 ?>
 

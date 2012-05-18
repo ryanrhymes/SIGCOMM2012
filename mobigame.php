@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="ACM SIGCOMM Workshop on Mobile Gaming";
         include("include/header.php");
 ?>
 

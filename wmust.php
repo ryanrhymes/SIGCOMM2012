@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="W-MUST: Workshop on Measurements Up and Down the STack";
         include("include/header.php");
 ?>
 

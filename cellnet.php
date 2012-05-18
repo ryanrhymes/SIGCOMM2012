@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="Cellular Networks: Operations, Challenges, and Future Design (CellNet)";
         include("include/header.php");
 ?>
 

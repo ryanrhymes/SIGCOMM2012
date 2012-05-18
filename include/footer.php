@@ -32,7 +32,7 @@ function show_searchbar() {
 }
 </script>
   
-<div id="cse" style="display:none;">Loading</div>
+<div id="cse" style="display:none; background-color:white; padding:1px 5px; -moz-border-radius: 10px; border-radius: 10px; ">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
   google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});

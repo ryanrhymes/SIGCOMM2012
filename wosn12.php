@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="Workshop on Online Social Networks (WOSN'12)";
         include("include/header.php");
 ?>
 

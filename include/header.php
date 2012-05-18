@@ -22,7 +22,7 @@
 
 <!DOCTYPE HTML>
 
-<html>
+<html manifest="sigcomm.appcache">
 
 <head>
 	<meta charset="iso-8859-1">

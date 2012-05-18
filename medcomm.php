@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="MedCOMM: Workshop on Medical Communication Systems";
         include("include/header.php");
 ?>
 
