@@ -1,5 +1,5 @@
 <?php
-        $page_title="Accommodation";
+        $page_title="Local information";
         include("include/header.php");
 ?>
 

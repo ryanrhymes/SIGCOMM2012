@@ -42,7 +42,7 @@
 
 <h2 class="hcls">Call for Papers</h2>
 
-<p> <a href="workshops/SIGCOMM-ICN-2012-CFP.pdf" rel="external">PDF version</a> <a href="workshops/SIGCOMM-ICN-2012-CFP.txt" rel="external">Text version</a> </p>
+<p> <a class="lnkcls" href="workshops/SIGCOMM-ICN-2012-CFP.pdf" rel="external">PDF version</a> <a class="lnkcls" href="workshops/SIGCOMM-ICN-2012-CFP.txt" rel="external">Text version</a> </p>
 
 
 <p>
@@ -110,7 +110,7 @@ well as on results from implementations and experimentation.
 	<tr class="cthm1b"><td><b>Workshop date</b></td><td> <b>August 17 2012</b> </td></tr>
 </table>
 
-<p>Please email the <a href="mailto:icn2012-organizers@listserv.netlab.nec.de">workshop organizers</a> with any questions you may have.</p>
+<p>Please email the <a class="lnkcls" href="mailto:icn2012-organizers@listserv.netlab.nec.de">workshop organizers</a> with any questions you may have.</p>
 
 <h2 class="hcls">Committees</h2>
 
@@ -125,7 +125,7 @@ well as on results from implementations and experimentation.
 
 
 	<h3>Steering Committee</h3>
-	<p><a href="mailto:icn2012-organizers@listserv.netlab.nec.de">icn2012-organizers@listserv.netlab.nec.de</a></p>
+	<p><a class="lnkcls" href="mailto:icn2012-organizers@listserv.netlab.nec.de">icn2012-organizers@listserv.netlab.nec.de</a></p>
 
 <ul>
   <li>Dirk Kutscher, NEC Laboratories Europe &mdash;  Germany</li>

@@ -157,8 +157,14 @@ The applicant's letter should be clearly divided in the following sections:
 <li>
 an explicit identification of (a) the applicant's current country of study or work, (b) academic status (student, postdoc, or junior faculty member), and (c) whether the applicant qualifies for a GeoDiversity travel grant (see above);
 </li>
-<li>
-whether the applicant plans to attend any of the workshops;
+<li style="color:red">
+<b>whether the applicant is a workshop paper or poster author;</b>
+</li>
+<li style="color:red">
+<b>whether the applicant is active in IETF. Describe activity (e.g.
+author of a working group document, participant in mailing list
+(posting), subscriber to mailing list, presentation to members of
+working group, etc.);</b>
 </li>
 <li>
 brief summary of where the applicant is studying/working (provide a URL for a home page if one exists) and the applicant's advisor/supervisor is; the applicant feels is relevant to support their case;

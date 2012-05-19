@@ -5,7 +5,7 @@ $mypage = current_pagename();
 	<div id="left-column" class="content-secondary">
 		<a href="." rel="external"><img src="images/helsinki-logo.png" style="display:block; margin:auto; width:50%; padding-bottom:1em;" alt="SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
-			<li <?php if ($page_title=="Home") echo 'class="page-now"' ?> ><a href="index.php" rel="external">Home</a></li>
+			<li <?php if ($page_title=="Home") echo 'class="page-now"' ?> ><a href="." rel="external">Home</a></li>
 			<li <?php if ($mypage=="supporters.php") echo 'class="page-now"' ?> ><a href="supporters.php" rel="external">Supporters</a></li>
 			<li <?php if ($mypage=="cfd.php") echo 'class="page-now"' ?> ><a href="cfd.php" rel="external">Call for Posters and Demos</a></li>
 			<li <?php if ($page_title=="Workshops") echo 'class="page-now"' ?> ><a href="workshops.php" rel="external">Workshops</a></li>
@@ -25,7 +25,17 @@ $mypage = current_pagename();
 			<li class="subnavlink" style="display:none;" data-theme="c"><a href="proposals.php" rel="external">Call for Workshop Proposals</a></li>
 			<li class="subnavlink" style="display:none;" data-theme="c"><a href="cft.php" rel="external">Call for Tutorials</a></li>
 			<li class="subnavlink" style="display:none;" data-theme="c"><a href="submission.php" rel="external">Paper Submission</a></li>
-			<li></li>
+			
+			<li>
+			<table style="border:0; padding:0; margin:0;">
+			<tr>
+			<td><div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true" style="float:left;"></div></td>
+			<td><a href="https://twitter.com/share" class="twitter-share-button" data-via="sigcomm12" data-hashtags="SIGCOMM">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+			<td><div class="g-plusone" data-size="medium"></div></td>
+			</tr>
+			</table>
+			</li>
 		</ul>
 <br/>
 
