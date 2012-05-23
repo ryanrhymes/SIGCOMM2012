@@ -44,7 +44,7 @@
 
     <!-- <link rel="stylesheet" href="<?php echo "$htmlroot/"; ?>css/style.css" type="text/css" /> -->
     <link rel="shortcut icon" href="<?php echo "$htmlroot/"; ?>images/sigcomm-icon.png" />
-	<link rel="stylesheet" href="css/jquery.mobile-1.0b1.min.css" />
+	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/style.css" />
 	<!--[if IE]>
 		<link rel="stylesheet" href="css/jqm-docs.ie.css" />

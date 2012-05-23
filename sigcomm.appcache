@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2012.05.20 17:50
+# 2012.05.23 11:08
 
 CACHE:
 cfd.php
@@ -33,10 +33,16 @@ js/jqm-docs.js
 js/jquery.min.js
 js/jquery.mobile.min.js
 js/supporters2.js
-css/jquery.mobile-1.0b1.min.css
+css/jquery.mobile.min.css
 css/jqm-docs.ie.css
 css/jqm-docs.css
 css/style.css
+css/images//ajax-loader.gif
+css/images//icon-search-black.png
+css/images//icons-18-black.png
+css/images//icons-18-white.png
+css/images//icons-36-black.png
+css/images//icons-36-white.png
 images/aalto.jpg
 images/aalto.png
 images/acm.jpg
