@@ -45,16 +45,11 @@
     <!-- <link rel="stylesheet" href="<?php echo "$htmlroot/"; ?>css/style.css" type="text/css" /> -->
     <link rel="shortcut icon" href="<?php echo "$htmlroot/"; ?>images/sigcomm-icon.png" />
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
+	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
-	<!--[if IE]>
-		<link rel="stylesheet" href="css/jqm-docs.ie.css" />
-	<![endif]-->
-	<!--[if !IE]><!-->
-		<link rel="stylesheet" href="css/jqm-docs.css" />
-	<!-- <![endif]-->
-	<script type="text/javascript" src="js/jqm-docs.js"></script>
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.mobile.min.js"></script>
+	<script type="text/javascript" src="js/jqm-docs.js"></script>
 	<script type="text/javascript" src="js/supporters2.js"></script>
 	<script>
 		$('#jqm-home').live( 'pageinit',function(event){

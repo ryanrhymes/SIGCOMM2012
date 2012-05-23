@@ -158,7 +158,6 @@ function get_proper_logosize(idx)
 function ticker_tape()
 {
     $("#logobar").css("height", logoh+"px");
-    $("#logowht").css("height", logoh+"px");
     $("#logobar").append("<table width='100%' height='100%' cellspacing='0' cellpadding='0' border='0' valign='middle'><tr id='logobarrow'></tr></table>")
     for (var i=0; i<lcnt; i++)
     {

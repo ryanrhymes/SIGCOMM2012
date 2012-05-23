@@ -196,6 +196,22 @@ li {
 	z-index: 999;
 }
 
+#logobar {
+    position: absolute;
+    position: fixed;
+}
+
+h2 { margin-top:1.5em; }
+
+.hidden { display: none; }
+
+/* jqm overrides go here */
+
+.ui-mobile .type-home .ui-content {
+	background-color: white;
+    background-image: none;
+}
+
 #jqm-home .ui-listview-inset .ui-li {
 	background-image: none;
 }
@@ -223,3 +239,4 @@ li {
 #jqm-home .cthm1b {
 	background-color: none;
 }
+
