@@ -1,18 +1,29 @@
 <h2 class="hcls">PC Chairs</h2>
 
-<table class="pctbl">
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-<tr>
-    <td><a href="mailto:sigcomm12-pc-chairs@acm.org">Venkat Padmanabhan</a></td>
-    <td>Microsoft Research India</td>
-</tr>
+	<li style="font-size:1em; padding:0.7em 15px;">
+	   <div class="ui-grid-a">
+		<div class="ui-block-a">
+			<a href="mailto:sigcomm12-pc-chairs@acm.org">Venkat Padmanabhan</a>
+		</div>
+		<div class="ui-block-b">
+			Microsoft Research India
+		</div>
+	  </div><!-- /grid-a -->
+	</li>
 
-<tr>
-    <td><a href="mailto:sigcomm12-pc-chairs@acm.org">George Varghese</a></td>
-    <td>UCSD and Yahoo! Research, USA</td>
-</tr>
-
-</table>
+	<li style="font-size:1em; padding:0.7em 15px;">
+	   <div class="ui-grid-a">
+		<div class="ui-block-a">
+			<a href="mailto:sigcomm12-pc-chairs@acm.org">George Varghese</a>
+		</div>
+		<div class="ui-block-b">
+			UCSD and Yahoo! Research, USA
+		</div>
+	  </div><!-- /grid-a -->
+	</li>
+</ul>
 
 
 <h2 class="hcls">PC Members</h2>
