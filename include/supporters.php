@@ -7,7 +7,7 @@ SIGCOMM thanks the following supporters for their support:
 
 <div>
 <h2 class="hcls">Host</h2>
-<a href="http://www.aalto.fi/en/"><img src="images/aalto.jpg" alt="Aalto" style="width: 170px;" /></a>
+<a href="http://www.aalto.fi/en/"><img src="images/aalto.png" alt="Aalto" style="width: 170px;" /></a>
 <a href="http://www.nokia.com"><img src="images/nokia.png" alt="Nokia" style="width:250px;" /></a>
 </div>
 
