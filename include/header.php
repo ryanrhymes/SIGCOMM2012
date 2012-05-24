@@ -44,24 +44,19 @@
 
     <!-- <link rel="stylesheet" href="<?php echo "$htmlroot/"; ?>css/style.css" type="text/css" /> -->
     <link rel="shortcut icon" href="<?php echo "$htmlroot/"; ?>images/sigcomm-icon.png" />
-	<link rel="stylesheet" href="css/jquery.mobile-1.0b1.min.css" />
+	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
+	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
-	<!--[if IE]>
-		<link rel="stylesheet" href="css/jqm-docs.ie.css" />
-	<![endif]-->
-	<!--[if !IE]><!-->
-		<link rel="stylesheet" href="css/jqm-docs.css" />
-	<!-- <![endif]-->
-	<script type="text/javascript" src="js/jqm-docs.js"></script>
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.mobile.min.js"></script>
+	<script type="text/javascript" src="js/jqm-docs.js"></script>
 	<script type="text/javascript" src="js/supporters2.js"></script>
 	<script>
 		$('#jqm-home').live( 'pageinit',function(event){
 		    try
 		    {
 				init_sps();
-				ticker_tape();
+				resize();
 
 				$(".subnavlist").click(
 					function() {
@@ -109,11 +104,6 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div data-role="page" id="jqm-home" class="type-home">
-
-	<div data-role="header">
-		<!-- <a href="index.php" data-role="button" data-icon="home">Home</a> -->
-		<!-- <h1>SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland</h1> -->
-	</div><!-- /header -->
 
 	<div data-role="content">	
 

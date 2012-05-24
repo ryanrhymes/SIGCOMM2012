@@ -1,5 +1,9 @@
 /* Liang Wang */
 
+/* Logo blue: #6dc8e8; */
+
+
+/*
 @font-face {
     font-family: "CaviarDreams";
     src: url("http://lxwang.users.cs.helsinki.fi/2012/css/CaviarDreams.ttf");
@@ -9,6 +13,7 @@
     font-family: "FUTURAXK";
     src: url("http://lxwang.users.cs.helsinki.fi/2012/css/FUTURAXK.ttf");
 }
+*/
 
 #cmttbl {
 	text-align:left;
@@ -70,6 +75,12 @@ li {
 	vertical-align: middle;
 }
 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+ 	text-align: center;
+}
+
 .supporter h2 {
 	text-align: center;
 }
@@ -119,12 +130,15 @@ li {
 }
 
 .datetag {
+/*
 	background-color:#4A4A4A; 
 	color: white; 
 	padding:0.1em 0.5em;
-	margin-right: 0.5em; 
 	-moz-border-radius: 6px; 
 	border-radius: 6px;
+*/
+	margin-right: 1em; 
+	font-weight: bold;
 }
 
 #toolbar {
@@ -196,6 +210,34 @@ li {
 	z-index: 999;
 }
 
+#logobar {
+	position: fixed;	
+	background-color:#E0E0E0;
+	width:100%;
+	height:auto;
+	left:0;
+	bottom:0;
+	-moz-box-shadow:inset 0 0 7px #000000;
+	-webkit-box-shadow:inset 0 0 7px #000000;
+	box-shadow:inset 0 0 7px #000000;
+	z-index: 999;
+}
+
+h2 { margin-top:1.5em; }
+
+.hidden { display: none; }
+
+/* jqm overrides go here */
+
+.ui-body-c .ui-link {
+	font-weight: normal;
+}
+
+#jqm-home, .ui-mobile .type-home .ui-content {
+	background-color: white;
+    background-image: none;
+}
+
 #jqm-home .ui-listview-inset .ui-li {
 	background-image: none;
 }
@@ -223,3 +265,4 @@ li {
 #jqm-home .cthm1b {
 	background-color: none;
 }
+

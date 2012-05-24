@@ -13,7 +13,7 @@
 <div style="text-align:center;"> <a class="lnkcls" href="sigcomm2012-posters.pdf" rel="external">PDF version</a> </div>
 </td>
 <td>
-<a href="http://research.microsoft.com/"><img src="<?php echo "$htmlroot/"; ?>images/microsoftresearch.png" alt="Microsoft Research" style="width: 180px;" /></a>
+<a href="http://research.microsoft.com/"><img src="images/microsoftresearch.png" alt="Microsoft Research" style="width: 180px;" /></a>
 </td>
 </tr>
 </table>

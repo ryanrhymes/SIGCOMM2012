@@ -1,10 +1,6 @@
 <?php
 /* some common functions and definitions */
 
-/* this is ugly but makes debugging easier ... */
-$htmlroot = "http://conferences.sigcomm.org/sigcomm/2012";
-//$htmlroot = "http://lxwang.users.cs.helsinki.fi/2012";
-
 /* read a specified number of lines from a file */
 function read_lines($file,$num)
 {
