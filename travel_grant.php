@@ -13,9 +13,9 @@
 
    <div class="ui-grid-a">
 	<div class="ui-block-a">
-	<a href="http://www.isoc.org/"><img src="<?php echo "$htmlroot/"; ?>images/isoc.png" alt="Internet Society" style="width: 200px;" /></a>
+	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width: 200px;" /></a>
 	</div>
-	<a href="http://www.sigcomm.org/"><img src="<?php echo "$htmlroot/"; ?>images/sig.png" alt="ACM SIGCOMM" style="width: 60px;" /></a>
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width: 60px;" /></a>
 	<div class="ui-block-b">
 	</div>
    </div><!-- /grid-a -->

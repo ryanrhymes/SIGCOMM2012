@@ -60,7 +60,7 @@ function show_searchbar() {
 	$supporters["aalto"]	= array(50, "aalto.png", "http://www.aalto.fi/en/");
 	$supporters["nokia"] 	= array(50, "nokia.png", "http://www.nokia.com/");
 	$supporters["cisco"] 	= array(25, "cisco.png", "http://www.cisco.com/");
-	$supporters["cisco"] 	= array(25, "helsinki.png", "http://www.hel.fi/hki/Helsinki/en/Etusivu");
+	$supporters["helsinki"]	= array(25, "helsinki.png", "http://www.hel.fi/hki/Helsinki/en/Etusivu");
 	$supporters["ericsson"]	= array(25, "ericsson.png", "http://www.ericsson.com/");
 	$supporters["nec"] 		= array(25, "nec.png", "http://www.nec.com/");
 	$supporters["netapp"] 	= array(25, "netapp.png", "http://www.netapp.com/");
@@ -74,9 +74,9 @@ function show_searchbar() {
 	$supporters["facebook"] = array(10, "facebook.png", "http://www.facebook.com/");
 	$supporters["google"] 	= array(10, "google.png", "http://www.google.com/");
 	$supporters["conviva"] 	= array(10, "conviva.png", "http://www.conviva.com/");
-	//$supporters["akamai"] 	= array(5, "akamai.jpg", "http://www.akamai.com");
-	//$supporters["comcast"] 	= array(5, "comcast.png", "http://www.comcast.com");
-	$supporters["hp"] 		= array(10, "hp.png", "http://www.hp.com");
+	//$supporters["akamai"] 	= array(10, "akamai.jpg", "http://www.akamai.com/");
+	$supporters["comcast"] 	= array(10, "comcast.png", "http://www.comcast.com/");
+	$supporters["hp"] 		= array(10, "hp.png", "http://www.hp.com/");
 	$supporters["microsoftresearch"] = array(10,"microsoftresearch.png", "http://research.microsoft.com/");
 
 	$numItems = count($supporters);
