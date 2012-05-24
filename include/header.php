@@ -42,8 +42,8 @@
 ?>
     </title>
 
-    <!-- <link rel="stylesheet" href="<?php echo "$htmlroot/"; ?>css/style.css" type="text/css" /> -->
-    <link rel="shortcut icon" href="<?php echo "$htmlroot/"; ?>images/sigcomm-icon.png" />
+    <!-- <link rel="stylesheet" href="css/style.css" type="text/css" /> -->
+    <link rel="shortcut icon" href="images/sigcomm-icon.png" />
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
