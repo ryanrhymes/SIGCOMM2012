@@ -7,6 +7,7 @@ function resize() {
   lidx = 0;
   lcnt = parseInt(scrw / logow, 10);
   $("#logobar").html("");
+  $("#jqm-home").css("padding-bottom", logoh + 10 + "px");
   ticker_tape();
 }
 $(window).resize(resize);
@@ -64,8 +65,9 @@ function onfinish() {
     $("#mylink" + tid).attr("href", sps[idx][2]);
     var divh = 0.8 * logoh;
     var divw = 0.8 * logow;
-    var imgh = parseInt($("#" + sps[idx][3]).attr("data-height"), 10);
-    var imgw = parseInt($("#" + sps[idx][3]).attr("data-width"), 10);
+	var imgh = sps[idx][5];
+    var imgw = sps[idx][6];
+
     if (divh / divw < imgh / imgw) {
       $("#mylogo" + tid).attr("height", divh + "px");
       $("#mylogo" + tid).removeAttr("width");
@@ -90,10 +92,10 @@ function get_logo(tid) {
 
   var divh = 0.8 * logoh;
   var divw = 0.8 * logow;
-  var imgh = parseInt($("#" + sps[idx][3]).attr("data-height"), 10);
-  var imgw = parseInt($("#" + sps[idx][3]).attr("data-width"), 10);
+  var imgh = sps[idx][5];
+  var imgw = sps[idx][6];
 
-  var nlogo = "<td width='" + parseInt(100 / lcnt, 100) + "%'>" + "<a id='mylink" + tid + "' href='" + sps[idx][2] + "'>" + "<img id='mylogo" + tid + "' src='" + logoimg + "' alt='" + idx + "' style='display:block; margin:auto;' ";
+  var nlogo = "<td width='" + parseInt(100 / lcnt, 10) + "%'>" + "<a id='mylink" + tid + "' href='" + sps[idx][2] + "'>" + "<img id='mylogo" + tid + "' src='" + logoimg + "' alt='" + idx + "' style='display:block; margin:auto;' ";
   if (divh / divw < imgh / imgw) {
     nlogo = nlogo + " height='" + divh + "px'>";
   } else {
@@ -101,20 +103,6 @@ function get_logo(tid) {
   }
   nlogo = nlogo + "</a></td>";
   return nlogo;
-}
-
-function get_proper_logosize(idx) {
-  var szstr = "";
-  var divh = 0.8 * logoh;
-  var divw = 0.8 * logow;
-  var imgh = parseInt($("#" + sps[idx][3]).attr("data-height"), 10);
-  var imgw = parseInt($("#" + sps[idx][3]).attr("data-width"), 10);
-  if (divh / divw < imgh / imgw) {
-    szstr = " height='" + divh + "px'";
-  } else {
-    nlogo = " width='" + divw + "px'";
-  }
-  return szstr;
 }
 
 function ticker_tape() {

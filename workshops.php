@@ -3,7 +3,7 @@
         include("include/header.php");
 ?>
 
-<h2 class="hcls">ACM SIGCOMM 2012 Workshops</h2>
+<h2 class="hcls">ACM SIGCOMM 2012 Workshopss</h2>
 
 <p>
 SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and Friday of the SIGCOMM 2012 conference week. We invite everyone to consider submitting a paper and/or attending a workshop! The workshops, call for papers, dates, and workshop chairs are listed below. 

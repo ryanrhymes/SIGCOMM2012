@@ -107,6 +107,7 @@ li {
 
 .lnkcls:link {
 	text-decoration: none;
+	text-shadow: none;
 	margin: 0.1em;
 	padding: 0.2em 0.3em;
 	background-color: white;
@@ -119,24 +120,18 @@ li {
 
 .lnkcls:hover {
 	text-decoration: none;
+	text-shadow: none;
 	margin: 0.1em;
 	padding: 0.2em 0.3em;
-	background-color: #2489CE;
+	background-color: orange;
 	font-size: 0.9em;
-	color: white;
-	border: #2489CE solid 1px;
+	color: #2489CE;
+	border: orange solid 1px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
 
 .datetag {
-/*
-	background-color:#4A4A4A; 
-	color: white; 
-	padding:0.1em 0.5em;
-	-moz-border-radius: 6px; 
-	border-radius: 6px;
-*/
 	margin-right: 1em; 
 	font-weight: bold;
 }

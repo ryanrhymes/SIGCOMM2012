@@ -29,7 +29,7 @@ $mypage = current_pagename();
 			<li>
 			<table style="border:0; padding:0; margin:0;">
 			<tr>
-			<td><div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true" style="float:left;"></div></td>
+			<td><div class="fb-like" data-href="http://conferences.sigcomm.org/sigcomm/2012/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true" style="float:left;"></div></td>
 			<td><a href="https://twitter.com/share" class="twitter-share-button" data-via="sigcomm12" data-hashtags="SIGCOMM">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
 			<td><div class="g-plusone" data-size="medium"></div></td>

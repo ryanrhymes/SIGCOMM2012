@@ -87,7 +87,7 @@ function show_searchbar() {
 		list($width, $height, $type, $attr)= getimagesize("images/$logo");
 		echo "<input type='hidden' id='$supporter' data-width='$width' data-height='$height'>";
 		echo "<img src='images/$logo' alt='cached' style='display:none;'>";
-		$jsstr = "$jsstr\t[$money, \"$logo\", \"$url\", \"$supporter\", 0]";
+		$jsstr = "$jsstr\t[$money, \"$logo\", \"$url\", \"$supporter\", 0, $height, $width]";
 		if($i < $numItems-1) {
 		      $jsstr = "$jsstr,";
   		}
