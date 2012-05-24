@@ -1,14 +1,15 @@
-html_root = "http://lxwang.users.cs.helsinki.fi/2012/";
-logodelay = 30;
-logostep = 1;
-scrh = $(window).height();
-scrw = $(window).width();
-logoh = scrh / 12 + 30;
-logow = Math.max(200, scrw / 6);
-gidx = 0;
-lidx = 0;
-lcnt = parseInt(scrw / logow, 10);
-showing = Array();
+function resize() {
+  scrh = $(window).height();
+  scrw = $(window).width();
+  logoh = scrh / 12 + 30;
+  logow = Math.max(200, scrw / 6);
+  gidx = 0;
+  lidx = 0;
+  lcnt = parseInt(scrw / logow, 10);
+  $("#logobar").html("");
+  ticker_tape();
+}
+$(window).resize(resize);
 
 function shuffle(o) {
   for (var j, x, i = o.length; i; j = parseInt(Math.random() * i, 10), x = o[--i], o[i] = o[j], o[j] = x);
@@ -47,18 +48,6 @@ function choose_logo_idx() {
   gidx = gidx + 1;
   return idx;
 }
-
-$(window).resize(function () {
-  scrh = $(window).height();
-  scrw = $(window).width();
-  logoh = scrh / 12 + 30;
-  logow = Math.max(200, scrw / 6);
-  gidx = 0;
-  lidx = 0;
-  lcnt = parseInt(scrw / logow, 10);
-  $("#logobar").html("");
-  ticker_tape();
-});
 
 function onfinish() {
   // If there are more pigeon-holes than pigeons.
@@ -130,6 +119,7 @@ function get_proper_logosize(idx) {
 
 function ticker_tape() {
   $("#logobar").css("height", logoh + "px");
+  $("#content").css("margin-bottom", 1.5*logoh + "px");
   $("#logobar").append("<table width='100%' height='100%' cellspacing='0' cellpadding='0' border='0' valign='middle'><tr id='logobarrow'></tr></table>");
   for (var i = 0; i < lcnt; i++) {
     nlogo = get_logo(i);

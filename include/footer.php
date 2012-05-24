@@ -1,8 +1,4 @@
-<br />
-<br />
-
 	</div><!-- /ui-block-b -->
-	
 	</div><!-- /content -->
 
 
@@ -54,19 +50,10 @@ function show_searchbar() {
 <!-- Search Functionality -->
 
 
-	<div id="logowht" style="height:5em;"></div>
 <?php if ($page_title!="Supporters"): ?>
-<div id="logobar" style="
-     background-color:#E0E0E0; width:100%; height:auto; left:0; bottom:0;
-     -moz-box-shadow:inset 0 0 7px #000000;
-     -webkit-box-shadow:inset 0 0 7px #000000;
-     box-shadow:inset 0 0 7px #000000;
-">
-</div>
+<div id="logobar" />
 <?php endif; ?>
 
-
-<div style="diplay:none;">
 <?php
 	$jsstr = "sps = [\n";
 	$supporters = array();
@@ -111,7 +98,6 @@ function show_searchbar() {
 	$jsstr = "<script type=\"text/javascript\">\n$jsstr ];</script>";
 	echo $jsstr;
 ?>
-</div>
 
 </div><!-- /page -->
 

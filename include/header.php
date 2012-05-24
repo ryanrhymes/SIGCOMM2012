@@ -56,7 +56,7 @@
 		    try
 		    {
 				init_sps();
-				ticker_tape();
+				resize();
 
 				$(".subnavlist").click(
 					function() {
@@ -104,11 +104,6 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div data-role="page" id="jqm-home" class="type-home">
-
-	<div data-role="header">
-		<!-- <a href="index.php" data-role="button" data-icon="home">Home</a> -->
-		<!-- <h1>SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland</h1> -->
-	</div><!-- /header -->
 
 	<div data-role="content">	
 
