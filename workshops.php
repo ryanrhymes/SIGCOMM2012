@@ -21,7 +21,7 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 13, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">April 11, 2012, 23:59 GMT</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
@@ -43,11 +43,54 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 13, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">April 10, 2012, 23:59 GMT</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
    <a href="hotsdn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   </div>
+</div>
+
+<br/>
+
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+   <h3>MedCOMM: Workshop on Medical Communication Systems</h3>
+   <div class="ui-grid-a">
+	<div class="ui-block-a">
+	  <p><b>Organizers</b></p>
+	  <p>
+	    <a href="http://www.cs.umass.edu/~kevinfu/">Kevin Fu</a> (University of Massachusetts Amherst)
+	  </p>
+	</div>
+	<div class="ui-block-b">
+	  <p><b>Workshop date:</b> August 13, 2012</p>
+	  <p></p>
+	</div>
+   </div><!-- /grid-b -->
+   <div style="text-align:right; padding-right:1em;">
+   <a href="medcomm.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   </div>
+</div>
+
+<br/>
+
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+   <h3>SIGCOMM Workshop on Mobile Gaming</h3>
+   <div class="ui-grid-a">
+	<div class="ui-block-a">
+	  <p><b>Organizers</b></p>
+	  <p>
+	    <a href="http://research.microsoft.com/en-us/people/sagarwal/" rel="external">Sharad Agarwal</a> (Microsoft Research) <br/>
+		<a href="http://apollo.smu.edu.sg" rel="external">Rajesh Krishna Balan</a> (Singapore Management University)
+	  </p>
+	</div>
+	<div class="ui-block-b">
+	  <p><b>Workshop date:</b> August 13, 2012</p>
+	  <p></p>
+	</div>
+   </div><!-- /grid-b -->
+   <div style="text-align:right; padding-right:1em;">
+   <a href="mobigame.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
    </div>
 </div>
 
@@ -66,32 +109,11 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 17, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">April 1, 2012</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
    <a href="icn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
-   </div>
-</div>
-
-<br/>
-
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
-   <h3>MedCOMM: Workshop on Medical Communication Systems</h3>
-   <div class="ui-grid-a">
-	<div class="ui-block-a">
-	  <p><b>Organizers</b></p>
-	  <p>
-	    <a href="http://www.cs.umass.edu/~kevinfu/">Kevin Fu</a> (University of Massachusetts Amherst)
-	  </p>
-	</div>
-	<div class="ui-block-b">
-	  <p><b>Workshop date:</b> August 13, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">March 23, 2012</span></p>
-	</div>
-   </div><!-- /grid-b -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="medcomm.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
    </div>
 </div>
 
@@ -109,33 +131,11 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 17, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">April 11, 2012</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
    <a href="mcc.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
-   </div>
-</div>
-
-<br/>
-
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
-   <h3>SIGCOMM Workshop on Mobile Gaming</h3>
-   <div class="ui-grid-a">
-	<div class="ui-block-a">
-	  <p><b>Organizers</b></p>
-	  <p>
-	    <a href="http://research.microsoft.com/en-us/people/sagarwal/" rel="external">Sharad Agarwal</a> (Microsoft Research) <br/>
-		<a href="http://apollo.smu.edu.sg" rel="external">Rajesh Krishna Balan</a> (Singapore Management University)
-	  </p>
-	</div>
-	<div class="ui-block-b">
-	  <p><b>Workshop date:</b> August 13, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">March 22, 2012</span></p>
-	</div>
-   </div><!-- /grid-b -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="mobigame.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
    </div>
 </div>
 
@@ -153,7 +153,7 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 17, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">April 10, 2012</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
@@ -174,7 +174,7 @@ SIGCOMM 2012 will have an exciting series of eight workshops on the Monday and F
 	</div>
 	<div class="ui-block-b">
 	  <p><b>Workshop date:</b> August 17, 2012</p>
-	  <p><b>Submission deadline:</b> <span style="text-decoration: line-through;">March 14, 2012, 23:59 GMT</span></p>
+	  <p></p>
 	</div>
    </div><!-- /grid-b -->
    <div style="text-align:right; padding-right:1em;">
