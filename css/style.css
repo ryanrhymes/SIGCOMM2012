@@ -1,5 +1,8 @@
 /* Liang Wang */
 
+/* Logo blue: #6dc8e8; */
+
+
 /*
 @font-face {
     font-family: "CaviarDreams";
@@ -72,6 +75,12 @@ li {
 	vertical-align: middle;
 }
 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+ 	text-align: center;
+}
+
 .supporter h2 {
 	text-align: center;
 }
@@ -121,12 +130,15 @@ li {
 }
 
 .datetag {
+/*
 	background-color:#4A4A4A; 
 	color: white; 
 	padding:0.1em 0.5em;
-	margin-right: 0.5em; 
 	-moz-border-radius: 6px; 
 	border-radius: 6px;
+*/
+	margin-right: 1em; 
+	font-weight: bold;
 }
 
 #toolbar {
@@ -216,6 +228,10 @@ h2 { margin-top:1.5em; }
 .hidden { display: none; }
 
 /* jqm overrides go here */
+
+.ui-body-c .ui-link {
+	font-weight: normal;
+}
 
 #jqm-home, .ui-mobile .type-home .ui-content {
 	background-color: white;
