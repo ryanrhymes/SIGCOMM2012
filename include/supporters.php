@@ -1,7 +1,7 @@
 
-<p>
-SIGCOMM thanks the following supporters for their support:
-</p>
+<h2>
+SIGCOMM thanks the following supporters for their generous support!
+</h2>
 
 <div class="supporter">
 
@@ -11,11 +11,11 @@ SIGCOMM thanks the following supporters for their support:
 <a href="http://www.nokia.com"><img src="images/nokia.png" alt="Nokia" style="width:250px;" /></a>
 </div>
 
+<!--
 <div>
 <h2 class="hcls">Gold</h2>
-<!-- <a href="http://www.nokiasiemensnetworks.com/"><img src="images/nsn.png" alt="Nokia Siemens Networks" style="width: 250px;" /></a> -->
 </div>
-
+-->
 
 <div>
 <h2 class="hcls">Silver</h2>
