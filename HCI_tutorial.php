@@ -91,7 +91,7 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 <li><b><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden:</a></b> Tom Rodden is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences. </li>
 </ul>
 
-Please email <a href="mailto:marshini@cc.gatech.edu,tar@cs.nott.ac.uk" rel="external">us</a> with any questions you may have.</p>
+Please email <a href="mailto:marshini@cc.gatech.edu,tar@cs.nott.ac.uk" >us</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

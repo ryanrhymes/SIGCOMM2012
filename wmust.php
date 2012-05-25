@@ -24,7 +24,7 @@
 <!--
 <h2 class="hcls">Technical Program</h2>
 
-<p>You can download all W-MUST papers as a single <a href="" rel="external">zip</a> file.</p>
+<p>You can download all W-MUST papers as a single <a href="" >zip</a> file.</p>
 
 <table class="wstbl">
         <tr class="cthm1a"><td>09:00 - 09:05</td><td> <b>Welcome</b> </td></tr>
@@ -59,8 +59,8 @@
 <h2 class="hcls">Call for Papers</h2>
 
 <p>
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" rel="external">PDF version</a> 
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" rel="external">Text version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" >PDF version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" >Text version</a> 
 </p>
 
 <h2 class="hcls">Topics</h2>
@@ -92,10 +92,10 @@
 <p>
   Submissions must be as PDF files no longer than 6 pages in length. They must include the authors' names and
   affiliations for single-blind peer reviewing by the program committee. Submissions must follow the <a
-  href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">SIGCOMM formatting guidelines</a>.
+  href="http://conferences.sigcomm.org/sigcomm/2012/" >SIGCOMM formatting guidelines</a>.
   Authors of accepted papers are expected to present their papers at the workshop. Submissions must be
   original work not under review at any other workshop, conference, or journal. Papers should be submitted via the
-  <a href="http://conferences.noise.gatech.edu/WMUST2012/" rel="external">submission site</a>.
+  <a href="http://conferences.noise.gatech.edu/WMUST2012/" >submission site</a>.
 </p>
 
 

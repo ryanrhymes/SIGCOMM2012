@@ -128,7 +128,7 @@ conference like Sigcomm, Mobicom, NSDI, Infocom as primary author or co-author. 
 
 <h2 class="hcls">VISA information</h2>
 
-<p>You can download all VISA papers as a single <a href="" rel="external">zip</a> file.</p>
+<p>You can download all VISA papers as a single <a href="" >zip</a> file.</p>
  
 
 Please email the <a href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>

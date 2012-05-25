@@ -94,6 +94,10 @@ li {
  	text-align: center;
 }
 
+.linethrough {
+	text-decoration: line-through;
+}
+
 .supporter h2 {
 	text-align: center;
 }
@@ -252,6 +256,25 @@ h2 { margin-top:1.5em; }
 	padding-left: 2em;
 }
 
+.fees td, .fees th {
+		text-align: center;
+		padding: 0 .1em 0 .1em;
+}
+
+.fees table {
+	width: 100%;
+	padding-bottom: 1em;
+}
+
+div.fees {
+	border: #6dc8e8 solid 2px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	margin: .5em;
+	font-size: .8em;
+	
+}
+
 /* jqm overrides go here */
 
 .ui-body-c .ui-link {
@@ -293,6 +316,10 @@ h2 { margin-top:1.5em; }
 
 .ui-btn-text {
 	font-size: 14px;
+}
+
+.ui-collapsible .ui-collapsible-heading .ui-btn-text {
+	font-size: 18px;
 }
 
 

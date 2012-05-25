@@ -1,5 +1,5 @@
 <?php
-        $page_title="Submission";
+        $page_title="Paper Submission Requirements";
         include("include/header.php");
 ?>
 
@@ -10,35 +10,35 @@
 describing significant research contributions to the field of computer and data
 communication networks. Paper submissions typically report novel results firmly
 substantiated by experimentation, simulation, or analysis. As an aid to the
-community, the SIGCOMM Web site provides <a href="http://www.sigcomm.org/publish/hints-tips-and-guides/" rel="external">useful advice</a>
+community, the SIGCOMM Web site provides <a href="http://www.sigcomm.org/publish/hints-tips-and-guides/" >useful advice</a>
 
 to authors planning to submit to SIGCOMM conferences. Papers published in <a
-href="http://www.sigcomm.org/top/learn/sigcomm-conference/sigcomm-conference" rel="external">previous SIGCOMM conferences</a> also serve as
+href="http://www.sigcomm.org/top/learn/sigcomm-conference/sigcomm-conference" >previous SIGCOMM conferences</a> also serve as
 excellent examples of anticipated scope, rigor, and length.</p>
 
 <p>To submit papers to the SIGCOMM 2012
 conference, first carefully read the following sections on:</p>
 
 <ul>
-    <li><a href="#registration" rel="external">Paper registration</a>
+    <li><a href="#registration" >Paper registration</a>
 - what to register, and how to determine TPC conflicts.</li>
 
 
-    <li><a href="#novelty" rel="external">Paper novelty</a> - what is
+    <li><a href="#novelty" >Paper novelty</a> - what is
 eligible to be submitted, including policies on prior papers at a workshop.</li>
 
-    <li><a href="#anonymity" rel="external">Paper anonymity</a> - how
+    <li><a href="#anonymity" >Paper anonymity</a> - how
 to prepare for anonymous submission.</li>
 
-    <li><a href="#formatting" rel="external">Paper formatting</a> - 
+    <li><a href="#formatting" >Paper formatting</a> - 
 how to format your paper, including LaTeX and Word templates.</li>
 
-    <li><a href="#response" rel="external">Author response</a> - a author response process being (re)introduced in 2012.</li>
+    <li><a href="#response" >Author response</a> - a author response process being (re)introduced in 2012.</li>
 
-    <li><a href="#acceptance" rel="external">Paper acceptance</a> - what to expect if your paper is accepted.</li>
+    <li><a href="#acceptance" >Paper acceptance</a> - what to expect if your paper is accepted.</li>
 </ul>
 
-<p>Then use the <b><a href="http://sigcomm12.ucsd.edu/hotcrp/" rel="external">paper submission
+<p>Then use the <b><a href="http://sigcomm12.ucsd.edu/hotcrp/" >paper submission
 site</a></b> to:</p>
 
 <ul>
@@ -123,8 +123,8 @@ case.</p>
 <p>SIGCOMM will review extended versions of
 previously-published short preliminary papers (such
 as workshop papers) in accordance with published <a
-href="http://www.sigcomm.org/about/policies/frequently-asked-questions-faq/" rel="external">SIGCOMM policy</a> and the <a
-href="http://www.acm.org/publications/policies/plagiarism_policy" rel="external">ACM
+href="http://www.sigcomm.org/about/policies/frequently-asked-questions-faq/" >SIGCOMM policy</a> and the <a
+href="http://www.acm.org/publications/policies/plagiarism_policy" >ACM
 Plagiarism Policy</a>. To preserve author anonymity, authors MUST cite
 this related prior work, while making a good-faith effort not to reveal
 common authorship. For example, such a submission should not explicitly
@@ -171,7 +171,7 @@ including additional material: <span style="color:#FF0000">submissions that viol
 reviewed</span>. The submission system can report possible formatting violations in
 papers that you upload. You can also visually inspect a page-by-page report of
 your paper format using the same tool as the submission system via a separate <a
-href="http://www.sysnet.ucsd.edu/sigops/banal/index.php" rel="external">online form</a>.</p>
+href="http://www.sysnet.ucsd.edu/sigops/banal/index.php" >online form</a>.</p>
 
 <p>After the submission deadline, we will use
 the same tool to check the conformance of papers. The format checking tool uses
@@ -209,7 +209,7 @@ will be rejected due to format violations without first being checked by hand.</
 <p> This year SIGCOMM will allow authors to provide brief feedack after first round reviews.
 This feedback, or author response, will be limited to being no more than 400 words <u>and</u> 2600 characters long, and can be used by authors to clarify
 possible misperceptions and to respond to specific questions, if any, raised by the reviewers.  
-<span style="color:#FF0000">We have provided a set of guidelines <a class="lnkcls" href="AuthorResponseGuidelines.htm" rel="external">HTML</a> &nbsp; <a class="lnkcls" href="AuthorResponseGuidelines.pdf" rel="external">PDF</a> to enable authors to maximize the effectiveness of this mechanism.</span>
+<span style="color:#FF0000">We have provided a set of guidelines <a class="lnkcls" href="AuthorResponseGuidelines.htm" >HTML</a> &nbsp; <a class="lnkcls" href="AuthorResponseGuidelines.pdf" rel="external">PDF</a> to enable authors to maximize the effectiveness of this mechanism.</span>
 The relevant
 dates are as follows. The first round reviews will be available on the submission
 web site by <b>March 23, 2012</b>. Authors who wish to provide a response to the reviews of their paper can do so by logging in after the

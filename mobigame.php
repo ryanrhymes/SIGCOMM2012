@@ -14,7 +14,7 @@ In this first Mobile Gaming workshop at SIGCOMM, we will bring together practiti
 <h2 class="hcls">Technical Program</h2>
 TBD
 <!--
-<p>You can download all VISA papers as a single <a href="" rel="external">zip</a> file.</p>
+<p>You can download all VISA papers as a single <a href="" >zip</a> file.</p>
 <table class="wstbl">
         <tr class="cthm1a"><td>09:00 - 09:05</td><td> <b>Welcome</b> </td></tr>
         
@@ -87,7 +87,7 @@ TBD
 </ul>
 
 <h2 class="hcls">Submission Instructions</h2>
-<p>All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work-in-progress, so long as the promise of the approach is demonstrated. Radical ideas or position papers, potentially of a controversial nature, are strongly encouraged. Submissions must be no greater than 6 pages in length and author names and affiliations should be included in the submission. Submissions must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>. Submit your work at <a href="https://apollo.smu.edu.sg/mobigames12/index" rel="external">https://apollo.smu.edu.sg/mobigames12/</a>.
+<p>All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work-in-progress, so long as the promise of the approach is demonstrated. Radical ideas or position papers, potentially of a controversial nature, are strongly encouraged. Submissions must be no greater than 6 pages in length and author names and affiliations should be included in the submission. Submissions must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. Submit your work at <a href="https://apollo.smu.edu.sg/mobigames12/index" >https://apollo.smu.edu.sg/mobigames12/</a>.
 </p>
 
 <h2 class="hcls">Important Dates</h2>

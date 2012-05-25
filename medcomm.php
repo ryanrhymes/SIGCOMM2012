@@ -52,7 +52,7 @@ Papers may not exceed 6 pages (including references) and must be in PDF format. 
 please include author names and affiliation in the submission. Submissions must be original work not under review at any other workshop, conference, or journal. Papers not adhering to the guidelines will be rejected without review.</p>
 <p>
 Authors of accepted papers are expected to present their papers at the workshop; at least one author must register to join the interactive workshop.
-Papers should be submitted via the <a href="https://pain.cs.umass.edu/" rel="external">submission site</a>. Information about student stipends will appear in late Spring.</p>
+Papers should be submitted via the <a href="https://pain.cs.umass.edu/" >submission site</a>. Information about student stipends will appear in late Spring.</p>
 <h2 class="hcls">Important Dates</h2>
 
 <table class="datetbl">

@@ -13,6 +13,11 @@ function resize() {
 }
 $(window).resize(resize);
 
+$(document).on("pagebeforeshow", function() {
+  // pad the content div so we have room for the logo footer
+  $(".content").css("margin-bottom", 1.5*logoh + "px");
+});
+
 function shuffle(o) {
   for (var j, x, i = o.length; i; j = parseInt(Math.random() * i, 10), x = o[--i], o[i] = o[j], o[j] = x);
   return o;

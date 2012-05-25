@@ -22,24 +22,26 @@
 
 <!DOCTYPE HTML>
 
+<!--
 <html manifest="sigcomm.appcache">
-
+-->
 <head>
 	<meta charset="iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland
+	<title>
 <?php
     if(isset($page_title)) {
         if (!empty($page_title)) {
-            echo (" - $page_title");
+            echo ("$page_title - ");
         }
     } else {
         $filename = $_SERVER['SCRIPT_FILENAME'];
         $filename = preg_replace("/^.*\//","",$filename);
         $filename = preg_replace("/.php$/","",$filename);
-        echo(" - $filename");
+        echo("$filename - ");
     }
 ?>
+	ACM SIGCOMM 2012
     </title>
 
     <!-- <link rel="stylesheet" href="css/style.css" type="text/css" /> -->
@@ -105,7 +107,7 @@
 
 <div data-role="page" id="jqm-home" class="type-home">
 
-	<div data-role="content">	
+	<div data-role="content" class="content">	
 
 		<?php include ("menu.php"); ?>
 

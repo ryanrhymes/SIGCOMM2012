@@ -6,9 +6,11 @@
 <h2 class="hcls">ACM SIGCOMM 2012 Tutorials</h2>
 
 <p>
-SIGCOMM 2012 will feature four tutorials:
-Please see the individual tutorial pages for Detailed informationrmation.
+SIGCOMM 2012 will feature four tutorials.
+Please see the individual tutorial pages for detailed information.
 </p>
+
+<p>If you would like to support the SIGCOMM 2012 tutorials, please review <a class="lnkcls" href="sigcomm-support.pdf" rel="external">this information</a>. Please email the <a  class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>A Networking Approach to the Smart Grid</h3>
@@ -21,13 +23,13 @@ Please see the individual tutorial pages for Detailed informationrmation.
 	</div>
 	<div>
 		<p>
-   			<a href="mailto:keshav@uwaterloo.ca" rel="external">S. Keshav</a> (University of Waterloo) <br/>
-   			<a href="mailto:cath@uwaterloo.ca" rel="external">C. Rosenberg</a> (University of Waterloo)
+   			<a href="mailto:keshav@uwaterloo.ca" >S. Keshav</a> (University of Waterloo) <br/>
+   			<a href="mailto:cath@uwaterloo.ca" >C. Rosenberg</a> (University of Waterloo)
 	  	</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="nasg.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   <div style="text-align:right">
+   <a href="nasg.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -46,12 +48,12 @@ Please see the individual tutorial pages for Detailed informationrmation.
 		<p>
    			<a href="http://research.microsoft.com/en-us/people/kuntan/">Kun Tan</a> (Wireless and Networking Group, MSR Asia) <br/>
    			<a href="http://research.microsoft.com/en-us/people/jiazhang/">Jiansong Zhang</a> (Wireless and Networking Group, MSR Asia; HKUST) <br/>
-   		<a href="" rel="external">Paul Wang</a> (Innovative Engineering Group, MSR Asia)
+   		<a href="" >Paul Wang</a> (Innovative Engineering Group, MSR Asia)
    		</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="sora.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   <div style="text-align:right">
+   <a href="sora.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -68,15 +70,15 @@ Please see the individual tutorial pages for Detailed informationrmation.
 	</div>
 	<div>
 		<p>
-   			<a href="http://www.tti.unipa.it/~ilenia/informazioni.htm">Ilenia Tinnirello</a> (Universita degli Studi di Palermo, Italy) <br />
-			<a href="http://netgroup.uniroma2.it/GiuseppeBianchi/biography.html">Giuseppe Bianchi</a> (Universita degli Studi di Roma - Tor Vergata, Italy)<br />
-			<a href="http://www.ing.unibs.it/~gringoli">Francesco Gringoli</a> (Universita degli Studi di Brescia, Italy.) <br />
-			<a href="mailto:xavier.perez-costa@neclab.eu">Xavier P&eacute;rez Costa</a> (NEC Laboratories Europe, Germany)
+   			<a href="http://www.tti.unipa.it/~ilenia/informazioni.htm">Ilenia Tinnirello</a> (Universita degli Studi di Palermo) <br />
+			<a href="http://netgroup.uniroma2.it/GiuseppeBianchi/biography.html">Giuseppe Bianchi</a> (Universita degli Studi di Roma - Tor Vergata)<br />
+			<a href="http://www.ing.unibs.it/~gringoli">Francesco Gringoli</a> (Universita degli Studi di Brescia) <br />
+			<a href="mailto:xavier.perez-costa@neclab.eu">Xavier P&eacute;rez Costa</a> (NEC Laboratories Europe)
 	  </p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="pwn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   <div style="text-align:right">
+   <a href="pwn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -93,22 +95,15 @@ Please see the individual tutorial pages for Detailed informationrmation.
 	</div>
 	<div>
 		<p>
-   			<a href="http://marshini.net/" rel="external">Marshini Chetty</a> (Georgia Institute of Technology) <br/>
-   			<a href="http://www.cs.nott.ac.uk/~tar/" rel="external">Tom Rodden</a> (University of Nottingham)
+   			<a href="http://marshini.net/" >Marshini Chetty</a> (Georgia Institute of Technology) <br/>
+   			<a href="http://www.cs.nott.ac.uk/~tar/" >Tom Rodden</a> (University of Nottingham)
    		</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right; padding-right:1em;">
-   <a href="HCI_tutorial.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" rel="external" style="right:0">Detailed Info</a>
+   <div style="text-align:right">
+   <a href="HCI_tutorial.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
-
-
-<br/>
-<br/>
-
-
-<p>If you would like to support SIGCOMM 2012, please review <a class="lnkcls" href="sigcomm-support.pdf" rel="external">this information</a>. Please email the <a  class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
 
 
 <?php

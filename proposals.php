@@ -1,5 +1,5 @@
 <?php
-        $page_title="Call For Papers";
+        $page_title="Call for Workshop Proposals";
         include("include/header.php");
 ?>
 

@@ -1,5 +1,5 @@
 <?php
-        $page_title="Local information";
+        $page_title="Local Information";
         include("include/header.php");
 ?>
 
@@ -17,7 +17,7 @@ pocket-sized metropolis that is easy to discover on foot. Helsinki is
 one of the safest cities in Europe. Helsinki was declared the capital of Finland in 1812,
 	  making 2012 is its bicentenary year as the Capital. Helsinki
 	  is also the <a href="http://wdchelsinki2012.fi/en"
-	  rel="external">World Design Capital 2012</a>. In 2011, the
+	  >World Design Capital 2012</a>. In 2011, the
 	  Monocle Magazine selected Helsinki as <a
 	  href="http://www.monocle.com/Locations/Finland/Helsinki/">the
 	  most liveable city</a>. Read more about Helsinki and Finland on the web sites of the <a href="http://www.visitfinland.com/en/web/guest/finland-guide/home">Finnish Tourist Board</a>,  <a href="http://virtual.finland.fi/">Virtual Finland</a>, <a href="http://www.finland.fi/">Finland.fi</a>, <a href="http://en.wikipedia.org/wiki/Finland">Finland in Wikipedia</a>, <a href="http://wikitravel.org/en/Finland">Wikitravel</a>, <a href="http://www.stat.fi/index_en.html">Statistics Finland</a> and <a href="http://www.helsinki.fi/eng/">City of Helsinki</a>.
@@ -47,7 +47,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   </p>
   <p>
   Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" rel="external">Booking</a>
+  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
   </p>
   <p>
   Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM)
@@ -67,7 +67,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   </p>
   <p>
   Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" rel="external">Booking</a>
+  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
   </p>
   <p>
 Cut-off day: 12th Jul, 2012 (Reservation code: BACM120812)
@@ -90,7 +90,7 @@ Shopping Center and the conference venue.
   </p>
   <p>
   Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" rel="external">Booking</a>
+  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
   </p>
 <p>
 Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM2012)
@@ -110,7 +110,7 @@ The hotel's location in the very centre of Helsinki only two blocks from the mai
   </p>
   <p>
   Rating: &#9733; &#9733; &#9733;
-  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" rel="external">Booking</a>
+  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
   </p>
 <p>
 Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM)
@@ -130,7 +130,7 @@ Hostel Academica is located in the city centre. Most of the sights in Helsinki a
   </p>
   <p>
   Rating: &#9733; &#9733;
-  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" rel="external">Booking</a>
+  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
   </p>
 <p style="color:red">
 Dates: 13th ~ 17th Aug, 2012; Prices (single/double/triple): 57 / 72 / 84 &#8364;
@@ -143,54 +143,31 @@ Dates: 13th ~ 17th Aug, 2012; Prices (single/double/triple): 57 / 72 / 84 &#8364
 The hotels in the list can be found from <a href="http://maps.google.com/maps/ms?msid=213290963722870945451.0004b8b3d32603bb32a48&msa=0">Google Maps</a>. More information can be found in <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Accommodation/Hotels_in_the_centre.iw3">Helsinki tourist office</a>.
 </p>
 
-<h2 class="hcls">Visa</h2>
-<p>
-Citizens of some countries are required to have a <b>visa</b> for
-entry into Finland. <a
-href="http://formin.finland.fi/public/default.aspx?nodeid=15716&contentlan=2&culture=en-US"
-rel="external">Please check the requirements from the Ministry for
-				 Foreign Affairs</a>. As part of the
-				 visa application process, you may be
-				 required to include  <b>visa support
-				 letter</b>. Please contact ACM to
-				 issue you the visa support letter.
-</p>
-
-				 <p>To request a visa support letter,
-				 please email your request to <a class="lnkcls"
-				 href="mailto:supportletters@acm.org">supportletters@acm.org</a>
-				 and include
-<ul>
-<li> Your name</li>
-<li> Your mailing address</li>
-<li> Your fax number</li>
-<li> The name of the conference you are attending (SIGCOMM 2012) and
-				 registration ID (if applicable)</li>
-<li> If you are an author of an accepted paper or poster, please
-				 provide the title</li>
-</ul>
+<?php
+        include("include/visa.php");
+?>
 
 
 <h2 class="hcls">Transportation</h2>
 
 <p>
-<b>To and From <a href="http://www.helsinki-vantaa.fi/home" rel="external">Helsinki-Vantaa airport</a></b>, you can either take a bus or taxi:
+<b>To and From <a href="http://www.helsinki-vantaa.fi/home" >Helsinki-Vantaa airport</a></b>, you can either take a bus or taxi:
 </p>
 
 <ul>
 
 <li><a class="lnkcls" href="http://aikataulut.hsl.fi/linjat/en/s615.html"
-rel="external">Bus no. 615</a>: Single fare from the airport is 4.50
+>Bus no. 615</a>: Single fare from the airport is 4.50
 EUR, and the journey time is about 35 minutes to the main railway
 station. From the railway station it is about about 0.5 km to the
-conference venue or the hotels. The bus ticket is valid for transfers within 80 minutes, so you can continue by tram to the venue/hotels if you prefer not to walk. See the <a href="http://www.reittiopas.fi/en/" rel="external">Journey Planner</a> for the exact route.</li>
+conference venue or the hotels. The bus ticket is valid for transfers within 80 minutes, so you can continue by tram to the venue/hotels if you prefer not to walk. See the <a href="http://www.reittiopas.fi/en/" >Journey Planner</a> for the exact route.</li>
 
-<li><a class="lnkcls" href="http://www.finnair.com/INT/GB/information-services/at-the-airport/transportation" rel="external">Finnair bus</a>: Single fare is 5.90 EUR, journey time is 35 minutes and the bus goes to the main Railway station like bus no. 615. Note that the ticket is not valid on any other means (trams, other buses, etc.).</li>
+<li><a class="lnkcls" href="http://www.finnair.com/INT/GB/information-services/at-the-airport/transportation" >Finnair bus</a>: Single fare is 5.90 EUR, journey time is 35 minutes and the bus goes to the main Railway station like bus no. 615. Note that the ticket is not valid on any other means (trams, other buses, etc.).</li>
 
-<li><a class="lnkcls" href="http://www.airporttaxi.fi/index_airporttaxi_fi.html" rel="external">Airport taxi</a>: The airport taxis (yellow minivans) have a flat rate of 22 EUR and leave when the minivan has enough passengers. (1-2 persons is 25 EUR, 3-4 persons 32 EUR).</li>
+<li><a class="lnkcls" href="http://www.airporttaxi.fi/index_airporttaxi_fi.html" >Airport taxi</a>: The airport taxis (yellow minivans) have a flat rate of 22 EUR and leave when the minivan has enough passengers. (1-2 persons is 25 EUR, 3-4 persons 32 EUR).</li>
 
 <li><a class="lnkcls" href="http://www.taksiliitto.fi/in_english/"
-rel="external">Normal taxi</a> (yellow taxi sign on the roof) to the
+>Normal taxi</a> (yellow taxi sign on the roof) to the
   centre of the city/conference venue from the airport should be about 40-45 EUR. All taxis have a meter, charge the same rate, and they accept major credit cards.</li>
 
 </ul>
@@ -202,12 +179,12 @@ tranportation. The public transportation in Helsinki consist of bus,
 tram and metro. The fee varies from 1 EUR to 4 EUR, depends on the
 whether the trip is within Helsinki or cross the <a
 href="http://www.hsl.fi/EN/ticketsandfares/prices/Pages/default.aspx"
-rel="external">zones</a> (to Espoo, Vantaa, Kerava, etc.) You can buy
+>zones</a> (to Espoo, Vantaa, Kerava, etc.) You can buy
 ticket on the vehicle, but you may want  to consider getting a travel
 card to get a discount on travel fees during your stay in Helsinki. Detailed
 information about the fees and travel card is available from <a
 href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
-rel="external">Helsinki Regional Transport</a>. 
+>Helsinki Regional Transport</a>. 
 </p>
 
 <div><img src="images/helsinki_6.jpg" style="width:100%" alt="pic"></div>

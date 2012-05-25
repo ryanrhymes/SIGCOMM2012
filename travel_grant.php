@@ -1,25 +1,10 @@
 <?php
-        $page_title="Travel Grant";
+        $page_title="Student Travel Grants";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">ACM SIGCOMM 2012 Travel Grants</h2>
-
-<a class="lnkcls" href="travel-grant-page.pdf" rel="external">PDF Version</a>
-<a class="lnkcls" href="travel-grant-page.txt" rel="external">TEXT Version</a>
-
-<h2 class="hcls">Supporters</h2>
-
-   <div class="ui-grid-a">
-	<div class="ui-block-a">
-	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width: 200px;" /></a>
-	</div>
-	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width: 60px;" /></a>
-	<div class="ui-block-b">
-	</div>
-   </div><!-- /grid-a -->
-
+<h2 class="hcls">Student Travel Grants</h2>
 
 <p>
 This year, as in years past, the Conference Organizing Committee is working hard to provide as much travel support to as many conference attendees as possible. Travel support has been provided from many different supporting organizations. Through this support, we will be able to assist dozens of attendees.
@@ -63,6 +48,21 @@ Travel grant awards are meant to "partially" cover the cost of attending and par
 The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 </li>
 </ol>
+
+<a class="lnkcls" href="travel-grant-page.pdf" rel="external">PDF Version</a>
+<a class="lnkcls" href="travel-grant-page.txt" rel="external">TEXT Version</a>
+
+
+<h2 class="hcls">Supporters</h2>
+<p> ACM SIGCOMM thanks the following supporters, who make the student travel grants program possible:
+   <div class="ui-grid-a">
+	<div class="ui-block-a center">
+	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width: 200px;" /></a>
+	</div>
+	<div class="ui-block-b center">
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width: 60px;" /></a>
+	</div>
+   </div><!-- /grid-a -->
 
 <h2 class="hcls">Selection Criteria</h2>
 
@@ -130,7 +130,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 <h2 class="hcls">Where and How to Apply</h2>
 
 <p>
-All application materials (applicant's info, CV and and letters) should be submitted electronically to the following website: <a class="lnkcls" href="http://nslab.ee.ntu.edu.tw/sigcomm_2012_travel_grants/" rel="external">here</a>
+All application materials (applicant's info, CV and and letters) should be submitted electronically to the following website: <a class="lnkcls" href="http://nslab.ee.ntu.edu.tw/sigcomm_2012_travel_grants/" >here</a>
 </p>
 
 <p>

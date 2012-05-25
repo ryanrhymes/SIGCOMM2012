@@ -49,10 +49,10 @@ The MCC workshop is intended to bring together researchers, developers, and prac
   encouraged. Submissions must be no greater than 6 pages in length and must be 
   a pdf file. Reviews will be single-blind: authors name and affiliation should 
   be included in the submission. Submissions must follow the formatting guidelines 
-  at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>. </p>
+  at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. </p>
 
 <p>
-Papers should be submitted via the <a href="http://mcc.mobicloud.asu.edu" rel="external">submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
+Papers should be submitted via the <a href="http://mcc.mobicloud.asu.edu" >submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
 </p>
 
 <h2 class="hcls">Important Dates</h2>

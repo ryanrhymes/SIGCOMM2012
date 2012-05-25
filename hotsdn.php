@@ -131,7 +131,7 @@ following:
 (in two-column, 10-point format) including references, following the <a
  href="http://conferences.sigcomm.org/sigcomm/2011/sig-alternate-10pt.cls" rel="external">
 LaTeX style file</a>.  Papers should be submitted via the
-<a href="http://conferences.noise.gatech.edu/HotSDN2012/" rel="external">submission
+<a href="http://conferences.noise.gatech.edu/HotSDN2012/" >submission
 site</a>.  Papers must include the author name and affiliation for single-blind
 peer reviewing by the program committee.  Authors of accepted papers are
 expected to present their papers at the workshop.<p>

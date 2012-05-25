@@ -1,5 +1,6 @@
 	</div><!-- /ui-block-b -->
 	</div><!-- /content -->
+</div><!-- /page -->
 
 
 <!-- Search Functionality -->
@@ -99,7 +100,6 @@ function show_searchbar() {
 	echo $jsstr;
 ?>
 
-</div><!-- /page -->
 
 </body>
 <script type="text/javascript">

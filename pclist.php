@@ -1,5 +1,5 @@
 <?php
-        $page_title="PC list";
+        $page_title="Program Committee";
         include("include/header.php");
 ?>
 
