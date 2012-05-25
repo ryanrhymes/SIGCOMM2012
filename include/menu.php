@@ -38,11 +38,13 @@ $mypage = current_pagename();
 <br/>
 
 		<p class="center">Conference Hosts</p>
-		<a href="http://www.aalto.fi/en/"><img style="width:26%; margin: 0 12% 0 12%; vertical-align:middle;" src="images/aalto.png" alt="Aalto" /></a>
-		<a href="http://www.nokia.com"><img style="width:49%; margin: 0 auto 0 auto; vertical-align:middle;" src="images/nokia.png" alt="Nokia" /></a>
+		<div  class="hostlogo center" >
+		<a href="http://www.aalto.fi/en/"><img style="width:30%" src="images/aalto.png" alt="Aalto" /></a>
+		<a href="http://www.nokia.com"><img style="width:45%" src="images/nokia.png" alt="Nokia" /></a>
+		</div>
 
 
-	<a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" data-mini="true" style="margin:3em auto 3em auto; width:50%">Contact us</a>
+	<a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" style="margin:3em auto 3em auto; width:50%">Contact us</a>
 	
 	</div>
 

@@ -5,6 +5,7 @@ function resize() {
   logow = Math.max(200, scrw / 6);
   gidx = 0;
   lidx = 0;
+  logos = 0.8;
   lcnt = parseInt(scrw / logow, 10);
   $("#logobar").html("");
   $("#jqm-home").css("padding-bottom", logoh + 10 + "px");
@@ -63,8 +64,8 @@ function onfinish() {
     $("#mylogo" + tid).attr("src", "images/" + sps[idx][1]);
     $("#mylogo" + tid).attr("alt", idx);
     $("#mylink" + tid).attr("href", sps[idx][2]);
-    var divh = 0.8 * logoh;
-    var divw = 0.8 * logow;
+    var divh = logos * logoh;
+    var divw = logos * logow;
 	var imgh = sps[idx][5];
     var imgw = sps[idx][6];
 
@@ -90,8 +91,8 @@ function get_logo(tid) {
     goldenimg_display = "block";
   }
 
-  var divh = 0.8 * logoh;
-  var divw = 0.8 * logow;
+  var divh = logos * logoh;
+  var divw = logos * logow;
   var imgh = sps[idx][5];
   var imgw = sps[idx][6];
 
@@ -120,10 +121,10 @@ function showall(divname) {
   $(".newslibtn").find("span").toggleClass("ui-icon-minus");
   if ($(".newsli").css("display") == "none") {
     $(".newsli").css("display", "block");
-    $(".newslibtn").find("a").text("less");
+    $(".newslibtn").find("a").text("Hide Older News");
   } else {
     $(".newsli").css("display", "none");
-    $(".newslibtn").find("a").text("more");
+    $(".newslibtn").find("a").text("Older News");
   }
 }
 

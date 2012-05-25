@@ -15,6 +15,10 @@
 }
 */
 
+p {
+	line-height: 1.3em;
+}
+
 #cmttbl {
 	text-align:left;
 	border-spacing:0;
@@ -74,8 +78,13 @@ li {
 .supporter img {
 	margin-left: auto;
 	margin-right: auto;
-	padding: 25px 50px 25px 50px;
+	padding: 1em 2em 1em 2em;
 	text-align: center;
+	vertical-align: middle;
+}
+
+.hostlogo img {
+	padding: 1em;
 	vertical-align: middle;
 }
 
@@ -103,7 +112,8 @@ li {
 	padding: 0.2em 0.4em;
 	background: #A1BA00;
 	color: white;
-	font-weight: 500;
+	font-weight: normal;
+	letter-spacing:1px;
 	border: #A1BA00 solid 2px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
@@ -138,6 +148,8 @@ li {
 .datetag {
 	margin-right: 1em; 
 	font-weight: bold;
+	width: 20%;
+	float: left;
 }
 
 #toolbar {
