@@ -42,16 +42,6 @@ li {
 	margin-bottom: 1em;
 }
 
-.pctbl {
-	text-align:left;
-	border-spacing:0;
-}
-
-.pctbl td, .pctbl th {
-	vertical-align: text-top;
-	padding: 0 0.5em 0.2em 0;
-}
-
 .wstbl {
 	width: 100%;
 }

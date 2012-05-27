@@ -2,31 +2,32 @@
 	</div><!-- /content -->
 
 	<!-- Search Functionality -->
+	<script type="text/javascript">
+		function show_searchbar() {
+			$("#csebtn").toggleClass("ui-btn-up-c");
+			$("#csebtn").toggleClass("ui-btn-up-e");
+			if( $("#cse").css("display") == "none" )
+			{
+				$("#cse").css("display", "block");
+				$("#gsc-i-id1").focus();
+			}
+			else
+			{
+				$("#cse").css("display", "none");
+			}
+		}
+	</script>
+
 	<ul id="toolbar">
 		<li><a id="gpbtn" href="https://plus.google.com/s/sigcomm%202012" rel="external"></a></li>
 		<li><a id="fbbtn" href="http://www.facebook.com/groups/sigcomm2012/" rel="external"></a></li>
 		<li><a id="twbtn" href="https://twitter.com/?category=people#!/sigcomm12" rel="external"></a></li>
 	</ul>
 	<a id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" href="" onclick="show_searchbar();">SHOW</a>
+	<!-- Search Functionality -->
 
 </div><!-- /page -->
 
-
-<script type="text/javascript">
-function show_searchbar() {
-	$("#csebtn").toggleClass("ui-btn-up-c");
-	$("#csebtn").toggleClass("ui-btn-up-e");
-	if( $("#cse").css("display") == "none" )
-	{
-		$("#cse").css("display", "block");
-		$("#gsc-i-id1").focus();
-	}
-	else
-	{
-		$("#cse").css("display", "none");
-	}
-}
-</script>
   
 <div id="cse" style="display:none; background-color:white; padding:1px 5px; -moz-border-radius: 10px; border-radius: 10px; ">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
