@@ -1,17 +1,16 @@
 	</div><!-- /ui-block-b -->
 	</div><!-- /content -->
+
+	<!-- Search Functionality -->
+	<ul id="toolbar">
+		<li><a id="gpbtn" href="https://plus.google.com/s/sigcomm%202012" rel="external"></a></li>
+		<li><a id="fbbtn" href="http://www.facebook.com/groups/sigcomm2012/" rel="external"></a></li>
+		<li><a id="twbtn" href="https://twitter.com/?category=people#!/sigcomm12" rel="external"></a></li>
+	</ul>
+	<a id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" href="" onclick="show_searchbar();">SHOW</a>
+
 </div><!-- /page -->
 
-
-<!-- Search Functionality -->
-<ul id="toolbar">
-<li><a id="gpbtn" href="https://plus.google.com/s/sigcomm%202012" rel="external"></a></li>
-<li><a id="fbbtn" href="http://www.facebook.com/groups/sigcomm2012/" rel="external"></a></li>
-<li><a id="twbtn" href="https://twitter.com/?category=people#!/sigcomm12" rel="external"></a></li>
-<li></li>
-</ul>
-
-<a id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" href="" onclick="show_searchbar();">SHOW</a>
 
 <script type="text/javascript">
 function show_searchbar() {
@@ -86,7 +85,6 @@ function show_searchbar() {
 	{
 		list($money, $logo, $url) = $info;
 		list($width, $height, $type, $attr)= getimagesize("images/$logo");
-		echo "<input type='hidden' id='$supporter' data-width='$width' data-height='$height'>";
 		echo "<img src='images/$logo' alt='cached' style='display:none;'>";
 		$jsstr = "$jsstr\t[$money, \"$logo\", \"$url\", \"$supporter\", 0, $height, $width]";
 		if($i < $numItems-1) {
