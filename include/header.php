@@ -26,8 +26,10 @@
 <html manifest="sigcomm.appcache">
 -->
 <head>
-	<meta charset="iso-8859-1">
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
 	<title>
 <?php
     if(isset($page_title)) {
@@ -49,8 +51,15 @@
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/jquery.mobile.min.js"></script>
+	
+	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+
+	<!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
+	<script src="//code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
+
 	<script type="text/javascript" src="js/jqm-docs.js"></script>
 	<script type="text/javascript" src="js/supporters2.js"></script>
 	<script>
@@ -95,6 +104,10 @@
 </head>
 
 <body>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+	 chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
