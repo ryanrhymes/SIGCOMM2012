@@ -52,7 +52,7 @@ The MCC workshop is intended to bring together researchers, developers, and prac
   at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. </p>
 
 <p>
-Papers should be submitted via the <a href="" >submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
+Papers should be submitted via the <a href="http://www.sheridanprinting.com/typedept/mcc.htm" rel="external" >submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
 </p>
 
 <h2 class="hcls">Important Dates</h2>
@@ -63,7 +63,7 @@ Papers should be submitted via the <a href="" >submission site</a>. Papers must 
 	<?php add_dateitem("Paper Registration", "<strike>March 19, 2012</strike> <span style=\"color:red;\">(extended to April 2,2012)</span>"); ?>
 	<?php add_dateitem("Submissions due", "<strike>March 26, 2012</strike> <span style=\"color:red;\">(extended to April 11,2012)</span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "May 7, 2012"); ?>
-	<?php add_dateitem("Camera Ready", "Jun 19, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "Jun 17, 2012"); ?>
 	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
 </ul>
 
