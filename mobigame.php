@@ -45,7 +45,9 @@ TBD
 -->
 
 <h2 class="hcls">Call for Papers</h2>
-<a href="workshops/MobiGames2012CFP.pdf" rel="external">PDF version</a> <a href="workshops/MobiGames2012CFP.txt" rel="external">Text version</a>
+<p>
+<a href="workshops/MobiGames2012CFP.pdf" class="lnkcls" rel="external">PDF version</a> <a href="workshops/MobiGames2012CFP.txt" class="lnkcls" rel="external">Text version</a>
+</p>
 
 <h2 class="hcls">Topics</h2>
 <p>Topics of interest include, but are not limited to:
@@ -91,13 +93,15 @@ TBD
 </p>
 
 <h2 class="hcls">Important Dates</h2>
-<table class="datetbl">
-	<tr class="cthm1a"><td>Submissions due</td><td>22 March 2012</td></tr>
-	<tr class="cthm1b"><td>Notification of acceptance</td><td>15 May 2012</td></tr>
-	<tr class="cthm1a"><td>Camera ready due</td><td>1 June 2012</td></tr>
-	<tr class="cthm1b"><td>Workshop date</td><td>13 August 2012</td></tr>
-</table>
-<p>Please email the <a href="mailto:mobigames12-chairs@athena.smu.edu.sg">workshop chairs</a> with any questions you may have.</p>
+
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Submissions due", "22 March 2012"); ?>
+	<?php add_dateitem("Notification of Acceptance", "15 May 2012"); ?>
+	<?php add_dateitem("Camera Ready", "1 June 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>13 August 2012</b>"); ?>
+</ul>
+
+<p>Please email the <a href="mailto:mobigames12-chairs@athena.smu.edu.sg" class="lnkcls">workshop chairs</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

@@ -140,15 +140,15 @@ other workshop, conference, or journal.<p>
 
 <h2 class="hcls">Important Dates</h2>
 
-<table class="datetbl">
-	<tr class="cthm1a"><td>Paper Registration</td><td>March 23, 2012, 11:59 p.m. GMT</td></tr>
-	<tr class="cthm1b"><td>Submissions due</td><td><strike> March 30, 2012 </strike> <span style="color:red;">(extended to April 11, 2012, 23:59 GMT)</span> </td></tr>
-	<tr class="cthm1a"><td>Notification of acceptance</td><td>May 11, 2012</td></tr>
-	<tr class="cthm1b"><td><b>Camera ready version due</b></td><td> <b>June 1, 2012</b> </td></tr>
-	<tr class="cthm1a"><td><b>Workshop date</b></td><td> <b>August 13, 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Paper Registration", "March 23, 2012, 11:59 p.m. GMT"); ?>
+	<?php add_dateitem("Submissions due", "<strike> March 30, 2012 </strike> <span style=\"color:red;\">(extended to April 11, 2012, 23:59 GMT)</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 11, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "<b>June 1, 2012</b>"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+</ul>
 
-<p>Please email the <a href="mailto:cellnet2012-chairs@umich.edu">general chairs</a> with any questions you may have.</p>
+<p>Please email the <a href="mailto:cellnet2012-chairs@umich.edu" class="lnkcls">general chairs</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organizers</h2>
 

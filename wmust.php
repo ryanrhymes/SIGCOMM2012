@@ -59,8 +59,8 @@
 <h2 class="hcls">Call for Papers</h2>
 
 <p>
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" >PDF version</a> 
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" >Text version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" class="lnkcls" rel="external">PDF version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" class="lnkcls" rel="external">Text version</a> 
 </p>
 
 <h2 class="hcls">Topics</h2>
@@ -101,12 +101,13 @@
 
 <h2 class="hcls">Important Dates</h2>
 
-<table class="datetbl">
-	<tr class="cthm1a"><td> <strike> Abstract registration due </strike> </td><td> <strike> March 30, 2012 </strike> <span style="color:red;"> No longer required. </span> </td></tr>
-	<tr class="cthm1b"><td>Submissions due</td><td> <strike>April 6, 2012</strike> <span style="color:red;">(extended to April 10, 2012, 23:59 PST)</span></td></tr>
-	<tr class="cthm1a"><td>Notification of acceptance</td><td>May 16, 2012</td></tr>
-	<tr class="cthm1b"><td><b>Workshop date</b></td><td> <b>August 17, 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("<strike> Abstract registration due </strike>", "<strike> March 30, 2012 </strike> <span style=\"color:red;\"> No longer required. </span>"); ?>
+	<?php add_dateitem("Submissions due", "<strike>April 6, 2012</strike> <span style=\"color:red;\">(extended to April 10, 2012, 23:59 PST)</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 16, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
+</ul>
+
 
 <h2 class="hcls">Program Committee</h2>
 
@@ -124,7 +125,7 @@
   <li>Renata Texeira (CNRS)</li>
 </ul>
 
-<p>Please email the <a href="mailto:richard.mortier@nottingham.ac.uk,marshini@cc.gatech.edu">workshop organizers</a> with any questions you may have.</p>
+<p>Please email the <a href="mailto:richard.mortier@nottingham.ac.uk,marshini@cc.gatech.edu" class="lnkcls">workshop organizers</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

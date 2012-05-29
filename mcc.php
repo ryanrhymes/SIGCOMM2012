@@ -8,7 +8,7 @@
 
 <h2 class="hcls">Call for Papers</h2>
 
-<p> <a href="workshops/mcc_cfp.pdf" rel="external">PDF version</a> <a href="workshops/mcc_cfp.doc" rel="external">Text version</a> </p>
+<p> <a href="workshops/mcc_cfp.pdf" class="lnkcls" rel="external">PDF version</a> <a href="workshops/mcc_cfp.doc" class="lnkcls" rel="external">Text version</a> </p>
 
 <p>
 Today the Internet Web Service is the main way we access any kind of information from fixed or mobile terminals. Some of the information is stored in the Internet Cloud, where computing, communication, and storage services are main services provided for Internet users. In a non-distant future many of our queries will be beyond current Internet scope and will be about the people, the physical environments that surround us, and virtual environments that we will be involved. Having witnessed the phenomenal burst of research in cloud computing, Mobile Cloud Computing (MCC) is to extend cloud computing functions, services and results to the world of future mobile applications. MCC will address issues that current Internet Clouds or Mobile Computing Technologies alone cannot effectively or efficiently address.
@@ -52,35 +52,20 @@ The MCC workshop is intended to bring together researchers, developers, and prac
   at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. </p>
 
 <p>
-Papers should be submitted via the <a href="http://mcc.mobicloud.asu.edu" >submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
+Papers should be submitted via the <a href="" >submission site</a>. Papers must include the author name and affiliation for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers at the workshop.
 </p>
 
 <h2 class="hcls">Important Dates</h2>
 
 <p>Submit papers through EADS.</p>
 
-<table class="datetbl">
-  <tr class="cthm1a"> 
-    <td>Paper Registration</td>
-    <td><strike>March 19, 2012</strike> <span style="color:red;">(extended to April 2,2012)</span></td>
-  </tr>
-  <tr class="cthm1a"> 
-    <td>Submissions due</td>
-    <td><strike>March 26, 2012</strike> <span style="color:red;">(extended to April 11,2012)</span> </td>
-  </tr>
-  <tr class="cthm1b"> 
-    <td>Notification of acceptance</td>
-    <td>May 7, 2012</td>
-  </tr>
-  <tr class="cthm1a"> 
-    <td>Camera Ready</td>
-    <td>May 28, 2012</td>
-  </tr>
-  <tr class="cthm1a"> 
-    <td><b>Workshop date</b></td>
-    <td> <b>August 17, 2012</b> </td>
-  </tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Paper Registration", "<strike>March 19, 2012</strike> <span style=\"color:red;\">(extended to April 2,2012)</span>"); ?>
+	<?php add_dateitem("Submissions due", "<strike>March 26, 2012</strike> <span style=\"color:red;\">(extended to April 11,2012)</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 7, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "Jun 19, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
+</ul>
 
 
 <h2 class="hcls">Program Committee</h2>
@@ -127,7 +112,7 @@ Papers should be submitted via the <a href="http://mcc.mobicloud.asu.edu" >submi
   Haojin Zhu (Shanghai JiaoTong University, China)<br>
 </p>
 
-<p>Please email the <a href="mailto:dijiang@asu.edu,gerla@cs.ucla.edu">workshop organizers</a> 
+<p>Please email the <a href="mailto:dijiang@asu.edu,gerla@cs.ucla.edu" class="lnkcls">workshop organizers</a> 
   with any questions you may have.</p> 
 
 <?php

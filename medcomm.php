@@ -7,12 +7,12 @@
 <h2 class="hcls">MedCOMM: Workshop on Medical Communication Systems</h2>
 
 <p>
-<b>Helsinki, Finland (August 13, 2012)</b>. Here is a <a href="workshops/Medcomm_one_pager_final.pdf" rel="external">one-page Flyer</a>.
+<b>Helsinki, Finland (August 13, 2012)</b>. Here is a <a href="workshops/Medcomm_one_pager_final.pdf" rel="external" class="lnkcls">one-page Flyer</a>.
 </p>
 
 <h2 class="hcls">Call for Papers</h2>
 
-<p> <a href="workshops/MedCOMM12_cfp.pdf" rel="external">PDF version</a></p>
+<p> <a href="workshops/MedCOMM12_cfp.pdf" rel="external" class="lnkcls">PDF version</a></p>
 
 <p>ACM MedCOMM invites papers that stimulate research in communications or computer networks with application to medical device communication
   systems. Key properties include safety, effectiveness, reliability, and security.</p>
@@ -53,16 +53,19 @@ please include author names and affiliation in the submission. Submissions must 
 <p>
 Authors of accepted papers are expected to present their papers at the workshop; at least one author must register to join the interactive workshop.
 Papers should be submitted via the <a href="https://pain.cs.umass.edu/" >submission site</a>. Information about student stipends will appear in late Spring.</p>
+
+
 <h2 class="hcls">Important Dates</h2>
 
-<table class="datetbl">
-    <tr class="cthm1a"><td>Abstract registration</td><td>March 16, 2012</td></tr>
-	<tr class="cthm1a"><td>Submissions due</td><td>March 23, 2012</td></tr>
-	<tr class="cthm1b"><td>Notification of acceptance</td><td>May 1, 2012</td></tr>
-	<tr class="cthm1a"><td><b>Workshop date</b></td><td> <b>August 13, 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Paper Registration", "March 16, 2012"); ?>
+	<?php add_dateitem("Submissions due", "March 23, 2012"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 1, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+</ul>
+
 <p>
-Please email the <a href="mailto:medcomm12-chair@cs.umass.edu">workshop chair</a> with any questions you may have.</p>
+Please email the <a href="mailto:medcomm12-chair@cs.umass.edu" class="lnkcls">workshop chair</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organization</h2>
 <h3>Workshop Chair</h3>

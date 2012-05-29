@@ -146,6 +146,13 @@ li {
 	float: left;
 }
 
+.datetag_w {
+	margin-right: 1em; 
+	font-weight: bold;
+	width: 40%;
+	float: left;
+}
+
 #toolbar {
 	position: fixed;
 	list-style: none;

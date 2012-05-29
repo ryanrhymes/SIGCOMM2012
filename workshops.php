@@ -74,7 +74,7 @@ SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and F
 <br/>
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
-   <h3>MobiGame: Workshop on Mobile Gaming</h3>
+   <h3>MobiGames'12: Workshop on Mobile Gaming</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
 	  <p><b>Organizers</b></p>

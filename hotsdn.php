@@ -138,15 +138,15 @@ expected to present their papers at the workshop.<p>
 
 <h2 class="hcls">Important Dates</h2>
 
-<table class="datetbl">
-	<tr class="cthm1a"><td>Submissions due</td><td> <strike>April 6, 2012</strike> <span style="color:red;">(extended to April 10, 2012, 11:59pm GMT)</span> </td></tr>
-	<tr class="cthm1b"><td>Notification of acceptance</td><td>May 25, 2012</td></tr>
-	<tr class="cthm1a"><td>Camera ready version due</td><td>June 15, 2012</td></tr>
-	<tr class="cthm1b"><td>Workshop date</td><td> <b>August 13, 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Submissions due", "<strike>April 6, 2012</strike> <span style=\"color:red;\">(extended to April 10, 2012, 11:59pm GMT)</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 25, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "June 15, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+</ul>
 
 <p>
-Please email the <a href="mailto:hotsdn2012-chairs@lists.noise.gatech.edu">program chairs</a> with any questions you may have.</p>
+Please email the <a href="mailto:hotsdn2012-chairs@lists.noise.gatech.edu" class="lnkcls">program chairs</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organizers</h2>
 

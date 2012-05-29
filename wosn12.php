@@ -32,7 +32,7 @@ position papers. All papers are limited to 6 pages (10 pt).
 
 <h2 class="hcls">Call for Papers</h2>
 
-<p> <a href="workshops/WOSN2012CFP.txt" rel="external"> Text version </a> </p>
+<p> <a href="workshops/WOSN2012CFP.txt" rel="external" class="lnkcls"> Text version </a> </p>
 
 <h2 class="hcls">Topics</h2>
 
@@ -93,16 +93,16 @@ Papers should be submitted via the <a href=" http://cyclops.cs.ucsb.edu/WOSN12" 
 
 <h2 class="hcls">Important Dates</h2>
 
-<table class="datetbl">
-<tr class="cthm1a"><td>Submissions due</td><td>Wednesday March 14, 2012</td></tr>
-<tr class="cthm1b"><td>Notification of acceptance</td><td>Friday April 20, 2012</td></tr>
-<tr class="cthm1b"><td>Camera-ready copy due</td><td>Monday June 4, 2012</td></tr>
-<tr class="cthm1a"><td><b>Workshop date</b></td><td> <b>Friday August 17, 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Submissions due", "Wednesday March 14, 2012"); ?>
+	<?php add_dateitem("Notification of Acceptance", "Friday April 20, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "Monday June 4, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>Friday August 17, 2012</b>"); ?>
+</ul>
 
 
 <p>
-Please email the <a href="mailto:wosn12-chairs@cs.ucsb.edu">Program Committee co-chairs</a> with any questions you may have.
+Please email the <a href="mailto:wosn12-chairs@cs.ucsb.edu" class="lnkcls">Program Committee co-chairs</a> with any questions you may have.
 </p>
 
 

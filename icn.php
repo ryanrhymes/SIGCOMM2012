@@ -102,13 +102,12 @@ well as on results from implementations and experimentation.
 
 <h2 class="hcls">Important Dates</h2>
 
-
-<table class="datetbl">
-	<tr class="cthm1a"><td>Abstract registration</td><td> <strike>March 18, 2012</strike> <span style="color:red;">(extended to March 22,2012)</span> </td></tr>
-	<tr class="cthm1b"><td>Submissions due</td><td> <strike>March 25, 2012</strike> <span style="color:red;">(extended to April 1,2012)</span> </td></tr>
-	<tr class="cthm1a"><td>Notification of acceptance</td><td>May 7, 2012</td></tr>
-	<tr class="cthm1b"><td><b>Workshop date</b></td><td> <b>August 17 2012</b> </td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Abstract Registration", "<strike>March 18, 2012</strike> <span style=\"color:red;\">(extended to March 22,2012)</span>"); ?>
+	<?php add_dateitem("Submissions due", "<strike>March 25, 2012</strike> <span style=\"color:red;\">(extended to April 1,2012)</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "May 7, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
+</ul>
 
 <p>Please email the <a class="lnkcls" href="mailto:icn2012-organizers@listserv.netlab.nec.de">workshop organizers</a> with any questions you may have.</p>
 

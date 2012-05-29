@@ -55,5 +55,15 @@ function add_listitem($name, $organization, $link)
 	");
 }
 
+function add_dateitem($date, $info)
+{
+	print( "
+		<li>
+			<div class=\"datetag_w\">$date</div>
+			<p>$info</p>
+		</li>
+	");
+}
+
 ?>
 
