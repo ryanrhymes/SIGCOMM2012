@@ -60,7 +60,7 @@ encounter problems with the paper submission site, contact the <a
 href="mailto:sigcomm12-pc-chairs@acm.org">PC chairs</a> well before the deadlines.</p>
 
 
-<h2 id="registration">Paper Registration</h2>
+<h2><a name="registration">Paper Registration</a></h2>
 
 <p>Registration only requires submission of
 paper metadata: paper title and abstract, author names, affiliations, contact
@@ -105,7 +105,7 @@ improperly identify PC members as conflicts to avoid an individual who might
 review your paper.</p>
 
 
-<h2 id="novelty">Paper Novelty</h2>
+<h2><a name="novelty">Paper Novelty</a></h2>
 
 <p>Under no circumstances should authors submit previously published
 work, submit the same work simultaneously to multiple venues, or
@@ -134,7 +134,7 @@ prior work.</p>
 <p>Papers accompanied by nondisclosure agreement requests will not be considered nor ever disclosed.</p>
 
 
-<h2 id="anonymity">Paper Anonymity</h2>
+<h2><a name="anonymity">Paper Anonymity</a></h2>
 
 <p>All submitted papers will be judged based
 on their quality and relevance through double-blind reviewing, where the
@@ -158,7 +158,7 @@ the following steps when preparing your submission:</p>
 </ul>
 
 
-<h2 id="formatting">Paper Formatting</h2>
+<h2><a name="formatting">Paper Formatting</a></h2>
 
 <p>All submissions must obey the following
 formatting requirements. Your goal as an author is to produce a clearly
@@ -204,7 +204,7 @@ will be rejected due to format violations without first being checked by hand.</
 </ul>
 
 
-<h2 id="response">Author Response</h2>
+<h2><a name="response">Author Response</a></h2>
 
 <p> This year SIGCOMM will allow authors to provide brief feedack after first round reviews.
 This feedback, or author response, will be limited to being no more than 400 words <u>and</u> 2600 characters long, and can be used by authors to clarify
@@ -216,7 +216,7 @@ web site by <b>March 23, 2012</b>. Authors who wish to provide a response to the
 above date to read the reviews and then submitting a rebuttal by <b>9:00 PM PDT March 30, 2012</b>. <em>We ask authors to mark the above dates in 
 their calendar and to NOT depend on or wait for a notification from the system.</em> 
 
-<h2 id="acceptance">Paper Acceptance</h2>
+<h2><a name="acceptance">Paper Acceptance</a></h2>
 <p>The SIGCOMM 2012 PC will notify authors
 of review decisions by April 30, 2012. All accepted papers may be shepherded by
 members of the PC. Authors of accepted papers should plan to interact with
