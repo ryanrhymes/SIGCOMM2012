@@ -1,0 +1,55 @@
+ACM SIGCOMM 2012 Travel Grants
+===============================
+This year, as in years past, the Conference Organizing Committee is working hard to provide as much travel support to as many conference attendees as possible. Travel support has been provided from many different supporting organizations. Through this support, we will be able to assist dozens of attendees.
+
+Support is provided for a variety of different types of attendees, from graduate students to post-doctoral scholars. The amount of support depends on the type of attendee and available funding. Attendees from around the world are encouraged to apply.
+
+Support for SIGCOMM 2012 from the following organizations has been confirmed:
+1. ISOC Latin America Chapter funding is available for applicants from Latin American and Caribbean institutions. 
+2. ACM SIGCOMM GeoDiversity travel grants are available for attendees in their early career (at most five years of full-time, full-level, non-postdoc, post-PhD employment) from under-represented countries, based on need, distance to the conference venue, and impact of their attendance in increasing the diversity of conference participation.
+3. There are a number of additional funding pending final decisions in the meantime we seek support for attendees across all categories.
+
+Please consider the following important information before applying:
+* The application process is the same for all types of attendees and all sources of funding and is described in the rest of this page.
+* Travel grant awards are meant to "partially" cover the cost of attending and participating in SIGCOMM 2012. The only travel expenses that can be reimbursed are: air travel, hotel, and conference registration.
+* The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+
+Selection Criteria
+===============================
+The following criteria will be used in the selection process:
+1. Preference will be given to applicants that do not present a paper in the conference. The rationale for this criterion is that the participation costs for a presenting author should be covered by their home institution.
+2. Students presenting posters are encouraged to apply though. The rationale is to support the participation of students who do not present papers but contribute to the conference in other ways.
+3. Evidence of a serious interest in networking, as demonstrated by coursework and/or project experience, will be required. Advanced students close to graduation or in the job market will also be given priority, when possible.
+4. We also encourage participation of women and under-represented minorities. Special attention will be given to applicants from minority-serving institutions.
+5. After giving priority to the above criteria, (co-)authors of papers may be considered but will be given lower priority. The rationale is to support people that contribute to the conference and cannot attend otherwise due to budget or other constraints. (An example is a student who is a second author but does not present and would not be able to attend the conference otherwise. Another example is a postdoc who presents work with a past affiliation or without affiliation and thus is not supported neither by its past nor by its current institution. In both cases, the applicant and the letter-writer should explain in their letters why it is impossible to support the applicant from other sources.)
+
+Important Dates
+===============================
+Submission deadline for all programs                   June  1, 2012
+Award notification                                     June 22, 2012
+Deadline to accept/decline the award                   June 29, 2012
+
+
+Where and How to Apply
+===============================
+All application materials (applicant's info, CV and and letters) should be submitted electronically to the following website: http://nslab.ee.ntu.edu.tw/sigcomm_2012_travel_grants/
+
+The applicant should create an account in the submission system and upload:
+1. an up-to-date CV
+2. an application letter, and
+3. a letter from their supervisor (Ph.D. advisor for students, Ph.D or postdoc advisor for postdocs, or supervisor for faculty/researchers).
+
+The applicant's letter should be clearly divided in the following sections:
+1. an explicit identification of (a) the applicant's current country of study or work, (b) academic status (student, postdoc, or junior faculty member), and (c) whether the applicant qualifies for a GeoDiversity travel grant (see above);
+2. whether the applicant is a workshop paper or poster author;
+3. whether the applicant is active in IETF. Describe activity (e.g. author of a working group document, participant in mailing list (posting), subscriber to mailing list, presentation to members of working group, etc.);
+4. brief summary of where the applicant is studying/working (provide a URL for a home page if one exists) and the applicant's advisor/supervisor is; the applicant feels is relevant to support their case;
+5. a brief summary of research interests and plans for future research; and
+6. why the conference attendance is important to the applicant's research
+
+The supervisor's letter should be clearly divided in the following sections:
+1. the applicant's good standing in the institution;
+2. explain why the applicant would benefit from attending SIGCOMM as well as how he/she could contribute to the conference; and
+3. explain the current funding status and why the applicant is in need of the travel grant.
+
+Supervisor letters may either be uploaded directly into the applicant's account (preferred) or may be emailed (PDF only!) to pollyhuang@ntu.edu.tw. The submission site has been designed to keep supervisor letters "write-only", i.e., the applicant will not be able to view the uploaded letter in their account.
