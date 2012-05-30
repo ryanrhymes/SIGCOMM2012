@@ -69,7 +69,6 @@ TBD
 <li>detailed traffic measurements or usability studies of mobile games</li>
 <li>massively multiplayer mobile gaming</li>
 </ul>
-</p>
 
 
 <h2 class="hcls">Submission Instructions</h2>
@@ -105,7 +104,7 @@ TBD
 <li>David Chu (Microsoft Research)</li>
 <li>Janne Lindqvist (Rutgers University)</li>
 <li>April Slayden Mitchell (Hewlett-Packard Labs)</li>
-<li>Jeffrey Pang (AT&T Labs)</li>
+<li>Jeffrey Pang (AT&amp;T Labs)</li>
 <li>Junehwa Song (KAIST)</li>
 <li>Lin Zhong (Rice University)</li>
 </ul>

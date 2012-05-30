@@ -16,8 +16,7 @@
 <p>There is an increasing trend toward the convergence of wireless communication, Internet connectivity, and medicine. Devices with advanced computer communication range from body-worn health monitors to implantable medical devices to remote robotic medical devices in the battlefield. A growing list of such devices includes artificial vision, brain-computer interfaces for prosthetics, cardiac monitors, defibrillators, digital mamography, glucose monitors, infusion pumps, insulin pumps,  neurostimulators, pacemakers, radiological electronic picture archiving and communication systems,  and smart stents. All these systems depend on the safe, effective, reliable, and secure communication and computer networking. Advanced research on medical communication systems will help innovators of next-generation medical technologies that aim to improve public health in the digital age.</p>
 
 <a href="workshops/Medcomm_one_pager_final.pdf" rel="external" data-role="button" class="button">Flyer</a>
-
-<a href="workshops/MedCOMM12_cfp.pdf" rel="external" data-role="button" class="button">PDF Version</a></p>
+<a href="workshops/MedCOMM12_cfp.pdf" rel="external" data-role="button" class="button">PDF Version</a>
 
 
 <h2 class="hcls">Topics</h2>

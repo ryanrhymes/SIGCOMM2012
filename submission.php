@@ -167,7 +167,7 @@ readable submission within these constraints.</p>
 <p>Before final submission, you are expected
 to make sure that your paper complies with these requirements. Authors are
 strongly discouraged from violating the formatting requirements with the aim of
-including additional material: <sem>submissions that violate the formatting requirements may not be
+including additional material: <em>submissions that violate the formatting requirements may not be
 reviewed</em>. The submission system can report possible formatting violations in
 papers that you upload. You can also visually inspect a page-by-page report of
 your paper format using the same tool as the submission system via a separate <a

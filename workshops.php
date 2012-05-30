@@ -104,9 +104,9 @@ SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and F
 	  <p><b>Workshop date:</b> August 17, 2012</p>
 	</div>
 	  <p>
-	    <a href="" >Dirk Kutscher</a> (NEC Laboratories Europe)<br/>
-  		<a href="" >B&ouml;rje Ohlman</a> (Ericsson)<br/>
-  		<a href="" >Ignacio Solis</a> (PARC)
+	    Dirk Kutscher (NEC Laboratories Europe)<br/>
+  		B&ouml;rje Ohlman (Ericsson)<br/>
+  		Ignacio Solis (PARC)
 	  </p>
    </div><!-- /grid-b -->
    <div class="right">

@@ -53,7 +53,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
   <tr><th>Reservation code:</th><td>  SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
-  <tr><th>Price:</th><td>199&#8364; single (including breakfast)<br> 224&#8364; double (including breakfast)</td></tr>
+  <tr><th>Price:</th><td>199&euro; single (including breakfast)<br> 224&euro; double (including breakfast)</td></tr>
   </table>
   
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 750 m, 9-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -73,7 +73,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   <tr><th>Cut-off date:</th><td> July 12, 2012</td></tr>
   <tr><th>Reservation code:</th><td>  BACM120812</td></tr>
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
-  <tr><th>Price:</th><td> 125&#8364 single (including breakfast)<br> 135&#8364 double (including breakfast)</td></tr>
+  <tr><th>Price:</th><td> 125&euro; single (including breakfast)<br> 135&euro; double (including breakfast)</td></tr>
   </table>
   
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 500 m, 6-minute walk  <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -95,7 +95,7 @@ Shopping Center and the conference venue.
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
   <tr><th>Reservation code:</th><td> SIGCOMM2012</td></tr>
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
-  <tr><th>Price:</th><td> 118&#8364; single (including breakfast)<br> 128&#8364; double (including breakfast)</td></tr>
+  <tr><th>Price:</th><td> 118&euro; single (including breakfast)<br> 128&euro; double (including breakfast)</td></tr>
   </table>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 650 m, 8-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -114,7 +114,7 @@ The hotel's location in the very centre of Helsinki only two blocks from the mai
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
   <tr><th>Reservation code:</th><td> SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
-  <tr><th>Price:</th><td> 155&#8364; single (including breakfast)<br> 175&#8364; double (including breakfast)</td></tr>
+  <tr><th>Price:</th><td> 155&euro; single (including breakfast)<br> 175&euro; double (including breakfast)</td></tr>
   </table>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.3 km, 17-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -131,7 +131,7 @@ Hostel Academica is located in the city centre. Most of the sights in Helsinki a
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733;</td></tr>
   <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
-  <tr><th>Price:</th><td> 57&#8364; single <br> 72&#8364; double <br> 84&#8364; triple </td></tr>
+  <tr><th>Price:</th><td> 57&euro; single <br> 72&euro; double <br> 84&euro; triple </td></tr>
   </table>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.2 km, 16-minute walk   <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -139,7 +139,7 @@ Hostel Academica is located in the city centre. Most of the sights in Helsinki a
 
 
 <p>
-The hotels in the list can be found from <a href="http://maps.google.com/maps/ms?msid=213290963722870945451.0004b8b3d32603bb32a48&msa=0">Google Maps</a>. More information can be found in <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Accommodation/Hotels_in_the_centre.iw3">Helsinki tourist office</a>.
+The hotels in the list can be found from <a href="http://maps.google.com/maps/ms?msid=213290963722870945451.0004b8b3d32603bb32a48&amp;msa=0">Google Maps</a>. More information can be found in <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Accommodation/Hotels_in_the_centre.iw3">Helsinki tourist office</a>.
 </p>
 
 <?php
@@ -211,7 +211,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 
 <h2 class="hcls">Culture</h2>
 <p>
-Helsinki is full of passion, every corner of the city is worth exploring to know its <a href="http://finland.fi/public/default.aspx?nodeid=44496&contentlan=2&culture=en-US">architecture</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44497&contentlan=2&culture=en-US">music</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44498&contentlan=2&culture=en-US">film</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44499&contentlan=2&culture=en-US">literature</a> and <a href="http://finland.fi/public/default.aspx?nodeid=44500&contentlan=2&culture=en-US">arts</a>. For a visitor, you should also try <a href="http://finland.fi/public/default.aspx?contentid=160067&seeking">sauna</a>.
+Helsinki is full of passion, every corner of the city is worth exploring to know its <a href="http://finland.fi/public/default.aspx?nodeid=44496&amp;contentlan=2&amp;culture=en-US">architecture</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44497&amp;contentlan=2&amp;culture=en-US">music</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44498&amp;contentlan=2&amp;culture=en-US">film</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44499&amp;contentlan=2&amp;culture=en-US">literature</a> and <a href="http://finland.fi/public/default.aspx?nodeid=44500&amp;contentlan=2&amp;culture=en-US">arts</a>. For a visitor, you should also try <a href="http://finland.fi/public/default.aspx?contentid=160067&amp;seeking">sauna</a>.
 </p>
 
 
@@ -221,7 +221,7 @@ young chefs to start their own small and unique gourmet
 restaurants. Helsinki also offers world-class restaurants that have
 earned Michelin stars. At the other extreme you can enjoy Finnish home
 cooking traditions in cosy local restaurants that have built their
-reputations on fried herring and mash potatoes. You can find <a href="http://eat.fi/en/helsinki?lat=60.205378&amp;lng=24.962879&amp;zoom=15">restaurants and cafeterias here</a>, and more information <a href="http://finland.fi/public/default.aspx?nodeid=41801&contentlan=2&culture=en-US">here</a>
+reputations on fried herring and mash potatoes. You can find <a href="http://eat.fi/en/helsinki?lat=60.205378&amp;lng=24.962879&amp;zoom=15">restaurants and cafeterias here</a>, and more information <a href="http://finland.fi/public/default.aspx?nodeid=41801&amp;contentlan=2&amp;culture=en-US">here</a>
 </p>
 
 <p>

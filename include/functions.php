@@ -45,7 +45,7 @@ function add_listitem($name, $organization, $link)
 	<li style=\"font-size:1em; padding:0.7em 15px;\">
 	   <div class=\"ui-grid-a\">
 		<div class=\"ui-block-a\">
-			<a href=\"$link\">$name</a>
+			$name
 		</div>
 		<div class=\"ui-block-b\">
 			$organization

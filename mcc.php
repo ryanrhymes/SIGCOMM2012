@@ -15,8 +15,8 @@ Today the Internet Web Service is the main way we access any kind of information
 The MCC workshop is intended to bring together researchers, developers, and practitioners in current mobile computing and cloud computing from academia, industry, and service providers, to share ideas, experiences, and practical implementations related to new MCC technologies and applications. Both position and working-in-progress papers are encouraged. Workshop participants will discuss emerging and future trends in research and application that integrate the cloud computing paradigm into mobile devices, mobile applications, security and privacy, and mobile services, evaluating the impact of mobile applications on cloud computing techniques. To that end, papers are solicited from all MCC related areas involving the interactions or integrations of mobile techniques and cloud computing solutions, including, but not limited to the following topics.
 </p>
 
-<a class="button" data-role="button" href="workshops/mcc_cfp.pdf" class="lnkcls" rel="external">PDF version</a> 
-<a class="button" data-role="button" href="workshops/mcc_cfp.doc" class="lnkcls" rel="external">Text version</a>
+<a class="button" data-role="button" href="workshops/mcc_cfp.pdf" rel="external">PDF version</a> 
+<a class="button" data-role="button" href="workshops/mcc_cfp.doc" rel="external">Text version</a>
 
 
 
@@ -38,7 +38,7 @@ The MCC workshop is intended to bring together researchers, developers, and prac
   <li>MCC supported social media and networks, virtual community and virtual 
   humans</li>
   <li>MCC supported multimedia services, advertisements, games, and entertainments</li>
-  <li>Virtualization and programmable infrastructure for MCC</p>
+  <li>Virtualization and programmable infrastructure for MCC</li>
 </ul>
 
 <h2 class="hcls">Submission Instructions</h2>

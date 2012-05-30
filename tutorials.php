@@ -29,7 +29,7 @@ Please see the individual tutorial pages for detailed information.
 	</div>
    </div><!-- /grid-a -->
    <div class="right">
-   <a href="nasg.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
+   <a href="nasg.php" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -48,12 +48,12 @@ Please see the individual tutorial pages for detailed information.
 		<p>
    			<a href="http://research.microsoft.com/en-us/people/kuntan/">Kun Tan</a> (Wireless and Networking Group, MSR Asia) <br/>
    			<a href="http://research.microsoft.com/en-us/people/jiazhang/">Jiansong Zhang</a> (Wireless and Networking Group, MSR Asia; HKUST) <br/>
-   		<a href="" >Paul Wang</a> (Innovative Engineering Group, MSR Asia)
+   		Paul Wang (Innovative Engineering Group, MSR Asia)
    		</p>
 	</div>
    </div><!-- /grid-a -->
    <div class="right">
-   <a href="sora.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
+   <a href="sora.php" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -78,7 +78,7 @@ Please see the individual tutorial pages for detailed information.
 	</div>
    </div><!-- /grid-a -->
    <div class="right">
-   <a href="pwn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
+   <a href="pwn.php" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
@@ -101,7 +101,7 @@ Please see the individual tutorial pages for detailed information.
 	</div>
    </div><!-- /grid-a -->
    <div class="right">
-   <a href="hci.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
+   <a href="hci.php" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 

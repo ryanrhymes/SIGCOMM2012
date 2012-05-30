@@ -2,7 +2,7 @@
 <p>
 Citizens of some countries are required to have a <b>visa</b> for
 entry into Finland. Please check if you require a visa from the <a
-href="http://formin.finland.fi/public/default.aspx?nodeid=15720&contentlan=2&culture=en-US"
+href="http://formin.finland.fi/public/default.aspx?nodeid=15720&amp;contentlan=2&amp;culture=en-US"
 rel="external">Ministry for
 				 Foreign Affairs</a>. 
 </p><p>				 

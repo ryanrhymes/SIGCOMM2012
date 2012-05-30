@@ -66,14 +66,14 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
 
 <li class="linethrough"><div class="datetag">May 11, 2012</div>
-<p> Submission Deadline (23:59 PDT)</a></p></li>
+<p> Submission Deadline (23:59 PDT)</p></li>
 
 
 <li><div class="datetag">May 31, 2012</div>
-<p> Acceptance Notification</a></p></li>
+<p> Acceptance Notification</p></li>
 
 <li><div class="datetag"><em>June 13, 2012</em></div>
-<p> Camera-Ready Deadline</a></p></li>
+<p> Camera-Ready Deadline</p></li>
 
 </ul>
 

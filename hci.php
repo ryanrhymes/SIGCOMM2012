@@ -35,6 +35,7 @@ As well as highlighting the importance of understanding users and engaging in in
 <li>	How they might evaluate systems involving users. This topic will cover both formative and summative evaluation and cover the relative strengths and merits of a range of techniques including both quantitative and qualitative approaches.  </li>
 <li>	How to undertake user centered research. The tutorial will cover the pragmatics of conducting human-centered research with particular focus on ethics and privacy issues and the responsibilities of the researchers. </li>
 </ul>
+<p>
 Throughout the tutorial, we will use examples most relevant to the SIGCOMM community and participants will be provided with opportunities for hands-on engagement with the lecture material. No background knowledge is required.
 </p>
 
@@ -43,7 +44,7 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 
 <h2 class="hcls">Outline</h2>
 
-<p> <ul>
+<ul>
 
 <li> <b>Techniques for Understanding Users:</b> We will introduce a range of techniques for understanding user including when each approach should be employed, how to develop research instruments, determine sample sizes, and how results gathered using each approach generalize.
 <ul>
@@ -65,7 +66,7 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 
 <li><b>Evaluation techniques:</b> We will provide an overview of various evaluation approaches for systems including what each approach is suitable for, when to evaluate in the lab vs. in the field, and various data analysis techniques.
 <ul>
-<li>	<b>Summative & Formative Evaluation:</b> Goals of each approach, and interpreting the results. </li>
+<li>	<b>Summative &amp; Formative Evaluation:</b> Goals of each approach, and interpreting the results. </li>
 <li>	<b>In the lab:</b>Basics of experimental design, heuristic evaluation, and usability testing. </li>
 <li>	<b>In the field:</b>Gaining access to research sites, field study design, and timeframes.</li>
 <li>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</li>
@@ -83,7 +84,6 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 </ul>
 </li>
 </ul>
-</p>
 
 
 <h2 class="hcls">About the Presenters</h2>

@@ -9,7 +9,7 @@ $mypage = current_pagename();
 			<li <?php if ($mypage=="supporters.php") echo 'class="page-now"' ?> ><a href="supporters.php">Supporters</a></li>
 			<li <?php if ($page_title=="Workshops") echo 'class="page-now"' ?> ><a href="workshops.php">Workshops</a></li>
 			<li <?php if ($page_title=="Tutorials") echo 'class="page-now"' ?> ><a href="tutorials.php">Tutorials</a></li>
-			<li <?php if ($mypage=="cfd.php") echo 'class="page-now"' ?> ><a href="cfd.php">Posters & Demos</a></li>
+			<li <?php if ($mypage=="cfd.php") echo 'class="page-now"' ?> ><a href="cfd.php">Posters &amp; Demos</a></li>
 			<li <?php if ($mypage=="registration.php") echo 'class="page-now"' ?> ><a href="registration.php">Registration</a></li>
 			<li <?php if ($mypage=="localinfo.php") echo 'class="page-now"' ?> ><a href="localinfo.php">Local Information</a></li>
 			<li <?php if ($mypage=="travel_grant.php") echo 'class="page-now"' ?> ><a href="travel_grant.php">Student Travel Grants</a></li>

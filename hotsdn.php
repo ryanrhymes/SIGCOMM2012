@@ -171,7 +171,7 @@ expected to present their papers at the workshop.<p>
 <li>Rob Sherwood (BigSwitch)					 </li>
 <li>Amin Vahdat (UCSD/Google)				 </li>
 <li>Andreas Voellmy (Yale)					 </li>
-<li>Dave Ward (Cisco)<p/>					 </li>
+<li>Dave Ward (Cisco)					 </li>
 </ul>
 
 <h3>Steering Committee</h3>

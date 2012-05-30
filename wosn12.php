@@ -54,7 +54,7 @@ position papers. All papers are limited to 6 pages (10 pt).
 venue. Submissions must be no greater than 6 pages in length and author
 names and affiliations should be included in the submission. Submissions 
 must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>.
-Papers should be submitted via the <a href=" http://cyclops.cs.ucsb.edu/WOSN12" rel="external">submission site</a>.
+Papers should be submitted via the <a href="http://cyclops.cs.ucsb.edu/WOSN12" rel="external">submission site</a>.
 </p>
 
 <a href="mailto:wosn12-chairs@cs.ucsb.edu" class="button" data-role="button">Email the Organizers</a>
