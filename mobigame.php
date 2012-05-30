@@ -1,18 +1,25 @@
 <?php
-        $page_title="ACM SIGCOMM Workshop on Mobile Gaming";
+        $page_title="Workshop on Mobile Gaming (MobiGame)";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">ACM SIGCOMM Workshop on Mobile Gaming</h2>
-<b>Helsinki, Finland (August 13, 2012)</b><br />
+<h2 class="hcls">Workshop on Mobile Gaming (MobiGame)</h2>
+<b>Helsinki, Finland (Monday, August 13, 2012)</b><br />
 <p>
-While they are a relatively new phenomenon, games on smartphones have become wildly popular with users. Games consistently dominate the top purchases on mobile app marketplaces. With the intense competition that has ensued in this industry, games are now rapidly incorporating sophisticated technologies that have been adapted to the mobile computing environment, many of which are of growing importance to researchers. There are many research challenges across graphics, energy consumption, network latency, HCI, security, and sensor networking. While this field is interdisciplinary by nature, many proposed ideas have direct impact on how networking protocols and infrastructures are designed and managed.<br />
+While they are a relatively new phenomenon, games on smartphones have become wildly popular with users. Games consistently dominate the top purchases on mobile app marketplaces. With the intense competition that has ensued in this industry, games are now rapidly incorporating sophisticated technologies that have been adapted to the mobile computing environment, many of which are of growing importance to researchers. There are many research challenges across graphics, energy consumption, network latency, HCI, security, and sensor networking. While this field is interdisciplinary by nature, many proposed ideas have direct impact on how networking protocols and infrastructures are designed and managed.</p>
+<p>
 In this first Mobile Gaming workshop at SIGCOMM, we will bring together practitioners as well as interested researchers to discuss the latest developments in this growing field. We will identify what we have already achieved, the challenges that lie ahead, and promising avenues forward.
 </p>
 
+<a href="workshops/MobiGames2012CFP.pdf" data-role="button" class="button" rel="external">PDF version</a>
+<a href="workshops/MobiGames2012CFP.txt" data-role="button" class="button" rel="external">Text version</a>
+
+<!--
 <h2 class="hcls">Technical Program</h2>
 TBD
+-->
+
 <!--
 <p>You can download all VISA papers as a single <a href="" >zip</a> file.</p>
 <table class="wstbl">
@@ -44,10 +51,6 @@ TBD
 </table>
 -->
 
-<h2 class="hcls">Call for Papers</h2>
-<p>
-<a href="workshops/MobiGames2012CFP.pdf" class="lnkcls" rel="external">PDF version</a> <a href="workshops/MobiGames2012CFP.txt" class="lnkcls" rel="external">Text version</a>
-</p>
 
 <h2 class="hcls">Topics</h2>
 <p>Topics of interest include, but are not limited to:
@@ -68,13 +71,32 @@ TBD
 </ul>
 </p>
 
-<h2 class="hcls">Workshop chairs</h2>
+
+<h2 class="hcls">Submission Instructions</h2>
+<p>All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work-in-progress, so long as the promise of the approach is demonstrated. Radical ideas or position papers, potentially of a controversial nature, are strongly encouraged. Submissions must be no greater than 6 pages in length and author names and affiliations should be included in the submission. Submissions must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. Submit your work at <a href="https://apollo.smu.edu.sg/mobigames12/index" >https://apollo.smu.edu.sg/mobigames12/</a>.
+</p>
+
+<a href="mailto:mobigames12-chairs@athena.smu.edu.sg" class="button" data-role="button">Email the Organizers</a>
+
+<h2 class="hcls">Important Dates</h2>
+
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 22, 2012</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 15, 2012</span>"); ?>
+	<?php add_dateitem("Camera Ready", "June 1, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "August 13, 2012"); ?>
+</ul>
+
+
+<h2 class="hcls">Committees</h2>
+
+<h3>Workshop chairs</h3>
 <ul>
 <li>Sharad Agarwal (Microsoft Research)</li>
 <li>Rajesh Krishna Balan (Singapore Management University)</li>
 </ul>
 
-<h2 class="hcls">Program Committee</h2>
+<h3>Program Committee</h3>
 <ul>
 <li>Sharad Agarwal (Microsoft Research)</li>
 <li>Aditya Akella (U. Wisconsin-Madison)</li>
@@ -87,21 +109,6 @@ TBD
 <li>Junehwa Song (KAIST)</li>
 <li>Lin Zhong (Rice University)</li>
 </ul>
-
-<h2 class="hcls">Submission Instructions</h2>
-<p>All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work-in-progress, so long as the promise of the approach is demonstrated. Radical ideas or position papers, potentially of a controversial nature, are strongly encouraged. Submissions must be no greater than 6 pages in length and author names and affiliations should be included in the submission. Submissions must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" >http://conferences.sigcomm.org/sigcomm/2012/</a>. Submit your work at <a href="https://apollo.smu.edu.sg/mobigames12/index" >https://apollo.smu.edu.sg/mobigames12/</a>.
-</p>
-
-<h2 class="hcls">Important Dates</h2>
-
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Submissions due", "22 March 2012"); ?>
-	<?php add_dateitem("Notification of Acceptance", "15 May 2012"); ?>
-	<?php add_dateitem("Camera Ready", "1 June 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>13 August 2012</b>"); ?>
-</ul>
-
-<p>Please email the <a href="mailto:mobigames12-chairs@athena.smu.edu.sg" class="lnkcls">workshop chairs</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

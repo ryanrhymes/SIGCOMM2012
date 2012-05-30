@@ -7,7 +7,7 @@
 
 <div class="ui-grid-a">
 	<div class="ui-block-a">
-	<div class="fees">
+	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center">Early Registration (until Jul 9)</h3>
 <table>
     <tbody>
@@ -59,7 +59,7 @@
 	</div>
 	
 	<div class="ui-block-b">
-	<div class="fees">
+	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center">Late Registration (after Jul 9)</h3>
 <table>
     <tbody>
@@ -117,7 +117,7 @@
 
 
 
-<a href="http://www.regonline.co.uk/sigcomm2012" data-role="button" data-theme="b" class="center" style="width:50%">Online registration</a>
+<a href="http://www.regonline.co.uk/sigcomm2012" data-role="button" class="button">Online Registration</a>
 
 <?php
         include("include/visa.php");

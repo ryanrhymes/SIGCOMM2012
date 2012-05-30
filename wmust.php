@@ -1,13 +1,13 @@
 <?php
-        $page_title="W-MUST: Workshop on Measurements Up and Down the STack";
+        $page_title="Workshop on Measurements Up and Down the STack (W-MUST)";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">W-MUST: Workshop on Measurements Up and Down the STack</h2>
+<h2 class="hcls">Workshop on Measurements Up and Down the STack (W-MUST)</h2>
 
 <p>
-  <b>Helsinki, Finland (August 17, 2012)</b>
+  <b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
 <p>
@@ -56,12 +56,8 @@
 
 -->
 
-<h2 class="hcls">Call for Papers</h2>
-
-<p>
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" class="lnkcls" rel="external">PDF version</a> 
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" class="lnkcls" rel="external">Text version</a> 
-</p>
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" class="button" data-role="button" rel="external">PDF version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" class="button" data-role="button" rel="external">Text version</a> 
 
 <h2 class="hcls">Topics</h2>
 
@@ -98,14 +94,16 @@
   <a href="http://conferences.noise.gatech.edu/WMUST2012/" >submission site</a>.
 </p>
 
+<a href="mailto:richard.mortier@nottingham.ac.uk,marshini@cc.gatech.edu" class="button" data-role="button">Email the Organizers</a>
+
 
 <h2 class="hcls">Important Dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("<strike> Abstract registration due </strike>", "<strike> March 30, 2012 </strike> <span style=\"color:red;\"> No longer required. </span>"); ?>
-	<?php add_dateitem("Submissions due", "<strike>April 6, 2012</strike> <span style=\"color:red;\">(extended to April 10, 2012, 23:59 PST)</span>"); ?>
+	<?php add_dateitem("Abstract Registration", "<span class='linethrough'>March 30, 2012</span>"); ?>
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'>April 6, 2012; extension: <em>April 10, 2012, 23:59 PM PST)</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "May 16, 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
+	<?php add_dateitem("Workshop Date", "August 17, 2012"); ?>
 </ul>
 
 
@@ -125,7 +123,6 @@
   <li>Renata Texeira (CNRS)</li>
 </ul>
 
-<p>Please email the <a href="mailto:richard.mortier@nottingham.ac.uk,marshini@cc.gatech.edu" class="lnkcls">workshop organizers</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

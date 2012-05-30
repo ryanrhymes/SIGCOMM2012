@@ -2,8 +2,8 @@
         $page_title="Programmability of Wireless Networks";
         include("include/header.php");
 ?>
-<h2 class="hcls">Tutorial on Programmability of Wireless Networks</h2>
-<p><b>Helsinki, Finland (August 17, 2012)</b></p>
+<h2 class="hcls">Programmability of Wireless Networks</h2>
+<p><b>Helsinki, Finland (Friday, August 17, 2012)</b></p>
 <p>
 <b>Presented by:
 <a href="http://www.tti.unipa.it/~ilenia/informazioni.htm">Ilenia Tinnirello</a>,
@@ -64,12 +64,15 @@ tool for defining MAC state machines. Therefore, SIGCOMM 2012 would be a perfect
 venue to explain, demonstrate and provide the basics to researchers interested
 in exploiting these new programmability capabilities for their own R&amp;D activities.
 </p>
+
+<!--
 <p>
 Further information (and tools) will be made available soon, stay tuned!
 </p>
 <h2 style="text-align:center;">
 <a href="http://www.ict-flavia.eu/wmp">http://www.ict-flavia.eu/wmp</a>
 </h2>
+-->
 
 <h2 class="hcls">Tutorial Content</h2>
 <ol type="I">

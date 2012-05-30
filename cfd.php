@@ -14,7 +14,7 @@ The SIGCOMM poster/demo sessions showcase works-in-progress. The setting is info
 Anyone can submit a poster/demo, but preference will be given to posters/demos where the primary contribution is from one or more students. The SIGCOMM 2012 Poster and Demo committee will review all posters and demo proposals. At the conference, students must present student posters. Authors of accepted papers in SIGCOMM 2012 may not submit a poster on the same work in those papers.
 </p>
 
-<a class="lnkcls" href="sigcomm2012-posters.pdf" rel="external">PDF version</a>
+<a class="button" data-role="button" href="sigcomm2012-posters.pdf" rel="external">PDF Version</a>
 
 <h2 class="hcls">Student Research Competition</h2>
 
@@ -51,7 +51,7 @@ The abstract should clearly state: the problem being addressed; what makes this 
 </p>
 
 <p>
-Prepare your abstract using ACM conference style, modified to 10pt. Concretely, two columns, minimum 10pt times with 0.75 inch margins and 1/3 inch space between columns.  The abstract must be within the page limit and in PDF format. For submission, please use the following <a href="http://conferences.sigcomm.org/sigcomm/2012/sig-alternate-10pt.cls" rel="external">LaTeX template</a> to ensure compliance. Word documents will not be accepted. At the conference, we will distribute the abstracts to all conference attendees.
+Prepare your abstract using ACM conference style, modified to 10pt. Concretely, two columns, minimum 10pt times with 0.75 inch margins and 1/3 inch space between columns.  The abstract must be within the page limit and in PDF format. For submission, please use the following <a href="http://conferences.sigcomm.org/sigcomm/2012/sig-alternate-10pt.cls">LaTeX template</a> to ensure compliance. Word documents will not be accepted. At the conference, we will distribute the abstracts to all conference attendees.
 </p>
 
 
@@ -72,7 +72,7 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 <li><div class="datetag">May 31, 2012</div>
 <p> Acceptance Notification</a></p></li>
 
-<li><div class="datetag"><span style="color:red;">June 13, 2012</span></div>
+<li><div class="datetag"><em>June 13, 2012</em></div>
 <p> Camera-Ready Deadline</a></p></li>
 
 </ul>
@@ -80,33 +80,29 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 
 <h2 class="hcls">Poster/Demo Co-Chairs</h2>
 
-<ul>
-<li>Colin Perkins (University of Glasgow)</li>
-<li>Kevin Almeroth (UC-Santa Barbara)</li>
-</ul>
+<p>Colin Perkins (University of Glasgow)</p>
+<p>Kevin Almeroth (UC-Santa Barbara)</p>
 
 <h2 class="hcls">Poster/Demo Committee</h2>
 
-<ul>
-<li>Aditya Akella (University of Wisconsin-Madison)</li>
-<li>Fabian Bustamante (Northwestern University)</li>
-<li>Nick Feamster (Georgia Tech)</li>
-<li>Timur Friedman (LIP6)</li>
-<li>Tim Griffin (Cambridge University)</li>
-<li>Tristan Henderson (University of St Andrews)</li>
-<li>Sneha Kumar Kasera (University of Utah)</li>
-<li>Dirk Kutscher (NEC Laboratories Europe)</li>
-<li>Li Erran Li (Bell Labs)</li>
-<li>Olaf Maennel (Loughborough University)</li>
-<li>Dan Massey (Colorado State University)</li>
-<li>Sue Moon (KAIST)</li>
-<li>David Oran (Cisco)</li>
-<li>Luigi Rizzo (University of Pisa)</li>
-<li>Neil Spring (University of Maryland)</li>
-<li>Lakshminarayanan Subramanian (New York University)</li>
-<li>Rod Van Meter (Keio University)</li>
-<li>J&ouml;rg Widmer (Institute IMDEA Networks)</li>
-</ul>
+<p>Aditya Akella (University of Wisconsin-Madison)</p>
+<p>Fabian Bustamante (Northwestern University)</p>
+<p>Nick Feamster (Georgia Tech)</p>
+<p>Timur Friedman (LIP6)</p>
+<p>Tim Griffin (Cambridge University)</p>
+<p>Tristan Henderson (University of St Andrews)</p>
+<p>Sneha Kumar Kasera (University of Utah)</p>
+<p>Dirk Kutscher (NEC Laboratories Europe)</p>
+<p>Li Erran Li (Bell Labs)</p>
+<p>Olaf Maennel (Loughborough University)</p>
+<p>Dan Massey (Colorado State University)</p>
+<p>Sue Moon (KAIST)</p>
+<p>David Oran (Cisco)</p>
+<p>Luigi Rizzo (University of Pisa)</p>
+<p>Neil Spring (University of Maryland)</p>
+<p>Lakshminarayanan Subramanian (New York University)</p>
+<p>Rod Van Meter (Keio University)</p>
+<p>J&ouml;rg Widmer (Institute IMDEA Networks)</p>
 
 <?php
     include ("include/footer.php");

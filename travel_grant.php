@@ -49,8 +49,8 @@ The exact number of awards will depend on the availability of funds and will be 
 </li>
 </ol>
 
-<a class="lnkcls" href="travel-grant-page.pdf" rel="external">PDF Version</a>
-<a class="lnkcls" href="travel-grant-page.txt" rel="external">TEXT Version</a>
+<a class="button" data-role="button" href="travel-grant-page.pdf" rel="external">PDF Version</a>
+<a class="button" data-role="button" href="travel-grant-page.txt" rel="external">Text Version</a>
 
 
 <h2 class="hcls">Supporters</h2>
@@ -94,7 +94,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 <li>
 <div class="ui-grid-a">
 	<div class="ui-block-a">
-	  <p style="margin:0;">Submission deadline for all programs</p>
+	  <p>Submission deadline for all programs</p>
 	</div>
 	<div class="ui-block-b">
 	  <p>June 1, 2012</p>
@@ -105,10 +105,10 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 <li>
 <div class="ui-grid-a">
 	<div class="ui-block-a">
-	  <p style="margin:0;">Award notification</p>
+	  <p>Award notification</p>
 	</div>
 	<div class="ui-block-b">
-	  <p><span style="color:black;">June 22, 2012</span></p>
+	  <p>June 22, 2012</p>
 	</div>
    </div><!-- /grid-a -->
 </li>
@@ -116,10 +116,10 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 <li>
 <div class="ui-grid-a">
 	<div class="ui-block-a">
-	  <p style="margin:0;">Deadline to accept/decline the award</p>
+	  <p>Deadline to accept/decline the award</p>
 	</div>
 	<div class="ui-block-b">
-	  <p><span style="color:red;">June 29, 2012</span></p>
+	  <p><em>June 29, 2012</em></p>
 	</div>
    </div><!-- /grid-a -->
 </li>
@@ -130,7 +130,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 <h2 class="hcls">Where and How to Apply</h2>
 
 <p>
-All application materials (applicant's info, CV and and letters) should be submitted electronically to the following website: <a class="lnkcls" href="http://nslab.ee.ntu.edu.tw/sigcomm_2012_travel_grants/" >here</a>
+All application materials (applicant's info, CV and and letters) should be submitted electronically <a class="lnkcls" href="http://nslab.ee.ntu.edu.tw/sigcomm_2012_travel_grants/" >here</a>.
 </p>
 
 <p>
@@ -157,14 +157,14 @@ The applicant's letter should be clearly divided in the following sections:
 <li>
 an explicit identification of (a) the applicant's current country of study or work, (b) academic status (student, postdoc, or junior faculty member), and (c) whether the applicant qualifies for a GeoDiversity travel grant (see above);
 </li>
-<li style="color:red">
-<b>whether the applicant is a workshop paper or poster author;</b>
+<li>
+<em>whether the applicant is a workshop paper or poster author;</em>
 </li>
-<li style="color:red">
-<b>whether the applicant is active in IETF. Describe activity (e.g.
+<li>
+<em>whether the applicant is active in IETF. Describe activity (e.g.,
 author of a working group document, participant in mailing list
 (posting), subscriber to mailing list, presentation to members of
-working group, etc.);</b>
+working group, etc.);</em>
 </li>
 <li>
 brief summary of where the applicant is studying/working (provide a URL for a home page if one exists) and the applicant's advisor/supervisor is; the applicant feels is relevant to support their case;
@@ -194,7 +194,7 @@ explain the current funding status and why the applicant is in need of the trave
 </ol>
 
 <p>
-Supervisor letters may either be uploaded directly into the applicant's account (preferred) or may be emailed (PDF only!) to <a class="lnkcls" href="mailto:pollyhuang@ntu.edu.tw">travel grant chairs</a>. The submission site has been designed to keep supervisor letters "write-only", i.e., the applicant will not be able to view the uploaded letter in their account.
+Supervisor letters may either be uploaded directly into the applicant's account (preferred) or may be emailed (PDF only!) to the <a class="lnkcls" href="mailto:pollyhuang@ntu.edu.tw">travel grant chairs</a>. The submission site has been designed to keep supervisor letters "write-only", i.e., the applicant will not be able to view the uploaded letter in their account.
 </p>
 
 

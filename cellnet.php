@@ -6,8 +6,8 @@
 <h2 class="hcls">Cellular Networks: Operations, Challenges, and Future Design (CellNet)</h2>
 
 <p>
-<b>Helsinki, Finland (Monday August 13, 2012)</b>
-
+<b>Helsinki, Finland (Monday, August 13, 2012)</b>
+</p>
 <!--
 <h2 class="hcls">Technical Program</h2>
 
@@ -42,7 +42,6 @@
 </table>
 -->
 
-<h2 class="hcls">Call for Papers</h2>
 <p>
 With the popularity of smart phones and tablets, we are living in an
 increasingly mobile world. Third-party mobile applications such as
@@ -89,38 +88,28 @@ We solicit submissions on topics including, but not limited to, the following:
 
 <ul>
 <li>Operation aspects:</li>
-
-<li style="list-style:none;">
 <ul>
    <li>Radio resource allocation and usage profiling</li>
    <li>Cellular network architecture characterization</li>
    <li>Understanding and modeling cellular data traffic</li>
    <li>Cellular network security</li>
 </ul>
-</li>
 
 <li>Challenges facing today's cellular networks:</li>
-
-<li style="list-style:none;">
 <ul>
    <li>Cellular network management</li>
    <li>Mobility</li>
    <li>Energy efficiency</li>
    <li>Spectrum shortage</li>
 </ul>
-</li>
 
 <li>Future cellular network design:</li>
-
-<li style="list-style:none;">
 <ul>
    <li>Architectures</li>
    <li>Protocols</li>
    <li>Algorithms</li>
    <li>Security and privacy</li>
 </ul>
-</li>
-
 </ul>
 
 
@@ -138,41 +127,44 @@ accepted papers are expected to present their papers at the
 workshop. Submissions must be original work not under review at any
 other workshop, conference, or journal.<p> 
 
+<a href="mailto:cellnet2012-chairs@umich.edu" data-role="button" class="button">Email the Organizers</a>
+
 <h2 class="hcls">Important Dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Paper Registration", "March 23, 2012, 11:59 p.m. GMT"); ?>
-	<?php add_dateitem("Submissions due", "<strike> March 30, 2012 </strike> <span style=\"color:red;\">(extended to April 11, 2012, 23:59 GMT)</span>"); ?>
-	<?php add_dateitem("Notification of Acceptance", "May 11, 2012"); ?>
-	<?php add_dateitem("Camera Ready", "<b>June 1, 2012</b>"); ?>
-	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+	<?php add_dateitem("Paper Registration", "<span class='linethrough'>March 23, 2012, 11:59 PM GMT</span>"); ?>
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'> March 30, 2012; extension: <em>April 11, 2012, 23:59 GMT</em></span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 11, 2012</span>"); ?>
+	<?php add_dateitem("Camera-Ready", "June 1, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "August 13, 2012"); ?>
 </ul>
 
-<p>Please email the <a href="mailto:cellnet2012-chairs@umich.edu" class="lnkcls">general chairs</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organizers</h2>
 
 <h3>Program Committee Co-Chairs</h3>
-Li Erran Li (Bell Labs)<br/>
-Z. Morley Mao (Univ of Michigan)
+<ul>
+<li>Li Erran Li (Bell Labs)		   </li>
+<li>Z. Morley Mao (Univ of Michigan)</li>
+</ul>
 
 <h3>Program Committee Members</h3>
-
-Suman Banerjee, Wisconsin
-<br> Andrew Campbell, Dartmouth College
-<br> Xu Simon Chen, AT&amp;T Research
-<br> Zihui Ge, AT&amp;T Research
-<br> Marco Gruteser,Winlab/Rutgers University
-<br> Edward Knightly, Rice
-<br> Ulas Kozat, Docomo
-<br> Haiyun Luo, China Mobile Research, USA
-<br> Kobus Van Der Merwe, AT&amp;T Research
-<br> Ram Ramjee, Microsoft Research
-<br> Jennifer Rexford, Princeton
-<br> Cedric Westphal, Huawei
-<br> Hui Zang, Sprint Labs
-<br> Yongguang Zhang, Microsoft Research
-
+<ul>
+<li>Suman Banerjee, Wisconsin				</li>
+<li> Andrew Campbell, Dartmouth College		</li>
+<li> Xu Simon Chen, AT&amp;T Research		</li>
+<li> Zihui Ge, AT&amp;T Research				</li>
+<li> Marco Gruteser,Winlab/Rutgers University</li>
+<li> Edward Knightly, Rice					</li>
+<li> Ulas Kozat, Docomo						</li>
+<li> Haiyun Luo, China Mobile Research, USA	</li>
+<li> Kobus Van Der Merwe, AT&amp;T Research	</li>
+<li> Ram Ramjee, Microsoft Research			</li>
+<li> Jennifer Rexford, Princeton				</li>
+<li> Cedric Westphal, Huawei					</li>
+<li> Hui Zang, Sprint Labs					</li>
+<li> Yongguang Zhang, Microsoft Research		</li>
+</ul>
 
 <?php
     include ("include/footer.php");

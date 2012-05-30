@@ -25,4 +25,4 @@ rel="external">Ministry for
 				 provide the title</li>
 </ul>
 
-<a href="mailto:supportletters@acm.org" data-role="button" data-theme="b" class="center" style="width:50%">Request visa support letter</a>
+<a href="mailto:supportletters@acm.org" data-role="button" class="button">Request Visa Support Letter</a>

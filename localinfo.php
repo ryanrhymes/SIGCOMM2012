@@ -23,7 +23,7 @@ one of the safest cities in Europe. Helsinki was declared the capital of Finland
 	  most liveable city</a>. Read more about Helsinki and Finland on the web sites of the <a href="http://www.visitfinland.com/en/web/guest/finland-guide/home">Finnish Tourist Board</a>,  <a href="http://virtual.finland.fi/">Virtual Finland</a>, <a href="http://www.finland.fi/">Finland.fi</a>, <a href="http://en.wikipedia.org/wiki/Finland">Finland in Wikipedia</a>, <a href="http://wikitravel.org/en/Finland">Wikitravel</a>, <a href="http://www.stat.fi/index_en.html">Statistics Finland</a> and <a href="http://www.helsinki.fi/eng/">City of Helsinki</a>.
 </p>
 
-<div><img src="images/helsinki_5.jpg" style="width:100%" alt="pic"></div>
+<div><img src="images/helsinki_5.jpg" class="banner"alt="pic"></div>
 
 
 <h2 class="hcls">Hotels</h2>
@@ -39,48 +39,48 @@ earlier. All the hotels on this list are within easy walking distance
 </p>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Holiday Inn Helsinki City Centre</h3>
    <p>
 Holiday Inn Helsinki City Centre is located in the heart of Helsinki right next to the Main Railway Station.
 The hotel offers perfect facilities for both business and leisure travelers. A beautiful setting, customer orientated solutions and excellent connections ensure a pleasant stay.
   </p>
-  <p>
-  Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
-  </p>
-  <p>
-  Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM)
-  </p>
-  <p style="color:red">
-  Dates: 11th ~ 19th Aug, 2012 ; Prices (single/double): 199 / 224 &#8364; (including breakfast)
-  </p>
+
+  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
+
+  <table class="hotel">
+  <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
+  <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
+  <tr><th>Reservation code:</th><td>  SIGCOMM</td></tr>
+  <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
+  <tr><th>Price:</th><td>199&#8364; single (including breakfast)<br> 224&#8364; double (including breakfast)</td></tr>
+  </table>
+  
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 750 m, 9-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
-<br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Scandic Continental Helsinki</h3>
    <p>
 This hotel in central Helsinki has an ideal city location just opposite the beautiful Toolo Bay, and only a 10 minute walk from Helsinki's city centre and popular attractions.
   </p>
-  <p>
-  Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
-  </p>
-  <p>
-Cut-off day: 12th Jul, 2012 (Reservation code: BACM120812)
-</p>
-<p style="color:red">
-Dates: 11th ~ 20th Aug, 2012 ; Prices (single/double): 125 / 135 &#8364; (including breakfast)
-</p>
+  
+  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
+
+  <table class="hotel">
+  <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
+  <tr><th>Cut-off date:</th><td> July 12, 2012</td></tr>
+  <tr><th>Reservation code:</th><td>  BACM120812</td></tr>
+  <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
+  <tr><th>Price:</th><td> 125&#8364 single (including breakfast)<br> 135&#8364 double (including breakfast)</td></tr>
+  </table>
+  
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 500 m, 6-minute walk  <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
-<br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Sokos Hotel Presidentti</h3>
    <p>
 Sokos Hotels is the largest and most well-known hotel chain
@@ -88,53 +88,52 @@ Finland. The chain operates over 50 hotels in Finland, Tallinn and
 St. Petersburg. Sokos Hotel Presidentti is located close to the Kamppi
 Shopping Center and the conference venue.
   </p>
-  <p>
-  Rating: &#9733; &#9733; &#9733; &#9733;
-  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
-  </p>
-<p>
-Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM2012)
-</p>
-<p style="color:red">
-Dates: 11th ~ 20th Aug, 2012 ; Prices (single/double): 118 / 128 &#8364; (including breakfast)
-</p>
+  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
+
+  <table class="hotel">
+  <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
+  <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
+  <tr><th>Reservation code:</th><td> SIGCOMM2012</td></tr>
+  <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
+  <tr><th>Price:</th><td> 118&#8364; single (including breakfast)<br> 128&#8364; double (including breakfast)</td></tr>
+  </table>
+
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 650 m, 8-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
-<br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Cumulus Kaisaniemi</h3>
    <p>
 The hotel's location in the very centre of Helsinki only two blocks from the main railway station across the street from a metro station makes it easy to reach the Cumulus Kaisaniemi.
   </p>
-  <p>
-  Rating: &#9733; &#9733; &#9733;
-  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
-  </p>
-<p>
-Cut-off day: 13th Jul, 2012 (Reservation code: SIGCOMM)
-</p>
-<p style="color:red">
-Dates: 11th ~ 19th Aug, 2012 ; Prices (single/double): 155 / 175 &#8364; (including breakfast)
-</p>
+  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
+  
+  <table class="hotel">
+  <tr><th>Rating:</th><td>&#9733; &#9733; &#9733;</td></tr>
+  <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
+  <tr><th>Reservation code:</th><td> SIGCOMM</td></tr>
+  <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
+  <tr><th>Price:</th><td> 155&#8364; single (including breakfast)<br> 175&#8364; double (including breakfast)</td></tr>
+  </table>
+
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.3 km, 17-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
-<br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Hostel Academica</h3>
    <p>
 Hostel Academica is located in the city centre. Most of the sights in Helsinki are within walking distance of the hostel. Trams also offer you handy means of transport around town.
   </p>
-  <p>
-  Rating: &#9733; &#9733;
-  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="info" data-inline="true" data-mini="true" style="float:right; margin-right:1em;" >Booking</a>
-  </p>
-<p style="color:red">
-Dates: 13th ~ 17th Aug, 2012; Prices (single/double/triple): 57 / 72 / 84 &#8364;
-</p>
+  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
+
+  <table class="hotel">
+  <tr><th>Rating:</th><td>&#9733; &#9733;</td></tr>
+  <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
+  <tr><th>Price:</th><td> 57&#8364; single <br> 72&#8364; double <br> 84&#8364; triple </td></tr>
+  </table>
+
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.2 km, 16-minute walk   <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
@@ -187,15 +186,15 @@ href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
 >Helsinki Regional Transport</a>. 
 </p>
 
-<div><img src="images/helsinki_6.jpg" style="width:100%" alt="pic"></div>
+<div><img src="images/helsinki_6.jpg" class="banner"alt="pic"></div>
 
 
 <h2 class="hcls">Sightseeing</h2>
 
-<p>Most of Helsinki's tourist attractions are situated within easy walking distance of the city centre, and if your feet do get tired, you can rely on Helsinki's excellent public transportation -- which has been ranked the best in Europe. There are plenty of sightseeing tours, excursions and other activities to fill every day of your holiday. You can also discover the city by hopping aboard the 3T tram or making the most the city's walking, cycling and nature paths. To help you discover Helsinki on your own, the brochure "Helsinki on Foot" can be purchased from Tourist Information. The brochure presents seven well-marked walking routes</p>
+<p>Most of Helsinki's tourist attractions are situated within easy walking distance of the city centre, and if your feet do get tired, you can rely on Helsinki's excellent public transportation -- which has been ranked the best in Europe. There are plenty of sightseeing tours, excursions and other activities to fill every day of your holiday. You can also discover the city by hopping aboard the 3T tram or making the most the city's walking, cycling and nature paths. To help you discover Helsinki on your own, the brochure "Helsinki on Foot" can be purchased from Tourist information. The brochure presents seven well-marked walking routes</p>
 
 <p><b>Helsinki</b> - There are many interesting places worth visiting in Helsinki, such as <a href="http://www.visithelsinki.fi/In_English/Visitor/See/Architecture.iw3?showmodul=162&amp;Matko_pid=140">Senate Square</a>,  <a href="http://www.visithelsinki.fi/In_English/Visitor/See/Main_attractions.iw3?showmodul=162&amp;Matko_pid=226">Cathedral</a>, <a href="http://en.wikipedia.org/wiki/Helsinki_market_square">Market Square</a> and <a href="http://www.wanhakauppahalli.com/">Market Hall</a>,  <a href="http://www.hel.fi/wps/portal/Kaupunginmuseo_en/Artikkeli_en?WCM_GLOBAL_CONTEXT=/Museo/en/Museums+-+Exhibitions/Sederholm+House">Sederholm House</a>, <a href="http://www.hel.fi/wps/portal/Kaupunginmuseo_en/Artikkeli_en?WCM_GLOBAL_CONTEXT=/Museo/en/Museums+-+Exhibitions/City+Museum">Helsinki City Museum</a>,  <a href="http://www.visithelsinki.fi/In_English/Visitor/See/Main_attractions.iw3?showmodul=162&amp;Matko_pid=228">Uspenski Cathedral</a>, <a href="http://www.visithelsinki.fi/In_English/Visitor/See/Parks.iw3?showmodul=162&amp;Matko_pid=382">Esplanade Park</a>, and <a href="http://www.suomenlinna.fi/en/">Suomenlinna Sea Fortress</a>, a UNESCO World Heritage site.
-To find out more information, you can visit <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Tourist_Information.iw3">City Tourist Information</a>.
+To find out more information, you can visit <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Tourist_information.iw3">City Tourist information</a>.
 </p>
 
 <p><b>Southern Finland</b> - Places in Southern Finland worth visiting include <a href="http://www.porvoo.fi/en">Porvoo</a>, <a href="http://www.turku.fi/english">Turku</a> and <a href="http://www.tampere.fi/english/">Tampere</a>. Porvoo is easily reached by bus or a cruise and Turku and Tampere are reachable by train in under 2 hours.</p>
@@ -205,10 +204,10 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 </p>
 
 <p>
-<b>St. Petersburg</b> - You can also visit St. Petersburg during your stay here. It is only a 4-hour train ride from Helsinki to St. Petersburg. <span style="color:red">For most tourists to Russia, a Russian visa is required.</span> You should apply for a Russian visa beforehand (from your country of residence). Contact <a href="http://www.mid.ru/zu_r.nsf/strawebeng">your local Russian embassy</a> for details.  To find out more information, see <a href="http://www.vr.fi/eng/ulkomaat/venaja/pietari_moskova_ja_viipuri/pietari.shtml">list of attractions, train schedules and fares</a>. Visiting St. Petersburg on an overnight cruise allows a <span style="color:red">visa-free stay of up to 72 hours</span> for all nationalities. Please see the website of <a href="http://www.stpeterline.com/en/OnBoard/News.aspx">St. Peter Line</a> for more information on this arrangement.
+<b>St. Petersburg</b> - You can also visit St. Petersburg during your stay here. It is only a 4-hour train ride from Helsinki to St. Petersburg. <span >For most tourists to Russia, a Russian visa is required.</span> You should apply for a Russian visa beforehand (from your country of residence). Contact <a href="http://www.mid.ru/zu_r.nsf/strawebeng">your local Russian embassy</a> for details.  To find out more information, see <a href="http://www.vr.fi/eng/ulkomaat/venaja/pietari_moskova_ja_viipuri/pietari.shtml">list of attractions, train schedules and fares</a>. Visiting St. Petersburg on an overnight cruise allows a <span >visa-free stay of up to 72 hours</span> for all nationalities. Please see the website of <a href="http://www.stpeterline.com/en/OnBoard/News.aspx">St. Peter Line</a> for more information on this arrangement.
 </p>
 
-<div><img src="images/helsinki_7.jpg" style="width:100%" alt="pic"></div> 
+<div><img src="images/helsinki_7.jpg" class="banner"alt="pic"></div> 
 
 <h2 class="hcls">Culture</h2>
 <p>

@@ -6,7 +6,7 @@
 <h2 class="hcls">Hot Topics in Software Defined Networking (HotSDN)</h2>
 
 <p>
-<b>Helsinki, Finland (August 13, 2012)</b>
+<b>Helsinki, Finland (Monday, August 13, 2012)</b>
 </p>
 
 <!--
@@ -44,8 +44,6 @@
 </table>
 
 -->
-
-<h2 class="hcls">Call for Papers</h2>
 
 <!--
 <p> <a href="" rel="external">PDF version</a> <a href="" rel="external">Text version</a> </p>
@@ -136,48 +134,53 @@ site</a>.  Papers must include the author name and affiliation for single-blind
 peer reviewing by the program committee.  Authors of accepted papers are
 expected to present their papers at the workshop.<p>
 
+<a href="mailto:hotsdn2012-chairs@lists.noise.gatech.edu" data-role="button" class="button">Email the Organizers</a>
+
 <h2 class="hcls">Important Dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Submissions due", "<strike>April 6, 2012</strike> <span style=\"color:red;\">(extended to April 10, 2012, 11:59pm GMT)</span>"); ?>
-	<?php add_dateitem("Notification of Acceptance", "May 25, 2012"); ?>
-	<?php add_dateitem("Camera Ready", "June 15, 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'>April 6, 2012; extension: <em>April 10, 2012, 11:59 PM GMT</em></span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 25, 2012</span>"); ?>
+	<?php add_dateitem("Camera-Ready", "June 15, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "August 13, 2012"); ?>
 </ul>
 
-<p>
-Please email the <a href="mailto:hotsdn2012-chairs@lists.noise.gatech.edu" class="lnkcls">program chairs</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organizers</h2>
 
 <h3>Program Committee Co-Chairs</h3>
-Nick Feamster (Georgia Tech)<br/>
-Jennifer Rexford (Princeton)<br/>
+<ul>
+<li>Nick Feamster (Georgia Tech)</li>
+<li>Jennifer Rexford (Princeton)</li>
+</ul>
 
 <h3>Program Committee Members</h3>
-Katerina Argyraki (EPFL)<br/>
-Jun Bi (Tsinghua University)<br/>
-Marco Canini (EPFL)<br/>
-Martin Casado (Nicira)<br/>
-Anja Feldmann (T-Labs/TU Berlin)<br/>
-Nate Foster (Cornell)<br/>
-Yashar Ganjali (U. Toronto)<br/>
-Sachin Katti (Stanford)<br/>
-Teemu Koponen (Nicira)<br/>
-Jeff Mogul (HP Labs)<br/>
-Richard Mortier (University of Nottingham)<br/>
-Nick McKeown (Stanford)<br/>
-Rob Sherwood (BigSwitch)<br/>
-Amin Vahdat (UCSD/Google)<br/>
-Andreas Voellmy (Yale)<br/>
-Dave Ward (Cisco)<p/>
+<ul>
+<li>Katerina Argyraki (EPFL)					 </li>
+<li>Jun Bi (Tsinghua University)				 </li>
+<li>Marco Canini (EPFL)						 </li>
+<li>Martin Casado (Nicira)					 </li>
+<li>Anja Feldmann (T-Labs/TU Berlin)			 </li>
+<li>Nate Foster (Cornell)					 </li>
+<li>Yashar Ganjali (U. Toronto)				 </li>
+<li>Sachin Katti (Stanford)					 </li>
+<li>Teemu Koponen (Nicira)					 </li>
+<li>Jeff Mogul (HP Labs)						 </li>
+<li>Richard Mortier (University of Nottingham)</li>
+<li>Nick McKeown (Stanford)					 </li>
+<li>Rob Sherwood (BigSwitch)					 </li>
+<li>Amin Vahdat (UCSD/Google)				 </li>
+<li>Andreas Voellmy (Yale)					 </li>
+<li>Dave Ward (Cisco)<p/>					 </li>
+</ul>
 
 <h3>Steering Committee</h3>
-Bruce Davie (Nicira)<br/>
-Nick Feamster (Georgia Tech)<br/>
-Guru Parulkar (Stanford)<br/>
-Jennifer Rexford (Princeton)<br/>
-
+<ul>
+<li>Bruce Davie (Nicira)		   </li>
+<li>Nick Feamster (Georgia Tech)</li>
+<li>Guru Parulkar (Stanford)	   </li>
+<li>Jennifer Rexford (Princeton)</li>
+</ul>
 <?php
     include ("include/footer.php");
 ?>

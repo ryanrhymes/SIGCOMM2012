@@ -49,7 +49,7 @@ site</a></b> to:</p>
 
 </ul>
 
-<p><b>These are <span style="color:#FF0000">hard deadlines</span> and no extensions will be given.</b></p>
+<p><b>These are <em>hard deadlines</em> and no extensions will be given.</b></p>
 
 <p>The information on this page is intentionally comprehensive.
 Veteran authors will likely find it familiar, but
@@ -105,7 +105,7 @@ improperly identify PC members as conflicts to avoid an individual who might
 review your paper.</p>
 
 
-<h2 id="novelty">Paper novelty</h2>
+<h2 id="novelty">Paper Novelty</h2>
 
 <p>Under no circumstances should authors submit previously published
 work, submit the same work simultaneously to multiple venues, or
@@ -134,7 +134,7 @@ prior work.</p>
 <p>Papers accompanied by nondisclosure agreement requests will not be considered nor ever disclosed.</p>
 
 
-<h2 id="anonymity">Paper anonymity</h2>
+<h2 id="anonymity">Paper Anonymity</h2>
 
 <p>All submitted papers will be judged based
 on their quality and relevance through double-blind reviewing, where the
@@ -158,7 +158,7 @@ the following steps when preparing your submission:</p>
 </ul>
 
 
-<h2 id="formatting">Paper formatting</h2>
+<h2 id="formatting">Paper Formatting</h2>
 
 <p>All submissions must obey the following
 formatting requirements. Your goal as an author is to produce a clearly
@@ -167,8 +167,8 @@ readable submission within these constraints.</p>
 <p>Before final submission, you are expected
 to make sure that your paper complies with these requirements. Authors are
 strongly discouraged from violating the formatting requirements with the aim of
-including additional material: <span style="color:#FF0000">submissions that violate the formatting requirements may not be
-reviewed</span>. The submission system can report possible formatting violations in
+including additional material: <sem>submissions that violate the formatting requirements may not be
+reviewed</em>. The submission system can report possible formatting violations in
 papers that you upload. You can also visually inspect a page-by-page report of
 your paper format using the same tool as the submission system via a separate <a
 href="http://www.sysnet.ucsd.edu/sigops/banal/index.php" >online form</a>.</p>
@@ -204,19 +204,19 @@ will be rejected due to format violations without first being checked by hand.</
 </ul>
 
 
-<h2 id="response">Author response</h2>
+<h2 id="response">Author Response</h2>
 
 <p> This year SIGCOMM will allow authors to provide brief feedack after first round reviews.
 This feedback, or author response, will be limited to being no more than 400 words <u>and</u> 2600 characters long, and can be used by authors to clarify
 possible misperceptions and to respond to specific questions, if any, raised by the reviewers.  
-<span style="color:#FF0000">We have provided a set of guidelines <a class="lnkcls" href="AuthorResponseGuidelines.htm" >HTML</a> &nbsp; <a class="lnkcls" href="AuthorResponseGuidelines.pdf" rel="external">PDF</a> to enable authors to maximize the effectiveness of this mechanism.</span>
+<em>We have provided a set of guidelines <a class="lnkcls" href="AuthorResponseGuidelines.htm" >HTML</a> &nbsp; <a class="lnkcls" href="AuthorResponseGuidelines.pdf" rel="external">PDF</a> to enable authors to maximize the effectiveness of this mechanism.</em>
 The relevant
 dates are as follows. The first round reviews will be available on the submission
 web site by <b>March 23, 2012</b>. Authors who wish to provide a response to the reviews of their paper can do so by logging in after the
-above date to read the reviews and then submitting a rebuttal by <b>9:00 PM PDT March 30, 2012</b>. <span style="color:#FF0000">We ask authors to mark the above dates in 
-their calendar and to NOT depend on or wait for a notification from the system.</span> 
+above date to read the reviews and then submitting a rebuttal by <b>9:00 PM PDT March 30, 2012</b>. <em>We ask authors to mark the above dates in 
+their calendar and to NOT depend on or wait for a notification from the system.</em> 
 
-<h2 id="acceptance">Paper acceptance</h2>
+<h2 id="acceptance">Paper Acceptance</h2>
 <p>The SIGCOMM 2012 PC will notify authors
 of review decisions by April 30, 2012. All accepted papers may be shepherded by
 members of the PC. Authors of accepted papers should plan to interact with

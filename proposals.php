@@ -52,7 +52,7 @@ Email proposals in PDF to
 </table>
 
 <p>
-Note that there are only three weeks between the notification and the final CFP. Thus, while it is not a strict requirement, <span style="color:red;">we strongly encourage you to contact your workshop potential PC members before submitting the proposal</span>.
+Note that there are only three weeks between the notification and the final CFP. Thus, while it is not a strict requirement, <em>we strongly encourage you to contact your workshop potential PC members before submitting the proposal</em>.
 </p>
 
 

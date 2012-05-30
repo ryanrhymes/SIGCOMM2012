@@ -12,7 +12,7 @@ Please see the individual tutorial pages for detailed information.
 
 <p>If you would like to support the SIGCOMM 2012 tutorials, please review <a class="lnkcls" href="sigcomm-support.pdf" rel="external">this information</a>. Please email the <a  class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>A Networking Approach to the Smart Grid</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
@@ -28,15 +28,15 @@ Please see the individual tutorial pages for detailed information.
 	  	</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right">
+   <div class="right">
    <a href="nasg.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
 <br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
-   <h3>SORA: Programming Broadband Wireless with Sora</h3>
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+   <h3>Programming Broadband Wireless with Sora</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
 	  <p><b>Presenters</b></p>
@@ -52,14 +52,14 @@ Please see the individual tutorial pages for detailed information.
    		</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right">
+   <div class="right">
    <a href="sora.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
 <br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Programmability of Wireless Networks</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
@@ -77,14 +77,14 @@ Please see the individual tutorial pages for detailed information.
 	  </p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right">
+   <div class="right">
    <a href="pwn.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 
 <br />
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Romancing the User: An Introduction to Human Computer Interaction Techniques for Networking Researchers</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
@@ -100,8 +100,8 @@ Please see the individual tutorial pages for detailed information.
    		</p>
 	</div>
    </div><!-- /grid-a -->
-   <div style="text-align:right">
-   <a href="HCI_tutorial.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
+   <div class="right">
+   <a href="hci.php" data-role="button" data-theme="b" data-icon="info" data-inline="true" >Detailed Info</a>
    </div>
 </div>
 

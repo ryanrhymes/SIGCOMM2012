@@ -15,9 +15,10 @@
 }
 */
 
-p {
+p, li {
 	line-height: 1.3em;
 }
+
 
 #cmttbl {
 	text-align:left;
@@ -39,7 +40,11 @@ img.logo {
 }
 
 li {
-	margin-bottom: 1em;
+	margin-bottom: .5em;
+}
+
+ul li {
+	margin-top: .5em;
 }
 
 .wstbl {
@@ -55,7 +60,7 @@ li {
 	display: block;
 }
 
-.supporter {
+.supporter, .banner {
 	width: 100%;
 	margin: auto;
 }
@@ -73,9 +78,27 @@ li {
 	vertical-align: middle;
 }
 
-.hostlogo img {
-	padding: 1em;
+.border {
+	border: 1px solid #BBB;
+	margin-top: 2em;
+}
+
+.hostlogo div {
+	padding: 4% 2% 0 2%;
+	width: 43%;
+ 	text-align: center;
+	display: inline-block;
 	vertical-align: middle;
+}
+
+.hostlogo img {
+	max-height: 80px;
+}
+
+.hostlogo p {
+ 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .center {
@@ -84,8 +107,41 @@ li {
  	text-align: center;
 }
 
+.right {
+ 	text-align: right;
+}
+
+.floatright {
+ 	float: right;
+}
+
 .linethrough {
 	text-decoration: line-through;
+}
+
+table.hotel th {
+	text-align: right;
+	vertical-align: top;
+}
+
+table.hotel tr {
+	line-height: 1.3em;
+}
+
+table.hotel {
+	padding-bottom: 1em;
+}
+
+a.button {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+em {
+	color: red;
+	font-weight: bold;
+	font-style: normal;
 }
 
 .supporter h2 {
@@ -103,40 +159,31 @@ li {
 }
 
 .hcls {
-	padding: 0.2em 0.4em;
+	padding: 0.3em;
 	background: #A1BA00;
 	color: white;
 	font-weight: normal;
 	letter-spacing:1px;
-	border: #A1BA00 solid 2px;
-	-moz-border-radius: 6px;
-	border-radius: 6px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
 }
 
 .lnkcls:link {
 	text-decoration: none;
-	text-shadow: none;
 	margin: 0.1em;
-	padding: 0.2em 0.3em;
-	background-color: white;
-	font-size: 0.9em;
+	padding: 0.15em;
 	color: #2489CE;
 	border: #2489CE solid 1px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
 }
 
 .lnkcls:hover {
 	text-decoration: none;
 	text-shadow: none;
-	margin: 0.1em;
-	padding: 0.2em 0.3em;
-	background-color: orange;
-	font-size: 0.9em;
+	background-color: #fc0;
 	color: #2489CE;
-	border: orange solid 1px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
+	border: #fc0 solid 1px;
 }
 
 .datetag {
@@ -239,7 +286,7 @@ li {
 	display: inline-block;
 }
 
-h2 { margin-top:1.5em; }
+h2, h3 { margin-top:1.5em; }
 
 .hidden { display: none; }
 
@@ -248,7 +295,7 @@ h2 { margin-top:1.5em; }
 }
 
 .socialbuttons {
-	padding-top: .5em;
+	padding-top: .6em;
 	padding-bottom: .5em;
 	padding-left: 2em;
 }
@@ -264,9 +311,6 @@ h2 { margin-top:1.5em; }
 }
 
 div.fees {
-	border: #6dc8e8 solid 2px;
-	-moz-border-radius: 12px;
-	border-radius: 12px;
 	margin: .5em;
 	font-size: .8em;
 	

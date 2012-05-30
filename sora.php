@@ -1,14 +1,13 @@
 <?php
-        $page_title="Workshop Template";
+        $page_title="Programming Broadband Wireless with Sora";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">Tutorial: Programming Broadband Wireless with Sora</h2>
-<table>
-<tr><td>Presented by:</td><td>Kun Tan, Jiansong Zhang,</td><td>Wireless and Networking Group, MSR Asia</td></tr>
-<tr><td></td><td>Paul Wang,</td><td>Innovative Engineering Group, MSR Asia</td></tr>
-</table>
+<h2 class="hcls">Programming Broadband Wireless with Sora</h2>
+
+<p><b>Presented by:</b> Kun Tan, Jiansong Zhang, Wireless and Networking Group, MSR Asia and 
+Paul Wang, Innovative Engineering Group, MSR Asia</p>
 
 <p>
 <b>Helsinki, Finland (August 13, 2012)</b>
@@ -35,8 +34,11 @@ The latest Sora SDK should be installed. You can find the latest version <a href
 More background information on the Sora Platform can be found on <a href="http://research.microsoft.com/en-us/projects/sora/">MSRA site</a> or <a href="http://social.microsoft.com/Forums/is/sora/threads">Sora forum</a>.
 </p>
 <p>
-Due to the facility constraints, the number of attendees for the tutorial is limited to <b>20</b>.
+Due to the facility constraints, the number of attendees for the tutorial is limited to <em>20</em>.
 </p>
+
+<a class="button" data-role="button" href="mailto:sigcomm2012-gen-chairs@acm.org">Email the Organizers</a>
+
 
 <h2 class="hcls">Outline</h2>
 <ul>
@@ -79,7 +81,7 @@ Due to the facility constraints, the number of attendees for the tutorial is lim
     <ul><li>Overview</li>
         <li>Vector data types</li>
         <li>Vector operations</li>
-        <li><em>Rep</em> utility</li>
+        <li>Rep utility</li>
         <li>Exercise: Hello Vector1 program</li>
     </ul>
     <li>Debug using DbgPlot</li>
@@ -104,9 +106,8 @@ Due to the facility constraints, the number of attendees for the tutorial is lim
 </ul>
 
 
-<h2 class="hcls">About the presenters</h2>
-<ul>
-<li><p>Kun Tan</p>
+<h2 class="hcls">About the Presenters</h2>
+<h3>Kun Tan</h3>
     <p>Kun Tan is a Lead Researcher at Microsoft Research Asia. He leads the development of the Sora Software Radio system. His research interests include transport protocols, 
     congestion control, delay-tolerant networking, and wireless networks and systems. Previously, he has developed the Compound TCP, which has been implemented and deployed in latest Windows OS.
    Dr. Tan won the best paper award in NSDI 2009, and also won best demo awards in NSDI 2009 and Sigcomm 2010.
@@ -116,22 +117,15 @@ Due to the facility constraints, the number of attendees for the tutorial is lim
 <p>
 Dr. Tan received the B.E., M.E. and Ph.D. degree in Computer Science and Engineering from Tsinghua University, Beijing, China, in 1997, 1999, and 2002 respectively. He is a member of IEEE and ACM.
 </p>
-</li>
-<li><p>Jiansong Zhang</p>
+
+<h3>Jiansong Zhang</h3>
 <p> Jiansong Zhang is an Associate Researcher at Microsoft Research Asia. He joined MSRA in July 2006, immediately after he received his Master degree from Tsinghua University. Before that, he obtained his Bachelor degree also from Tsinghua University in 2004. During the years in MSRA, he devoted most of his time to Software Radio (Sora project) and Wireless system design related research. He has published several papers in top-tier
 conference like Sigcomm, Mobicom, NSDI, Infocom as primary author or co-author. From September of 2011 to present, he has started to pursue a PhD degree in the CSE department of Hong Kong University of Science and Technology (HKUST) in a joint program between MSRA and HKUST.</p>
-</li>
-<li><p>Paul Wang</p>
+
+<h3>Paul Wang</h3>
 <p>Paul Wang is a Research Software Development Engineer at Microsoft Research Asia. He received his Bachelor degree in Department of Engineering and System Science, National Tsing Hua University, Taiwan, in 1999, and the Master degree in Department of Computer Science and Information Engineering, National Taiwan University, Taiwan, in 2010. His research interests include operating system and programming languages</p>
-</li>
 
 
-<h2 class="hcls">VISA information</h2>
-
-<p>You can download all VISA papers as a single <a href="" >zip</a> file.</p>
- 
-
-Please email the <a href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
 
 <?php
     include ("include/footer.php");

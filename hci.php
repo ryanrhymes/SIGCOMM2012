@@ -1,16 +1,17 @@
 <?php
-        $page_title="Tutorial: Romancing the User: An Introduction to Human Computer Interaction
+        $page_title="Romancing the User: An Introduction to Human Computer Interaction
 Techniques for Networking Researchers";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">Tutorial: Romancing the User: An Introduction to Human Computer Interaction
+<h2 class="hcls">Romancing the User: An Introduction to Human Computer Interaction
 Techniques for Networking Researchers</h2>
 
 <p>
-<b>Helsinki, Finland (August 17, 2012)</b> <br>
-Presented by: <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
+<b>Helsinki, Finland (Friday, August 17, 2012)</b>
+</p><p>
+<b>Presented by:</b> <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
 
 
 <h2 class="hcls">Motivation</h2>
@@ -37,45 +38,48 @@ As well as highlighting the importance of understanding users and engaging in in
 Throughout the tutorial, we will use examples most relevant to the SIGCOMM community and participants will be provided with opportunities for hands-on engagement with the lecture material. No background knowledge is required.
 </p>
 
+<a class="button" data-role="button" href="mailto:marshini@cc.gatech.edu,tar@cs.nott.ac.uk">Email the Organizers</a>
+
+
 <h2 class="hcls">Outline</h2>
 
 <p> <ul>
 
 <li> <b>Techniques for Understanding Users:</b> We will introduce a range of techniques for understanding user including when each approach should be employed, how to develop research instruments, determine sample sizes, and how results gathered using each approach generalize.
 <ul>
-<li>	<em>Interviews:</em> Basics of creating and using interview guides and the types of data best gathered through this technique. </li>
-<li>	<em>Questionnaires:</em> Developing and deploying questionnaires. </li>
-<li>	<em>Fieldwork:</em> Recruiting users, sample sizes, compensation, and incentives. </li>
-<li>	<em>Probes:</em> Eliciting different kinds of user feedback, creating and using probes.</li>
-<li>	<em>Observations: </em>Conducting observations, managing field notes and interpreting results.</li>
-<li>	<em>Quantitative logs:</em> Using logging to understand user behavior and supplement qualitative techniques.</li>
+<li>	<b>Interviews:</b> Basics of creating and using interview guides and the types of data best gathered through this technique. </li>
+<li>	<b>Questionnaires:</b> Developing and deploying questionnaires. </li>
+<li>	<b>Fieldwork:</b> Recruiting users, sample sizes, compensation, and incentives. </li>
+<li>	<b>Probes:</b> Eliciting different kinds of user feedback, creating and using probes.</li>
+<li>	<b>Observations: </b>Conducting observations, managing field notes and interpreting results.</li>
+<li>	<b>Quantitative logs:</b> Using logging to understand user behavior and supplement qualitative techniques.</li>
 </ul>
 </li>
 
 <li><b>Design and Development:</b> We will cover a variety of approaches for creating lightweight user-centered designs to fully functioning systems.
 <ul>
-<li>	<em>User-centered Development:</em> Basics of designing with the user in mind and end goals.</li>
-<li>	<em>Lo-Fidelity and Hi-Fidelity Development:</em>Creating system mockups vs. functioning prototypes.</li>
+<li>	<b>User-centered Development:</b> Basics of designing with the user in mind and end goals.</li>
+<li>	<b>Lo-Fidelity and Hi-Fidelity Development:</b>Creating system mockups vs. functioning prototypes.</li>
 </ul>
 </li>
 
 <li><b>Evaluation techniques:</b> We will provide an overview of various evaluation approaches for systems including what each approach is suitable for, when to evaluate in the lab vs. in the field, and various data analysis techniques.
 <ul>
-<li>	<em>Summative & Formative Evaluation:</em> Goals of each approach, and interpreting the results. </li>
-<li>	<em>In the lab:</em>Basics of experimental design, heuristic evaluation, and usability testing. </li>
-<li>	<em>In the field:</em>Gaining access to research sites, field study design, and timeframes.</li>
-<li>	<em>Analysis:</em> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</li>
+<li>	<b>Summative & Formative Evaluation:</b> Goals of each approach, and interpreting the results. </li>
+<li>	<b>In the lab:</b>Basics of experimental design, heuristic evaluation, and usability testing. </li>
+<li>	<b>In the field:</b>Gaining access to research sites, field study design, and timeframes.</li>
+<li>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</li>
 </ul>
 </li>
 
 <li><b>Ethics consent and privacy:</b> In this final section, we will cover the ethics of conducting user research and ensuring that both the rights of users and researchers are protected.
 <ul>	
-<li>	<em>Ethical Foundations and History:</em> Key principles of ethics, how they have emerged, and why they are important. </li>
-<li>	<em>Consent and user approval:</em> Basics of an Institutional Review Board (IRB) process, what constitutes human subjects research, and how to gain consent and user approval.</li>
-<li>	<em>Privacy of data:</em> Protecting user data, anonymization and publishing results.</li>
-<li>	<em>Legal restrictions:</em> Legal issues surrounding different types of user research. </li>
-<li>	<em>Responsibilities of researchers:</em> Ethical conduct and setting expectations for users.</li>
-<li>	<em>International differences and perspectives:</em> How ethics process and legal issues vary and what are the various ethical and legal issues in undertaking research in different countries.</li>
+<li>	<b>Ethical Foundations and History:</b> Key principles of ethics, how they have emerged, and why they are important. </li>
+<li>	<b>Consent and user approval:</b> Basics of an Institutional Review Board (IRB) process, what constitutes human subjects research, and how to gain consent and user approval.</li>
+<li>	<b>Privacy of data:</b> Protecting user data, anonymization and publishing results.</li>
+<li>	<b>Legal restrictions:</b> Legal issues surrounding different types of user research. </li>
+<li>	<b>Responsibilities of researchers:</b> Ethical conduct and setting expectations for users.</li>
+<li>	<b>International differences and perspectives:</b> How ethics process and legal issues vary and what are the various ethical and legal issues in undertaking research in different countries.</li>
 </ul>
 </li>
 </ul>
@@ -86,12 +90,12 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 
 <p>Both presenters have an HCI background and have worked closely with members of the SIGCOMM community on projects exploring user issues in networking systems.</p>
 
-<ul>
-<li><b><a href="http://marshini.net">Marshini Chetty:</a></b> Marshini Chetty is a postdoctoral researcher in the College of Computing at Georgia Institute of Technology, where she recently graduated with her Ph.D. in Human-Centered Computing. Her research in human computer interaction and ubiquitous computing focuses on home networking, sustainability, and international development. She received her Bachelors of Science and Masters of Science degrees in Computer Science from the University of Cape Town. Marshini was awarded a Fulbright Scholarship, a Google Anita Borg Scholarship, a GVU Foley Scholar award, and an Intel Ph.D. fellowship for her research. Her work has been featured in technical blogs, notably Slashdot, Ars Technica, Network World, and BoingBoing! and she received a CHI Best Paper Award in 2011. She collaborates regularly with systems researchers and is a co-chair for the SIGCOMM W-MUST 2012 workshop. </li>
-<li><b><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden:</a></b> Tom Rodden is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences. </li>
-</ul>
+<h3>Marshini Chetty</h3>
+<p><a href="http://marshini.net">Marshini Chetty</a> is a postdoctoral researcher in the College of Computing at Georgia Institute of Technology, where she recently graduated with her Ph.D. in Human-Centered Computing. Her research in human computer interaction and ubiquitous computing focuses on home networking, sustainability, and international development. She received her Bachelors of Science and Masters of Science degrees in Computer Science from the University of Cape Town. Marshini was awarded a Fulbright Scholarship, a Google Anita Borg Scholarship, a GVU Foley Scholar award, and an Intel Ph.D. fellowship for her research. Her work has been featured in technical blogs, notably Slashdot, Ars Technica, Network World, and BoingBoing! and she received a CHI Best Paper Award in 2011. She collaborates regularly with systems researchers and is a co-chair for the SIGCOMM W-MUST 2012 workshop. </p>
 
-Please email <a href="mailto:marshini@cc.gatech.edu,tar@cs.nott.ac.uk" >us</a> with any questions you may have.</p>
+<h3>Tom Rodden</h3>
+<p><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden:</a> is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences.
+</p>
 
 <?php
     include ("include/footer.php");

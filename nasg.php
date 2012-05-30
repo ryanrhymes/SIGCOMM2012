@@ -6,7 +6,7 @@
 
 <h2 class="hcls">A Networking Approach to the Smart Grid</h2>
 <p>
-<b>Helsinki, Finland (August 13, 2012)</b>
+<b>Helsinki, Finland (Monday, August 13, 2012)</b>
 </p>
 <p>
 <b>Presented by:</b> <a href="mailto:keshav@uwaterloo.ca">S. Keshav</a>, <a href="mailto:cath@uwaterloo.ca">C. Rosenberg</a> (University of Waterloo)
@@ -33,7 +33,9 @@ Computer networking researchers have the potential to play a critical role in th
 </p>
 
 
-<h2 class="hcls">Outline (Timings are approximate)</h2>
+<h2 class="hcls">Outline</h2>
+
+<p>Timings are approximate.</p>
 
 <ol type="I">
 <li>Introduction: 10 min</li>
@@ -83,7 +85,7 @@ Profs Keshav and Rosenberg are both experts in computer networking and both are 
 Keshav and Rosenberg co-founded the Information Systems and Science for Energy (ISS4E) laboratory at the University of Waterloo in February 2010. Funded by the Canadian Federal Government, Hydro One, IBM, and Microsoft Research, this laboratory has a large team of graduate students and postdocs working on the intersection of the Internet and energy systems. Topics addressed at the laboratory include Smart Grid Architecture, Demand Management, Smart Homes, Applications, Electrical Vehicles, Storage, Distributed Generation, Pricing and Data Analytics.
 </p>
 
-<p>Please email the <a href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
+<a class="button" data-role="button" href="mailto:sigcomm2012-gen-chairs@acm.org">Email the Organizers</a>
 
 <?php
     include ("include/footer.php");

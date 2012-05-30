@@ -1,22 +1,25 @@
 <?php
-        $page_title="MedCOMM: Workshop on Medical Communication Systems";
+        $page_title="Workshop on Medical Communication Systems (MedCOMM)";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">MedCOMM: Workshop on Medical Communication Systems</h2>
+<h2 class="hcls">Workshop on Medical Communication Systems (MedCOMM)</h2>
 
 <p>
-<b>Helsinki, Finland (August 13, 2012)</b>. Here is a <a href="workshops/Medcomm_one_pager_final.pdf" rel="external" class="lnkcls">one-page Flyer</a>.
+<b>Helsinki, Finland (August 13, 2012)</b>. 
 </p>
 
-<h2 class="hcls">Call for Papers</h2>
-
-<p> <a href="workshops/MedCOMM12_cfp.pdf" rel="external" class="lnkcls">PDF version</a></p>
 
 <p>ACM MedCOMM invites papers that stimulate research in communications or computer networks with application to medical device communication
   systems. Key properties include safety, effectiveness, reliability, and security.</p>
 <p>There is an increasing trend toward the convergence of wireless communication, Internet connectivity, and medicine. Devices with advanced computer communication range from body-worn health monitors to implantable medical devices to remote robotic medical devices in the battlefield. A growing list of such devices includes artificial vision, brain-computer interfaces for prosthetics, cardiac monitors, defibrillators, digital mamography, glucose monitors, infusion pumps, insulin pumps,  neurostimulators, pacemakers, radiological electronic picture archiving and communication systems,  and smart stents. All these systems depend on the safe, effective, reliable, and secure communication and computer networking. Advanced research on medical communication systems will help innovators of next-generation medical technologies that aim to improve public health in the digital age.</p>
+
+<a href="workshops/Medcomm_one_pager_final.pdf" rel="external" data-role="button" class="button">Flyer</a>
+
+<a href="workshops/MedCOMM12_cfp.pdf" rel="external" data-role="button" class="button">PDF Version</a></p>
+
+
 <h2 class="hcls">Topics</h2>
 
 We solicit submissions on topics including, but not limited to, the
@@ -54,18 +57,17 @@ please include author names and affiliation in the submission. Submissions must 
 Authors of accepted papers are expected to present their papers at the workshop; at least one author must register to join the interactive workshop.
 Papers should be submitted via the <a href="https://pain.cs.umass.edu/" >submission site</a>. Information about student stipends will appear in late Spring.</p>
 
+<a href="mailto:medcomm12-chair@cs.umass.edu" data-role="button" class="button">Email the Organizers</a>
 
 <h2 class="hcls">Important Dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Paper Registration", "March 16, 2012"); ?>
-	<?php add_dateitem("Submissions due", "March 23, 2012"); ?>
-	<?php add_dateitem("Notification of Acceptance", "May 1, 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>August 13, 2012</b>"); ?>
+	<?php add_dateitem("Paper Registration", "<span class='linethrough'>March 16, 2012</span>"); ?>
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 23, 2012</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 1, 2012</span>"); ?>
+	<?php add_dateitem("Workshop Date", "August 13, 2012"); ?>
 </ul>
 
-<p>
-Please email the <a href="mailto:medcomm12-chair@cs.umass.edu" class="lnkcls">workshop chair</a> with any questions you may have.</p>
 
 <h2 class="hcls">Organization</h2>
 <h3>Workshop Chair</h3>

@@ -69,6 +69,7 @@
 				init_sps();
 				resize();
 
+				$(".subnavlist").addClass("ui-corner-bottom");
 				$(".subnavlist").click(
 					function() {
 						//$(".subnavlist").addClass("page-now");
@@ -77,10 +78,12 @@
 						if( $(".subnavlink").css("display") == "none" )
 						{
 							$(".subnavlink").css("display", "block");
+							$(".subnavlist").removeClass("ui-corner-bottom");
 						}
 						else
 						{
 							$(".subnavlink").css("display", "none");
+							$(".subnavlist").addClass("ui-corner-bottom");
 						}
 					}
 				);

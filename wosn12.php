@@ -1,13 +1,13 @@
 <?php
-        $page_title="Workshop on Online Social Networks (WOSN'12)";
+        $page_title="Workshop on Online Social Networks (WOSN)";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">Workshop on Online Social Networks (WOSN'12)</h2>
+<h2 class="hcls">Workshop on Online Social Networks (WOSN)</h2>
 
 <p>
-<b>Helsinki, Finland (Friday August 17, 2012)</b>
+<b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
 <p>
@@ -30,9 +30,7 @@ position papers. All papers are limited to 6 pages (10 pt).
 </p>
 
 
-<h2 class="hcls">Call for Papers</h2>
-
-<p> <a href="workshops/WOSN2012CFP.txt" rel="external" class="lnkcls"> Text version </a> </p>
+<a href="workshops/WOSN2012CFP.txt" rel="external" class="button" data-role="button"> Text version </a>
 
 <h2 class="hcls">Topics</h2>
 
@@ -50,12 +48,37 @@ position papers. All papers are limited to 6 pages (10 pt).
 </ul>
 
 
-<h2 class="hcls">Workshop organizer</h2>
-<ul>
-<li>Balachander Krishnamurthy (AT&amp;T Labs--Research)</li>
+<h2 class="hcls">Submission Instructions</h2>
+
+<p>All submissions must be original work not under review at any other 
+venue. Submissions must be no greater than 6 pages in length and author
+names and affiliations should be included in the submission. Submissions 
+must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>.
+Papers should be submitted via the <a href=" http://cyclops.cs.ucsb.edu/WOSN12" rel="external">submission site</a>.
+</p>
+
+<a href="mailto:wosn12-chairs@cs.ucsb.edu" class="button" data-role="button">Email the Organizers</a>
+
+
+<h2 class="hcls">Important Dates</h2>
+
+<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 14, 2012</span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>April 20, 2012</span>"); ?>
+	<?php add_dateitem("Camera Ready", "June 4, 2012"); ?>
+	<?php add_dateitem("Workshop Date", "August 17, 2012"); ?>
 </ul>
 
-<h2 class="hcls">Program Committee</h2>
+
+
+<h2 class="hcls">Committees</h2>
+
+<h3>Workshop Organizer</h3>
+<ul>
+<li>Balachander Krishnamurthy (AT&amp;T Labs - Research)</li>
+</ul>
+
+<h3>Program Committee</h3>
 <ul>
 <li> Alessandro Acquisti (CMU)
 <li> Virgilio Almeida (UFMG, Brazil)
@@ -77,33 +100,9 @@ position papers. All papers are limited to 6 pages (10 pt).
 <li> Alessandra Sala (Bell Labs, Ireland)
 <li> James Salter (Government Communications HQ, UK)
 <li> Stefan Saroiu (Microsoft Research, PC Co-Chair)
-<li> Walter Willinger (AT&amp;T Labs--Research)
+<li> Walter Willinger (AT&amp;T Labs - Research)
 <li> Ben Zhao (UC Santa Barbara, PC Co-Chair)
 </ul>
-
-<h2 class="hcls">Submission Instructions</h2>
-
-<p>All submissions must be original work not under review at any other 
-venue. Submissions must be no greater than 6 pages in length and author
-names and affiliations should be included in the submission. Submissions 
-must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>.
-Papers should be submitted via the <a href=" http://cyclops.cs.ucsb.edu/WOSN12" rel="external">submission site</a>.
-</p>
-
-
-<h2 class="hcls">Important Dates</h2>
-
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Submissions due", "Wednesday March 14, 2012"); ?>
-	<?php add_dateitem("Notification of Acceptance", "Friday April 20, 2012"); ?>
-	<?php add_dateitem("Camera Ready", "Monday June 4, 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>Friday August 17, 2012</b>"); ?>
-</ul>
-
-
-<p>
-Please email the <a href="mailto:wosn12-chairs@cs.ucsb.edu" class="lnkcls">Program Committee co-chairs</a> with any questions you may have.
-</p>
 
 
 <?php

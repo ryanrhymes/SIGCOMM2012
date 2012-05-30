@@ -11,8 +11,9 @@ The organizing committee is delighted to invite you to ACM SIGCOMM 2012, to be h
 <p>
 SIGCOMM is the flagship annual conference of the ACM Special Interest Group on Data Communication (SIGCOMM) on the applications, technologies, architectures, and protocols for computer communication.
 </p>
-<p>If you would like to support SIGCOMM 2012, please review <a class="lnkcls" href="sigcomm-support.pdf" rel="external">this information</a>. Please email the <a  class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
 
+<a href="sigcomm-support.pdf" rel="external" data-role="button" class="button">Supporter Information</a>
+<a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" class="button">Contact the Organizers</a>
 
 <h2 class="hcls">News</h2>
 <ul data-role="listview" data-inset="true" data-theme="c" class="newstbl">

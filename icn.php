@@ -4,10 +4,10 @@
 ?>
 
 
-<h2 class="hcls">Information-Centric Networking</h2>
+<h2 class="hcls">Information-Centric Networking (ICN)</h2>
 
 <p>
-<b>Helsinki, Finland (August 17, 2012)</b>
+<b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
 <p>
@@ -36,20 +36,14 @@
 	  infrastructure as well as user data.
 	  </p>
 
-
-
-
-
-<h2 class="hcls">Call for Papers</h2>
-
-<p> <a class="lnkcls" href="workshops/SIGCOMM-ICN-2012-CFP.pdf" rel="external">PDF version</a> <a class="lnkcls" href="workshops/SIGCOMM-ICN-2012-CFP.txt" rel="external">Text version</a> </p>
-
-
 <p>
 This workshop invites original contributions on Information-Centric
 Networking architecture topics, specific algorithms and protocols, as
 well as on results from implementations and experimentation.
 </p>	
+
+<a class="button" data-role="button" href="workshops/SIGCOMM-ICN-2012-CFP.pdf" rel="external">PDF version</a>
+<a class="button" data-role="button" href="workshops/SIGCOMM-ICN-2012-CFP.txt" rel="external">Text version</a>
 
 
 <h2 class="hcls">Topics</h2>
@@ -98,18 +92,18 @@ well as on results from implementations and experimentation.
 	  <a href="https://www.easychair.org/conferences/?conf=acmsigcommicn2012">http://www.easychair.org/conferences/?conf=acmsigcommicn2012</a>
 	</p>
 
+<a class="button" data-role="button" href="mailto:icn2012-organizers@listserv.netlab.nec.de">Email the Organizers</a>
 
 
 <h2 class="hcls">Important Dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-	<?php add_dateitem("Abstract Registration", "<strike>March 18, 2012</strike> <span style=\"color:red;\">(extended to March 22,2012)</span>"); ?>
-	<?php add_dateitem("Submissions due", "<strike>March 25, 2012</strike> <span style=\"color:red;\">(extended to April 1,2012)</span>"); ?>
-	<?php add_dateitem("Notification of Acceptance", "May 7, 2012"); ?>
-	<?php add_dateitem("Workshop Date", "<b>August 17, 2012</b>"); ?>
+	<?php add_dateitem("Abstract Registration", "<span class='linethrough'>March 18, 2012; extension: <em>(extended to March 22,2012)</em></span>"); ?>
+	<?php add_dateitem("Submissions due", "<span class='linethrough'>March 25, 2012; extension: <em>(extended to April 1,2012)</em></span>"); ?>
+	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 7, 2012</span>"); ?>
+	<?php add_dateitem("Workshop Date", "August 17, 2012"); ?>
 </ul>
 
-<p>Please email the <a class="lnkcls" href="mailto:icn2012-organizers@listserv.netlab.nec.de">workshop organizers</a> with any questions you may have.</p>
 
 <h2 class="hcls">Committees</h2>
 
@@ -124,7 +118,6 @@ well as on results from implementations and experimentation.
 
 
 	<h3>Steering Committee</h3>
-	<p><a class="lnkcls" href="mailto:icn2012-organizers@listserv.netlab.nec.de">icn2012-organizers@listserv.netlab.nec.de</a></p>
 
 <ul>
   <li>Dirk Kutscher, NEC Laboratories Europe &mdash;  Germany</li>
@@ -135,7 +128,6 @@ well as on results from implementations and experimentation.
   <li>Lixia Zhang, UCLA &mdash; USA</li>
 </ul>
 
-<hr />
 
 <h3>Technical Program Committee</h3>
 
