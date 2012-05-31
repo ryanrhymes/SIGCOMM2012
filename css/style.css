@@ -122,13 +122,20 @@ ul li {
 table.hotel th {
 	text-align: right;
 	vertical-align: top;
+	padding: 0;
 }
 
+table.hotel td {
+	text-align: left;
+	vertical-align: top;
+	padding: 0;
+}
 table.hotel tr {
 	line-height: 1.3em;
 }
 
 table.hotel {
+	font-size: .9em;
 	padding-bottom: 1em;
 }
 
@@ -189,7 +196,7 @@ em {
 .datetag {
 	margin-right: 1em; 
 	font-weight: bold;
-	width: 20%;
+	width: 8em;
 	float: left;
 }
 
@@ -302,17 +309,15 @@ h2, h3 { margin-top:1.5em; }
 
 .fees td, .fees th {
 		text-align: center;
-		padding: 0 .1em 0 .1em;
+		padding: .2em .4em .2em .4em;
 }
 
 .fees table {
-	width: 100%;
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
 }
 
 div.fees {
-	margin: .5em;
-	font-size: .8em;
+	font-size: .9em;
 	
 }
 
@@ -365,6 +370,14 @@ div.fees {
 
 
 /* site layout */
+@media all and (max-width: 650px){
+	a.button {
+		width: 80%;
+	}
+	.hostlogo {
+		display: none;
+	}
+}
 
 @media all and (min-width: 650px){
 	.content-secondary {
@@ -379,6 +392,9 @@ div.fees {
 		margin-top: 30px;
 		margin-right: 1%;
 		padding-right: 1%;
+	}
+	a.button {
+		width: 60%;
 	}
 }
 

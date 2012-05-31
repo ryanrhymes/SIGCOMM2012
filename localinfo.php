@@ -46,8 +46,6 @@ Holiday Inn Helsinki City Centre is located in the heart of Helsinki right next 
 The hotel offers perfect facilities for both business and leisure travelers. A beautiful setting, customer orientated solutions and excellent connections ensure a pleasant stay.
   </p>
 
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
-
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
@@ -55,6 +53,8 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
   <tr><th>Price:</th><td>199&euro; single (including breakfast)<br> 224&euro; double (including breakfast)</td></tr>
   </table>
+
+  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
   
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 750 m, 9-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
@@ -66,8 +66,6 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
 This hotel in central Helsinki has an ideal city location just opposite the beautiful Toolo Bay, and only a 10 minute walk from Helsinki's city centre and popular attractions.
   </p>
   
-  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
-
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
   <tr><th>Cut-off date:</th><td> July 12, 2012</td></tr>
@@ -75,6 +73,8 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
   <tr><th>Price:</th><td> 125&euro; single (including breakfast)<br> 135&euro; double (including breakfast)</td></tr>
   </table>
+
+  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
   
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 500 m, 6-minute walk  <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
@@ -88,7 +88,6 @@ Finland. The chain operates over 50 hotels in Finland, Tallinn and
 St. Petersburg. Sokos Hotel Presidentti is located close to the Kamppi
 Shopping Center and the conference venue.
   </p>
-  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
 
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
@@ -97,6 +96,8 @@ Shopping Center and the conference venue.
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
   <tr><th>Price:</th><td> 118&euro; single (including breakfast)<br> 128&euro; double (including breakfast)</td></tr>
   </table>
+
+  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 650 m, 8-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
@@ -107,7 +108,6 @@ Shopping Center and the conference venue.
    <p>
 The hotel's location in the very centre of Helsinki only two blocks from the main railway station across the street from a metro station makes it easy to reach the Cumulus Kaisaniemi.
   </p>
-  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
   
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733;</td></tr>
@@ -116,6 +116,8 @@ The hotel's location in the very centre of Helsinki only two blocks from the mai
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
   <tr><th>Price:</th><td> 155&euro; single (including breakfast)<br> 175&euro; double (including breakfast)</td></tr>
   </table>
+
+  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.3 km, 17-minute walk <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
@@ -126,13 +128,14 @@ The hotel's location in the very centre of Helsinki only two blocks from the mai
    <p>
 Hostel Academica is located in the city centre. Most of the sights in Helsinki are within walking distance of the hostel. Trams also offer you handy means of transport around town.
   </p>
-  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" data-inline="true" class="floatright" >Reservation</a>
 
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733;</td></tr>
   <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
   <tr><th>Price:</th><td> 57&euro; single <br> 72&euro; double <br> 84&euro; triple </td></tr>
   </table>
+
+  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe><br /><small> Distance: 1.2 km, 16-minute walk   <a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>

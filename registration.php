@@ -5,11 +5,9 @@
 
 <h2 class="hcls">Registration</h2>
 
-<div class="ui-grid-a">
-	<div class="ui-block-a">
 	<div class="fees border ui-corner-all ui-shadow">
-<h3 class="center">Early Registration (until Jul 9)</h3>
-<table>
+<h3 class="center"><em>Early</em> Registration (until July 9)</h3>
+<table class="center">
     <tbody>
         <tr>
             <th></th>
@@ -20,48 +18,46 @@
         <tr>
             <td>Conference</td>
             <td>
-            &euro; 490
+            490&euro;
             </td>
             <td>
-            &euro; 290
+            290&euro;
             </td>
             <td>
-            &euro; 560
+            560&euro;
             </td>
         </tr>
         <tr>
             <td>Workshop</td>
             <td>
-            &euro; 200
+            200&euro;
             </td>
             <td>
-            &euro; 160
+            160&euro;
             </td>
             <td>
-            &euro; 220
+            220&euro;
             </td>
         </tr>
         <tr>
             <td>Tutorial</td>
             <td>
-            &euro; 270
+            270&euro;
             </td>
             <td>
-            &euro; 270
+            270&euro;
             </td>
             <td>
-            &euro; 290
+            290&euro;
             </td>
         </tr>
     </tbody>
 </table>
 	</div>
-	</div>
 	
-	<div class="ui-block-b">
 	<div class="fees border ui-corner-all ui-shadow">
-<h3 class="center">Late Registration (after Jul 9)</h3>
-<table>
+<h3 class="center"><em>Late</em> Registration (after July 9)</h3>
+<table class="center">
     <tbody>
         <tr>
             <th></th>
@@ -72,45 +68,43 @@
         <tr>
             <td>Conference</td>
             <td>
-            &euro; 560
+            560&euro;
             </td>
             <td>
-            &euro; 390
+            390&euro;
             </td>
             <td>
-            &euro; 640
+            640&euro;
             </td>
         </tr>
         <tr>
             <td>Workshop</td>
             <td>
-            &euro; 240
+            240&euro;
             </td>
             <td>
-            &euro; 200
+            200&euro;
             </td>
             <td>
-            &euro; 260
+            260&euro;
             </td>
         </tr>
         <tr>
             <td>Tutorial</td>
             <td>
-            &euro; 310
+            310&euro;
             </td>
             <td>
-            &euro; 310
+            310&euro;
             </td>
             <td>
-            &euro; 330
+            330&euro;
             </td>
         </tr>
     </tbody>
 </table>
 
 	</div>
-	</div>
-</div>
 
 
 <p>
