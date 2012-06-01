@@ -46,8 +46,12 @@
 	ACM SIGCOMM 2012
     </title>
 
-    <!-- <link rel="stylesheet" href="css/style.css" type="text/css" /> -->
-    <link rel="shortcut icon" href="images/sigcomm-icon.png" />
+	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <link rel="shortcut icon" href="images/favicon.ico" />
+
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
@@ -127,5 +131,4 @@
 
 		<?php include ("menu.php"); ?>
 
-		<!-- <div class="ui-block-b" style="width:75%; padding-left:2%"> -->
 		<div class="content-primary">

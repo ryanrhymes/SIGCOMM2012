@@ -86,7 +86,7 @@
 	{
 		list($money, $logo, $url) = $info;
 		list($width, $height, $type, $attr)= getimagesize("images/$logo");
-		echo "<img src='images/$logo' alt='cached' style='display:none;'>";
+		echo "<img src='images/$logo' alt='cached' class='hidden'>";
 		$jsstr = "$jsstr\t[$money, \"$logo\", \"$url\", \"$supporter\", 0, $height, $width]";
 		if($i < $numItems-1) {
 		      $jsstr = "$jsstr,";

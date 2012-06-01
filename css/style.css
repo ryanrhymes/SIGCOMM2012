@@ -101,6 +101,13 @@ ul li {
 	margin-right: auto;
 }
 
+img.conflogo {
+	width:50%;
+	padding-bottom:2em;
+	display:block;
+	max-width: 200px;
+}
+
 .center {
 	margin-left: auto;
 	margin-right: auto;
@@ -127,7 +134,7 @@ table.hotel th {
 
 table.hotel td {
 	text-align: left;
-	vertical-align: top;
+	vertical-align: bottom;
 	padding: 0;
 }
 table.hotel tr {
@@ -171,6 +178,7 @@ em {
 	color: white;
 	font-weight: normal;
 	letter-spacing:1px;
+	-webkit-border-radius: 9px;
 	-moz-border-radius: 9px;
 	border-radius: 9px;
 }
@@ -181,6 +189,7 @@ em {
 	padding: 0.15em;
 	color: #2489CE;
 	border: #2489CE solid 1px;
+	-webkit-border-radius: 9px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
 }
@@ -283,8 +292,8 @@ em {
 	height:auto;
 	left:0;
 	bottom:0;
-	-moz-box-shadow:inset 0 0 7px #000000;
 	-webkit-box-shadow:inset 0 0 7px #000000;
+	-moz-box-shadow:inset 0 0 7px #000000;
 	box-shadow:inset 0 0 7px #000000;
 	z-index: 999;
 }

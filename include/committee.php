@@ -1,8 +1,8 @@
 <ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-	<li data-role="list-divider" style="font-size:1em;">General Chairs</li>
+	<li data-role="list-divider">General Chairs</li>
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://eggert.org/">Lars Eggert</a>
@@ -13,7 +13,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.netlab.tkk.fi/~jo/">J&ouml;rg Ott</a>
@@ -25,9 +25,9 @@
 	</li>
 
 
-	<li data-role="list-divider" style="font-size:1em;">TPC Chairs</li>
+	<li data-role="list-divider">TPC Chairs</li>
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://research.microsoft.com/en-us/um/people/padmanab/">Venkat Padmanabhan</a>
@@ -38,7 +38,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://cseweb.ucsd.edu/~varghese/">George Varghese</a>
@@ -50,9 +50,9 @@
 	</li>	
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Local Arrangements Chairs</li>
+	<li data-role="list-divider">Local Arrangements Chairs</li>
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.cs.helsinki.fi/u/jakangas/">Jussi Kangasharju</a>
@@ -63,7 +63,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.netlab.tkk.fi/~jmanner/">Jukka Manner</a>
@@ -75,9 +75,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Registration Chairs and Treasurer</li>
+	<li data-role="list-divider">Registration Chairs and Treasurer</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.isi.edu/touch/">Joe Touch</a>
@@ -89,9 +89,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Workshops Chairs</li>
+	<li data-role="list-divider">Workshops Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://nms.csail.mit.edu/~dina/">Dina Katabi</a>
@@ -102,7 +102,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://research.microsoft.com/en-us/um/people/padhye/">Jitendra Padhye</a>
@@ -114,9 +114,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Poster/Demo Chairs</li>
+	<li data-role="list-divider">Poster/Demo Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.cs.ucsb.edu/~almeroth/">Kevin Almeroth</a>
@@ -127,7 +127,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://csperkins.org/">Colin Perkins</a>
@@ -139,9 +139,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Publication Chairs</li>
+	<li data-role="list-divider">Publication Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://cnd.iit.cnr.it/andrea/">Andrea Passarella</a>
@@ -153,9 +153,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Publicity Chairs</li>
+	<li data-role="list-divider">Publicity Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.wakikawa.net/ryuji.html">Ryuji Wakikawa</a>
@@ -167,9 +167,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Web Chairs</li>
+	<li data-role="list-divider">Web Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.cs.helsinki.fi/u/lxwang/">Liang Wang</a>
@@ -181,9 +181,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Travel Grant Chairs</li>
+	<li data-role="list-divider">Travel Grant Chairs</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.it.uc3m.es/marcelo/">Marcelo Bagnulo</a>
@@ -194,7 +194,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://cc.ee.ntu.edu.tw/~phuang/">Polly Huang</a>
@@ -205,7 +205,7 @@
 	  </div><!-- /grid-a -->
 	</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.cs.bu.edu/~goldbe/">Sharon Goldberg</a>
@@ -217,9 +217,9 @@
 	</li>
 	
 	
-	<li data-role="list-divider" style="font-size:1em;">Conference Coordinator</li>
+	<li data-role="list-divider">Conference Coordinator</li>
 	
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li >
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="http://www.ece.drexel.edu/deOliveira/">Jaudelice de Oliveira</a>

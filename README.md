@@ -16,8 +16,7 @@ sigcomm.appcache
 
 Here is how you generate content for `sigcomm.appcache`:
 
-	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' |\
-	grep -Ev "^include" | grep -Ev "\.(docx?|pdf|txt)$"
+	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "\.(docx?|pdf|txt)$"
 
 You *must* also change the date inside `sigcomm.appcache`!
 
@@ -37,7 +36,7 @@ Creating a minified version of the site
 
 Will be generated in `output`. Better to publish this than the source files.
 
-#! /usr/bin/env bash
+    #! /usr/bin/env bash
 
     out=output
     rm -rf $out

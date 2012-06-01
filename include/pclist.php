@@ -2,18 +2,18 @@
 
 <ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li>
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="mailto:sigcomm12-pc-chairs@acm.org">Venkat Padmanabhan</a>
 		</div>
 		<div class="ui-block-b">
-			Microsoft Research India
+			Microsoft Research, India
 		</div>
 	  </div><!-- /grid-a -->
 	</li>
 
-	<li style="font-size:1em; padding:0.7em 15px;">
+	<li>
 	   <div class="ui-grid-a">
 		<div class="ui-block-a">
 			<a href="mailto:sigcomm12-pc-chairs@acm.org">George Varghese</a>

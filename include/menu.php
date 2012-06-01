@@ -3,7 +3,7 @@ $mypage = current_pagename();
 ?>
 
 	<div id="left-column" class="content-secondary">
-		<a href="index.php"><img src="images/helsinki-logo.png" style="display:block; margin:auto; width:50%; padding-bottom:2em;" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
+		<a href="index.php"><img class="center conflogo" src="images/helsinki-logo.png"  alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li <?php if ($page_title=="Home") echo 'class="page-now"' ?> ><a href="index.php">Home</a></li>
 			<li <?php if ($mypage=="supporters.php") echo 'class="page-now"' ?> ><a href="supporters.php">Supporters</a></li>

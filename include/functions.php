@@ -42,7 +42,7 @@ function current_pagename()
 function add_listitem($name, $organization, $link)
 {
 	print( "
-	<li style=\"font-size:1em; padding:0.7em 15px;\">
+	<li>
 	   <div class=\"ui-grid-a\">
 		<div class=\"ui-block-a\">
 			$name
