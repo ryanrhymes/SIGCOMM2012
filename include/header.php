@@ -1,21 +1,4 @@
 <?php
-    /* based on http://juicystudio.com/article/content-negotiation.php#php */
-
-    /* but then google maps barfs */
-    /*
-    if (stristr($_SERVER["HTTP_ACCEPT"], "application/xhtml+xml"))  {
-        header("Content-Type: application/xhtml+xml; charset=utf-8");
-    } else if (stristr($_SERVER["HTTP_USER_AGENT"],"W3C_Validator")) {
-        header("Content-Type: application/xhtml+xml; charset=utf-8");
-    } else {
-        header("Content-Type: text/html; charset=utf-8");
-    }
-    header("Vary: Accept");
-    */
-
-    /* triggers IE quirk mode...
-    echo("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
-    */
     include_once "functions.php";
     $mypage = current_pagename();
 ?>
@@ -26,7 +9,7 @@
 <html manifest="sigcomm.appcache">
 -->
 <head>
-	<meta charset="utf-8">
+	<meta charset="iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
@@ -56,6 +39,9 @@
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
 	
+	<!-- make the CSS work with older IE -->
+	<script src="js/css3-mediaqueries.js"></script>
+
 	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
@@ -72,7 +58,7 @@
 		    {
 				init_sps();
 				resize();
-
+				
 				$(".subnavlist").addClass("ui-corner-bottom");
 				$(".subnavlist").click(
 					function() {
