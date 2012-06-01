@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2012.05.29 14:29
+# 2012.06.01 11:02
 
 CACHE:
 AuthorResponseGuidelines.htm
@@ -28,6 +28,7 @@ images/comcast.png
 images/conviva.png
 images/ericsson.png
 images/facebook.png
+images/favicon.ico
 images/goldenicon.png
 images/google.png
 images/helsinki-logo.png
@@ -38,6 +39,7 @@ images/helsinki_7.jpg
 images/hp.png
 images/huawei.png
 images/icon-search-black.png
+images/icon.png
 images/icons-18-black.png
 images/icons-18-white.png
 images/icons-36-black.png
