@@ -69,7 +69,7 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 <p> Submission Deadline (23:59 PDT)</p></li>
 
 
-<li><div class="datetag">May 31, 2012</div>
+<li class="linethrough"><div class="datetag">May 31, 2012</div>
 <p> Acceptance Notification</p></li>
 
 <li><div class="datetag"><em>June 13, 2012</em></div>

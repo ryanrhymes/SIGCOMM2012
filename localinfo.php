@@ -28,23 +28,40 @@ one of the safest cities in Europe. Helsinki was declared the capital of Finland
 <div><img src="images/helsinki_5.jpg" class="banner"alt="pic"></div>
 
 
+<h2 class="hcls">Conference Venue</h2>
+
+<p>
+SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia Hall</a>, the leading congress, event and entertainment venue in Finland. Centrally located in park-like surroundings, it is a masterpiece by the great Finnish architect <a href="http://www.alvaraalto.fi/aalto_architect_designer.htm">Alvar Aalto</a>.
+
+<p>The main conference will take in the main <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/congress-halls/">Congress Halls</a>, with workshops and tutorials taking place in various other rooms in the <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/other-conference-facilities/">Congress Wing</a>.
+
+<p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf"</a>"Kansallismuseo" stop</a>). 
+
+<div><img src="images/helsinki_1.jpg" class="banner"alt="pic"></div>
+
 <h2 class="hcls">Hotels</h2>
 
 <p>
-In Helsinki, there are plenty of options for accommodation. Below is a
-list of downtown hotels with which we have a contracted a room block. Please make
+There are plenty of options for accommodation available in easy walking distance from the venue. 
+Below is a list of downtown hotels with which we have a contracted a room block.
+</p>
+
+<p>
+SIGCOMM 2012 does not need to generate a certain number of nights at the contracted hotels, so <em>you should shop around</em>. Cheaper rates may be available at other hotels, or even the hotels listed below. The intent of the negotiated rate is to set an upper bar on room rates for attendees (given that due to concurrent events Helsinki will be busy this summer), but cheaper rates may still be available.
+</p>
+
+<p>
+If you do decide to book a room at a negotiated rate, please make
 your hotel reservations as soon as possible! The <em>room blocks are
 released on July 12</em> and some hotels may release some rooms even
-earlier. All the hotels on this list are within easy walking distance
-	  of the conference site.  Please use specified <em>reservation code</em>
-	  when making your reservation in order to get discount rate.
+earlier. Please use specified reservation code when making your reservation in order to get discount rate.
 </p>
 
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
-   <h3>Holiday Inn Helsinki City center</h3>
+   <h3>Holiday Inn Helsinki City Center</h3>
    <p>
-Holiday Inn Helsinki City center is located in the heart of Helsinki right next to the Main Railway Station.
+Holiday Inn Helsinki City Center is located in the heart of Helsinki right next to the Main Railway Station.
 The hotel offers perfect facilities for both business and leisure travelers. A beautiful setting, customer orientated solutions and excellent connections ensure a pleasant stay.
   </p>
 
@@ -93,7 +110,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
 Sokos Hotels is the largest and most well-known hotel chain
 Finland. The chain operates over 50 hotels in Finland, Tallinn and
 St. Petersburg. Sokos Hotel Presidentti is located close to the Kamppi
-Shopping Center and the conference venue.
+shopping center and the conference venue.
   </p>
 
   <table class="hotel">
@@ -257,12 +274,8 @@ cooking traditions in cosy local restaurants that have built their
 reputations on fried herring and mash potatoes. You can find <a href="http://eat.fi/en/helsinki?lat=60.205378&amp;lng=24.962879&amp;zoom=15">restaurants and cafeterias here</a>, and more information <a href="http://finland.fi/public/default.aspx?nodeid=41801&amp;contentlan=2&amp;culture=en-US">here</a>
 </p>
 
-<p>
-<b>Hint</b>: Finns drink more coffee than anyone else in the whole world!
-</p>
 
-
-<h2 class="hcls">Useful locations</h2>
+<h2 class="hcls">Useful Locations</h2>
 
 <iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=213290963722870945451.0004b8b3d32603bb32a48&amp;ie=UTF8&amp;t=m&amp;ll=60.175075,24.934845&amp;spn=0.014941,0.036478&amp;z=14&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=213290963722870945451.0004b8b3d32603bb32a48&amp;ie=UTF8&amp;t=m&amp;ll=60.175075,24.934845&amp;spn=0.014941,0.036478&amp;z=14&amp;source=embed" >SIGCOMM 2012, Helsinki, Finland</a> in a larger map</small>
 
