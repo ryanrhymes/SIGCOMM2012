@@ -83,7 +83,7 @@
 			<a href="http://www.isi.edu/touch/">Joe Touch</a>
 		</div>
 		<div class="ui-block-b">
-			University of Southern California, USA
+			USC/ISI, USA
 		</div>
 	  </div><!-- /grid-a -->
 	</li>
