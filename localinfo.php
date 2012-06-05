@@ -47,21 +47,26 @@ Below is a list of downtown hotels with which we have a contracted a room block.
 </p>
 
 <p>
-SIGCOMM 2012 does not need to generate a certain number of nights at the contracted hotels, so <em>you should shop around</em>. Cheaper rates may be available at other hotels, or even the hotels listed below. The intent of the negotiated rate is to set an upper bar on room rates for attendees (given that due to concurrent events Helsinki will be busy this summer), but cheaper rates may still be available.
+<em>Book early! Helsinki will be busy this summer due to other ongoing events.</em>
+</p>
+
+
+<p>
+SIGCOMM 2012 does not need to generate a certain number of nights at the contracted hotels, so <em>you should shop around</em> for the best room rates. Cheaper rates may be available at other hotels, and even the generic rates at the hotels listed below might sometimes be cheaper. The intent of the negotiated rate is to set an upper bar on room rates for attendees (given that due to concurrent events Helsinki will be busy this summer), but cheaper rates may still be available. Also make sure to double-check the change and cancellation policy of the rate you are booking!
 </p>
 
 <p>
 If you do decide to book a room at a negotiated rate, please make
-your hotel reservations as soon as possible! The <em>room blocks are
+your hotel reservations as soon as possible. The <em>room blocks are
 released on July 12</em> and some hotels may release some rooms even
-earlier. Please use specified reservation code when making your reservation in order to get discount rate.
+earlier. Make sure to use the reservation codes below to get the negotiated rates.
 </p>
 
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Holiday Inn Helsinki City Center</h3>
    <p>
-Holiday Inn Helsinki City Center is located in the heart of Helsinki right next to the Main Railway Station.
+Holiday Inn Helsinki City Center is located in the heart of Helsinki right next to the main railway station.
 The hotel offers perfect facilities for both business and leisure travelers. A beautiful setting, customer orientated solutions and excellent connections ensure a pleasant stay.
   </p>
 
@@ -74,7 +79,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Price:</th><td>199&nbsp;&euro; single (incl. breakfast)<br> 224&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-center/en_GB/helsinki-city-center/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
+  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-center/en_GB/helsinki-city-center/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
   
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe>
   
@@ -85,7 +90,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
    <h3>Scandic Continental Helsinki</h3>
    <p>
-This hotel in central Helsinki has an ideal city location just opposite the beautiful Toolo Bay, and only a 10 minute walk from Helsinki's city center and popular attractions.
+This hotel in central Helsinki has an ideal city location just opposite the beautiful T&ouml;&ouml;l&ouml; Bay, and only a 10 minute walk from Helsinki's city center and popular attractions.
   </p>
   
   <table class="hotel">
@@ -97,7 +102,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   <tr><th>Price:</th><td> 125&nbsp;&euro; single (incl. breakfast)<br> 135&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
+  <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
   
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15&amp;output=embed"></iframe>
 
@@ -122,9 +127,9 @@ shopping center and the conference venue.
   <tr><th>Price:</th><td> 118&nbsp;&euro; single (incl. breakfast)<br> 128&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-<p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-20-1234-600 <em>or email them</em> at <a href="mailto:sokos.hotels@sok.fi">sokos.hotels@sok.fi</a>, mentioning the name of the hotel ("Sokos Hotel Presidentti") as well as the rate code ("SIGCOMM2012") to get the negotiated rate.</p>>
+<p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-20-1234-600 <em>or email them</em> at <a href="mailto:sokos.hotels@sok.fi">sokos.hotels@sok.fi</a>, mentioning the name of the hotel ("Sokos Hotel Presidentti") as well as the rate code ("SIGCOMM2012") to get the negotiated rate.</p>
 
-<!--  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>-->
+<a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hotel Web Site</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
 
@@ -141,13 +146,15 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733;</td></tr>
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
-  <tr><th>Reservation code:</th><td> SIGCOMM</td></tr>
+  <tr><th>Reservation code:</th><td>SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>1.3 km, 17 minute walk</td></tr>
   <tr><th>Price:</th><td> 155&nbsp;&euro; single (incl. breakfast)<br> 175&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
+<p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-9-172-881 <em>or email them</em> at <a href="mailto:kaisaniemi.cumulus@restel.fi">kaisaniemi.cumulus@restel.fi</a>, mentioning the rate code ("SIGCOMM") to get the negotiated rate.</p>
+
+<a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hotel Web Site</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
 
@@ -163,12 +170,15 @@ Hostel Academica is located in the city center. Most of the sights in Helsinki a
 
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733;</td></tr>
+  <tr><th>Reservation code:</th><td>SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>1.2 km, 16 minute walk</td></tr>
   <tr><th>Price:</th><td> 57&nbsp;&euro; single <br> 72&nbsp;&euro; double <br> 84&nbsp;&euro; triple </td></tr>
   </table>
 
-  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
+<p><em>The hostel cannot handle online reservations for group rates.</em> You need to <em>call the hostel</em> at +358-9-13114334<em> or email them</em> at <a href="mailto:hostel.academica@hyy.fi">hostel.academica@hyy.fi</a>, mentioning the rate code ("SIGCOMM") to get the negotiated rate.</p>
+
+  <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hostel Web Site</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
 
