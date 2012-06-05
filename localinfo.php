@@ -71,7 +71,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Reservation code:</th><td>  SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>750 m, 9 minute walk</td></tr>
-  <tr><th>Price:</th><td>199&euro; single (incl. breakfast)<br> 224&euro; double (incl. breakfast)</td></tr>
+  <tr><th>Price:</th><td>199&nbsp;&euro; single (incl. breakfast)<br> 224&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
   <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-center/en_GB/helsinki-city-center/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
@@ -94,7 +94,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   <tr><th>Reservation code:</th><td>  BACM120812</td></tr>
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>500 m, 6 minute walk</td></tr>
-  <tr><th>Price:</th><td> 125&euro; single (incl. breakfast)<br> 135&euro; double (incl. breakfast)</td></tr>
+  <tr><th>Price:</th><td> 125&nbsp;&euro; single (incl. breakfast)<br> 135&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
   <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
@@ -109,7 +109,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
    <p>
 Sokos Hotels is the largest and most well-known hotel chain
 Finland. The chain operates over 50 hotels in Finland, Tallinn and
-St. Petersburg. Sokos Hotel Presidentti is located close to the Kamppi
+St. Petersburg. <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/">Sokos Hotel Presidentti</a> is located close to the Kamppi
 shopping center and the conference venue.
   </p>
 
@@ -119,10 +119,12 @@ shopping center and the conference venue.
   <tr><th>Reservation code:</th><td> SIGCOMM2012</td></tr>
   <tr><th>Dates:</th><td> August 11-20, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>650 m, 8 minute walk </td></tr>
-  <tr><th>Price:</th><td> 118&euro; single (incl. breakfast)<br> 128&euro; double (incl. breakfast)</td></tr>
+  <tr><th>Price:</th><td> 118&nbsp;&euro; single (incl. breakfast)<br> 128&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
+<p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-20-1234-600 <em>or email them</em> at <a href="mailto:sokos.hotels@sok.fi">sokos.hotels@sok.fi</a>, mentioning the name of the hotel ("Sokos Hotel Presidentti") as well as the rate code ("SIGCOMM2012") to get the negotiated rate.</p>>
+
+<!--  <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>-->
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
 
@@ -142,7 +144,7 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
   <tr><th>Reservation code:</th><td> SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 11-19, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>1.3 km, 17 minute walk</td></tr>
-  <tr><th>Price:</th><td> 155&euro; single (incl. breakfast)<br> 175&euro; double (incl. breakfast)</td></tr>
+  <tr><th>Price:</th><td> 155&nbsp;&euro; single (incl. breakfast)<br> 175&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
   <a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
@@ -163,7 +165,7 @@ Hostel Academica is located in the city center. Most of the sights in Helsinki a
   <tr><th>Rating:</th><td>&#9733; &#9733;</td></tr>
   <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>1.2 km, 16 minute walk</td></tr>
-  <tr><th>Price:</th><td> 57&euro; single <br> 72&euro; double <br> 84&euro; triple </td></tr>
+  <tr><th>Price:</th><td> 57&nbsp;&euro; single <br> 72&nbsp;&euro; double <br> 84&nbsp;&euro; triple </td></tr>
   </table>
 
   <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Reservation</a>
@@ -192,18 +194,17 @@ The hotels in the list can be found from <a href="http://maps.google.com/maps/ms
 <ul>
 
 <li><a class="lnkcls" href="http://aikataulut.hsl.fi/linjat/en/s615.html"
->Bus no. 615</a>: Single fare from the airport ("lentoasema") is 4.50
-EUR, and the journey time is about 35 minutes to the main railway
+>Bus no. 615</a>: Single fare from the airport ("lentoasema") is 4.50&nbsp;&euro;, and the journey time is about 35 minutes to the main railway
 station. From the railway station ("rautatientori") it is about about 0.5 km to the
 conference venue or the hotels. The bus ticket is valid for transfers within 80 minutes, so you can continue by tram to the venue or hotels if you prefer not to walk. See the <a href="http://www.reittiopas.fi/en/" >Journey Planner</a> for the exact route.</li>
 
-<li><a class="lnkcls" href="http://www.finnair.com/INT/GB/information-services/at-the-airport/transportation" >Finnair City bus</a>: Single fare is 5.90 EUR, journey time is 35 minutes and the bus goes to the main railway station ("rautatientori") just like bus 615. Note that the ticket is not valid on any other transport (trams, other buses, etc.).</li>
+<li><a class="lnkcls" href="http://www.finnair.com/INT/GB/information-services/at-the-airport/transportation" >Finnair City bus</a>: Single fare is 6.20&nbsp;&euro;, journey time is 35 minutes. The bus stops near various hotels and ends at the main railway station ("rautatientori") just like bus 615. See the <a href="http://media.finnair.com/files/pdf/FINNAIR_CITY_BUS_TIMETABLE.pdf">bus schedule</a> for information about the schedule and hotel stops. and Note that the ticket is not valid on any other transport (trams, other buses, etc.).</li>
 
-<li><a class="lnkcls" href="http://www.airporttaxi.fi/index_airporttaxi_fi.html" >Airport taxi</a>: The airport taxis (yellow minivans) have a flat rate of 22 EUR and leave when the minivan has enough passengers. (1-2 persons is 25 EUR, 3-4 persons 32 EUR).</li>
+<li><a class="lnkcls" href="http://www.airporttaxi.fi/index_airporttaxi_en.html" >Airport taxi</a>: The airport taxis (yellow minivans) have flat rates and leave when the minivan has enough passengers. (1-2 persons is 29&nbsp;&euro; total, 3-4 persons 45&nbsp;&euro; total).</li>
 
 <li><a class="lnkcls" href="http://www.taksiliitto.fi/in_english/"
 >Normal taxi</a> (yellow taxi sign on the roof) to the
-  center of the city from the airport should be about 40-45 EUR. All taxis have a meter, charge the same rates, and all accept major credit cards.</li>
+  center of the city from the airport should be about 40-45&nbsp;&euro;. All taxis have a meter, charge the same rates, and all accept major credit cards.</li>
 
 </ul>
 
@@ -212,7 +213,7 @@ conference venue or the hotels. The bus ticket is valid for transfers within 80 
 transportation.
 
 Public transportation in Helsinki consist of bus,
-tram and metro. The fee varies from 1 EUR to 4 EUR, depends on the
+tram and metro. The fee varies from 1-4&nbsp;&euro;, depends on the
 whether the trip is within Helsinki or cross the <a
 href="http://www.hsl.fi/EN/ticketsandfares/prices/Pages/default.aspx"
 >zones</a> (to Espoo, Vantaa, Kerava, etc.) You can buy
@@ -250,7 +251,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 <p><b>Southern Finland</b> - Places in Southern Finland worth visiting include <a href="http://www.porvoo.fi/en">Porvoo</a>, <a href="http://www.turku.fi/english">Turku</a> and <a href="http://www.tampere.fi/english/">Tampere</a>. Porvoo is easily reached by bus or a cruise and Turku and Tampere are reachable by train in under 2 hours.</p>
 
 <p>
-<b>Tallin</b> - In the south, is the capital of Estonia, is only 2 hours away by ferry (a day cruise costs about 25-40 eur). Both Finland and Estonia are Schengen countries (see&nbsp;<a href="http://en.wikipedia.org/wiki/Schengen_Area">Schengen agreement</a>). For ferry schedules and prices, see the ferry line site of your choice: <a href="http://www.tallinksilja.com/en/">Tallink/Silja Line</a> or <a href="http://www.eckeroline.fi/en/default.aspx">Ecker&ouml; Line</a> or <a href="http://www.lindaline.fi/en/">Lindaline</a>.
+<b>Tallin</b> - In the south, is the capital of Estonia, is only 2 hours away by ferry (a day cruise costs about 25-40&nbsp;&euro;). Both Finland and Estonia are Schengen countries (see&nbsp;<a href="http://en.wikipedia.org/wiki/Schengen_Area">Schengen agreement</a>). For ferry schedules and prices, see the ferry line site of your choice: <a href="http://www.tallinksilja.com/en/">Tallink/Silja Line</a> or <a href="http://www.eckeroline.fi/en/default.aspx">Ecker&ouml; Line</a> or <a href="http://www.lindaline.fi/en/">Lindaline</a>.
 </p>
 
 <p>
@@ -261,7 +262,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 
 <h2 class="hcls">Culture</h2>
 <p>
-Helsinki is full of passion, every corner of the city is worth exploring to know its <a href="http://finland.fi/public/default.aspx?nodeid=44496&amp;contentlan=2&amp;culture=en-US">architecture</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44497&amp;contentlan=2&amp;culture=en-US">music</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44498&amp;contentlan=2&amp;culture=en-US">film</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44499&amp;contentlan=2&amp;culture=en-US">literature</a> and <a href="http://finland.fi/public/default.aspx?nodeid=44500&amp;contentlan=2&amp;culture=en-US">arts</a>. For a visitor, you should also try <a href="http://finland.fi/public/default.aspx?contentid=160067&amp;seeking">sauna</a>.
+Helsinki is full of passion, every corner of the city is worth exploring to know its <a href="http://finland.fi/public/default.aspx?nodeid=44496&amp;contentlan=2&amp;culture=en-US">architecture</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44497&amp;contentlan=2&amp;culture=en-US">music</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44498&amp;contentlan=2&amp;culture=en-US">film</a>, <a href="http://finland.fi/public/default.aspx?nodeid=44499&amp;contentlan=2&amp;culture=en-US">literature</a> and <a href="http://finland.fi/public/default.aspx?nodeid=44500&amp;contentlan=2&amp;culture=en-US">arts</a>. As a visitor, you should also try <a href="http://finland.fi/public/default.aspx?contentid=160067&amp;seeking">sauna</a>.
 </p>
 
 
@@ -271,7 +272,7 @@ young chefs to start their own small and unique gourmet
 restaurants. Helsinki also offers world-class restaurants that have
 earned Michelin stars. At the other extreme you can enjoy Finnish home
 cooking traditions in cosy local restaurants that have built their
-reputations on fried herring and mash potatoes. You can find <a href="http://eat.fi/en/helsinki?lat=60.205378&amp;lng=24.962879&amp;zoom=15">restaurants and cafeterias here</a>, and more information <a href="http://finland.fi/public/default.aspx?nodeid=41801&amp;contentlan=2&amp;culture=en-US">here</a>
+reputations on fried herring and mashed potatoes. You can find <a href="http://eat.fi/en/helsinki?lat=60.205378&amp;lng=24.962879&amp;zoom=15">restaurants and cafeterias here</a>, and more information <a href="http://finland.fi/public/default.aspx?nodeid=41801&amp;contentlan=2&amp;culture=en-US">here</a>
 </p>
 
 

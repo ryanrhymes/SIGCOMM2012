@@ -18,37 +18,37 @@
         <tr>
             <td>Conference</td>
             <td>
-            490&euro;
+            490&nbsp;&euro;
             </td>
             <td>
-            290&euro;
+            290&nbsp;&euro;
             </td>
             <td>
-            560&euro;
+            560&nbsp;&euro;
             </td>
         </tr>
         <tr>
             <td>Workshop</td>
             <td>
-            200&euro;
+            200&nbsp;&euro;
             </td>
             <td>
-            160&euro;
+            160&nbsp;&euro;
             </td>
             <td>
-            220&euro;
+            220&nbsp;&euro;
             </td>
         </tr>
         <tr>
             <td>Tutorial</td>
             <td>
-            270&euro;
+            270&nbsp;&euro;
             </td>
             <td>
-            270&euro;
+            270&nbsp;&euro;
             </td>
             <td>
-            290&euro;
+            290&nbsp;&euro;
             </td>
         </tr>
     </tbody>
@@ -68,37 +68,37 @@
         <tr>
             <td>Conference</td>
             <td>
-            560&euro;
+            560&nbsp;&euro;
             </td>
             <td>
-            390&euro;
+            390&nbsp;&euro;
             </td>
             <td>
-            640&euro;
+            640&nbsp;&euro;
             </td>
         </tr>
         <tr>
             <td>Workshop</td>
             <td>
-            240&euro;
+            240&nbsp;&euro;
             </td>
             <td>
-            200&euro;
+            200&nbsp;&euro;
             </td>
             <td>
-            260&euro;
+            260&nbsp;&euro;
             </td>
         </tr>
         <tr>
             <td>Tutorial</td>
             <td>
-            310&euro;
+            310&nbsp;&euro;
             </td>
             <td>
-            310&euro;
+            310&nbsp;&euro;
             </td>
             <td>
-            330&euro;
+            330&nbsp;&euro;
             </td>
         </tr>
     </tbody>
