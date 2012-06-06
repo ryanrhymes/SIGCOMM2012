@@ -54,16 +54,20 @@ The exact number of awards will depend on the availability of funds and will be 
 
 
 <h2 class="hcls">Supporters</h2>
-<p> ACM SIGCOMM thanks the following supporters, who make the student travel grants program possible:
-   <div class="ui-grid-b">
+<p> ACM SIGCOMM thanks the following supporters, who make the 2012 student travel grants program possible:
+   <div class="ui-grid-c">
 	<div class="ui-block-a center">
-	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width: 200px;" /></a>
+	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width: 150px;" /></a>
 	</div>
 	<div class="ui-block-b center">
-	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width: 60px;" /></a>
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width: 80px;" /></a>
+	<p>ACM SIGCOMM</p>
 	</div>
 	<div class="ui-block-c center">
-	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width: 200px;" /></a>
+	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width: 150px;" /></a>
+	</div>
+	<div class="ui-block-d center">
+	<a href="http://nsf.gov/"><img src="images/nsf.gif" alt="National Science Foundation" style="width: 120px;" /></a>
 	</div>
    </div><!-- /grid-a -->
 
