@@ -1,0 +1,51 @@
+#! /usr/bin/env bash
+
+out=output
+rm -rf $out
+
+find . -print0 | while read -d $'\0' item
+do
+  if [[ $item == ./.git* || $item == ./.DS* || 
+  	    $item == ./README.md || $item == ./publish ]]; then
+	# nothing to do
+  	continue
+  	
+  elif [ -d $item ]; then
+    # make the directory
+    echo mkdir $item
+  	mkdir -p $out/$item
+  	
+  elif [[ $item == *.php || $item == *.htm || $item == *.html ]]; then
+	# compress
+	echo htmlcompressor $item
+  	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item
+  	
+  elif [[ $item == *.js ]]; then
+	# compress
+	echo closure $item
+	closure --warning_level QUIET --js_output_file $out/$item $item
+	
+  elif [[ $item == *.css ]]; then
+	# compress
+	echo yuicompressor $item
+	yuicompressor -o $out/$item $item
+
+  # images are run through optipng and jpegtran when added to git,
+  # no need to re-optimize here
+
+  else
+  	# simply copy
+  	echo cp $item
+    cp $item $out/$item
+  fi
+done
+
+# fix permissions
+chmod -R ug+rwX $out
+
+# update the timestamp in the cache mainfest
+sed -E -i'' -e "2s/.*/# $(date +'%F %R')/" $out/sigcomm.appcache
+
+# upload
+lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
+
