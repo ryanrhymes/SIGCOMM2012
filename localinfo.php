@@ -35,7 +35,7 @@ SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia
 
 <p>The main conference will take in the main <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/congress-halls/">Congress Halls</a>, with workshops and tutorials taking place in various other rooms in the <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/other-conference-facilities/">Congress Wing</a>.
 
-<p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf"</a>"Kansallismuseo" stop</a>). 
+<p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf">"Kansallismuseo" stop</a>). 
 
 <div><img src="images/helsinki_1.jpg" class="banner"alt="pic"></div>
 
@@ -244,10 +244,11 @@ href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
 <li>All prices shown in Finland always include VAT and other taxes.</li>
 
 <li>Tipping is very uncommon. This includes taxis, bars, restaurants and most other places where you'd expect to leave a tip in the US. If this makes you feel uncomfortable, 5% is appropriate.</li>
+
+</ul>
 -->
 
 
-</ul>
 
 
 <h2 class="hcls">Sightseeing</h2>
