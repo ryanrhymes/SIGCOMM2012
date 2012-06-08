@@ -25,6 +25,10 @@ ISOC Latin America Chapter funding is available for applicants from Latin Americ
 </li>
 
 <li>
+Euro-EINS funding is available for students studying in EINS partner institutions. To qualify, a student must be a member of the EINS partner university and/or research center at the time of application.
+</li>
+
+<li>
 ACM SIGCOMM GeoDiversity travel grants are available for attendees in their early career (at most five years of full-time, full-level, non-postdoc, post-PhD employment) from under-represented countries, based on need, distance to the conference venue, and impact of their attendance in increasing the diversity of conference participation.
 </li>
 

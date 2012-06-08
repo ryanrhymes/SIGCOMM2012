@@ -6,8 +6,9 @@ Support is provided for a variety of different types of attendees, from graduate
 
 Support for SIGCOMM 2012 from the following organizations has been confirmed:
 1. ISOC Latin America Chapter funding is available for applicants from Latin American and Caribbean institutions. 
-2. ACM SIGCOMM GeoDiversity travel grants are available for attendees in their early career (at most five years of full-time, full-level, non-postdoc, post-PhD employment) from under-represented countries, based on need, distance to the conference venue, and impact of their attendance in increasing the diversity of conference participation.
-3. There are a number of additional funding pending final decisions in the meantime we seek support for attendees across all categories.
+2. Euro-EINS funding is available for students studying in EINS partner institutions. To qualify, a student must be a member of the EINS partner university and/or research center at the time of application.
+3. ACM SIGCOMM GeoDiversity travel grants are available for attendees in their early career (at most five years of full-time, full-level, non-postdoc, post-PhD employment) from under-represented countries, based on need, distance to the conference venue, and impact of their attendance in increasing the diversity of conference participation.
+4. There are a number of additional funding pending final decisions in the meantime we seek support for attendees across all categories.
 
 Please consider the following important information before applying:
 * The application process is the same for all types of attendees and all sources of funding and is described in the rest of this page.
@@ -25,9 +26,12 @@ The following criteria will be used in the selection process:
 
 Important Dates
 ===============================
-Submission deadline for all programs                   June  1, 2012
-Award notification                                     June 22, 2012
-Deadline to accept/decline the award                   June 29, 2012
+Submission deadline for all programs                   June  1, 2012
+
+Award notification                                     June 22, 2012
+
+Deadline to accept/decline the award                   June 29, 2012
+
 
 
 Where and How to Apply
