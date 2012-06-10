@@ -65,5 +65,27 @@ function add_dateitem($date, $info)
 	");
 }
 
+function tprog_add_session($title)
+{
+	print( "
+		<li data-role=\"list-divider\">
+			$title
+		</li>
+	");
+}
+
+function tprog_add_item($paper, $link, $authors, $info)
+{
+	print( "
+		<li data-theme=\"d\">
+			<div>
+				<h3>$paper</h3>
+				<p><strong>$authors</strong></p>
+				<p>$info</p>
+			</div>
+		</li>
+	");
+}
+
 ?>
 
