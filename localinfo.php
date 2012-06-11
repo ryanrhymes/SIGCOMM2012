@@ -79,7 +79,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Price:</th><td>199&nbsp;&euro; single (incl. breakfast)<br> 224&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-center/en_GB/helsinki-city-center/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
+  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
   
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe>
   
