@@ -70,9 +70,9 @@ The exact number of awards will depend on the availability of funds and will be 
 	<div class="ui-block-c center">
 	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width: 150px;" /></a>
 	</div>
-	<div class="ui-block-d center">
+	<!-- <div class="ui-block-d center">
 	<a href="http://nsf.gov/"><img src="images/nsf.gif" alt="National Science Foundation" style="width: 120px;" /></a>
-	</div>
+	</div> -->
    </div><!-- /grid-a -->
 
 <h2 class="hcls">Selection Criteria</h2>
