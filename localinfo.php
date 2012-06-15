@@ -198,7 +198,7 @@ The hotels in the list can be found from <a href="http://maps.google.com/maps/ms
 <h2 class="hcls">Transportation</h2>
 
 <p>
-<b>To and From <a href="http://www.helsinki-vantaa.fi/home" >Helsinki-Vantaa airport</a></b>, you can either take a bus or taxi:
+<b>To and from <a href="http://www.helsinki-vantaa.fi/home" >Helsinki-Vantaa airport</a></b>, you can either take a bus or taxi:
 </p>
 
 <ul>
@@ -220,19 +220,27 @@ conference venue or the hotels. The bus ticket is valid for transfers within 80 
 
 <p>
 <b>To get around the city</b>, you should rely on public
-transportation.
+transportation. Public transportation in Helsinki consist of bus,
+tram and metro.
+</p>
+<p>
+<em>Note: </em>If you register before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the Helsinki zone during the conference week!
 
-Public transportation in Helsinki consist of bus,
-tram and metro. The fee varies from 1-4&nbsp;&euro;, depends on the
-whether the trip is within Helsinki or cross the <a
+<p>
+Otherwise, the fare varies from 1-4&nbsp;&euro;, depending on 
+whether the trip is within Helsinki or crosses into other <a
 href="http://www.hsl.fi/EN/ticketsandfares/prices/Pages/default.aspx"
->zones</a> (to Espoo, Vantaa, Kerava, etc.) You can buy
-ticket on the vehicle, but you may want  to consider getting a travel
-card to get a discount on travel fees during your stay in Helsinki. Detailed
-information about the fees and travel card is available from <a
+>zones</a> (Espoo, Vantaa, Kerava, etc.) You can buy a
+ticket from the bus or tram driver (but not on the metro), but you may want to consider getting a travel
+card fore reduced fares. Detailed
+information is available from <a
 href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
 >Helsinki Regional Transport</a>. 
 </p>
+
+<p>
+</p>
+
 
 <div><img src="images/helsinki_6.jpg" class="banner"alt="pic"></div>
 

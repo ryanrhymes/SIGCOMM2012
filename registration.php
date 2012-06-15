@@ -16,7 +16,7 @@
             <th>Non-Member</th>
         </tr>
         <tr>
-            <td>Conference</td>
+            <th>Conference</th>
             <td>
             490&nbsp;&euro;
             </td>
@@ -28,7 +28,7 @@
             </td>
         </tr>
         <tr>
-            <td>Workshop</td>
+            <th>Workshop</th>
             <td>
             200&nbsp;&euro;
             </td>
@@ -40,7 +40,7 @@
             </td>
         </tr>
         <tr>
-            <td>Tutorial</td>
+            <th>Tutorial</th>
             <td>
             270&nbsp;&euro;
             </td>
@@ -53,6 +53,7 @@
         </tr>
     </tbody>
 </table>
+<p class="center">If you register before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the conference week!</p>
 	</div>
 	
 	<div class="fees border ui-corner-all ui-shadow">
@@ -66,7 +67,7 @@
             <th>Non-Member</th>
         </tr>
         <tr>
-            <td>Conference</td>
+            <th>Conference</th>
             <td>
             560&nbsp;&euro;
             </td>
@@ -78,7 +79,7 @@
             </td>
         </tr>
         <tr>
-            <td>Workshop</td>
+            <th>Workshop</th>
             <td>
             240&nbsp;&euro;
             </td>
@@ -90,7 +91,7 @@
             </td>
         </tr>
         <tr>
-            <td>Tutorial</td>
+            <th>Tutorial</th>
             <td>
             310&nbsp;&euro;
             </td>
@@ -103,7 +104,7 @@
         </tr>
     </tbody>
 </table>
-
+<p class="center">We unfortunately cannot guarantee that your registration package will include a complimentary public transportation pass if you register late.</p>
 	</div>
 
 

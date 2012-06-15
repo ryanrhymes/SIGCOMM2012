@@ -323,7 +323,7 @@ h2, h3 { margin-top:1.5em; }
 
 div.fees {
 	font-size: .9em;
-	
+	padding: 0 1em 0 1em;
 }
 
 .tprog {
