@@ -26,7 +26,7 @@ $mypage = current_pagename();
 		<div class="hostlogo border ui-corner-all ui-shadow">
 			<div><a href="http://www.aalto.fi/en/"><img src="images/aalto.png" alt="Aalto University" /></a></div>
 			<div><a href="http://www.nokia.com"><img src="images/nokia.png" alt="Nokia" /></a>	 </div>
-		    <p class="ui-btn-text">SIGCOMM Hosts</p>
+		    <p class="ui-btn-text">SIGCOMM 2012 Hosts</p>
 		</div>
 
 		<div class="border ui-corner-all ui-shadow">
