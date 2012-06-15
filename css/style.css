@@ -377,6 +377,13 @@ div.fees {
 	font-size: 18px;
 }
 
+.ui-li-heading, .ui-li-desc {
+	white-space: normal;
+}
+
+.ui-li-heading {
+	font-size: 1em;
+}
 
 /* site layout */
 @media all and (max-width: 650px){

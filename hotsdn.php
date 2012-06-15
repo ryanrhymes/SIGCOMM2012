@@ -11,7 +11,8 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-	<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+<p>
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:45-9:00 Introductory Remarks"); ?>
 		
 		<?php tprog_add_item("", "", "", ""); ?>
@@ -188,6 +189,8 @@
 		<?php tprog_add_item("", "", "", ""); ?>
 
 </ul>
+</p>
+<h2 class="hcls">Introduction</h2>
 
 <p>
 Software Defined Networking (SDN) refactors the relationship between network

@@ -80,7 +80,7 @@ function tprog_add_item($paper, $link, $authors, $info)
 		<li data-theme=\"d\">
 			<div>
 				<h3>$paper</h3>
-				<p><strong>$authors</strong></p>
+				<p>$authors</p>
 				<p>$info</p>
 			</div>
 		</li>
