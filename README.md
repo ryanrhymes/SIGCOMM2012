@@ -16,7 +16,7 @@ sigcomm.appcache
 
 Here is how you generate content for `sigcomm.appcache`:
 
-	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "\.(docx?|pdf|txt|cls|md|DS_Store)|publish$"
+	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store))|publish|output/"
 
 You *must* also change the date inside `sigcomm.appcache`!
 
