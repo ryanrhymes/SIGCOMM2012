@@ -63,7 +63,7 @@ earlier. Make sure to use the reservation codes below to get the negotiated rate
 </p>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>Holiday Inn Helsinki City Center</h3>
    <p>
 Holiday Inn Helsinki City Center is located in the heart of Helsinki right next to the main railway station.
@@ -79,15 +79,15 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Price:</th><td>199&nbsp;&euro; single (incl. breakfast)<br> 224&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="http://www.finland.holidayinn.com/hotellit/helsinki-city-centre/en_GB/helsinki-city-centre/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
-  
+  <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=ELIEL&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
+ 
   <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe>
   
 <a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15" >View Larger Map</a>
 </div>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+<div class="hotel_info_div" data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>Scandic Continental Helsinki</h3>
    <p>
 This hotel in central Helsinki has an ideal city location just opposite the beautiful T&ouml;&ouml;l&ouml; Bay, and only a 10 minute walk from Helsinki's city center and popular attractions.
@@ -109,7 +109,7 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
 <a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15" >View Larger Map</a>
 </div>
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>Sokos Hotel Presidentti</h3>
    <p>
 Sokos Hotels is the largest and most well-known hotel chain
@@ -137,7 +137,7 @@ shopping center and the conference venue.
 </div>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>Cumulus Kaisaniemi</h3>
    <p>
 The hotel's location in the very center of Helsinki only two blocks from the main railway station across the street from a metro station makes it easy to reach the Cumulus Kaisaniemi.
@@ -154,7 +154,7 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
 
 <p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-9-172-881 <em>or email them</em> at <a href="mailto:kaisaniemi.cumulus@restel.fi">kaisaniemi.cumulus@restel.fi</a>, mentioning the rate code ("SIGCOMM") to get the negotiated rate.</p>
 
-<a href="http://www.cumulus.fi/hotellit/kaisaniemi/en_GB/kaisaniemi/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hotel Web Site</a>
+<a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=KAISACUM&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
 
 <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
 
@@ -162,7 +162,7 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
 </div>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
    <h3>Hostel Academica</h3>
    <p>
 Hostel Academica is located in the city center. Most of the sights in Helsinki are within walking distance of the hostel. Trams also offer you handy means of transport around town.
