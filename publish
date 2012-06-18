@@ -1,13 +1,31 @@
 #! /usr/bin/env bash
 
-out=output
-rm -rf $out
+# Copyright (C) 2012 Lars Eggert <lars@eggert.org>
+# All rights reserved.
+#                                                                
+# Redistribution and use in source and binary forms are permitted
+# provided that the above copyright notice and this paragraph are
+# duplicated in all such forms and that any documentation,
+# advertising materials, and other materials related to such
+# distribution and use acknowledge that the software was developed
+# by Lars Eggert. The name of the author may not be used to endorse
+# or promote products derived from this software without specific
+# prior written permission.
+# 
+# THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+# WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+# PURPOSE.
 
+# this is where we create the minified temp page
+out=$(mktemp -d /tmp/XXXXXXXXXX)
+
+# for all local files, do...
 find . -print0 | while read -d $'\0' item
 do
   if [[ $item == ./.git* || $item == ./.DS* || 
   	    $item == ./README.md || $item == ./publish ]]; then
-	# nothing to do
+	# skip these files
   	continue
   	
   elif [ -d $item ]; then
@@ -16,17 +34,17 @@ do
   	mkdir -p $out/$item
   	
   elif [[ $item == *.php || $item == *.htm || $item == *.html ]]; then
-	# compress
+	# compress PHP and HTML
 	echo htmlcompressor $item
   	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item
   	
   elif [[ $item == *.js ]]; then
-	# compress
+	# compress javascript
 	echo closure $item
 	closure --warning_level QUIET --js_output_file $out/$item $item
 	
   elif [[ $item == *.css ]]; then
-	# compress
+	# compress CSS
 	echo yuicompressor $item
 	yuicompressor -o $out/$item $item
 
@@ -34,7 +52,7 @@ do
   # no need to re-optimize here
 
   else
-  	# simply copy
+  	# simply copy all other files
   	echo cp $item
     cp $item $out/$item
   fi
@@ -43,9 +61,11 @@ done
 # fix permissions
 chmod -R ug+rwX $out
 
-# update the timestamp in the cache mainfest
+# update the timestamp in the cache manifest
 sed -E -i'' -e "2s/.*/# $(date +'%F %R')/" $out/sigcomm.appcache
 
-# upload
+# upload to the ACM's server
 lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
 
+# remove temporary directory
+rm -rf $out
