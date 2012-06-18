@@ -136,3 +136,52 @@ function showall(divname) {
 setInterval(function () {
   onfinish();
 }, 3000);
+
+$(document).bind('pageinit', function(event){
+	try
+	{
+		init_sps();
+		resize();
+		
+		$(".subnavlist").addClass("ui-corner-bottom");
+		$(".subnavlist").click(
+			function() {
+				//$(".subnavlist").addClass("page-now");
+				$(".subnavlist").find("span").toggleClass("ui-icon-plus");
+				$(".subnavlist").find("span").toggleClass("ui-icon-minus");
+				if( $(".subnavlink").css("display") == "none" )
+				{
+					$(".subnavlink").css("display", "block");
+					$(".subnavlist").removeClass("ui-corner-bottom");
+				}
+				else
+				{
+					$(".subnavlink").css("display", "none");
+					$(".subnavlist").addClass("ui-corner-bottom");
+				}
+			}
+		);
+		
+		// Google
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		
+	}
+	catch(err)
+	{
+		//alert(err);
+	}
+
+});
+
+// Don't show logobar on supporter page
+$(document).bind('pagebeforeshow', function(event){
+		if ($("title").html().match("^Supporters .*")) {
+			$("#logobar").hide();
+		} else {
+			$("#logobar").show();
+		}
+});

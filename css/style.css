@@ -49,7 +49,7 @@ ul li {
 }
 
 .wstbl td {
-	padding: 0 1.5em 0em 1em;
+	padding: 0 1.5em 0 1em;
 }
 
 .wslnk {
@@ -217,24 +217,27 @@ em {
 	list-style: none;
 	margin: 12px 9px 0 0;
 	padding: 0;
-	top: 0px;
+	top: 0;
 	right: 35px;
 }
 
 #toolbar li {
 	float: right;
-	margin: 0px 2px;
+	margin: 0 2px;
 	padding: 0;
 	width: 25px;
 	height: 25px;
 }
 
-#twbtn {
+#twbtn, #fbbtn, #gpbtn {
 	display: block;
 	background-image: url(../images/social-icon.png);
-	background-position: 0 0px;
 	width: 25px;
 	height: 25px;
+}
+
+#twbtn {
+	background-position: 0 0;
 }
 
 #twbtn:hover {
@@ -242,11 +245,7 @@ em {
 }
 
 #fbbtn {
-	display: block;
-	background-image: url(../images/social-icon.png);
-	background-position: -25px 0px;
-	width: 25px;
-	height: 25px;
+	background-position: -25px 0;
 }
 
 #fbbtn:hover {
@@ -254,11 +253,7 @@ em {
 }
 
 #gpbtn {
-	display: block;
-	background-image: url(../images/social-icon.png);
-	background-position: -50px 0px;
-	width: 25px;
-	height: 25px;
+	background-position: -50px 0;
 }
 
 #gpbtn:hover {
@@ -298,7 +293,10 @@ em {
 	display: inline-block;
 }
 
-h2, h3 { margin-top:1.5em; }
+h2, h3, h4 {
+	margin-top:1.5em;
+	text-shadow: none;
+}
 
 .hidden { display: none; }
 
@@ -345,14 +343,6 @@ div.fees {
 	color: #000000;
 }
 
-#jqm-home .ui-listview-inset .ui-btn {
-	/** background-color: #6EC8E8; **/
-}
-
-#jqm-home .ui-listview-inset .ui-btn-hover-d {
-	/** background-color: #FFCC00; **/
-}
-
 #jqm-home .ui-listview-inset .page-now {
     background-color: #FFCC00;
 }
@@ -362,7 +352,7 @@ div.fees {
 }
 
 #jqm-home .cthm1b {
-	background-color: none;
+	background-color: transparent;
 }
 
 .ui-btn-text {

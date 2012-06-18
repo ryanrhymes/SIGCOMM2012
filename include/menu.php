@@ -32,10 +32,43 @@ $mypage = current_pagename();
 		<div class="border ui-corner-all ui-shadow">
 			<div class="center socialbuttons">
 			<div class="fb-like" data-href="http://conferences.sigcomm.org/sigcomm/2012/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true"></div>
-			<a href="https://twitter.com/share" class="twitter-share-button" data-via="sigcomm12" data-hashtags="SIGCOMM">Tweet</a>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-related="sigcomm12" data-hashtags="sigcomm12">Tweet</a>
 			<div class="g-plusone" data-size="medium"></div>
 			</div>
 		</div>
-
+<!--
+		<div class="border ui-corner-all ui-shadow">
+			<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+			<script>
+			new TWTR.Widget({
+			  version: 2,
+			  type: 'search',
+			  search: 'test',
+			  interval: 30000,
+			  title: '',
+			  subject: '#sigcomm12',
+			  width: '100%',
+			  height: 300,
+			  theme: {
+				shell: {
+				  'text-shadow': 'none',
+				  background: '#A1BA00',
+				  color: '#ffffff'
+				},
+				tweets: {
+				  background: '#ffffff',
+				  color: '#444444',
+				  links: '#2489CE'
+				}
+			  },
+			  features: {
+				scrollbar: true,
+				loop: false,
+				live: true,
+				behavior: 'default'
+			  }
+			}).render().start();
+			</script>
+		</div>
+-->
 	</div>
-

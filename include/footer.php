@@ -51,9 +51,7 @@
 <!-- Search Functionality -->
 
 
-<?php if ($page_title!="Supporters"): ?>
 <div id="logobar"></div>
-<?php endif; ?>
 
 <?php
 	$jsstr = "sps = [\n";
