@@ -42,7 +42,7 @@ SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and F
 	  <p><b>Workshop date:</b> August 13, 2012</p>
 	</div>
 	  <p>
-	    <a href="http://www.cc.gatech.edu/~feamster" >Nick Feamster</a> (Georgia Tech) <br/>
+	    <a href="http://www.cc.gatech.edu/~feamster" >Nick Feamster</a> (University of Maryland) <br/>
 	    <a href="http://www.cs.princeton.edu/~jrex/" >Jennifer Rexford</a> (Princeton)
 	  </p>
    </div><!-- /grid-b -->

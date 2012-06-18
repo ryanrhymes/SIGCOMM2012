@@ -87,7 +87,7 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 
 <p>Aditya Akella (University of Wisconsin-Madison)</p>
 <p>Fabian Bustamante (Northwestern University)</p>
-<p>Nick Feamster (Georgia Tech)</p>
+<p>Nick Feamster (University of Maryland)</p>
 <p>Timur Friedman (LIP6)</p>
 <p>Tim Griffin (Cambridge University)</p>
 <p>Tristan Henderson (University of St Andrews)</p>
