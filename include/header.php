@@ -12,6 +12,9 @@
 	<meta charset="iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="copyright" content="&copy; 2011-12 ACM SIGCOMM 2012 Organization Committee. If you reuse this web site template, we ask that you acknowledge ACM SIGCOMM 2012 as the source." />
 	
 	<title>
 <?php
@@ -30,8 +33,6 @@
     </title>
 
 	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
     <link rel="shortcut icon" href="images/favicon.ico" />
 
