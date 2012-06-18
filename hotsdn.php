@@ -75,7 +75,7 @@
 		<?php 
 			tprog_add_item("Procera: A Language for High-Level Reactive Network Control", 
 			"", 
-			"Andreas Voellmy (Yale University) and Hyojoon Kim and Nick Feamster (Georgia Tech)", 
+			"Andreas Voellmy (Yale University) and Hyojoon Kim (Georgia Tech) and Nick Feamster (University of Maryland)", 
 			"");
 		?>
 
@@ -293,7 +293,7 @@ expected to present their papers at the workshop.<p>
 
 <h3>Program Committee Co-Chairs</h3>
 <ul>
-<li>Nick Feamster (Georgia Tech)</li>
+<li>Nick Feamster (University of Maryland)</li>
 <li>Jennifer Rexford (Princeton)</li>
 </ul>
 
@@ -320,7 +320,7 @@ expected to present their papers at the workshop.<p>
 <h3>Steering Committee</h3>
 <ul>
 <li>Bruce Davie (Nicira)		   </li>
-<li>Nick Feamster (Georgia Tech)</li>
+<li>Nick Feamster (University of Maryland)</li>
 <li>Guru Parulkar (Stanford)	   </li>
 <li>Jennifer Rexford (Princeton)</li>
 </ul>

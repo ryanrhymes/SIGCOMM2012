@@ -50,7 +50,7 @@
 		add_listitem("Bruce Davie", "Nicira Networks, USA", "");
 		add_listitem("Jeff Dean", "Google, USA", "");
 		add_listitem("Kevin Fall", "Qualcomm, USA", "");
-		add_listitem("Nick Feamster", "Georgia Tech, USA", "");
+		add_listitem("Nick Feamster", "University of Maryland, USA", "");
 		add_listitem("Sergey Gorinsky", "Institute IMDEA Networks, Spain", "");
 		add_listitem("Krishna Gummadi", "MPI-SWS, Germany", "");
 		add_listitem("Kyle Jamieson", "University College London, UK", "");
