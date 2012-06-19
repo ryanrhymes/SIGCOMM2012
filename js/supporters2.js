@@ -169,6 +169,22 @@ $(document).bind('pageinit', function(event){
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 		})();
 		
+		// Bind conf prog btn
+		$("#prog_ctrl a").click(
+			function() {
+				if(this.id !=0 )
+				{
+					$(".prog_tbl").hide();
+					tid = "#prog_tbl_" + this.id;
+					$(tid).show("fast");
+				}
+				else
+				{
+					$(".prog_tbl").show("fast");
+				}
+			}
+		);
+		
 	}
 	catch(err)
 	{

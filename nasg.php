@@ -39,7 +39,7 @@ Computer networking researchers have the potential to play a critical role in th
 
 <ol type="I">
 <li>Introduction: 10 min</li>
-<li>Today’s grid: 30 min
+<li>Today's grid: 30 min
 	<ul>
 	<li>Generation</li>
 	<li>Transmission</li>

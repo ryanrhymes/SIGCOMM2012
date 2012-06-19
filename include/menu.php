@@ -6,7 +6,8 @@ $mypage = current_pagename();
 		<a href="index.php"><img class="center conflogo" src="images/helsinki-logo.png"  alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li <?php if ($page_title=="Home") echo 'class="page-now"' ?> ><a href="index.php">Home</a></li>
-			<li <?php if ($mypage=="supporters.php") echo 'class="page-now"' ?> ><a href="supporters.php">Supporters</a></li>
+			<li <?php if ($page_title=="Supporters") echo 'class="page-now"' ?> ><a href="supporters.php">Supporters</a></li>
+			<li <?php if ($page_title=="Program") echo 'class="page-now"' ?> ><a href="program.php">Program</a></li>
 			<li <?php if ($page_title=="Workshops") echo 'class="page-now"' ?> ><a href="workshops.php">Workshops</a></li>
 			<li <?php if ($page_title=="Tutorials") echo 'class="page-now"' ?> ><a href="tutorials.php">Tutorials</a></li>
 			<li <?php if ($mypage=="cfd.php") echo 'class="page-now"' ?> ><a href="cfd.php">Posters &amp; Demos</a></li>
