@@ -66,7 +66,7 @@ Please see the individual tutorial pages for detailed information.
 	  <p><b>Presenters</b></p>
 	</div>
 	<div class="ui-block-b">
-	  <p><b>Date:</b> August 17, 2012 (full day)</p>
+	  <p><b>Date:</b> August 17, 2012 (half day)</p>
 	</div>
 	<div>
 		<p>

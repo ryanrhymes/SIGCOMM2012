@@ -176,11 +176,11 @@ $(document).bind('pageinit', function(event){
 				{
 					$(".prog_tbl").hide();
 					tid = "#prog_tbl_" + this.id;
-					$(tid).show("fast");
+					$(tid).show();
 				}
 				else
 				{
-					$(".prog_tbl").show("fast");
+					$(".prog_tbl").show();
 				}
 			}
 		);
