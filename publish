@@ -19,6 +19,7 @@
 
 # this is where we create the minified temp page
 out=$(mktemp -d /tmp/XXXXXXXXXX)
+echo Creating minified site in $out...
 
 # for all local files, do...
 find . -print0 | while read -d $'\0' item
@@ -61,8 +62,17 @@ done
 # fix permissions
 chmod -R ug+rwX $out
 
-# update the timestamp in the cache manifest
-sed -E -i'' -e "2s/.*/# $(date +'%F %R')/" $out/sigcomm.appcache
+# generate a cache manifest
+cm=$out/sigcomm.appcache
+echo CACHE MANIFEST > $cm
+date +'# %F %R' >> $cm
+echo >> $cm
+echo CACHE: >> $cm
+find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store))|publish" >> $cm
+echo >> $cm
+echo NETWORK: >> $cm
+echo '*' >> $cm
+echo >> $cm
 
 # upload to the ACM's server
 lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
