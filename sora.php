@@ -10,7 +10,7 @@
 Paul Wang, Innovative Engineering Group, MSR Asia</p>
 
 <p>
-<b>Helsinki, Finland (August 13, 2012)</b>
+<b>Monday, August 13, 2012 (full day)</b>
 </p>
 <p>
 Wireless networking is ubiquitous and has become an essential part of the global Internet. Evidently, the general networking community is increasingly interested in wireless research, especially in broadband wireless communication and networking. More and more research works are crossing into the lower layer wireless primitives, instead of only higher layers (MAC and above) on existing standards (notably WiFi). 

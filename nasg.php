@@ -6,7 +6,7 @@
 
 <h2 class="hcls">A Networking Approach to the Smart Grid</h2>
 <p>
-<b>Helsinki, Finland (Monday, August 13, 2012)</b>
+<b>Monday, August 13, 2012 (half day)</b>
 </p>
 <p>
 <b>Presented by:</b> <a href="mailto:keshav@uwaterloo.ca">S. Keshav</a>, <a href="mailto:cath@uwaterloo.ca">C. Rosenberg</a> (University of Waterloo)

@@ -9,7 +9,7 @@ Techniques for Networking Researchers";
 Techniques for Networking Researchers</h2>
 
 <p>
-<b>Helsinki, Finland (Friday, August 17, 2012)</b>
+<b>Friday, August 17, 2012 (half day)</b>
 </p><p>
 <b>Presented by:</b> <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
 

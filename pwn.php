@@ -3,7 +3,7 @@
         include("include/header.php");
 ?>
 <h2 class="hcls">Programmability of Wireless Networks</h2>
-<p><b>Helsinki, Finland (Friday, August 17, 2012)</b></p>
+<p><b>Friday, August 17, 2012 (half day)</b></p>
 <p>
 <b>Presented by:
 <a href="http://www.tti.unipa.it/~ilenia/informazioni.htm">Ilenia Tinnirello</a>,
