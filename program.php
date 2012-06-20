@@ -7,24 +7,24 @@
 <h2>Conference Program</h2>
 
 
-<div id="prog_ctrl" data-role="navbar" data-inset="true">
+<div id="prog_ctrl" data-role="navbar">
 	<ul>
-		<li><a id="2" href="" class="ui-btn-active ui-state-persist">TUE</a></li>
-		<li><a id="3" href="">WED</a></li>
-		<li><a id="4" href="">THU</a></li>
-		<li><a id="0" href="">ALL</a></li>
+		<li><a id="2" href="" class="ui-btn-active ui-state-persist">Tuesday</a></li>
+		<li><a id="3" href="">Wednesday</a></li>
+		<li><a id="4" href="">Thursday</a></li>
+		<li><a id="0" href="">All</a></li>
 	</ul>
 </div><!-- /navbar -->
 
 
 <div id="prog_tbl_2" class="prog_tbl" style="display:block;">
 	<p>
-		<b>TUESDAY, 14 Aug 2012</b>
+		<b>Tuesday, August 14, 2012</b>
 	</p>
 
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("09:00-10:30 SESSION 1: PRELIMINARIES & KEYNOTE"); ?>
+		<?php tprog_add_session("09:00-10:30 SESSION 1: PRELIMINARIES &amp; KEYNOTE"); ?>
 		
 		<?php tprog_add_item("Welcome &amp; Keynote", "", "", ""); ?>
 		
@@ -108,7 +108,7 @@
 <div id="prog_tbl_3" class="prog_tbl" style="display:none;">
 
 	<p>
-		<b>WEDNESDAY, 15 Aug 2012</b>
+		<b>Wednesday, August 15, 2012</b>
 	</p>
 
 
@@ -126,7 +126,7 @@
 		<?php
 			tprog_add_item("Anatomy of a Large European IXP",
 			"", 
-			"Bernhard Ager (ETH Zurich), Nikolaos Chatzis (TU Berlin / T-Labs), Anja Feldmann (TU Berlin / T-Labs), Nadi Sarrar (TU Berlin / T-Labs), Steve Uhlig (Queen Mary, University of London), Walter Willinger (AT&T Labs-Research)", 
+			"Bernhard Ager (ETH Zurich), Nikolaos Chatzis (TU Berlin / T-Labs), Anja Feldmann (TU Berlin / T-Labs), Nadi Sarrar (TU Berlin / T-Labs), Steve Uhlig (Queen Mary, University of London), Walter Willinger (AT&amp;T Labs-Research)", 
 			"");
 		?>
 		
@@ -200,7 +200,7 @@ Reservations in Data Centers",
 <div id="prog_tbl_4" class="prog_tbl" style="display:none;">
 
 	<p>
-		<b>THURSDAY, 16 Aug 2012</b>
+		<b>Thursday, August 16, 2012</b>
 	</p>
 
 
