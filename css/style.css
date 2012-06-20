@@ -1,16 +1,10 @@
-/* Liang Wang */
-
 /*
-@font-face {
-    font-family: "CaviarDreams";
-    src: url("http://lxwang.users.cs.helsinki.fi/2012/css/CaviarDreams.ttf");
-}
 
-@font-face {
-    font-family: "FUTURAXK";
-    src: url("http://lxwang.users.cs.helsinki.fi/2012/css/FUTURAXK.ttf");
-}
+Logo blue:		#6ec8e8
+Logo green:		#b1c918
+Logo yellow:	#ffcc00
 */
+
 
 p, li {
 	line-height: 1.3em;
@@ -170,7 +164,7 @@ em {
 
 .hcls {
 	padding: 0.3em;
-	background: #A1BA00;
+	background: #b1c918;
 	color: white;
 	font-weight: normal;
 	letter-spacing:1px;
@@ -183,8 +177,8 @@ em {
 	text-decoration: none;
 	margin: 0.1em;
 	padding: 0.15em;
-	color: #2489CE;
-	border: #2489CE solid 1px;
+	color: #6ec8e8;
+	border: #6ec8e8 solid 1px;
 	-webkit-border-radius: 9px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
@@ -194,8 +188,8 @@ em {
 	text-decoration: none;
 	text-shadow: none;
 	background-color: #fc0;
-	color: #2489CE;
-	border: #fc0 solid 1px;
+	color: #ffcc00;
+	border: #ffcc00 solid 1px;
 }
 
 .datetag {
@@ -344,9 +338,14 @@ div.fees {
 }
 
 #jqm-home .ui-listview-inset .page-now {
-    background-color: #FFCC00;
+    background-color: #ffcc00;
 }
-
+/*
+#jqm-home .ui-li-divider {
+	background-color: #b1c918;
+	border-color: #b1c918;
+}
+*/
 #jqm-home .cthm1a {
 	background-color: lightgray;
 }

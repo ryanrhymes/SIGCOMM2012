@@ -38,7 +38,7 @@ $mypage = current_pagename();
 			</div>
 		</div>
 <!--
-		<div class="border ui-corner-all ui-shadow">
+ 		<div class="border ui-corner-all ui-shadow">
 			<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 			<script>
 			new TWTR.Widget({
@@ -53,13 +53,13 @@ $mypage = current_pagename();
 			  theme: {
 				shell: {
 				  'text-shadow': 'none',
-				  background: '#A1BA00',
+				  background: '#6ec8e8',
 				  color: '#ffffff'
 				},
 				tweets: {
 				  background: '#ffffff',
-				  color: '#444444',
-				  links: '#2489CE'
+				  color: '#000000',
+				  links: '#6ec8e8'
 				}
 			  },
 			  features: {
@@ -71,5 +71,5 @@ $mypage = current_pagename();
 			}).render().start();
 			</script>
 		</div>
--->
 	</div>
+-->
