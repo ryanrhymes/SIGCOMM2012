@@ -25,7 +25,7 @@ Cache manifest for offline usage
 
 Here is how you generate content for `sigcomm.appcache`, which is the cache manifest that makes the page usable when offline:
 
-	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store))|publish/"
+	find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store))|publish"
 
 Run this whenever you add resources to the page. You *must* also change the date inside `sigcomm.appcache` whenever you change the content on *any* page!
 
