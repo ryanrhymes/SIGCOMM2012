@@ -4,7 +4,7 @@
 ?>
 
 
-<h2>Conference Program</h2>
+<h2 class="hcls">Conference Program</h2>
 
 
 <div id="prog_ctrl" data-role="navbar">
@@ -18,10 +18,8 @@
 
 
 <div id="prog_tbl_2" class="prog_tbl" style="display:block;">
-	<p>
-		<b>Tuesday, August 14, 2012</b>
-	</p>
-
+	<h2 class="hcls">Tuesday, August 14, 2012</h2>
+    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("09:00-10:30 SESSION 1: PRELIMINARIES &amp; KEYNOTE"); ?>
@@ -101,17 +99,13 @@
 		?>
 		
 	</ul>
-
+	</p>
 </div>	
 
 
 <div id="prog_tbl_3" class="prog_tbl" style="display:none;">
-
-	<p>
-		<b>Wednesday, August 15, 2012</b>
-	</p>
-
-
+	<h2 class="hcls">Wednesday, August 15, 2012</h2>
+    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("09:00-10:30 SESSION 5: MEASURING NETWORKS"); ?>
@@ -193,16 +187,14 @@ Reservations in Data Centers",
 		?>
 		
 	</ul>
+	</p>
 
 </div>
 
 
 <div id="prog_tbl_4" class="prog_tbl" style="display:none;">
-
-	<p>
-		<b>Thursday, August 16, 2012</b>
-	</p>
-
+	<h2 class="hcls">Thursday, August 16, 2012</h2>
+    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("09:00-10:30 SESSION 8: NETWORK FORMALISM AND ALGORITHMICS"); ?>
@@ -303,7 +295,7 @@ Multi-dimensional Packet Classification",
 		?>
 
 	</ul>
-
+	</p>
 
 </div>
 
