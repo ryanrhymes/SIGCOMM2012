@@ -71,5 +71,5 @@ $mypage = current_pagename();
 			}).render().start();
 			</script>
 		</div>
-	</div>
 -->
+	</div>
