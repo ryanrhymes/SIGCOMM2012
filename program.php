@@ -192,6 +192,30 @@ Reservations in Data Centers",
 			"");
 		?>
 		
+		
+		<?php tprog_add_session("17:30-18:30 CCR SESSION"); ?>
+		
+		<?php
+			tprog_add_item("Forty Data Communications Research Questions",
+			"", 
+			"Craig Partridge (Raytheon BBN Technologies)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Extracting Benefit from Harm: Using Malware Pollution to Analyze the Impact of Political and Geophysical Events on the Internet",
+			"", 
+			"Alberto Dainotti (University of Napoli Federico II), Roman Ammann (Auckland University of Technology), Emile Aben (RIPE NCC), Kimberly C. Claffy (CAIDA/UCSD)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("The Collateral Damage of Internet Censorship by DNS Injection",
+			"", 
+			"Sparks (Hovership Nebuchadnezzar Zion Virtual Labs), Neo (Hovership Nebuchadnezzar Zion Virtual Labs), Tank (Hovership Nebuchadnezzar Zion Virtual Labs), Smith (Hovership Nebuchadnezzar Zion Virtual Labs), Dozer (Hovership Nebuchadnezzar Zion Virtual Labs)", 
+			"");
+		?>
+		
 	</ul>
 
 </div>
