@@ -63,7 +63,7 @@ earlier. Make sure to use the reservation codes below to get the negotiated rate
 </p>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" id="hic">
    <h3>Holiday Inn Helsinki City Center</h3>
    <p>
 Holiday Inn Helsinki City Center is located in the heart of Helsinki right next to the main railway station.
@@ -81,13 +81,18 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
 
   <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=ELIEL&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
  
-  <iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15&amp;output=embed"></iframe>
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="hi"></iframe> 
+	<script>
+		$("#hic").bind("expand", function () {
+			$("iframe#hi").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Elielinaukio%2FElielplatsen&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&sll=60.1734,24.93627&sspn=0.006083,0.016415&dirflg=w&mra=dme&mrsp=0&sz=16&ie=UTF8&t=m&z=15&output=embed");
+		});
+	</script>  
   
-<a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Elielinaukio%2FElielplatsen&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;sll=60.1734,24.93627&amp;sspn=0.006083,0.016415&amp;dirflg=w&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;z=15" >View Larger Map</a>
+Click on the Google icon in the map for a larger view.  
 </div>
 
 
-<div class="hotel_info_div" data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div class="hotel_info_div" data-role="collapsible" data-theme="b" data-content-theme="b" id="scc">
    <h3>Scandic Continental Helsinki</h3>
    <p>
 This hotel in central Helsinki has an ideal city location just opposite the beautiful T&ouml;&ouml;l&ouml; Bay, and only a 10 minute walk from Helsinki's city center and popular attractions.
@@ -103,13 +108,18 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
   </table>
 
   <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
-  
-<iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15&amp;output=embed"></iframe>
 
-<a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=scandic+con&amp;sll=60.180901,24.930682&amp;sspn=0.012164,0.03283&amp;dirflg=w&amp;mra=pd&amp;ie=UTF8&amp;t=m&amp;ll=60.177721,24.930768&amp;spn=0.00747,0.018239&amp;z=15" >View Larger Map</a>
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sc"></iframe> 
+	<script>
+		$("#scc").bind("expand", function () {
+			$("iframe#sc").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=0&oq=scandic+con&sll=60.180901,24.930682&sspn=0.012164,0.03283&dirflg=w&mra=pd&ie=UTF8&t=m&ll=60.177721,24.930768&spn=0.00747,0.018239&z=15&output=embed");
+		});
+	</script>  
+  
+Click on the Google icon in the map for a larger view.  
 </div>
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" id="spc">
    <h3>Sokos Hotel Presidentti</h3>
    <p>
 Sokos Hotels is the largest and most well-known hotel chain
@@ -131,13 +141,18 @@ shopping center and the conference venue.
 
 <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hotel Web Site</a>
 
-<iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
-
-<a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=sokos+hotel+pre&amp;sll=60.173239,24.938064&amp;sspn=0.012167,0.03283&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173709,24.933472&amp;spn=0.007471,0.018239&amp;z=15">View Larger Map</a>
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sp"></iframe> 
+	<script>
+		$("#spc").bind("expand", function () {
+			$("iframe#sp").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=1&oq=sokos+hotel+pre&sll=60.173239,24.938064&sspn=0.012167,0.03283&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.173709,24.933472&spn=0.007471,0.018239&z=15&output=embed");
+		});
+	</script>  
+  
+Click on the Google icon in the map for a larger view.  
 </div>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" id="ckc">
    <h3>Cumulus Kaisaniemi</h3>
    <p>
 The hotel's location in the very center of Helsinki only two blocks from the main railway station across the street from a metro station makes it easy to reach the Cumulus Kaisaniemi.
@@ -156,13 +171,18 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
 
 <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=KAISACUM&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
 
-<iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
-
-<a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=1&amp;oq=cumulus+kai&amp;sll=60.173436,24.936883&amp;sspn=0.007124,0.012295&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.173132,24.939437&amp;spn=0.007471,0.018239&amp;z=15" >View Larger Map</a>
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ck"></iframe> 
+	<script>
+		$("#ckc").bind("expand", function () {
+			$("iframe#ck").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=1&oq=cumulus+kai&sll=60.173436,24.936883&sspn=0.007124,0.012295&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.173132,24.939437&spn=0.007471,0.018239&z=15&output=embed");
+		});
+	</script>  
+  
+Click on the Google icon in the map for a larger view.  
 </div>
 
 
-<div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="false">
+<div data-role="collapsible" data-theme="b" data-content-theme="b" id="hac">
    <h3>Hostel Academica</h3>
    <p>
 Hostel Academica is located in the city center. Most of the sights in Helsinki are within walking distance of the hostel. Trams also offer you handy means of transport around town.
@@ -180,9 +200,14 @@ Hostel Academica is located in the city center. Most of the sights in Helsinki a
 
   <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hostel Web Site</a>
 
-<iframe width="99%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15&amp;output=embed"></iframe>
-
-<a data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&amp;daddr=Finlandia+Hall,+Helsinki,+Finland&amp;hl=en&amp;geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&amp;aq=0&amp;oq=hostel+academica&amp;sll=60.172556,24.940274&amp;sspn=0.014248,0.02459&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=60.17309,24.927635&amp;spn=0.007471,0.018239&amp;z=15" >View Larger Map</a>
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ha"></iframe> 
+	<script>
+		$("#hac").bind("expand", function () {
+			$("iframe#ha").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=0&oq=hostel+academica&sll=60.172556,24.940274&sspn=0.014248,0.02459&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.17309,24.927635&spn=0.007471,0.018239&z=15&output=embed");
+		});
+	</script>  
+  
+Click on the Google icon in the map for a larger view.  
 </div>
 
 
