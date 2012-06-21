@@ -32,11 +32,10 @@ $mypage = current_pagename();
 
 		<div class="border ui-corner-all ui-shadow">
 			<div class="center socialbuttons">
-			<div class="fb-like" data-href="http://conferences.sigcomm.org/sigcomm/2012/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true"></div>
-			<a href="https://twitter.com/share" class="twitter-share-button" data-related="sigcomm12" data-hashtags="sigcomm12">Tweet</a>
-			<div class="g-plusone" data-size="medium"></div>
+				<iframe src="include/socialbtn.php" scrolling=no frameborder="0" style="width:99%; height:40px; margin:0; padding:0;"></iframe>
 			</div>
 		</div>
+
 <!--
  		<div class="border ui-corner-all ui-shadow">
 			<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
