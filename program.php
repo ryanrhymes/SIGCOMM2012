@@ -21,11 +21,10 @@
 	<h2 class="hcls">Tuesday, August 14, 2012</h2>
     <p>
 
-	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:30-10:30 WELCOME &amp; KEYNOTE"); ?>
+	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
+		<?php tprog_add_session("8:30-10:30 WELCOME &amp; SIGCOMM AWARD KEYNOTE"); ?>
 		
-		<?php tprog_add_item("Welcome &amp; Keynote", "", "", ""); ?>
-		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		<?php tprog_add_session("11:00-12:30 SESSION 1: MIDDLEBOXES AND MIDDLEWARE"); ?>
 		
@@ -51,6 +50,8 @@
 		?>
 		
 		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+
 		<?php tprog_add_session("14:00-15:30 SESSION 2: WIRELESS COMMUNICATION"); ?>
 		
 		<?php
@@ -75,6 +76,8 @@
 		?>
 		
 		
+		<?php tprog_add_session("15:30-17:00 POSTER &amp; DEMO BREAK 1"); ?>
+
 		<?php tprog_add_session("17:00-18:30 SESSION 3: DATA CENTERS: LATENCY"); ?>
 		
 		<?php
@@ -98,6 +101,8 @@
 			"");
 		?>
 		
+		<?php tprog_add_session("18:30-19:30 COMMUNITY FEEDBACK SESSION"); ?>
+
 	</ul>
 	</p>
 </div>	
@@ -107,7 +112,7 @@
 	<h2 class="hcls">Wednesday, August 15, 2012</h2>
     <p>
 
-	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30 SESSION 4: MEASURING NETWORKS"); ?>
 		
 		<?php
@@ -131,6 +136,7 @@
 			"");
 		?>
 		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		<?php tprog_add_session("11:00-12:30 SESSION 5: DATA CENTERS: RESOURCE MANAGEMENT"); ?>
 		
@@ -156,6 +162,8 @@ Reservations in Data Centers",
 			"");
 		?>
 		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+
 		<?php tprog_add_session("14:00-16:00 SESSION 6: WIRELESS AND MOBILE NETWORKING"); ?>
 		
 		<?php
@@ -186,8 +194,9 @@ Reservations in Data Centers",
 			"");
 		?>
 		
+		<?php tprog_add_session("16:00-17:30 POSTER &amp; DEMO BREAK 2"); ?>
 		
-		<?php tprog_add_session("17:30-18:30 CCR SESSION"); ?>
+		<?php tprog_add_session("17:30-18:30 \"BEST OF CCR\" SESSION"); ?>
 		
 		<?php
 			tprog_add_item("Forty Data Communications Research Questions",
@@ -220,7 +229,7 @@ Reservations in Data Centers",
 	<h2 class="hcls">Thursday, August 16, 2012</h2>
     <p>
 
-	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30 SESSION 7: NETWORK FORMALISM AND ALGORITHMICS"); ?>
 		
 		<?php
@@ -245,6 +254,8 @@ Multi-dimensional Packet Classification",
 			"");
 		?>
 		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+
 		
 		<?php tprog_add_session("11:00-12:30 SESSION 8: STREAMING AND CONTENT NETWORKING"); ?>
 		
@@ -270,7 +281,8 @@ Multi-dimensional Packet Classification",
 			"");
 		?>
 		
-		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+
 		<?php tprog_add_session("14:00-15:30 SESSION 9: ROUTING"); ?>
 		
 		<?php
@@ -293,7 +305,8 @@ Multi-dimensional Packet Classification",
 			"George Nychis (Carnegie Mellon University), Chris Fallin (Carnegie Mellon University), Thomas Moscibroda (Microsoft Research Asia), Onur Mutlu (Carnegie Mellon University), Srinivasan Seshan (Carnegie Mellon University)", 
 			"");
 		?>
-		
+
+		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
 		
 		<?php tprog_add_session("16:00-17:30 SESSION 10: DATA CENTERS: NETWORK RESILIENCE"); ?>
 		
@@ -319,8 +332,6 @@ Multi-dimensional Packet Classification",
 		?>
 		<?php tprog_add_session("17:30-18:00 CLOSING"); ?>
 		
-		<?php tprog_add_item("Closing words", "", "", ""); ?>
-
 	</ul>
 	</p>
 

@@ -67,8 +67,13 @@ function add_dateitem($date, $info)
 
 function tprog_add_session($title)
 {
+	if (preg_match('/BREAK/i', $title)) {
+		$scheme = 'd';
+	} else {
+		$scheme = 'b';
+	}
 	print( "
-		<li data-role=\"list-divider\">
+		<li class=\"ui-bar-$scheme\" data-role=\"list-divider\">
 			$title
 		</li>
 	");
