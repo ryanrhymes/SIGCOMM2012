@@ -383,7 +383,7 @@ div.fees {
 	a.button {
 		width: 80%;
 	}
-	.hostlogo {
+	.hostlogo, #toolbar, #csebtn {
 		display: none;
 	}
 }
