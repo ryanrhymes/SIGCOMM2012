@@ -9,25 +9,25 @@
 
 <div id="prog_ctrl" data-role="navbar">
 	<ul>
-		<li><a id="2" href="" class="ui-btn-active ui-state-persist">Tuesday</a></li>
+		<li><a id="2" href="">Tuesday</a></li>
 		<li><a id="3" href="">Wednesday</a></li>
 		<li><a id="4" href="">Thursday</a></li>
-		<li><a id="0" href="">All</a></li>
+		<li><a id="0" href="" class="ui-btn-active ui-state-persist">All</a></li>
 	</ul>
 </div><!-- /navbar -->
 
 
-<div id="prog_tbl_2" class="prog_tbl" style="display:block;">
+<div id="prog_tbl_2" class="prog_tbl">
 	<h2 class="hcls">Tuesday, August 14, 2012</h2>
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("09:00-10:30 SESSION 1: PRELIMINARIES &amp; KEYNOTE"); ?>
+		<?php tprog_add_session("8:30-10:30 WELCOME &amp; KEYNOTE"); ?>
 		
 		<?php tprog_add_item("Welcome &amp; Keynote", "", "", ""); ?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 2: MIDDLEBOXES AND MIDDLEWARE"); ?>
+		<?php tprog_add_session("11:00-12:30 SESSION 1: MIDDLEBOXES AND MIDDLEWARE"); ?>
 		
 		<?php
 			tprog_add_item("Multi-Resource Fair Queueing for Packet Processing",
@@ -51,7 +51,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("14:00-15:30 SESSION 3: WIRELESS COMMUNICATION"); ?>
+		<?php tprog_add_session("14:00-15:30 SESSION 2: WIRELESS COMMUNICATION"); ?>
 		
 		<?php
 			tprog_add_item("Picasso: Flexible RF and Spectrum Slicing",
@@ -75,7 +75,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("17:00-18:30 SESSION 4: DATA CENTERS: LATENCY"); ?>
+		<?php tprog_add_session("17:00-18:30 SESSION 3: DATA CENTERS: LATENCY"); ?>
 		
 		<?php
 			tprog_add_item("Deadline-Aware Datacenter TCP (D<sup>2</sup>TCP)",
@@ -103,12 +103,12 @@
 </div>	
 
 
-<div id="prog_tbl_3" class="prog_tbl" style="display:none;">
+<div id="prog_tbl_3" class="prog_tbl">
 	<h2 class="hcls">Wednesday, August 15, 2012</h2>
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("09:00-10:30 SESSION 5: MEASURING NETWORKS"); ?>
+		<?php tprog_add_session("9:00-10:30 SESSION 4: MEASURING NETWORKS"); ?>
 		
 		<?php
 			tprog_add_item("Inferring Visibility: Who's (not) talking to whom?",
@@ -132,7 +132,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 6: DATA CENTERS: RESOURCE MANAGEMENT"); ?>
+		<?php tprog_add_session("11:00-12:30 SESSION 5: DATA CENTERS: RESOURCE MANAGEMENT"); ?>
 		
 		<?php
 			tprog_add_item("FairCloud: Sharing The Network In Cloud Computing",
@@ -156,7 +156,7 @@ Reservations in Data Centers",
 			"");
 		?>
 		
-		<?php tprog_add_session("14:00-16:00 SESSION 7: WIRELESS AND MOBILE NETWORKING"); ?>
+		<?php tprog_add_session("14:00-16:00 SESSION 6: WIRELESS AND MOBILE NETWORKING"); ?>
 		
 		<?php
 			tprog_add_item("Flashback: Decoupled Lightweight Wireless Control",
@@ -216,12 +216,12 @@ Reservations in Data Centers",
 </div>
 
 
-<div id="prog_tbl_4" class="prog_tbl" style="display:none;">
+<div id="prog_tbl_4" class="prog_tbl">
 	<h2 class="hcls">Thursday, August 16, 2012</h2>
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("09:00-10:30 SESSION 8: NETWORK FORMALISM AND ALGORITHMICS"); ?>
+		<?php tprog_add_session("9:00-10:30 SESSION 7: NETWORK FORMALISM AND ALGORITHMICS"); ?>
 		
 		<?php
 			tprog_add_item("Perspectives on Network Calculus - No Free Lunch, But Still Good Value",
@@ -246,7 +246,7 @@ Multi-dimensional Packet Classification",
 		?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 9: STREAMING AND CONTENT NETWORKING"); ?>
+		<?php tprog_add_session("11:00-12:30 SESSION 8: STREAMING AND CONTENT NETWORKING"); ?>
 		
 		<?php
 			tprog_add_item("ShadowStream: Performance Evaluation as a Capability in Production Internet Live Streaming Networks",
@@ -271,7 +271,7 @@ Multi-dimensional Packet Classification",
 		?>
 		
 		
-		<?php tprog_add_session("14:00-15:30 SESSION 10: ROUTING"); ?>
+		<?php tprog_add_session("14:00-15:30 SESSION 9: ROUTING"); ?>
 		
 		<?php
 			tprog_add_item("Private and verifiable interdomain routing decisions",
@@ -295,7 +295,7 @@ Multi-dimensional Packet Classification",
 		?>
 		
 		
-		<?php tprog_add_session("16:00-17:30 SESSION 11: DATA CENTERS: NETWORK RESILIENCE"); ?>
+		<?php tprog_add_session("16:00-17:30 SESSION 10: DATA CENTERS: NETWORK RESILIENCE"); ?>
 		
 		<?php
 			tprog_add_item("NetPilot: Automating Datacenter Network Failure Mitigation",
@@ -317,6 +317,9 @@ Multi-dimensional Packet Classification",
 			"Xia Zhou (UC Santa Barbara), Zengbin Zhang (UC Santa Barbara), Yibo Zhu (UC Santa Barbara), Yubo Li (Xi'an Jiaotong University, China), Saipriya Kumar (UC Santa Barbara), Amin Vahdat (Google/UC San Diego), Ben Y. Zhao (UC Santa Barbara), Haitao Zheng (UC Santa Barbara)", 
 			"");
 		?>
+		<?php tprog_add_session("17:30-18:00 CLOSING"); ?>
+		
+		<?php tprog_add_item("Closing words", "", "", ""); ?>
 
 	</ul>
 	</p>

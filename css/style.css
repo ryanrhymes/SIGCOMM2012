@@ -148,6 +148,8 @@ em {
 	font-style: normal;
 }
 
+
+
 .supporter h2 {
 	text-align: center;
 }
@@ -364,6 +366,12 @@ div.fees {
 
 .ui-li-heading, .ui-li-desc {
 	white-space: normal;
+}
+
+.ui-li-desc em {
+	color: inherit;
+	font-weight: normal;
+	font-style: italic;
 }
 
 .ui-li-heading {
