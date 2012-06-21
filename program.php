@@ -95,7 +95,7 @@
 		?>
 		
 		<?php
-			tprog_add_item("DeTail: Reducing the Flow Completion Time Tail in Datacenter",
+			tprog_add_item("DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks",
 			"", 
 			"David Zats (UC Berkeley), Tathagata Das (UC Berkeley), Prashanth Mohan (UC Berkeley), Dhruba Borthakur (Facebook), Randy Katz (UC Berkeley)", 
 			"");
