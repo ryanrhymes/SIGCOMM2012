@@ -76,7 +76,155 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-17:00 POSTER &amp; DEMO BREAK 1"); ?>
+		<?php tprog_add_session("15:30-17:00 POSTER &amp; DEMO 1"); ?>
+		
+		<?php
+			tprog_add_item("Network-Aware Service Placement in a Distributed Cloud Environment",
+			"", 
+			"Moritz Steiner (Bell Labs), Bob Gaglianello Gaglianello (Bell Labs), Vijay Gurbani (Bell Labs), Volker Hilt (Bell Labs), W. D. Roome (Bell Labs), Michael Scharf (Bell Labs), Thomas Voith (Bell Labs)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("SP4: Scalable Programmable Packet Processing Platform",
+			"", 
+			"Harjot Gill (University of Pennsylvania), Dong Lin (University of Pennsylvania), Lohit Sarna (University of Pennsylvania), Robert Mead (University of Pennsylvania), Kenton C.T. Lee (University of Pennsylvania), Boon Thau Loo (University of Pennsylvania)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Distributed Content Storage for Just-in-Time Streaming",
+			"", 
+			"Sourav Kumar Dandapat (Indian Institute of Technology Kharagpur), Sanyam Jain (Indian Institute of Technology Kharagpur), Romit Roy Choudhury (Duke University), Niloy Ganguly (Indian Institute of Technology Kharagpur", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Blockmon: A High-Performance Composable Network Traffic Measurement System",
+			"", 
+			"Felipe Huici (NEC Europe Ltd.), Andrea di Pietro (CNIT), Brian Trammell (ETH Zurich), Jose Maria Gomez Hidalgo (OPTENET), Daniel Martinez Ruiz (OPTENET), Nico d'Heureuse (NEC Europe Ltd.)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("PaDIS Emulator:An Emulator to Evaluate CDN-ISP Collaboration",
+			"", 
+			"Ingmar Poese (T-Labs/TU-Berlin), Benjamin Frank (T-Labs/TU-Berlin), Simon Knight (University of Adelaide), Niklas Semmler (T-Labs/TU-Berlin), Georgios Smaragdakis (T-Labs/TU-Berlin)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Signposts: End-to-End Networking in a World of Middleboxes",
+			"", 
+			"Amir Chaudhry (University of Cambridge), Anil Madhavapeddy (University of Cambridge), Charalampos Rotsos (University of Cambridge), Richard Mortier (University of Nottingham), Andrius Aucinas (University of Cambridge), Jon Crowcroft (University of Cambridge), Sebastian Probst Eide (University of Cambridge), Steven Hand (University of Cambridge), Andrew W Moore (University of Cambridge), Narseo Vallina-Rodriguez (University of Cambridge)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Towards SmartFlow: Case Studies on Enhanced Programmable Forwarding in OpenFlow Switches",
+			"", 
+			"Felici&aacute;n N&eacute;meth (Budapest University of Technology and Economics), &Aacuted&aacutem Stipkovits (Budapest University of Technology and Economics), Bal&aacutezs Sonkoly (Budapest University of Technology and Economics), Andr&aacutes Guly&aacutes (Budapest University of Technology and Economics)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("An OpenFlow-Based Energy-Efficient Data Center Approach",
+			"", 
+			"Michael Jarschel (University of W&uuml;rzburg), Rastin Pries (University of W&uuml;rzburg)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Reduction-based Analysis of BGP Systems with BGPVerif",
+			"", 
+			"Anduo Wang (University of Pennsylvania), Alexander J.T. Gurney (University of Pennsylvania), Xianglong Han (University of Pennsylvania), Jinyan Cao (University of Pennsylvania), Carolyn Talcot (SRI International), Boon Thau Loo (University of Pennsylvania), Andre Scedrov (University of Pennsylvania)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Route Shepherd: Stability Hints for the Control Plane",
+			"", 
+			"Alexander J. T. Gurney (University of Pennsylvania), Xianglong Han (University of Pennsylvania), Yang Li (University of Pennsylvania), Boon Thau Loo (University of Pennsylvania)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Efficiently Migrating Stateful Middleboxes",
+			"", 
+			"Vladimir Andrei Olteanu (University Politehnica of Bucharest), Costin Raiciu (University Politehnica of Bucharest)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("A Demonstration of Ultra-Low-Latency Data Center Optical Circuit Switching",
+			"", 
+			"Nathan Farrington (UC San Diego), George Porter (UC San Diego), Pang-Chen Sun (UC San Diego), Alex Forencich (UC San Diego), Joseph Ford (UC San Diego), Yeshaiahu Fainman (UC San Diego), George Papen (UC San Diego), Amin Vahdat (UC San Diego)",
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("AutoNetkit: Simplifying Large Scale Open-Source Network Experimentation",
+			"", 
+			"Simon Knight (University of Adelaide), Askar Jaboldinov (Loughborough University), Olaf Maennel (Loughborough University), Iain Phillips (Loughborough University), Matthew Roughan (University of Adelaide)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Bulk of Interest: Performance Measurement of Content-Centric Routing",
+			"", 
+			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Thomas C. Schmidt (Hamburg University of Applied Sciences), Markus Vahlenkamp (Hamburg University of Applied Sciences)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("User-level Data Center Tomography",
+			"", 
+			"Neil Alexander Twigg (University of Stirling), Marwan Fayed (University of Stirling), Colin Perkins (University of Glasgow), Dimitrios Pezaros (University of Glasgow), Posco Tso (University of Glasgow)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Towards Detecting BGP Route Hijacking using the RPKI",
+			"", 
+			"Matthias W&auml;hlisch (Freie Universität Berlin), Olaf Maennel (Loughborough University), Thomas C. Schmidt (HAW Hamburg)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Choice as a Principle in Network Architecture",
+			"", 
+			"Tilman Wolf (University of Massachusetts), James Griffioen (University of Kentucky), Kenneth L Calvert (University of Kentucky), Rudra Dutta (North Carolina State University), George N Rouskas (North Carolina State University), Ilia Baldine (University of North Carolina), Anna Nagurney (University of Massachusetts)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("A Frequency Adjustment Architecture for Energy Efficient Router",
+			"", 
+			"Wenliang Fu (Beijing Institute of Technology), Tian Song (Beijing Institute of Technology)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Detecting Third-party Addresses in Traceroute IP Paths",
+			"", 
+			"Pietro Marchetta (University of Napoli), Walter de Donato (University of Napoli), Antonio Pescap&eacute; (University of Napoli)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Reviving Delay-based TCP for Data Centers",
+			"", 
+			"Changhyun Lee (KAIST), Keon Jang (Microsoft Research), Sue Moon (KAIST)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("FaaS: Filtering IP Spoofing Traffic as a Service",
+			"", 
+			"Bingyang Liu (Tsinghua University), Jun Bi (Tsinghua University), Xiaowei Yang (Duke University)", 
+			"");
+		?>
+		
 
 		<?php tprog_add_session("17:00-18:30 SESSION 3: DATA CENTERS: LATENCY"); ?>
 		
@@ -194,7 +342,150 @@ Reservations in Data Centers",
 			"");
 		?>
 		
-		<?php tprog_add_session("16:00-17:30 POSTER &amp; DEMO BREAK 2"); ?>
+		
+		<?php tprog_add_session("16:00-17:30 POSTER &amp; DEMO 2"); ?>
+		
+		<?php
+			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperativeand Lightweight Security at Mobiles",
+			"", 
+			"Matthias W&auml;hlisch (Freie Universität Berlin), Sebastian Trapp (Freie Universität Berlin), Jochen Schiller (Freie Universität Berlin), Benjamin Jochheim (HAW Hamburg), Theodor Nolte (HAW Hamburg), Thomas C. Schmidt (HAW Hamburg), Osman Ugus (HAW Hamburg), Dirk Westhoff (HAW Hamburg), Martin Kutscher (escrypt GmbH), Matthias Küster (escrypt GmbH), Christian Keil (DFN-CERT Services GmbH), Jochen Schönfelder (DFN-CERT Services GmbH)",
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Energino: Energy Saving Tips For Your Wireless Network",
+			"", 
+			"Roberto Riggio (CREATE-NET), Cigdem Sengul (Telekom Innovation Labs, TU-Berlin), Karina Mabell Gomez (CREATE-NET), Tinku Rasheed (CREATE-NET)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("MultiNet: Usable and Secure WiFi Device Association",
+			"", 
+			"Anthony Brown (University of Nottingham), Richard Mortier (University of Nottingham), Tom Rodden (University of Nottingham)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Runtime MAC Reconfiguration Using a Meta-compiler Assisted Toolchain",
+			"", 
+			"Xi Zhang (RWTH Aachen University), Junaid Ansari (RWTH Aachen University), Petri Mähönen (RWTH Aachen University",
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Programming Enterprise WLANs with Odin",
+			"", 
+			"Lalith Suresh (INESC-ID/Instituto Superior Tecnico), Julius Schulz-Zander (Telekom Innovation Laboratories/TU Berlin), Ruben Merz (Telekom Innovation Laboratories/TU Berlin), Anja Feldmann (Telekom Innovation Laboratories/TU Berlin)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Supporting Network Evolution and Incremental Deployment with XIA",
+			"", 
+			"Robert Grandl (University of Wisconsin-Madison), Dongsu Han (Carnegie Mellon University), Suk-Bok Lee (Carnegie Mellon University), Hyeontaek Lim (Carnegie Mellon University), Michel Machado (Boston University), Matthew Mukerjee (Carnegie Mellon University), David Naylor (Carnegie Mellon University)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Picasso: Flexible RF and Spectrum Slicing",
+			"", 
+			"Steven Hong (Stanford University) Jeffrey Mehlman (Stanford University), Sachin Katti (Stanford University)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Dismantling Intrusion Prevention Systems",
+			"", 
+			"Olli-Pekka Niemi (Stonesoft), Antti Levom&auml;ki (Stonesoft), Jukka Manner (Aalto University)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("namehelp: Intelligent Client-Side DNS Resolution",
+			"", 
+			"John S Otto (Northwestern University), Mario A S&aacute;nchez (Northwestern University), John P Rula (Northwestern University), Ted Stein (Northwestern University), Fabi&aacute;n E Bustamante (Northwestern University)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Scalable Software Defined Network Controllers",
+			"", 
+			"Andreas Voellmy (Yale University), Junchang Wang (University of Science and Technology of China)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("RaptorStream: Boosting Mobile Peer-to-Peer Streaming with Raptor Codes",
+			"", 
+			"Philipp M. Eittenberger (University of Bamberg)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Enabling Dynamic Network Processing with ClickO",
+			"", 
+			"Mohamed Ahmed (NEC Europe Ltd.), Felipe Huici (NEC Europe Ltd.), Armin Jahanpanah (NEC Europe Ltd.)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Predicting Location Using Mobile Phone Calls",
+			"", 
+			"Daqiang Zhang (Nanjing Normal Univeristy), Athanasios V. Vasilakos (National Technical University of Athens), Haoyi Xiong (Institute Mines Telecom -- Telecom SudParis)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("SmartDiet: Offloading Popular Apps to Save Energy",
+			"", 
+			"Aki Saarinen (Aalto University, School of Science), Matti Siekkinen (Aalto University, School of Science), Yu Xiao (Aalto University, School of Science), Jukka K Nurminen (Aalto University, School of Science), Matti Kemppainen (Aalto University, School of Science), Pan Hui (Deutsche Telekom Labs", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Revealing Contact Interval Patterns in Large Scale Urban Vehicular Ad Hoc Networks",
+			"", 
+			"Yong Li (Tsinghua University), Depeng Jin (Tsinghua University), Hui Pan (TU-Berlin), Li Su (Tsinghua University)
+Lieguang Zeng (Tsinghua University)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("fs-PGBR: A Scalable and Delay Sensitive Cloud Routing Protocol",
+			"", 
+			"Julien Mineraud (Waterford Institute of Technology), Sasitharan Balasubramaniam (Waterford Institute of Technology), Jussi Kangasharju (University of Helsinki), William Donnelly (Waterford Institute of Technology)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Accelerating Last-Mile Web Performance with Popularity-Based Prefetching",
+			"", 
+			"Srikanth Sundaresan (Georgia Institute of Technology), Nazanin Magharei (Georgia Institute of Technology), Nick Feamster (Georgia Institute of Technology), Renata Teixeira (CNRS/UPMC Sorbonne Universites)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("First Insights from a Mobile Honeypot",
+			"", 
+			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Sebastian Trapp (Freie Universit&auml;t Berlin), Christian Keil (DFN-CERT Services GmbH), Jochen Sch&ouml;nfelder (DFN-CERT Services GmbH), Thomas C. schmidt (HAW Hamburg), Jochen Schiller (Freie Universit&auml;t Berlin)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("uvNIC: Rapid Prototyping Network Interface Controller Device Drivers",
+			"", 
+			"Matthew P. Grosvenor (University of Cambridge)", 
+			"");
+		?>
+		
+		<?php
+			tprog_add_item("Policy Transformation in Software Defined Networks",
+			"", 
+			"Nanxi Kang (Princeton University), Joshua Reich (Princeton University), Jennifer Rexford (Princeton University), David Walker (Princeton University)", 
+			"");
+		?>
+
 		
 		<?php tprog_add_session("17:30-18:30 \"BEST OF CCR\" SESSION"); ?>
 		
