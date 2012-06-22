@@ -74,15 +74,11 @@ function tprog_add_session($title)
 function tprog_add_item($paper, $link, $authors, $info)
 {
 	$authors = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $authors);
-	print( "
-		<li data-theme=\"d\">
-			<div>
-				<h3>$paper</h3>
-				<p>$authors</p>
-				<p>$info</p>
-			</div>
-		</li>
-	");
+	print("<li data-theme=\"d\"><h3>$paper</h3><p>$authors</p>");
+	if($info) {
+		print("<p class=\"ui-li-aside prog-$info\">$info</p>");
+	}
+	print("</li>");
 }
 
 ?>

@@ -79,6 +79,27 @@ ul li {
 	margin-top: 2em;
 }
 
+.prog-Paper, .prog-Demo, .prog-Poster {
+	font-weight: bold;
+	padding: 4px;
+	letter-spacing:1px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.prog-Paper {
+	background-color: #ffcc00;
+}
+
+.prog-Demo {
+	background-color: #6ec8e8;
+}
+
+.prog-Poster {
+	background-color: #b1c918;
+}
+
 .hostlogo div {
 	padding: 4% 2% 0 2%;
 	width: 43%;
@@ -381,6 +402,10 @@ div.fees {
 
 .ui-li-heading {
 	font-size: 1em;
+}
+
+.ui-li-aside {
+	width: auto;
 }
 
 /* site layout */
