@@ -11,9 +11,118 @@
 </p>
 
 
+<h2 class="hcls">Technical Program</h2>
+
+<p>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("09:00-09:15 Welcoming Remarks"); ?>
+		
+		<?php tprog_add_item("Welcoming Remarks by <a href=\"http://www.cs.umass.edu/~kevinfu/\">Prof. Kevin Fu</a>", 
+			"", 
+			"", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("09:15-10:00 Keynote"); ?>
+		
+		<?php tprog_add_item("Keynote Talk by <a href=\"http://www.tedxcambridge.com/thrive/hugo-campos/\">Hugo Campos</a>", 
+			"", 
+			"", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("10:00-10:30 Social Engineering Event"); ?>
+		
+		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30 Session 1: Wireless Medical Devices: Implanted and Worn"); ?>
+		
+		<?php tprog_add_item("Emerging Wireless Applications in Biomedicine", 
+			"", 
+			"<a href=\"http://www.adapoon.com/wp/adapoon/\">Prof. Ada Poon</a> (Stanford University, Electrical Engineering)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_item("Electronics on Contact Lenses and Low Power Sensor Interfaces/Wireless for Peer-to-Peer Medical Communication", 
+			"", 
+			"<a href=\"http://www.ee.washington.edu/faculty/otis_brian/\">Prof. Brian Otis</a> (University of Washington, Electrical Engineering)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices (paper)", 
+			"", 
+			"Stewart J. Thomas, Jordan S. Besnoff, Matthew S. Reynolds (Duke University)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		
+		
+		<?php tprog_add_session("14:00-15:30 Session 2: Medical Device Communication: Safety, Effectiveness, Security"); ?>
+		
+		<?php tprog_add_item("Wireless Insulin Pump Security", 
+			"", 
+			"<a href=\"http://www.mcafee.com/us/events/2011/Q2/06-23-11-wc-hacking-exposed-on-demand.aspx\">Barnaby Jack</a> (McAfee)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Microchip Based Sensors and Drug Delivery Systems for Managing Diabetes", 
+			"", 
+			"<a href=\"http://www.nature.com/news/wireless-drug-implant-takes-the-trouble-out-of-treatment-1.10045\">Bob Farra</a> (<a href=\"http://www.mchips.com/\">MicroCHIPS</a> President, COO)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Towards a Safe Integrated Clinical Environment: A Communication Security Perspective (paper)", 
+			"", 
+			"<a href=\"http://www-users.cs.umn.edu/~foo/\">Denis Foo Kune</a>, Yongdae Kim (Univ. Minnesota); Krishna Venkatasubramanian, Insup Lee (UPenn); Eugene Vasserman (Kansas State Univ.)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("16:00-17:30 Session 3: Medical Communication: Radio Interference and Propagation"); ?>
+		
+		
+		<?php tprog_add_item("Wireless Medical Devices and Electromagnetic Compatibility", 
+			"", 
+			"<a href=\"http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm077210.htm\">Don Witters*</a> (Center for Devices and Radiological Health [CDRH] at the U.S. Food and Drug Administration [FDA])", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Wireless Interference on Medical Devices", 
+			"", 
+			"<a href=\"http://www.cimit.org/images/forum/headshots/hampton_rick.pdf\">Rickey Hampton</a> (Partners Health)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("RF Propagation in Body Area Networks", 
+			"", 
+			"<a href=\"http://www.oaee.umd.edu/facstaff/sayrafian.html\">Kamran Sayrafian</a> (U.S. Information Technology Laboratory of the National Institute of Standards and Technology [NIST])", 
+			""); 
+		?>
+	
+	</ul>
+	
+</p>
+
+<p>*pending federal approval</p>
+
+
+<h2 class="hcls">Introduction</h2>
+
+
 <p>ACM MedCOMM invites papers that stimulate research in communications or computer networks with application to medical device communication
   systems. Key properties include safety, effectiveness, reliability, and security.</p>
-<p>There is an increasing trend toward the convergence of wireless communication, Internet connectivity, and medicine. Devices with advanced computer communication range from body-worn health monitors to implantable medical devices to remote robotic medical devices in the battlefield. A growing list of such devices includes artificial vision, brain-computer interfaces for prosthetics, cardiac monitors, defibrillators, digital mamography, glucose monitors, infusion pumps, insulin pumps,  neurostimulators, pacemakers, radiological electronic picture archiving and communication systems,  and smart stents. All these systems depend on the safe, effective, reliable, and secure communication and computer networking. Advanced research on medical communication systems will help innovators of next-generation medical technologies that aim to improve public health in the digital age.</p>
+<p>There is an increasing trend toward the convergence of wireless communication, Internet connectivity, and medicine. Devices with advanced computer communication range from body-worn health monitors to implantable medical devices to remote robotic medical devices in the battlefield. A growing list of such devices includes artificial vision, brain-computer interfaces for prosthetics, cardiac monitors, defibrillators, digital mammography, glucose monitors, infusion pumps, insulin pumps,  neurostimulators, pacemakers, radiological electronic picture archiving and communication systems,  and smart stents. All these systems depend on the safe, effective, reliable, and secure communication and computer networking. Advanced research on medical communication systems will help innovators of next-generation medical technologies that aim to improve public health in the digital age.</p>
 
 <a href="workshops/Medcomm_one_pager_final.pdf" rel="external" data-role="button" class="button">Flyer</a>
 <a href="workshops/MedCOMM12_cfp.pdf" rel="external" data-role="button" class="button">PDF Version</a>

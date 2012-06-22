@@ -6,6 +6,120 @@
 
 <h2 class="hcls">Workshop on Mobile Gaming (MobiGame)</h2>
 <b>Helsinki, Finland (Monday, August 13, 2012)</b><br />
+
+
+<h2 class="hcls">Technical Program</h2>
+
+<p>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("8:30-9:45 Introductory Remarks"); ?>
+		
+		<?php tprog_add_item("Introduction", 
+			"", 
+			"Sharad Agarwal &amp; Rajesh Balan", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Keynote", 
+			"", 
+			"Antti Aaltonen (Ph.D., Director, User Experience, Rovio)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("09:45-09:50 BREAK"); ?>
+		
+		
+		<?php tprog_add_session("9:50-10:30 Session 1: Analytics"); ?>
+		
+		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game", 
+			"", 
+			" Ian Obermiller; Sam Bayless", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("The Anatomy of a Large Mobile Massively Multiplayer Online Game", 
+			"", 
+			"Ashish Patro; Shravan Rayanchu; Michael Griepentrog; Yadi Ma; Suman Banerjee", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30 Panel 1"); ?>
+		
+		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
+			"", 
+			"Markus Pasula (CEO, Grand Cru), Suman Banerjee, Frans Mayra", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		
+				
+		<?php tprog_add_session("14:00-15:30 Panel 2"); ?>
+		
+		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
+			"", 
+			"Christoph Thur (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabian Bustamante (Northwestern)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("16:00-17:00 Session 2: Platforms"); ?>
+		
+		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games", 
+			"", 
+			"Anh Le; Lorenzo Keller; Christina Fragouli; Athina Markopoulou", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Toward a Mobile Platform for Pervasive Games", 
+			"", 
+			"Inseok Hwang; Youngki Lee; Taiwoo Park; Junehwa Song", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Adaptive Display Power Management for OLED Displays", 
+			"", 
+			"Tan Kiat Wee; Rajesh Krishna Balan", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("17:00-17:45 Keystone"); ?>
+		
+		
+		<?php tprog_add_item("Keystone", 
+			"", 
+			"Victor Bahl (Director, Microsoft Research)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("17:45-18:00 Closing Remarks"); ?>
+		
+		
+		<?php tprog_add_item("Closing Remarks", 
+			"", 
+			"Sharad Agarwal &amp; Rajesh Balan", 
+			""); 
+		?>
+		
+	</ul>
+	
+</p>
+
+
+<h2 class="hcls">Introduction</h2>
+
 <p>
 While they are a relatively new phenomenon, games on smartphones have become wildly popular with users. Games consistently dominate the top purchases on mobile app marketplaces. With the intense competition that has ensued in this industry, games are now rapidly incorporating sophisticated technologies that have been adapted to the mobile computing environment, many of which are of growing importance to researchers. There are many research challenges across graphics, energy consumption, network latency, HCI, security, and sensor networking. While this field is interdisciplinary by nature, many proposed ideas have direct impact on how networking protocols and infrastructures are designed and managed.</p>
 <p>
@@ -14,42 +128,6 @@ In this first Mobile Gaming workshop at SIGCOMM, we will bring together practiti
 
 <a href="workshops/MobiGames2012CFP.pdf" data-role="button" class="button" rel="external">PDF version</a>
 <a href="workshops/MobiGames2012CFP.txt" data-role="button" class="button" rel="external">Text version</a>
-
-<!--
-<h2 class="hcls">Technical Program</h2>
-TBD
--->
-
-<!--
-<p>You can download all VISA papers as a single <a href="" >zip</a> file.</p>
-<table class="wstbl">
-        <tr class="cthm1a"><td>09:00 - 09:05</td><td> <b>Welcome</b> </td></tr>
-        
-        <tr class="cthm1b"><td>09:05 - 10:00</td><td> <b>Keynote Presentation</b> </td></tr>
-        
-        <tr class="cthm1a"><td>10:00 - 10:30</td><td> <b>Architecture</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-
-        <tr class="cthm1a"><td>10:30 - 11:00</td><td> <b>Coffee Break</b> </td></tr>
-        
-        <tr class="cthm1a"><td>11:00 - 12:30</td><td> <b>Architecture (continued)</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        
-        <tr class="cthm1a"><td>12:30 - 14:00</td><td> <b>Lunch</b> </td></tr>
-        
-        <tr class="cthm1a"><td>14:00 - 15:30</td><td> <b>Another Topic</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        
-        <tr class="cthm1a"><td>15:30 - 16:00</td><td> <b>Coffee Break</b> </td></tr>
-        
-        <tr class="cthm1a"><td>16:00 - 17:30</td><td> <b>Another Topic</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-</table>
--->
 
 
 <h2 class="hcls">Topics</h2>
