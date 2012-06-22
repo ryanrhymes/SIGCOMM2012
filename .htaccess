@@ -553,3 +553,4 @@ php_flag display_startup_errors Off
 </IfModule>
 
 RewriteRule ^(.*)\.html$ /sigcomm/2012/$1.php [R=301,L]
+RewriteRule ^tutorials.php$ /sigcomm/2012/workshops.php [R=301,L]
