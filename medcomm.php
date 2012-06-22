@@ -27,9 +27,9 @@
 		
 		<?php tprog_add_session("09:15-10:00 Keynote"); ?>
 		
-		<?php tprog_add_item("Keynote Talk by <a href=\"http://www.tedxcambridge.com/thrive/hugo-campos/\">Hugo Campos</a>", 
+		<?php tprog_add_item("Open Access to My Heart's Data", 
 			"", 
-			"", 
+			"<a href=\"http://www.tedxcambridge.com/thrive/hugo-campos/\">Hugo Campos</a>", 
 			""); 
 		?>
 		
