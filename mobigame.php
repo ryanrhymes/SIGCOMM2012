@@ -13,7 +13,7 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:30-9:45 Introductory Remarks"); ?>
+		<?php tprog_add_session("8:30-9:50 Introductory Remarks"); ?>
 		
 		<?php tprog_add_item("Introduction", 
 			"", 
@@ -28,7 +28,6 @@
 		?>
 		
 		
-		<?php tprog_add_session("09:45-09:50 BREAK"); ?>
 		
 		
 		<?php tprog_add_session("9:50-10:30 Session 1: Analytics"); ?>

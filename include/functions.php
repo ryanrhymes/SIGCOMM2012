@@ -67,16 +67,8 @@ function add_dateitem($date, $info)
 
 function tprog_add_session($title)
 {
-	if (preg_match('/BREAK/i', $title)) {
-		$scheme = 'd';
-	} else {
-		$scheme = 'b';
-	}
-	print( "
-		<li class=\"ui-bar-$scheme\" data-role=\"list-divider\">
-			$title
-		</li>
-	");
+	printf("<li class=\"ui-bar-%s\" data-role=\"list-divider\">%s</li>",
+	       (preg_match('/BREAK/i', $title) ? "d" : "b"), strtoupper($title));
 }
 
 function tprog_add_item($paper, $link, $authors, $info)
