@@ -388,7 +388,7 @@ div.fees {
 	a.button {
 		width: 80%;
 	}
-	.hostlogo, #toolbar, #csebtn {
+	.hostlogo, #toolbar, #csebtn, .tweetlist, .socialbuttons {
 		display: none;
 	}
 }

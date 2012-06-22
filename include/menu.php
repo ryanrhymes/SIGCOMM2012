@@ -30,12 +30,10 @@ $mypage = current_pagename();
 		    <p class="ui-btn-text">SIGCOMM 2012 Hosts</p>
 		</div>
 
-		<div class="border ui-corner-all ui-shadow">
-			<div class="center socialbuttons">
-				<iframe src="include/socialbtn.php" scrolling=no frameborder="0" style="width:99%; height:40px; margin:0; padding:0;"></iframe>
-			</div>
+		<div class="border ui-corner-all ui-shadow socialbuttons">
+			<iframe src="include/socialbtn.php" scrolling="no" height="21" width="100%"></iframe>
 		</div>
- 		<div style="margin-top: 2em">
-			<iframe src="twitter.php" scrolling="no" height="380" width="100%"></iframe>
+ 		<div style="margin-top: 2em" class="tweetlist">
+			<iframe src="include/tweetlist.php" scrolling="no" height="380" width="100%"></iframe>
 		</div>
 	</div>
