@@ -5,9 +5,7 @@
 
 <!DOCTYPE HTML>
 
-<!--
 <html manifest="sigcomm.appcache">
--->
 <head>
 	<meta charset="iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -37,7 +35,7 @@
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
-	
+
 	<!-- make the CSS work with older IE -->
 	<script src="js/css3-mediaqueries.js"></script>
 
@@ -49,8 +47,8 @@
 	<script src="//code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
-	<script type="text/javascript" src="js/jqm-docs.js"></script>
-	<script type="text/javascript" src="js/supporters2.js"></script>
+	<script src="js/jqm-docs.js"></script>
+	<script src="js/supporters2.js"></script>
 </head>
 
 <body>

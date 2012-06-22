@@ -35,40 +35,7 @@ $mypage = current_pagename();
 				<iframe src="include/socialbtn.php" scrolling=no frameborder="0" style="width:99%; height:40px; margin:0; padding:0;"></iframe>
 			</div>
 		</div>
-
-<!--
- 		<div class="border ui-corner-all ui-shadow">
-			<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-			<script>
-			new TWTR.Widget({
-			  version: 2,
-			  type: 'search',
-			  search: 'test',
-			  interval: 30000,
-			  title: '',
-			  subject: '#sigcomm12',
-			  width: '100%',
-			  height: 300,
-			  theme: {
-				shell: {
-				  'text-shadow': 'none',
-				  background: '#6ec8e8',
-				  color: '#ffffff'
-				},
-				tweets: {
-				  background: '#ffffff',
-				  color: '#000000',
-				  links: '#6ec8e8'
-				}
-			  },
-			  features: {
-				scrollbar: true,
-				loop: false,
-				live: true,
-				behavior: 'default'
-			  }
-			}).render().start();
-			</script>
+ 		<div style="margin-top: 2em">
+			<iframe src="twitter.php" scrolling="no" height="380" width="100%"></iframe>
 		</div>
--->
 	</div>

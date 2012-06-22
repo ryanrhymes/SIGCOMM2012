@@ -264,6 +264,7 @@ href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
 </p>
 
 <p>
+Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">mobile app</a> to help you navigate Helsinki's public transport system.
 </p>
 
 

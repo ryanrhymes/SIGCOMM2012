@@ -10,6 +10,11 @@ p, li {
 	line-height: 1.3em;
 }
 
+iframe {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
 #cmttbl {
 	text-align:left;
