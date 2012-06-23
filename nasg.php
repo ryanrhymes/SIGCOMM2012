@@ -12,6 +12,37 @@
 <b>Presented by:</b> <a href="mailto:keshav@uwaterloo.ca">S. Keshav</a>, <a href="mailto:cath@uwaterloo.ca">C. Rosenberg</a> (University of Waterloo)
 </p>
 
+
+<h2 class="hcls">Technical Program</h2>
+
+<p>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("9:00-9:05 INTRODUCTION"); ?>
+		
+		
+		<?php tprog_add_session("9:05-9:30 TODAY'S GRID"); ?>
+		
+		
+		<?php tprog_add_session("9:30-9:50 MOTIVATION FOR THE SMART GRID"); ?>
+		
+		
+		<?php tprog_add_session("9:50-10:30 NEW TECHNOLOGIES FOR THE SMART GRID"); ?>
+		
+		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("11:00-11:20 SIMILARITIES AND DIFFERENCES BETWEEN THE INTERNET AND THE SMART GRID"); ?>
+		
+		
+		<?php tprog_add_session("11:20-11:30 SURVEY OF CURRENT WORK, OPEN ISSUES, AND CHALLENGES"); ?>
+		
+	</ul>
+	
+</p>
+
+
 <h2 class="hcls">Motivation</h2>
 <p>
 Several factors have come together to make the Smart Grid a topic of great interest not just to researchers in power systems, but also to researchers in computer science and engineering, industry, policy makers, and the general public. These factors include:
