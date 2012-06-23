@@ -8,39 +8,119 @@
 <p>
 <b>Helsinki, Finland (Monday, August 13, 2012)</b>
 </p>
-<!--
+
+
 <h2 class="hcls">Technical Program</h2>
 
-<p>You can download all VISA papers as a single <a href="" rel="external">zip</a> file.</p>
+<p>
 
-<table class="wstbl">
-        <tr class="cthm1a"><td>09:00 - 09:05</td><td> <b>Welcome</b> </td></tr>
-        
-        <tr class="cthm1b"><td>09:05 - 10:00</td><td> <b>Keynote Presentation</b> </td></tr>
-        
-        <tr class="cthm1a"><td>10:00 - 10:30</td><td> <b>Architecture</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("08:30-08:45 Introductory Remarks"); ?>
+		
+		
+		<?php tprog_add_session("08:45-10:30 Cellular Network Design (Chair: Li Erran Li, Bell Labs, Alcatel-Lucent)"); ?>
+		
+		<?php tprog_add_item("Tutorial: Wide-area Cellular Networks - Design Choices", 
+			"", 
+			"Zolt&aacute;n Tur&aacute;nyi (Ericsson Research)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Invited Talk: Open Radio: Software Defined Wireless Networks", 
+			"", 
+			"Sachin Katti (Stanford University)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30 Characterizing Cellular Networks (Chair: Morley Mao, University of Michigan)"); ?>
+		
+		
+		<?php tprog_add_item("Understanding Bufferbloat in Cellular Networks", 
+			"", 
+			"Haiqing Jiang (North Carolina State University), Zeyu Liu (North Carolina State University), Yaogong Wang (North Carolina State University), Kyunghan Lee (North Carolina State University), and Injong Rhee  (North Carolina State University)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_item("Invited Paper: Characterizing Data Usage Patterns in Cellular Networks", 
+			"", 
+			"Yu Jin (AT&amp;T Research), Nick Duffield (AT&amp;T Research), Alexandre Gerber (AT&amp;T Research), Patrick Haffner (AT&amp;T Research), Wen-Ling Hsu (AT&amp;T Research), Guy Jacobson (AT&amp;T Research), Subhabrata Sen (AT&amp;T Research), Shobha Venkataraman (AT&amp;T Research), and Zhi-Li Zhang (University of Minnesota)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Invited Talk: Characterizing traffic dynamics in cellular data networks", 
+			"", 
+			"Jia Wang (AT&amp;T Research)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Understanding the Characteristics of Cellular Data Traffic", 
+			"", 
+			"Ying Zhang (Ericsson Research) and &Aring;ke Arvidsson (Ericsson Research)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		
+		
+		<?php tprog_add_session("14:00-15:30 Leveraging WiFi (Chair: Jia Wang, AT&amp;T Research)"); ?>
+		
+		<?php tprog_add_item("Making Use of All the Networks Around Us: A Case Study in Android", 
+			"", 
+			"Kok-Kiong Yap (Stanford University), Te-Yuan Huang (Stanford University), Masayoshi Kobayashi (NEC Corp.), Ioannis Yiakoumis (Stanford University), Nick McKeown (Stanford University), Sachin Katti (Stanford University), and Guru Parulkar (Stanford University)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Casting Doubts on the Viability of WiFi Offloading", 
+			"", 
+			"Shu Liu (University of Notre Dame) and Aaron D Striegel (University of Notre Dame)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Exploring Mobile/WiFi Handover with MultiPath TCP", 
+			"", 
+			"Christoph Paasch (Universit&eacute; Catholique de Louvain), Gregory Detal (Universit&eacute; Catholique de Louvain), Fabien Duchene (Universit&eacute; Catholique de Louvain), Costin Raiciu (University Politehnica of Bucharest), and Olivier Bonaventure (Universit&eacute; Catholique de Louvain)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Invited Paper: Policy-Based Network Management For Generalized Vehicle-To-Internet Connectivity", 
+			"", 
+			"Joshua Hare (University of Wisconsin), Lance Hartung (University of Wisconsin), and Suman Banerjee (University of Wisconsin)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		
+		
+		<?php tprog_add_session("16:00-16:45 Coverage and Location (Chair: Suman Banerjee, University of Wisconsin)"); ?>
+		
+		<?php tprog_add_item("Improving Coverage Estimation for Cellular Networks with Spatial Bayesian Prediction based on Measurements", 
+			"", 
+			"Berna Sayrac (Orange Labs), Janne Riihij&auml;rvi (RWTH Aachen University), Petri M&auml;h&ouml;nen (RWTH Aachen University), Sana Ben Jemaa (Orange Labs), Eric Moulines (Ecole Nationale Sup&eacute;rieure des T&eacute;l&eacute;communications), S&eacute;bastien Grimoud (France Telecom R&amp;D)", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Invited Talk: When Assistance Becomes Dependence: An Analysis of AGPS performance", 
+			"", 
+			"Konstantina Papagiannaki (T&eacute;l&eacute;fonica Research)", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("16:45:00-17:45 Panel: Cellular Networks: Challenges and Future Design"); ?>
+		
+	</ul>
+	
+</p>
 
-        <tr class="cthm1a"><td>10:30 - 11:00</td><td> <b>Coffee Break</b> </td></tr>
-        
-        <tr class="cthm1a"><td>11:00 - 12:30</td><td> <b>Architecture (continued)</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        
-        <tr class="cthm1a"><td>12:30 - 14:00</td><td> <b>Lunch</b> </td></tr>
-        
-        <tr class="cthm1a"><td>14:00 - 15:30</td><td> <b>Another Topic</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        
-        <tr class="cthm1a"><td>15:30 - 16:00</td><td> <b>Coffee Break</b> </td></tr>
-        
-        <tr class="cthm1a"><td>16:00 - 17:30</td><td> <b>Another Topic</b> (Chair: )</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-        <tr class="cthm1b"><td> </td><td> PUT PAPER HERE, AND ALSO THE AUTHORS</td></tr>
-</table>
--->
+
+<h2 class="hcls">Introduction</h2>
 
 <p>
 With the popularity of smart phones and tablets, we are living in an
