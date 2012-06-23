@@ -220,6 +220,20 @@ em {
 	border: #ffcc00 solid 1px;
 }
 
+.paperlnkcls:link {
+	text-decoration: none;
+	margin: 0.1em;
+	padding: 0.15em;
+}
+
+.paperlnkcls:hover {
+	text-decoration: none;
+}
+
+.paperlnkcls em {
+	color: black;
+}
+
 .datetag {
 	margin-right: 1em; 
 	font-weight: bold;

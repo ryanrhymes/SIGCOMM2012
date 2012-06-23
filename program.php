@@ -491,21 +491,21 @@ Lieguang Zeng (Tsinghua University)",
 		
 		<?php
 			tprog_add_item("Forty Data Communications Research Questions",
-			"", 
+			"paper/ccr-partridge.pdf", 
 			"Craig Partridge (Raytheon BBN Technologies)", 
 			"Paper");
 		?>
 		
 		<?php
 			tprog_add_item("Extracting Benefit from Harm: Using Malware Pollution to Analyze the Impact of Political and Geophysical Events on the Internet",
-			"", 
+			"paper/ccr-dainotti.pdf", 
 			"Alberto Dainotti (University of Napoli Federico II), Roman Ammann (Auckland University of Technology), Emile Aben (RIPE NCC), Kimberly C. Claffy (CAIDA/UCSD)", 
 			"Paper");
 		?>
 		
 		<?php
 			tprog_add_item("The Collateral Damage of Internet Censorship by DNS Injection",
-			"", 
+			"paper/ccr-paper266.pdf", 
 			"Sparks (Hovership Nebuchadnezzar Zion Virtual Labs), Neo (Hovership Nebuchadnezzar Zion Virtual Labs), Tank (Hovership Nebuchadnezzar Zion Virtual Labs), Smith (Hovership Nebuchadnezzar Zion Virtual Labs), Dozer (Hovership Nebuchadnezzar Zion Virtual Labs)", 
 			"Paper");
 		?>
