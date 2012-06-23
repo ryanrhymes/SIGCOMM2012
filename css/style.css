@@ -346,6 +346,11 @@ div.fees {
 	padding: 0 1em 0 1em;
 }
 
+.bio_img {
+	margin: 1em;
+	float: left;
+}
+
 /* jqm overrides go here */
 
 .ui-body-c .ui-link {
