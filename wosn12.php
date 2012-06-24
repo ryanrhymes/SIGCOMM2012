@@ -14,12 +14,12 @@
 
 <p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("9:00-9:15: Welcome Message and Opening Remarks"); ?>
+		<?php tprog_add_session("08:30-08:50 Welcome Message and Opening Remarks"); ?>
 		
 		<?php tprog_add_item("Balachander Krishnamurthy (organizer) <br /> Ben Zhao and Stefan Saroiu (PC co-chairs)", "", "", ""); ?>
 		
 		
-		<?php tprog_add_session("9:15-10:30  Session 1: Share at Your Own Risk (Chair: Krishna Gummadi, MPI-SWS)"); ?>
+		<?php tprog_add_session("08:50-10:30  Session 1: Share at Your Own Risk (Chair: Krishna Gummadi, MPI-SWS)"); ?>
 		
 		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers", 
 			"", 
@@ -39,10 +39,10 @@
 			""); 
 		?>
 		
-		<?php tprog_add_session("10:30-10:45 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		
-		<?php tprog_add_session("10:45-12:05 Session 2: Locked in A Long-Distance Relationship (Chair: James Salter, GCHQ)"); ?>
+		<?php tprog_add_session("11:00-12:30 Session 2: Locked in A Long-Distance Relationship (Chair: James Salter, GCHQ)"); ?>
 		
 		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions", 
 			"", 
@@ -63,10 +63,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("12:00-13:15 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
 		
 		
-		<?php tprog_add_session("13:15-14:30  Session 3: Do Your Servers Social Network? (Chair: Walter Willinger, AT&amp;T Labs--Research)"); ?>
+		<?php tprog_add_session("14:00-15:30  Session 3: Do Your Servers Social Network? (Chair: Walter Willinger, AT&amp;T Labs--Research)"); ?>
 		
 		<?php tprog_add_item("Shortest Paths in Less Than a Millisecond", 
 			"", 
@@ -87,10 +87,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("14:30-15:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
 		
 		
-		<?php tprog_add_session("15:00-16:15  Session 4: Think Before You Post (Chair: Sue Moon, KAIST)"); ?>
+		<?php tprog_add_session("16:00-16:50  Session 4: Think Before You Post (Chair: Sue Moon, KAIST)"); ?>
 		
 		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network", 
 			"", 
@@ -111,12 +111,8 @@
 		?>
 		
 		
-		<?php tprog_add_session("16:15-16:30 COFFEE BREAK"); ?>
-		
-		
-		<?php tprog_add_session("16:30-17:30: Panel: Future of Social Networking Research"); ?>
-		
-		<?php tprog_add_item("", "", "", ""); ?>
+		<?php tprog_add_session("16:50-17:30: Panel: Future of Social Networking Research"); ?>
+
 		
 	</ul>	
 
