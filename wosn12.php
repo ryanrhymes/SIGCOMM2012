@@ -176,7 +176,7 @@ Papers should be submitted via the <a href="http://cyclops.cs.ucsb.edu/WOSN12" r
 <ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 14, 2012</span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>April 20, 2012</span>"); ?>
-	<?php add_dateitem("Camera Ready", "June 4, 2012"); ?>
+	<?php add_dateitem("Camera Ready", "<span class='linethrough'>June 4, 2012</span>"); ?>
 	<?php add_dateitem("Workshop Date", "August 17, 2012"); ?>
 </ul>
 
