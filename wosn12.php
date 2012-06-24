@@ -39,6 +39,12 @@
 			""); 
 		?>
 		
+		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints", 
+			"", 
+			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)", 
+			""); 
+		?>
+		
 		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		
@@ -104,14 +110,8 @@
 			""); 
 		?>
 		
-		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints", 
-			"", 
-			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)", 
-			""); 
-		?>
 		
-		
-		<?php tprog_add_session("16:50-17:30: Panel: Future of Social Networking Research"); ?>
+		<?php tprog_add_session("16:50-17:30 Panel: Future of Social Networking Research"); ?>
 
 		
 	</ul>	
