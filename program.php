@@ -23,6 +23,24 @@
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
 		<?php tprog_add_session("8:30-10:30 WELCOME &amp; SIGCOMM AWARD KEYNOTE"); ?>
+		<?php
+			tprog_add_item("General Chairs' Welcome",
+			"", 
+			"Lars Eggert (NetApp) &amp; J&ouml;rg Ott (Aalto University)", 
+			"");
+		?>
+		<?php
+			tprog_add_item("Hosts' Welcome Address",
+			"", 
+			"Hannu Kauppinen (Nokia) &amp; N.N. (Aalto University)", 
+			"");
+		?>
+		<?php
+			tprog_add_item("SIGCOMM Award Keynote",
+			"", 
+			"N.N.", 
+			"Keynote");
+		?>
 		
 		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
