@@ -15,10 +15,10 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:30-8:45 Introductory Remarks"); ?>
+		<?php tprog_add_session("8:30-8:45", "Introductory Remarks", ""); ?>
 		
 		
-		<?php tprog_add_session("8:45-10:30 Cellular Network Design (Chair: Li Erran Li, Bell Labs, Alcatel-Lucent)"); ?>
+		<?php tprog_add_session("8:45-10:30", "Cellular Network Design", "Li Erran Li (Bell Labs, Alcatel-Lucent)"); ?>
 		
 		<?php tprog_add_item("Wide-area Cellular Networks - Design Choices", 
 			"", 
@@ -33,10 +33,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 Characterizing Cellular Networks (Chair: Morley Mao, University of Michigan)"); ?>
+		<?php tprog_add_session("11:00-12:30", "Characterizing Cellular Networks", "Morley Mao (University of Michigan)"); ?>
 		
 		
 		<?php tprog_add_item("Understanding Bufferbloat in Cellular Networks", 
@@ -65,10 +65,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 		
-		<?php tprog_add_session("14:00-15:30 Leveraging WiFi (Chair: Jia Wang, AT&amp;T Research)"); ?>
+		<?php tprog_add_session("14:00-15:30", "Leveraging WiFi", "Jia Wang (AT&amp;T Research)"); ?>
 		
 		<?php tprog_add_item("Making Use of All the Networks Around Us: A Case Study in Android", 
 			"", 
@@ -95,10 +95,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("16:00-16:45 Coverage and Location (Chair: Suman Banerjee, University of Wisconsin)"); ?>
+		<?php tprog_add_session("16:00-16:45", "Coverage and Location", "Suman Banerjee (University of Wisconsin)"); ?>
 		
 		<?php tprog_add_item("Improving Coverage Estimation for Cellular Networks with Spatial Bayesian Prediction based on Measurements", 
 			"", 
@@ -113,7 +113,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("16:45-17:45 Panel: Cellular Networks: Challenges and Future Design"); ?>
+		<?php tprog_add_session("16:45-17:45", "Panel: Cellular Networks: Challenges and Future Design", ""); ?>
 		
 	</ul>
 	

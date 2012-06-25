@@ -16,7 +16,7 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("9:00-9:15 Welcoming Remarks"); ?>
+		<?php tprog_add_session("9:00-9:15", "Welcoming Remarks", ""); ?>
 		
 		<?php tprog_add_item("Welcoming Remarks by Prof. Kevin Fu", 
 			"", 
@@ -25,7 +25,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("9:15-10:00 Keynote"); ?>
+		<?php tprog_add_session("9:15-10:00", "Keynote", ""); ?>
 		
 		<?php tprog_add_item("Open Access to My Heart's Data", 
 			"", 
@@ -34,13 +34,13 @@
 		?>
 		
 		
-		<?php tprog_add_session("10:00-10:30 Social Engineering Event"); ?>
+		<?php tprog_add_session("10:00-10:30", "Social Engineering Event", ""); ?>
 		
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 Session 1: Wireless Medical Devices: Implanted and Worn"); ?>
+		<?php tprog_add_session("11:00-12:30", "Session 1: Wireless Medical Devices: Implanted and Worn", ""); ?>
 		
 		<?php tprog_add_item("Emerging Wireless Applications in Biomedicine", 
 			"", 
@@ -62,10 +62,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 		
-		<?php tprog_add_session("14:00-15:30 Session 2: Medical Device Communication: Safety, Effectiveness, Security"); ?>
+		<?php tprog_add_session("14:00-15:30", "Session 2: Medical Device Communication: Safety, Effectiveness, Security", ""); ?>
 		
 		<?php tprog_add_item("Wireless Insulin Pump Security", 
 			"", 
@@ -86,10 +86,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("16:00-17:30 Session 3: Medical Communication: Radio Interference and Propagation"); ?>
+		<?php tprog_add_session("16:00-17:30", "Session 3: Medical Communication: Radio Interference and Propagation", ""); ?>
 		
 		
 		<?php tprog_add_item("Wireless Medical Devices and Electromagnetic Compatibility", 

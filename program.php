@@ -22,15 +22,11 @@
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
-		<?php tprog_add_session("8:30-10:30 WELCOME &amp; SIGCOMM AWARD KEYNOTE"); ?>
+		<?php tprog_add_session("8:30-10:30", "Welcom &amp; SIGCOMM Award Keyword", ""); ?>
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 1: MIDDLEBOXES AND MIDDLEWARE"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Ramana Kompella", "", "", "");
-		?>
+		<?php tprog_add_session("11:00-12:30", "Session 1: Middlebox and Middleware", "Ramana Kompella"); ?>
 		
 		<?php
 			tprog_add_item("Multi-Resource Fair Queueing for Packet Processing",
@@ -54,13 +50,9 @@
 		?>
 		
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 
-		<?php tprog_add_session("14:00-15:30 SESSION 2: WIRELESS COMMUNICATION"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Jon Crowcroft", "", "", "");
-		?>
+		<?php tprog_add_session("14:00-15:30", "Session 2: Wireless Communication", "Jon Crowcroft"); ?>
 		
 		<?php
 			tprog_add_item("Picasso: Flexible RF and Spectrum Slicing",
@@ -84,7 +76,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-17:00 POSTER &amp; DEMO 1"); ?>
+		<?php tprog_add_session("15:30-17:00", "Poster &amp; Demo 1", ""); ?>
 		
 		<?php
 			tprog_add_item("Network-Aware Service Placement in a Distributed Cloud Environment",
@@ -234,11 +226,7 @@
 		?>
 		
 
-		<?php tprog_add_session("17:00-18:30 SESSION 3: DATA CENTERS: LATENCY"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Sachin Katti", "", "", "");
-		?>
+		<?php tprog_add_session("17:00-18:30", "Session 3: Data Centers: Latency", "Sachin Katti"); ?>
 		
 		<?php
 			tprog_add_item("Deadline-Aware Datacenter TCP (D<sup>2</sup>TCP)",
@@ -261,7 +249,7 @@
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("18:30-19:30 COMMUNITY FEEDBACK SESSION"); ?>
+		<?php tprog_add_session("18:30-19:30", "Community Feedback Session", ""); ?>
 
 	</ul>
 	</p>
@@ -273,11 +261,7 @@
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true">
-		<?php tprog_add_session("9:00-10:30 SESSION 4: MEASURING NETWORKS"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Sergey Gorinsky", "", "", "");
-		?>
+		<?php tprog_add_session("9:00-10:30", "Session 4: Measuring Networks", "Sergey Gorinsky"); ?>
 		
 		<?php
 			tprog_add_item("Inferring Visibility: Who's (not) talking to whom?",
@@ -300,13 +284,9 @@
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 5: DATA CENTERS: RESOURCE MANAGEMENT"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Emin G&uuml;n Sirer", "", "", "");
-		?>
+		<?php tprog_add_session("11:00-12:30", "Session 5: Data Centers: Resources Management", "Emin G&uuml;n Sirer"); ?>
 		
 		<?php
 			tprog_add_item("FairCloud: Sharing The Network In Cloud Computing",
@@ -330,13 +310,9 @@ Reservations in Data Centers",
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 
-		<?php tprog_add_session("14:00-16:00 SESSION 6: WIRELESS AND MOBILE NETWORKING"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Srinivasan Seshan", "", "", "");
-		?>
+		<?php tprog_add_session("14:00-16:00", "Session 6: Wireless and Mobile Networking", "Srinivasan Seshan"); ?>
 		
 		<?php
 			tprog_add_item("Flashback: Decoupled Lightweight Wireless Control",
@@ -367,7 +343,7 @@ Reservations in Data Centers",
 		?>
 		
 		
-		<?php tprog_add_session("16:00-17:30 POSTER &amp; DEMO 2"); ?>
+		<?php tprog_add_session("16:00-17:30", "Poster &amp; Demo 2", ""); ?>
 		
 		<?php
 			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperativeand Lightweight Security at Mobiles",
@@ -511,11 +487,7 @@ Lieguang Zeng (Tsinghua University)",
 		?>
 
 		
-		<?php tprog_add_session("17:30-18:30 \"BEST OF CCR\" SESSION"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Srinivasan Keshav", "", "", "");
-		?>
+		<?php tprog_add_session("17:30-18:30", "\"Best Of CCR\" Session", "Srinivasan Keshav"); ?>
 		
 		<?php
 			tprog_add_item("Forty Data Communications Research Questions",
@@ -549,11 +521,7 @@ Lieguang Zeng (Tsinghua University)",
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true">
-		<?php tprog_add_session("9:00-10:30 SESSION 7: NETWORK FORMALISM AND ALGORITHMICS"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Matt Caesar", "", "", "");
-		?>
+		<?php tprog_add_session("9:00-10:30", "Session 7: Network Formalism and Algorithmics", "Matt Caesar"); ?>
 		
 		<?php
 			tprog_add_item("Perspectives on Network Calculus - No Free Lunch, But Still Good Value",
@@ -577,14 +545,10 @@ Multi-dimensional Packet Classification",
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00","Coffee Break", ""); ?>
 
 		
-		<?php tprog_add_session("11:00-12:30 SESSION 8: STREAMING AND CONTENT NETWORKING"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Fabi&aacute;n Bustamante", "", "", "");
-		?>
+		<?php tprog_add_session("11:00-12:30", "Session 8: Streaming and Content Networking", "Fabi&aacute;n Bustamante"); ?>
 		
 		<?php
 			tprog_add_item("ShadowStream: Performance Evaluation as a Capability in Production Internet Live Streaming Networks",
@@ -608,13 +572,9 @@ Multi-dimensional Packet Classification",
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 
-		<?php tprog_add_session("14:00-15:30 SESSION 9: ROUTING"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Craig Partridge", "", "", "");
-		?>
+		<?php tprog_add_session("14:00-15:30", "Session 9: Routing", "Craig Partridge"); ?>
 		
 		<?php
 			tprog_add_item("Private and verifiable interdomain routing decisions",
@@ -637,13 +597,9 @@ Multi-dimensional Packet Classification",
 			"Paper");
 		?>
 
-		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
-		<?php tprog_add_session("16:00-17:30 SESSION 10: DATA CENTERS: NETWORK RESILIENCE"); ?>
-		
-		<?php
-			tprog_add_item("Session Chair: Bruce Maggs", "", "", "");
-		?>
+		<?php tprog_add_session("16:00-17:30","Session 10: Data Centers: Network Resilience", "Bruce Maggs"); ?>
 		
 		<?php
 			tprog_add_item("NetPilot: Automating Datacenter Network Failure Mitigation",
@@ -665,7 +621,7 @@ Multi-dimensional Packet Classification",
 			"Xia Zhou (UC Santa Barbara), Zengbin Zhang (UC Santa Barbara), Yibo Zhu (UC Santa Barbara), Yubo Li (Xi'an Jiaotong University, China), Saipriya Kumar (UC Santa Barbara), Amin Vahdat (Google/UC San Diego), Ben Y. Zhao (UC Santa Barbara), Haitao Zheng (UC Santa Barbara)", 
 			"Paper");
 		?>
-		<?php tprog_add_session("17:30-18:00 CLOSING"); ?>
+		<?php tprog_add_session("17:30-18:00", "Closing", ""); ?>
 		
 	</ul>
 	</p>

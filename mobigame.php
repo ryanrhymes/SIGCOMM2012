@@ -13,7 +13,7 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:30-9:50 Introductory Remarks"); ?>
+		<?php tprog_add_session("8:30-9:50", "Introductory Remarks", ""); ?>
 		
 		<?php tprog_add_item("Introduction", 
 			"", 
@@ -30,7 +30,7 @@
 		
 		
 		
-		<?php tprog_add_session("9:50-10:30 Session 1: Analytics"); ?>
+		<?php tprog_add_session("9:50-10:30", "Session 1: Analytics", ""); ?>
 		
 		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game", 
 			"", 
@@ -45,10 +45,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("11:00-12:30 Panel 1"); ?>
+		<?php tprog_add_session("11:00-12:30", "Panel 1", ""); ?>
 		
 		<?php tprog_add_item("Bridging the Gap Between Mobile Devices and MMOGs", 
 			"", 
@@ -57,10 +57,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 				
-		<?php tprog_add_session("14:00-15:30 Panel 2"); ?>
+		<?php tprog_add_session("14:00-15:30", "Panel 2", ""); ?>
 		
 		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
 			"", 
@@ -69,10 +69,10 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("16:00-17:00 Session 2: Platforms"); ?>
+		<?php tprog_add_session("16:00-17:00", "Session 2: Platforms", ""); ?>
 		
 		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games", 
 			"", 
@@ -93,7 +93,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("17:00-17:45 Keynote"); ?>
+		<?php tprog_add_session("17:00-17:45", "Keynote", ""); ?>
 		
 		
 		<?php tprog_add_item("Keynote", 
@@ -103,7 +103,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("17:45-18:00 Closing Remarks"); ?>
+		<?php tprog_add_session("17:45-18:00", "Closing Remarks", ""); ?>
 		
 		
 		<?php tprog_add_item("Closing Remarks", 
@@ -122,7 +122,7 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("Keynotes"); ?>
+		<?php tprog_add_session("", "Keynotes", ""); ?>
 		
 		<?php tprog_add_item("Antti Aaltonen, Ph.D., (Rovio)", 
 			"", 
@@ -137,7 +137,7 @@
 		?>
 
 
-		<?php tprog_add_session("PANEL 1: BRIDGING THE GAP BETWEEN MOBILE DEVICES AND MMOGS"); ?>
+		<?php tprog_add_session("", "Panel 1: Bridging the Gap Between Mobile Devices and MMOGs", ""); ?>
 
 		<?php tprog_add_item("Markus Pasula (Grand Cru)", 
 			"", 
@@ -158,7 +158,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("PANEL 2: BRIDGING THE GAP BETWEEN INDUSTRY AND ACADEMIA"); ?>
+		<?php tprog_add_session("", "Panel 2: Bridging the Gap between Industry and Academia", ""); ?>
 		
 		<?php tprog_add_item("Christoph Th&uuml;r (Ovelin)", 
 			"", 

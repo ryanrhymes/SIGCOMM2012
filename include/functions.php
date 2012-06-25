@@ -65,9 +65,9 @@ function add_dateitem($date, $info)
 	");
 }
 
-function tprog_add_session($title)
+function tprog_add_session($time, $title, $chair="")
 {
-	printf("<li class=\"ui-bar-%s\" data-role=\"list-divider\">%s</li>",
+	printf("<li class=\"ui-bar-%s\" data-role=\"list-divider\">$time %s $chair</li>",
 	       (preg_match('/BREAK/i', $title) ? "d" : "b"), strtoupper($title));
 }
 

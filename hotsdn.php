@@ -13,9 +13,9 @@
 
 <p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:45-9:00 Introductory Remarks"); ?>
+		<?php tprog_add_session("8:45-9:00", "Introductory Remarks", ""); ?>
 				
-		<?php tprog_add_session("9:00-10:30 Session 1: Controller and Switch Design"); ?>
+		<?php tprog_add_session("9:00-10:30", "Session 1: Controller and Switch Design", ""); ?>
 		
 		<?php
 			tprog_add_item("Logically Centralized? State Distribution Tradeoffs in Software Defined Networks",
@@ -58,9 +58,9 @@
 			"Guohan Lu (Microsoft Research Asia), Rui Miao (Tsinghua University), and Yongqiang Xiong and Chuanxiong Guo (Microsoft Research Asia)", 
 			"Paper");
 		?>
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
-		<?php tprog_add_session("11:00-12:30 Session 2: Programming and Debugging"); ?>
+		<?php tprog_add_session("11:00-12:30", "Session 2: Programming and Debugging", ""); ?>
 		
 		<?php 
 			tprog_add_item("Hierarchical Policies for Software Defined Networks", 
@@ -104,9 +104,9 @@
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
-		<?php tprog_add_session("14:00-15:30 Session 3: Support for Network Services"); ?>
+		<?php tprog_add_session("14:00-15:30", "Session 3: Support for Network Services", ""); ?>
 		
 		<?php 
 			tprog_add_item("Outsourcing Network Functionality", 
@@ -150,9 +150,9 @@
 			"Paper");
 		?>
 		
-		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 
-		<?php tprog_add_session("16:00-17:00 Session 4: Wireless and Security"); ?>
+		<?php tprog_add_session("16:00-17:00", "Session 4: Wireless and Security", ""); ?>
 		
 		<?php 
 			tprog_add_item("OpenRadio: A Programmable Wireless Dataplane", 
@@ -183,7 +183,7 @@
 		?>
 
 
-		<?php tprog_add_session("17:00-18:00 Panel"); ?>
+		<?php tprog_add_session("17:00-18:00","Panel", ""); ?>
 
 </ul>
 </p>
