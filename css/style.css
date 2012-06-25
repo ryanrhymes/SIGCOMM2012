@@ -79,13 +79,14 @@ ul li {
 	margin-top: 2em;
 }
 
-.prog-Paper, .prog-Demo, .prog-Poster {
+.prog-Paper, .prog-Demo, .prog-Poster, .prog-Keynote {
 	font-weight: bold;
 	padding: 4px;
-	letter-spacing:1px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
+	margin-top: .75em;
+	margin-left: 1em;
 }
 
 .prog-Paper {
@@ -98,6 +99,10 @@ ul li {
 
 .prog-Poster {
 	background-color: #b1c918;
+}
+
+.prog-Keynote {
+	background-color: #cccccc;
 }
 
 .hostlogo div {
