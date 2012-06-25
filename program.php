@@ -47,6 +47,10 @@
 		<?php tprog_add_session("11:00-12:30 SESSION 1: MIDDLEBOXES AND MIDDLEWARE"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Ramana Kompella", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("Multi-Resource Fair Queueing for Packet Processing",
 			"", 
 			"Ali Ghodsi (UC Berkeley / KTH), Vyas Sekar (Intel Labs), Matei Zaharia (UC Berkeley), Ion Stoica (UC Berkeley)", 
@@ -71,6 +75,10 @@
 		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
 
 		<?php tprog_add_session("14:00-15:30 SESSION 2: WIRELESS COMMUNICATION"); ?>
+		
+		<?php
+			tprog_add_item("Session Chair: Jon Crowcroft", "", "", "");
+		?>
 		
 		<?php
 			tprog_add_item("Picasso: Flexible RF and Spectrum Slicing",
@@ -247,6 +255,10 @@
 		<?php tprog_add_session("17:00-18:30 SESSION 3: DATA CENTERS: LATENCY"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Sachin Katti", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("Deadline-Aware Datacenter TCP (D<sup>2</sup>TCP)",
 			"", 
 			"Balajee Vamanan (Purdue University), Jahangir Hasan (Google Inc.), T. N. Vijaykumar (Purdue University)", 
@@ -282,6 +294,10 @@
 		<?php tprog_add_session("9:00-10:30 SESSION 4: MEASURING NETWORKS"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Sergey Gorinsky", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("Inferring Visibility: Who's (not) talking to whom?",
 			"", 
 			"Gonca Gursun (Boston University), Natali Ruchansky (Boston University), Evimaria Terzi (Boston University), Mark Crovella (Boston University", 
@@ -305,6 +321,10 @@
 		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		<?php tprog_add_session("11:00-12:30 SESSION 5: DATA CENTERS: RESOURCE MANAGEMENT"); ?>
+		
+		<?php
+			tprog_add_item("Session Chair: Emin G&uuml;n Sirer", "", "", "");
+		?>
 		
 		<?php
 			tprog_add_item("FairCloud: Sharing The Network In Cloud Computing",
@@ -331,6 +351,10 @@ Reservations in Data Centers",
 		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
 
 		<?php tprog_add_session("14:00-16:00 SESSION 6: WIRELESS AND MOBILE NETWORKING"); ?>
+		
+		<?php
+			tprog_add_item("Session Chair: Srinivasan Seshan", "", "", "");
+		?>
 		
 		<?php
 			tprog_add_item("Flashback: Decoupled Lightweight Wireless Control",
@@ -508,6 +532,10 @@ Lieguang Zeng (Tsinghua University)",
 		<?php tprog_add_session("17:30-18:30 \"BEST OF CCR\" SESSION"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Srinivasan Keshav", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("Forty Data Communications Research Questions",
 			"paper/ccr-partridge.pdf", 
 			"Craig Partridge (Raytheon BBN Technologies)", 
@@ -524,7 +552,7 @@ Lieguang Zeng (Tsinghua University)",
 		<?php
 			tprog_add_item("The Collateral Damage of Internet Censorship by DNS Injection",
 			"paper/ccr-paper266.pdf", 
-			"Sparks (Hovership Nebuchadnezzar Zion Virtual Labs), Neo (Hovership Nebuchadnezzar Zion Virtual Labs), Tank (Hovership Nebuchadnezzar Zion Virtual Labs), Smith (Hovership Nebuchadnezzar Zion Virtual Labs), Dozer (Hovership Nebuchadnezzar Zion Virtual Labs)", 
+			"Anonymous", 
 			"Paper");
 		?>
 		
@@ -540,6 +568,10 @@ Lieguang Zeng (Tsinghua University)",
 
 	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30 SESSION 7: NETWORK FORMALISM AND ALGORITHMICS"); ?>
+		
+		<?php
+			tprog_add_item("Session Chair: Matt Caesar", "", "", "");
+		?>
 		
 		<?php
 			tprog_add_item("Perspectives on Network Calculus - No Free Lunch, But Still Good Value",
@@ -569,6 +601,10 @@ Multi-dimensional Packet Classification",
 		<?php tprog_add_session("11:00-12:30 SESSION 8: STREAMING AND CONTENT NETWORKING"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Fabi&aacute;n Bustamante", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("ShadowStream: Performance Evaluation as a Capability in Production Internet Live Streaming Networks",
 			"", 
 			"Chen Tian (Yale University), Richard Alimi (Google), Y. R. Yang (Yale University), David Zhang (PPLive)", 
@@ -595,6 +631,10 @@ Multi-dimensional Packet Classification",
 		<?php tprog_add_session("14:00-15:30 SESSION 9: ROUTING"); ?>
 		
 		<?php
+			tprog_add_item("Session Chair: Craig Partridge", "", "", "");
+		?>
+		
+		<?php
 			tprog_add_item("Private and verifiable interdomain routing decisions",
 			"", 
 			"Mingchen Zhao (University of Pennsylvania), Wenchao Zhou (University of Pennsylvania), Alexander J. T. Gurney (University of Pennsylvania), Andreas Haeberlen (University of Pennsylvania), Micah Sherr (Georgetown University), Boon Thau Loo (University of Pennsylvania)", 
@@ -618,6 +658,10 @@ Multi-dimensional Packet Classification",
 		<?php tprog_add_session("15:30-16:00 COFFEE BREAK"); ?>
 		
 		<?php tprog_add_session("16:00-17:30 SESSION 10: DATA CENTERS: NETWORK RESILIENCE"); ?>
+		
+		<?php
+			tprog_add_item("Session Chair: Bruce Maggs", "", "", "");
+		?>
 		
 		<?php
 			tprog_add_item("NetPilot: Automating Datacenter Network Failure Mitigation",
