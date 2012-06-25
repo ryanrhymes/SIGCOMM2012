@@ -22,7 +22,7 @@
     <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
-		<?php tprog_add_session("8:30-10:30", "Welcom &amp; SIGCOMM Award Keyword", ""); ?>
+		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>
 		<?php
 			tprog_add_item("General Chairs' Welcome",
 			"", 
@@ -94,7 +94,7 @@
 		?>
 		
 		
-		<?php tprog_add_session("15:30-17:00", "Poster &amp; Demo 1", ""); ?>
+		<?php tprog_add_session("15:30-17:00", "Poster &amp; Demo Break 1", ""); ?>
 		
 		<?php
 			tprog_add_item("Network-Aware Service Placement in a Distributed Cloud Environment",
@@ -361,7 +361,7 @@ Reservations in Data Centers",
 		?>
 		
 		
-		<?php tprog_add_session("16:00-17:30", "Poster &amp; Demo 2", ""); ?>
+		<?php tprog_add_session("16:00-17:30", "Poster &amp; Demo Break 2", ""); ?>
 		
 		<?php
 			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperative and Lightweight Security at Mobiles",

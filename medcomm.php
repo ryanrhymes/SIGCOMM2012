@@ -114,7 +114,7 @@
 	
 </p>
 
-<p>*pending federal approval</p>
+<p>* pending federal approval</p>
 
 
 <h2 class="hcls">Introduction</h2>

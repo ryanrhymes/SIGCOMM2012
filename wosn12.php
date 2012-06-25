@@ -14,11 +14,8 @@
 
 <p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("8:30-8:50", "Welcome Message and Opening Remarks", ""); ?>
-		
-		<?php tprog_add_item("Balachander Krishnamurthy (Organizer) <br /> Ben Zhao &amp; Stefan Saroiu (PC Chairs)", "", "", ""); ?>
-		
-		
+		<?php tprog_add_session("8:30-8:50", "Welcome Message and Opening Remarks", "Balachander Krishnamurthy (Organizer), Ben Zhao &amp; Stefan Saroiu (PC Chairs)"); ?>
+				
 		<?php tprog_add_session("8:50-10:30", "Session 1: Share at Your Own Risk", "Krishna Gummadi (MPI-SWS)"); ?>
 		
 		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers", 

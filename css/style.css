@@ -79,7 +79,7 @@ ul li {
 	margin-top: 2em;
 }
 
-.prog-Paper, .prog-Demo, .prog-Poster, .prog-Keynote {
+.prog-paper, .prog-demo, .prog-poster, .prog-keynote {
 	font-weight: bold;
 	padding: 4px;
 	-webkit-border-radius: 6px;
@@ -89,19 +89,19 @@ ul li {
 	margin-left: 1em;
 }
 
-.prog-Paper {
+.prog-paper {
 	background-color: #ffcc00;
 }
 
-.prog-Demo {
+.prog-demo {
 	background-color: #6ec8e8;
 }
 
-.prog-Poster {
+.prog-poster {
 	background-color: #b1c918;
 }
 
-.prog-Keynote {
+.prog-keynote {
 	background-color: #cccccc;
 }
 

@@ -67,25 +67,31 @@ function add_dateitem($date, $info)
 
 function tprog_add_session($time, $title, $chair="")
 {
-	printf("<li class=\"ui-bar-%s\" data-role=\"list-divider\">$time %s $chair</li>",
-	       (preg_match('/BREAK/i', $title) ? "d" : "b"), strtoupper($title));
+	printf('<li class="ui-bar-%s" data-role="list-divider"><h3>%s %s</h3>',
+	       (preg_match('/lunch|coffee/i', $title) ? "d" : "b"), $time, $title);
+	if ($chair) {
+		$chair = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $chair);
+		printf('<p>Session Chair: %s</p>', $chair);
+	}
+	print('</li>');
+
 }
 
 function tprog_add_item($paper, $link, $authors, $info)
 {
 	$authors = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $authors);
-	print("<li data-theme=\"d\" data-icon=\"false\">");
+	print('<li data-theme="d" data-icon="false">');
 	if ($link) {
-		print("<a href=\"$link\" rel=\"external\">");
+		printf('<a href="%s" rel="external">', $link);
 	}
-	print("<h3>$paper</h3><p>$authors</p>");
+	printf('<h3>%s</h3><p>%s</p>', $paper, $authors);
 	if($info) {
-		print("<p class=\"ui-li-aside prog-$info\">$info</p>");
+		printf('<p class="ui-li-aside prog-%s">%s</p>', strtolower($info), $info);
 	}
 	if ($link) {
-		print("</a>");
+		print('</a>');
 	}
-	print("</li>");
+	print('</li>');
 }
 
 ?>
