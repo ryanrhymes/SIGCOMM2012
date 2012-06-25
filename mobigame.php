@@ -24,7 +24,7 @@
 		<?php tprog_add_item("Keynote", 
 			"", 
 			"Antti Aaltonen (Ph.D., Director, User Experience, Rovio)", 
-			""); 
+			"Keynote"); 
 		?>
 		
 		
@@ -35,13 +35,13 @@
 		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game", 
 			"", 
 			" Ian Obermiller; Sam Bayless", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("The Anatomy of a Large Mobile Massively Multiplayer Online Game", 
 			"", 
 			"Ashish Patro; Shravan Rayanchu; Michael Griepentrog; Yadi Ma; Suman Banerjee", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -53,7 +53,7 @@
 		<?php tprog_add_item("Bridging the Gap Between Mobile Devices and MMOGs", 
 			"", 
 			"Markus Pasula (CEO, Grand Cru), Suman Banerjee (University of Wisconsin-Madison), Frans M&auml;yr&auml; (University of Tampere)", 
-			""); 
+			"Panel"); 
 		?>
 		
 		
@@ -64,8 +64,8 @@
 		
 		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
 			"", 
-			"Christoph Thur (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabian Bustamante (Northwestern)", 
-			""); 
+			"Christoph Th&uuml;r (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabi&aacute;n Bustamante (Northwestern)", 
+			"Panel"); 
 		?>
 		
 		
@@ -77,29 +77,29 @@
 		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games", 
 			"", 
 			"Anh Le; Lorenzo Keller; Christina Fragouli; Athina Markopoulou", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Toward a Mobile Platform for Pervasive Games", 
 			"", 
 			"Inseok Hwang; Youngki Lee; Taiwoo Park; Junehwa Song", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Adaptive Display Power Management for OLED Displays", 
 			"", 
 			"Tan Kiat Wee; Rajesh Krishna Balan", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
-		<?php tprog_add_session("17:00-17:45 Keystone"); ?>
+		<?php tprog_add_session("17:00-17:45 Keynote"); ?>
 		
 		
-		<?php tprog_add_item("Keystone", 
+		<?php tprog_add_item("Keynote", 
 			"", 
 			"Victor Bahl (Director, Microsoft Research)", 
-			""); 
+			"Keynote"); 
 		?>
 		
 		
@@ -117,12 +117,12 @@
 </p>
 
 
-<h2 class="hcls">Bio</h2>
+<h2 class="hcls">Bios</h2>
 
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("Keynote"); ?>
+		<?php tprog_add_session("Keynotes"); ?>
 		
 		<?php tprog_add_item("Antti Aaltonen, Ph.D., (Rovio)", 
 			"", 

@@ -15,21 +15,21 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("08:30-08:45 Introductory Remarks"); ?>
+		<?php tprog_add_session("8:30-8:45 Introductory Remarks"); ?>
 		
 		
-		<?php tprog_add_session("08:45-10:30 Cellular Network Design (Chair: Li Erran Li, Bell Labs, Alcatel-Lucent)"); ?>
+		<?php tprog_add_session("8:45-10:30 Cellular Network Design (Chair: Li Erran Li, Bell Labs, Alcatel-Lucent)"); ?>
 		
-		<?php tprog_add_item("Tutorial: Wide-area Cellular Networks - Design Choices", 
+		<?php tprog_add_item("Wide-area Cellular Networks - Design Choices", 
 			"", 
 			"Zolt&aacute;n Tur&aacute;nyi (Ericsson Research)", 
-			""); 
+			"Tutorial"); 
 		?>
 		
-		<?php tprog_add_item("Invited Talk: Open Radio: Software Defined Wireless Networks", 
+		<?php tprog_add_item("Open Radio: Software Defined Wireless Networks", 
 			"", 
 			"Sachin Katti (Stanford University)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		
@@ -42,26 +42,26 @@
 		<?php tprog_add_item("Understanding Bufferbloat in Cellular Networks", 
 			"", 
 			"Haiqing Jiang (North Carolina State University), Zeyu Liu (North Carolina State University), Yaogong Wang (North Carolina State University), Kyunghan Lee (North Carolina State University), and Injong Rhee  (North Carolina State University)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
 		<?php tprog_add_item("Invited Paper: Characterizing Data Usage Patterns in Cellular Networks", 
 			"", 
 			"Yu Jin (AT&amp;T Research), Nick Duffield (AT&amp;T Research), Alexandre Gerber (AT&amp;T Research), Patrick Haffner (AT&amp;T Research), Wen-Ling Hsu (AT&amp;T Research), Guy Jacobson (AT&amp;T Research), Subhabrata Sen (AT&amp;T Research), Shobha Venkataraman (AT&amp;T Research), and Zhi-Li Zhang (University of Minnesota)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Invited Talk: Characterizing traffic dynamics in cellular data networks", 
 			"", 
 			"Jia Wang (AT&amp;T Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Understanding the Characteristics of Cellular Data Traffic", 
 			"", 
 			"Ying Zhang (Ericsson Research) and &Aring;ke Arvidsson (Ericsson Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -73,25 +73,25 @@
 		<?php tprog_add_item("Making Use of All the Networks Around Us: A Case Study in Android", 
 			"", 
 			"Kok-Kiong Yap (Stanford University), Te-Yuan Huang (Stanford University), Masayoshi Kobayashi (NEC Corp.), Ioannis Yiakoumis (Stanford University), Nick McKeown (Stanford University), Sachin Katti (Stanford University), and Guru Parulkar (Stanford University)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Casting Doubts on the Viability of WiFi Offloading", 
 			"", 
 			"Shu Liu (University of Notre Dame) and Aaron D Striegel (University of Notre Dame)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Exploring Mobile/WiFi Handover with MultiPath TCP", 
 			"", 
 			"Christoph Paasch (Universit&eacute; Catholique de Louvain), Gregory Detal (Universit&eacute; Catholique de Louvain), Fabien Duchene (Universit&eacute; Catholique de Louvain), Costin Raiciu (University Politehnica of Bucharest), and Olivier Bonaventure (Universit&eacute; Catholique de Louvain)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Invited Paper: Policy-Based Network Management For Generalized Vehicle-To-Internet Connectivity", 
 			"", 
 			"Joshua Hare (University of Wisconsin), Lance Hartung (University of Wisconsin), and Suman Banerjee (University of Wisconsin)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -103,17 +103,17 @@
 		<?php tprog_add_item("Improving Coverage Estimation for Cellular Networks with Spatial Bayesian Prediction based on Measurements", 
 			"", 
 			"Berna Sayrac (Orange Labs), Janne Riihij&auml;rvi (RWTH Aachen University), Petri M&auml;h&ouml;nen (RWTH Aachen University), Sana Ben Jemaa (Orange Labs), Eric Moulines (Ecole Nationale Sup&eacute;rieure des T&eacute;l&eacute;communications), S&eacute;bastien Grimoud (France Telecom R&amp;D)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Invited Talk: When Assistance Becomes Dependence: An Analysis of AGPS performance", 
 			"", 
 			"Konstantina Papagiannaki (T&eacute;l&eacute;fonica Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
-		<?php tprog_add_session("16:45:00-17:45 Panel: Cellular Networks: Challenges and Future Design"); ?>
+		<?php tprog_add_session("16:45-17:45 Panel: Cellular Networks: Challenges and Future Design"); ?>
 		
 	</ul>
 	

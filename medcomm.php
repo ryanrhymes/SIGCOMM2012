@@ -16,21 +16,21 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("09:00-09:15 Welcoming Remarks"); ?>
+		<?php tprog_add_session("9:00-9:15 Welcoming Remarks"); ?>
 		
-		<?php tprog_add_item("Welcoming Remarks by <a href=\"http://www.cs.umass.edu/~kevinfu/\">Prof. Kevin Fu</a>", 
+		<?php tprog_add_item("Welcoming Remarks by Prof. Kevin Fu", 
 			"", 
 			"", 
 			""); 
 		?>
 		
 		
-		<?php tprog_add_session("09:15-10:00 Keynote"); ?>
+		<?php tprog_add_session("9:15-10:00 Keynote"); ?>
 		
 		<?php tprog_add_item("Open Access to My Heart's Data", 
 			"", 
 			"<a href=\"http://www.tedxcambridge.com/thrive/hugo-campos/\">Hugo Campos</a>", 
-			""); 
+			"Keynote"); 
 		?>
 		
 		
@@ -55,10 +55,10 @@
 			""); 
 		?>
 		
-		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices (paper)", 
+		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices", 
 			"", 
 			"Stewart J. Thomas, Jordan S. Besnoff, Matthew S. Reynolds (Duke University)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -79,10 +79,10 @@
 			""); 
 		?>
 		
-		<?php tprog_add_item("Towards a Safe Integrated Clinical Environment: A Communication Security Perspective (paper)", 
+		<?php tprog_add_item("Towards a Safe Integrated Clinical Environment: A Communication Security Perspective", 
 			"", 
 			"<a href=\"http://www-users.cs.umn.edu/~foo/\">Denis Foo Kune</a>, Yongdae Kim (Univ. Minnesota); Krishna Venkatasubramanian, Insup Lee (UPenn); Eugene Vasserman (Kansas State Univ.)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		

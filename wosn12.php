@@ -14,35 +14,35 @@
 
 <p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("08:30-08:50 Welcome Message and Opening Remarks"); ?>
+		<?php tprog_add_session("8:30-8:50 Welcome Message and Opening Remarks"); ?>
 		
-		<?php tprog_add_item("Balachander Krishnamurthy (organizer) <br /> Ben Zhao and Stefan Saroiu (PC co-chairs)", "", "", ""); ?>
+		<?php tprog_add_item("Balachander Krishnamurthy (Organizer) <br /> Ben Zhao &amp; Stefan Saroiu (PC Chairs)", "", "", ""); ?>
 		
 		
-		<?php tprog_add_session("08:50-10:30  Session 1: Share at Your Own Risk (Chair: Krishna Gummadi, MPI-SWS)"); ?>
+		<?php tprog_add_session("8:50-10:30  Session 1: Share at Your Own Risk (Chair: Krishna Gummadi, MPI-SWS)"); ?>
 		
 		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers", 
 			"", 
 			"Gianluca Stringhini, Manuel Egele, Christopher Kruegel, and Giovanni Vigna (UC Santa Barbara)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Big Friend is Watching You: Analyzing the Tracking Capabilities of Online Social Networks", 
 			"", 
 			"Abdelberi Chaabane (INRIA), Mohamed Ali Kaafar (INRIA, NICTA), and Roksana Boreli (NICTA, UNSW)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("A Workflow for Differentially-Private Graph Synthesis", 
 			"", 
 			"Davide Proserpio and Sharon Goldberg (Boston University), and Frank McScherry (Microsoft Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints", 
 			"", 
 			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
@@ -53,19 +53,19 @@
 		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions", 
 			"", 
 			"Andreas Kaltenbrunner (Barcelona Media Foundation), Salvatore Scellato (University of Cambridge), Yana Volkovich and David Laniado (Barcelona Media Foundation), Dave Currie and Erik J. Jutemar (Tuenti), and Cecilia Mascolo (University of Cambridge)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Coarse-Grained Topology Estimation via Graph Sampling", 
 			"", 
 			"Maciej Kurant, Minas Gjoka, Yan Wang, Zack W. Almquist, Carter T. Butts, and Athina Markopoulou (UC Irvine)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("The Importance of Being Placefriends: Discovering Location-focused Online Communities", 
 			"", 
 			"Chlo&euml; Brown, Vincenzo Nicosia, Salvatore Scellato, Anastasios Noulas, Cecilia Mascolo (University of Cambridge)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -77,19 +77,19 @@
 		<?php tprog_add_item("Shortest Paths in Less Than a Millisecond", 
 			"", 
 			"Rachit Agarwal, Matthew Caesar, and P. Brighten Godfrey (UIUC), and Ben Y. Zhao (UC Santa Barbara)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Navigation Characteristics of Online Social Networks and Search Engines Users.", 
 			"", 
 			"Christopher W Dunn and Minaxi Gupta (Indiana University), and Oliver Spatscheck (AT&amp;T Labs-Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Keeping Information Safe from Social Networking Apps", 
 			"", 
 			"Bimal Viswanath, MPI-SWS, Emre Kiciman and Stefan Saroiu (Microsoft Research)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -101,13 +101,13 @@
 		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network", 
 			"", 
 			"Saptarshi Ghosh and Naveen Sharma (IIT Kharagpur), Fabricio Benevenuto (Federal University of Ouro Preto, Brazil), Niloy Ganguly, IIT Kharagpur, and Krishna P. Gummadi (MPI-SWS)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Why Watching Movie Tweets Won't Tell the Whole Story", 
 			"", 
 			"Felix Ming Fai Wong, Soumya Sen, and Mung Chiang (Princeton University)", 
-			""); 
+			"Paper"); 
 		?>
 		
 		

@@ -282,8 +282,47 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 </ul>
 -->
 
+<!--
+<h2 class="hcls">Organizers' Picks</h2>
 
+<p>Here are some of our personal food &amp; drink favorites in Helsinki. But go and explore!</p>
 
+<div class="ui-grid-a">
+	<div class="ui-block-a">
+		<ul data-role="listview" data-inset="true">
+			<li data-role="list-divider">Restaurants</li>
+			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&L=1">
+				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="ui-block-b">
+		<ul data-role="listview" data-inset="true">
+			<li data-role="list-divider">Pubs (Hi Jon!)</li>
+			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&L=1">
+				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
+			</li>
+			<li><a href="http://www.pikkulintu.fi/">
+				<h3>Olutravintola Pikkulintu</h3><p>Remote, but probably the best beer and whisky selection in Finland.</p></a>
+			</li>
+			<li><a href="http://www.oluthuone.fi/en-kaisla.html">
+				<h3>Oluthuone Kaisla</h3><p>Probably the best selection downtown.</p></a>
+			</li>
+			<li><a href="http://www.teerenpeli.com/eng/teerenpelihelsinki">
+				<h3>Teerenpeli</h3><p>Brewpub; close to the venue.</p></a>
+			</li>
+			<li><a href="http://www.bruuveri.fi/">
+				<h3>Bruuveri</h3><p>Brewpub; close to the venue.</p></a>
+			</li>
+			<li><a href="http://www.panimoravintola.fi/">
+				<h3>Suomenlinnan Panimo</h3><p>Brewpub on Suomenlinna island; good food.</p></a>
+			</li>
+		</ul>
+	</div>
+
+</div>
+-->
 
 <h2 class="hcls">Sightseeing</h2>
 
