@@ -364,7 +364,7 @@ Reservations in Data Centers",
 		<?php tprog_add_session("16:00-17:30", "Poster &amp; Demo 2", ""); ?>
 		
 		<?php
-			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperativeand Lightweight Security at Mobiles",
+			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperative and Lightweight Security at Mobiles",
 			"", 
 			"Matthias W&auml;hlisch (Freie Universität Berlin), Sebastian Trapp (Freie Universität Berlin), Jochen Schiller (Freie Universität Berlin), Benjamin Jochheim (HAW Hamburg), Theodor Nolte (HAW Hamburg), Thomas C. Schmidt (HAW Hamburg), Osman Ugus (HAW Hamburg), Dirk Westhoff (HAW Hamburg), Martin Kutscher (escrypt GmbH), Matthias Küster (escrypt GmbH), Christian Keil (DFN-CERT Services GmbH), Jochen Schönfelder (DFN-CERT Services GmbH)",
 			"Demo");
