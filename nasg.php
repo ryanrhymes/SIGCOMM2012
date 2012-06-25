@@ -18,9 +18,9 @@
 <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("9:00-9:05 INTRODUCTION"); ?>
+		<?php tprog_add_session("9:00-9:05", "Introduction"); ?>
 	
-		<?php tprog_add_session("9:05-9:30 TODAY'S GRID"); ?>
+		<?php tprog_add_session("9:05-9:30", "Today's Grid"); ?>
 		<?php
 			tprog_add_item("", "", "
 					<p>Generation</p>
@@ -29,7 +29,7 @@
 			", "");
 		?>
 		
-		<?php tprog_add_session("9:30-9:50 MOTIVATION FOR THE SMART GRID"); ?>
+		<?php tprog_add_session("9:30-9:50", "Motivation for the Smart Grid"); ?>
 		<?php
 			tprog_add_item("", "", "
 					<p>Reliability</p>
@@ -39,7 +39,7 @@
 			", "");
 		?>
 				
-		<?php tprog_add_session("9:50-10:30 NEW TECHNOLOGIES FOR THE SMART GRID"); ?>
+		<?php tprog_add_session("9:50-10:30", "New Technologies for the Smart Grid"); ?>
 		<?php
 			tprog_add_item("", "", "
 					<p>Distributed generation</p>
@@ -50,12 +50,12 @@
 			", "");
 		?>
 		
-		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
+		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
 		
 		
-		<?php tprog_add_session("11:00-11:20 SIMILARITIES AND DIFFERENCES BETWEEN THE INTERNET AND THE SMART GRID"); ?>		
+		<?php tprog_add_session("11:00-11:20", "Similarities and Differences Between the Internet and the Smart Grid"); ?>		
 		
-		<?php tprog_add_session("11:20-11:30 SURVEY OF CURRENT WORK, OPEN ISSUES, AND CHALLENGES"); ?>
+		<?php tprog_add_session("11:20-11:30", "Survey of Current Work, Open Issues and Challenges"); ?>
 		<?php
 			tprog_add_item("", "", "
 					<p>Smart home</p>
@@ -65,7 +65,7 @@
 			", "");
 		?>
 		
-		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
+		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
 	</ul>
 	
 </p>
