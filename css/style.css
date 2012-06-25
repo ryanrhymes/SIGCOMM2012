@@ -16,21 +16,6 @@ iframe {
     border: 0;
 }
 
-#cmttbl {
-	text-align:left;
-	border-spacing:0;
-}
-
-#cmttbl .trt1a td, #cmttbl .trt1a th {
-	vertical-align: text-top;
-	padding: 0 0.5em 0.2em 0;
-}
-
-#cmttbl .trt1b td, #cmttbl .trt1b th {
-	vertical-align: text-top;
-	padding: 0 0.5em 1.5em 0;
-}
-
 img.logo {
 	padding: 5em;
 }
@@ -41,19 +26,6 @@ li {
 
 ul li {
 	margin-top: .5em;
-}
-
-.wstbl {
-	width: 100%;
-}
-
-.wstbl td {
-	padding: 0 1.5em 0 1em;
-}
-
-.wslnk {
-	font-size: 1.2em;
-	display: block;
 }
 
 .supporter, .banner {
@@ -139,10 +111,6 @@ img.conflogo {
  	text-align: right;
 }
 
-.floatright {
- 	float: right;
-}
-
 .linethrough {
 	text-decoration: line-through;
 }
@@ -179,8 +147,6 @@ em {
 	font-style: normal;
 }
 
-
-
 .supporter h2 {
 	text-align: center;
 }
@@ -204,6 +170,9 @@ em {
 	-webkit-border-radius: 9px;
 	-moz-border-radius: 9px;
 	border-radius: 9px;
+	-moz-box-shadow: 0 1px 4px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.3);
+	box-shadow:0 1px 4px rgba(0,0,0,.3);	
 }
 
 .lnkcls:link {
@@ -223,20 +192,6 @@ em {
 	background-color: #fc0;
 	color: #ffcc00;
 	border: #ffcc00 solid 1px;
-}
-
-.paperlnkcls:link {
-	text-decoration: none;
-	margin: 0.1em;
-	padding: 0.15em;
-}
-
-.paperlnkcls:hover {
-	text-decoration: none;
-}
-
-.paperlnkcls em {
-	color: black;
 }
 
 .datetag {
