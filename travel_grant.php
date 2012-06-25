@@ -58,24 +58,11 @@ The exact number of awards will depend on the availability of funds and will be 
 
 
 <h2 class="hcls">Supporters</h2>
-<p> ACM SIGCOMM thanks the following supporters, who make the 2012 student travel grants program possible:
-   <div class="ui-grid-c">
-	<div class="ui-block-a center">
-	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width:80%;padding:10%;"/></a>
-	</div>
-	<div class="ui-block-b center">
-	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:80%;padding:10%;" /></a>
-	</div>
-	<div class="ui-block-c center">
-	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width:80%;padding:10%;" /></a>
-	</div>
-	<!--
-	<div class="ui-block-d center">
-	<a href="http://nsf.gov/"><img src="images/nsf.gif" alt="National Science Foundation" style="width:80%;padding:10%;" /></a>
-	</div>
-	-->
-   </div><!-- /grid-a -->
-
+<p> ACM SIGCOMM thanks the following supporters, who make the 2012 student travel grants program possible:</p>
+	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width:21%;padding:2%;vertical-align:middle"/></a>
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:21%;padding:2%;vertical-align:middle" /></a>
+	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width:21%;padding:2%;vertical-align:middle" /></a>
+	<!--<a href="http://nsf.gov/"><img src="images/nsf.gif" alt="National Science Foundation" style="width:20%;padding:2%;vertical-align:middle" /></a>-->
 <h2 class="hcls">Selection Criteria</h2>
 
 <p>The following criteria will be used in the selection process:</p>
@@ -109,7 +96,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 	  <p>Submission deadline for all programs</p>
 	</div>
 	<div class="ui-block-b">
-	  <p>June 1, 2012</p>
+	  <p class="linethrough">June 1, 2012</p>
 	</div>
    </div><!-- /grid-a -->
 </li>
@@ -120,7 +107,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 	  <p>Award notification</p>
 	</div>
 	<div class="ui-block-b">
-	  <p>June 22, 2012</p>
+	  <p class="linethrough">June 22, 2012</p>
 	</div>
    </div><!-- /grid-a -->
 </li>
