@@ -19,25 +19,53 @@
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("9:00-9:05 INTRODUCTION"); ?>
-		
-		
+	
 		<?php tprog_add_session("9:05-9:30 TODAY'S GRID"); ?>
-		
+		<?php
+			tprog_add_item("", "", "
+					<p>Generation</p>
+					<p>Transmission</p>
+					<p>Distribution</p>
+			", "");
+		?>
 		
 		<?php tprog_add_session("9:30-9:50 MOTIVATION FOR THE SMART GRID"); ?>
-		
-		
+		<?php
+			tprog_add_item("", "", "
+					<p>Reliability</p>
+					<p>Carbon footprint</p>
+					<p>Peak load reduction</p>
+					<p>Dealing with new loads</p>
+			", "");
+		?>
+				
 		<?php tprog_add_session("9:50-10:30 NEW TECHNOLOGIES FOR THE SMART GRID"); ?>
-		
+		<?php
+			tprog_add_item("", "", "
+					<p>Distributed generation</p>
+					<p>Renewable energy systems</p>
+					<p>Electric vehicles</p>
+					<p>Storage systems</p>
+					<p>Sensing: smart meters and power measurement units</p>
+			", "");
+		?>
 		
 		<?php tprog_add_session("10:30-11:00 COFFEE BREAK"); ?>
 		
 		
-		<?php tprog_add_session("11:00-11:20 SIMILARITIES AND DIFFERENCES BETWEEN THE INTERNET AND THE SMART GRID"); ?>
-		
+		<?php tprog_add_session("11:00-11:20 SIMILARITIES AND DIFFERENCES BETWEEN THE INTERNET AND THE SMART GRID"); ?>		
 		
 		<?php tprog_add_session("11:20-11:30 SURVEY OF CURRENT WORK, OPEN ISSUES, AND CHALLENGES"); ?>
+		<?php
+			tprog_add_item("", "", "
+					<p>Smart home</p>
+					<p>Demand response</p>
+					<p>Electric vehicles</p>
+					<p>Storage sizing and operation</p>
+			", "");
+		?>
 		
+		<?php tprog_add_session("12:30-14:00 LUNCH BREAK"); ?>
 	</ul>
 	
 </p>
@@ -64,47 +92,6 @@ Computer networking researchers have the potential to play a critical role in th
 </p>
 
 
-<h2 class="hcls">Outline</h2>
-
-<p>Timings are approximate.</p>
-
-<ol type="I">
-<li>Introduction: 10 min</li>
-<li>Today's grid: 30 min
-	<ul>
-	<li>Generation</li>
-	<li>Transmission</li>
-	<li>Distribution</li>
-	</ul>
-</li>
-<li>Motivation for the Smart Grid: 30 min
-	<ul>
-	<li>Reliability</li>
-	<li>Carbon footprint</li>
-	<li>Peak load reduction</li>
-	<li>Dealing with new loads</li>
-	</ul>
-</li>
-<li>New technologies for the Smart grid: 40 min
-	<ul>
-	<li>Distributed generation</li>
-	<li>Renewable energy systems</li>
-	<li>Electric vehicles</li>
-	<li>Storage systems</li>
-	<li>Sensing: smart meters and power measurement units</li>
-	</ul>
-</li>
-<li>20 minute break</li>
-<li>Similarities between the Internet and the Smart Grid: 20 min</li>
-<li>Survey of current work and open issues and challenges in the following research areas 1hr:30 min
-	<ul>
-	<li>Smart home</li>
-	<li>Demand response</li>
-	<li>Electric vehicles</li>
-	<li>Storage sizing and operation</li>
-	</ul>
-</li>
-</ol>
 
 <h2 class="hcls">Instructors</h2>
 
