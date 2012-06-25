@@ -45,14 +45,14 @@
 		<?php tprog_add_item("Emerging Wireless Applications in Biomedicine", 
 			"", 
 			"<a href=\"http://www.adapoon.com/wp/adapoon/\">Prof. Ada Poon</a> (Stanford University, Electrical Engineering)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		
 		<?php tprog_add_item("Electronics on Contact Lenses and Low Power Sensor Interfaces/Wireless for Peer-to-Peer Medical Communication", 
 			"", 
 			"<a href=\"http://www.ee.washington.edu/faculty/otis_brian/\">Prof. Brian Otis</a> (University of Washington, Electrical Engineering)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices", 
@@ -70,13 +70,13 @@
 		<?php tprog_add_item("Wireless Insulin Pump Security", 
 			"", 
 			"<a href=\"http://www.mcafee.com/us/events/2011/Q2/06-23-11-wc-hacking-exposed-on-demand.aspx\">Barnaby Jack</a> (McAfee)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		<?php tprog_add_item("Microchip Based Sensors and Drug Delivery Systems for Managing Diabetes", 
 			"", 
 			"<a href=\"http://www.nature.com/news/wireless-drug-implant-takes-the-trouble-out-of-treatment-1.10045\">Bob Farra</a> (<a href=\"http://www.mchips.com/\">MicroCHIPS</a> President, COO)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		<?php tprog_add_item("Towards a Safe Integrated Clinical Environment: A Communication Security Perspective", 
@@ -95,19 +95,19 @@
 		<?php tprog_add_item("Wireless Medical Devices and Electromagnetic Compatibility", 
 			"", 
 			"<a href=\"http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm077210.htm\">Don Witters*</a> (Center for Devices and Radiological Health [CDRH] at the U.S. Food and Drug Administration [FDA])", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		<?php tprog_add_item("Wireless Interference on Medical Devices", 
 			"", 
 			"<a href=\"http://www.cimit.org/images/forum/headshots/hampton_rick.pdf\">Rickey Hampton</a> (Partners Health)", 
-			""); 
+			"Invited Talk"); 
 		?>
 		
 		<?php tprog_add_item("RF Propagation in Body Area Networks", 
 			"", 
 			"<a href=\"http://www.oaee.umd.edu/facstaff/sayrafian.html\">Kamran Sayrafian</a> (U.S. Information Technology Laboratory of the National Institute of Standards and Technology [NIST])", 
-			""); 
+			"Invited Talk"); 
 		?>
 	
 	</ul>
