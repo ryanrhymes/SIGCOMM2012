@@ -340,7 +340,7 @@ Reservations in Data Centers",
 		?>
 		
 		<?php
-			tprog_add_item("JMB: Scaling Wireless Capacity with User Demand",
+			tprog_add_item("MegaMIMO: Scaling Wireless Capacity with User Demand",
 			"", 
 			"Hariharan Rahul (MIT CSAIL), Swarun Suresh Kumar (MIT CSAIL), Dina Katabi (MIT CSAIL)", 
 			"Paper");

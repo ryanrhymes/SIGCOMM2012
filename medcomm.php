@@ -29,7 +29,7 @@
 		
 		<?php tprog_add_item("Open Access to My Heart's Data", 
 			"", 
-			"<a href=\"http://www.tedxcambridge.com/thrive/hugo-campos/\">Hugo Campos</a>", 
+			"<a href=\"http://medicinex.stanford.edu/portfolio/hugo-campos/\">Hugo Campos</a>", 
 			"Keynote"); 
 		?>
 		
