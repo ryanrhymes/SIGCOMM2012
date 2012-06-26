@@ -11,7 +11,6 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-<p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:45-9:00", "Introductory Remarks", ""); ?>
 				
@@ -186,7 +185,6 @@
 		<?php tprog_add_session("17:00-18:00","Panel", ""); ?>
 
 </ul>
-</p>
 
 
 <h2 class="hcls">Introduction</h2>
@@ -230,8 +228,8 @@ Networking.
 
 <h2 class="hcls">Topics</h2>
 
-We solicit submissions on topics including, but not limited to, the
-following:
+<p>We solicit submissions on topics including, but not limited to, the
+following:</p>
 
 <ul>
 

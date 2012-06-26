@@ -12,8 +12,6 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-<p>
-
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:30-8:45", "Introductory Remarks", ""); ?>
 		
@@ -117,8 +115,6 @@
 		
 	</ul>
 	
-</p>
-
 
 <h2 class="hcls">Introduction</h2>
 
@@ -164,7 +160,7 @@ and work-in-progress papers on previously unpublished work on cellular networks.
 
 <h2 class="hcls">Topics</h2>
 
-We solicit submissions on topics including, but not limited to, the following:
+<p>We solicit submissions on topics including, but not limited to, the following:</p>
 
 <ul>
 <li>Operation aspects:</li>

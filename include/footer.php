@@ -23,7 +23,7 @@
 		<li><a id="fbbtn" href="http://www.facebook.com/groups/sigcomm2012/" rel="external"></a></li>
 		<li><a id="twbtn" href="https://twitter.com/?category=people#!/sigcomm12" rel="external"></a></li>
 	</ul>
-	<a id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" href="" onclick="show_searchbar();">SHOW</a>
+	<span id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" onclick="show_searchbar();">SHOW</span>
 	<!-- Search Functionality -->
 
 </div><!-- /page -->

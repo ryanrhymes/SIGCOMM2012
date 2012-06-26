@@ -15,8 +15,6 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-<p>
-
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("9:00-9:05", "Introduction"); ?>
 	
@@ -68,8 +66,6 @@
 		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
 	</ul>
 	
-</p>
-
 
 <h2 class="hcls">Motivation</h2>
 <p>

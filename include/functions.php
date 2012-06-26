@@ -73,7 +73,7 @@ function tprog_add_session($time, $title, $chair="")
 		$chair = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $chair);
 		printf('<p>Session Chair: %s</p>', $chair);
 	}
-	print('</li>');
+	print("</li>\n");
 
 }
 
@@ -84,14 +84,23 @@ function tprog_add_item($paper, $link, $authors, $info)
 	if ($link) {
 		printf('<a href="%s" rel="external">', $link);
 	}
-	printf('<h3>%s</h3><p>%s</p>', $paper, $authors);
+	if ($paper) {
+		printf('<h3>%s</h3>', $paper);
+	}
+	if ($authors) {
+		if (preg_match('/^\s*\<p\>/i', $authors)) {
+			printf('%s', $authors);
+		} else {
+			printf('<p>%s</p>', $authors);
+		}	
+	}
 	if($info) {
 		printf('<p class="ui-li-aside prog-%s">%s</p>', strtolower($info), $info);
 	}
 	if ($link) {
 		print('</a>');
 	}
-	print('</li>');
+	print("</li>\n");
 }
 
 ?>

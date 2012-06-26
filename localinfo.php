@@ -79,7 +79,7 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   <tr><th>Price:</th><td>199&nbsp;&euro; single (incl. breakfast)<br> 224&nbsp;&euro; double (incl. breakfast)</td></tr>
   </table>
 
-  <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=ELIEL&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
+  <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&amp;h=ELIEL&amp;c=SIGCOMM&amp;d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
  
   <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="hi"></iframe> 
 	<script>
@@ -169,7 +169,7 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
 
 <p><em>This hotel cannot handle online reservations for group rates.</em> You need to <em>call the hotel</em> at +358-9-172-881 <em>or email them</em> at <a href="mailto:kaisaniemi.cumulus@restel.fi">kaisaniemi.cumulus@restel.fi</a>, mentioning the rate code ("SIGCOMM") to get the negotiated rate.</p>
 
-<a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&h=KAISACUM&c=SIGCOMM&d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
+<a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&amp;h=KAISACUM&amp;c=SIGCOMM&amp;d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
 
   <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ck"></iframe> 
 	<script>
@@ -291,7 +291,7 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 	<div class="ui-block-a">
 		<ul data-role="listview" data-inset="true">
 			<li data-role="list-divider">Restaurants</li>
-			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&L=1">
+			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&amp;L=1">
 				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
 			</li>
 		</ul>
@@ -300,7 +300,7 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 	<div class="ui-block-b">
 		<ul data-role="listview" data-inset="true">
 			<li data-role="list-divider">Pubs (Hi Jon!)</li>
-			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&L=1">
+			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&amp;L=1">
 				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
 			</li>
 			<li><a href="http://www.pikkulintu.fi/">
@@ -335,7 +335,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 <p><b>Southern Finland</b> - Places in Southern Finland worth visiting include <a href="http://www.porvoo.fi/en">Porvoo</a>, <a href="http://www.turku.fi/english">Turku</a> and <a href="http://www.tampere.fi/english/">Tampere</a>. Porvoo is easily reached by bus or a cruise and Turku and Tampere are reachable by train in under 2 hours.</p>
 
 <p>
-<b>Tallin</b> - In the south, is the capital of Estonia, is only 2 hours away by ferry (a day cruise costs about 25-40&nbsp;&euro;). Both Finland and Estonia are Schengen countries (see&nbsp;<a href="http://en.wikipedia.org/wiki/Schengen_Area">Schengen agreement</a>). For ferry schedules and prices, see the ferry line site of your choice: <a href="http://www.tallinksilja.com/en/">Tallink/Silja Line</a> or <a href="http://www.eckeroline.fi/en/default.aspx">Ecker&ouml; Line</a> or <a href="http://www.lindaline.fi/en/">Lindaline</a>.
+<b>Tallin</b> - In the south, is the capital of Estonia, is only 2 hours away by ferry (a day cruise costs about 25-40&nbsp;&euro;). Both Finland and Estonia are Schengen countries (see <a href="http://en.wikipedia.org/wiki/Schengen_Area">Schengen agreement</a>). For ferry schedules and prices, see the ferry line site of your choice: <a href="http://www.tallinksilja.com/en/">Tallink/Silja Line</a> or <a href="http://www.eckeroline.fi/en/default.aspx">Ecker&ouml; Line</a> or <a href="http://www.lindaline.fi/en/">Lindaline</a>.
 </p>
 
 <p>

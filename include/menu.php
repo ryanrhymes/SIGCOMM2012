@@ -15,7 +15,7 @@ $mypage = current_pagename();
 			<li <?php if ($mypage=="pclist.php") echo 'class="page-now"' ?> ><a href="pclist.php">Program Committee</a></li>
 			<li <?php if ($mypage=="organization.php") echo 'class="page-now"' ?> ><a href="organization.php">Organization Committee</a></li>
 			
-			<li class="subnavlist" data-icon="plus" data-theme="c" ><a class=navlink href="">Older Information</a></li>
+			<li class="subnavlist" data-icon="plus" data-theme="c" ><a class="navlink" href="">Older Information</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="cfd.php">Call for Posters &amp; Demos</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="cfp.php">Call for Papers</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="proposals.php">Call for Workshop Proposals</a></li>

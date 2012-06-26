@@ -13,8 +13,6 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-<p>
-
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("9:00-9:15", "Welcoming Remarks", ""); ?>
 		
@@ -112,8 +110,6 @@
 	
 	</ul>
 	
-</p>
-
 <p>* pending federal approval</p>
 
 

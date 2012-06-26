@@ -12,7 +12,6 @@
 
 <h2 class="hcls">Technical Program</h2>
 
-<p>
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:30-8:50", "Welcome Message and Opening Remarks", "Balachander Krishnamurthy (Organizer), Ben Zhao &amp; Stefan Saroiu (PC Chairs)"); ?>
 				
@@ -112,8 +111,6 @@
 
 		
 	</ul>	
-
-</p>
 
 
 <h2 class="hcls">Introduction</h2>

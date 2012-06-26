@@ -19,7 +19,6 @@
 
 <div id="prog_tbl_2" class="prog_tbl">
 	<h2 class="hcls">Tuesday, August 14, 2012</h2>
-    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
 		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>
@@ -141,7 +140,7 @@
 		<?php
 			tprog_add_item("Towards SmartFlow: Case Studies on Enhanced Programmable Forwarding in OpenFlow Switches",
 			"", 
-			"Felici&aacute;n N&eacute;meth (Budapest University of Technology and Economics), &Aacuted&aacutem Stipkovits (Budapest University of Technology and Economics), Bal&aacutezs Sonkoly (Budapest University of Technology and Economics), Andr&aacutes Guly&aacutes (Budapest University of Technology and Economics)", 
+			"Felici&aacute;n N&eacute;meth (Budapest University of Technology and Economics), &Aacute;d&aacute;m Stipkovits (Budapest University of Technology and Economics), Bal&aacute;zs Sonkoly (Budapest University of Technology and Economics), Andr&aacute;s Guly&aacute;s (Budapest University of Technology and Economics)", 
 			"Demo");
 		?>
 		
@@ -270,13 +269,11 @@
 		<?php tprog_add_session("18:30-19:30", "Community Feedback Session", ""); ?>
 
 	</ul>
-	</p>
 </div>	
 
 
 <div id="prog_tbl_3" class="prog_tbl">
 	<h2 class="hcls">Wednesday, August 15, 2012</h2>
-    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30", "Session 4: Measuring Networks", "Sergey Gorinsky"); ?>
@@ -529,14 +526,12 @@ Lieguang Zeng (Tsinghua University)",
 		?>
 		
 	</ul>
-	</p>
 
 </div>
 
 
 <div id="prog_tbl_4" class="prog_tbl">
 	<h2 class="hcls">Thursday, August 16, 2012</h2>
-    <p>
 
 	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30", "Session 7: Network Formalism and Algorithmics", "Matt Caesar"); ?>
@@ -642,7 +637,6 @@ Multi-dimensional Packet Classification",
 		<?php tprog_add_session("17:30-18:00", "Closing", ""); ?>
 		
 	</ul>
-	</p>
 
 </div>
 
