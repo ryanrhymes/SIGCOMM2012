@@ -55,7 +55,7 @@
 		
 		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices", 
 			"", 
-			"Stewart J. Thomas, Jordan S. Besnoff, Matthew S. Reynolds (Duke University)", 
+			"Stewart J. Thomas, Jordan S. Besnoff, <a href=\"http://alumni.media.mit.edu/~matt/\" rel=\"external\">Matthew S. Reynolds</a> (Duke University)", 
 			"Paper"); 
 		?>
 		
@@ -71,7 +71,7 @@
 			"Invited Talk"); 
 		?>
 		
-		<?php tprog_add_item("Microchip Based Sensors and Drug Delivery Systems for Managing Diabetes", 
+		<?php tprog_add_item("Microchip Based Sensors and Drug Delivery Systems", 
 			"", 
 			"<a href=\"http://www.nature.com/news/wireless-drug-implant-takes-the-trouble-out-of-treatment-1.10045\">Bob Farra</a> (<a href=\"http://www.mchips.com/\">MicroCHIPS</a> President, COO)", 
 			"Invited Talk"); 

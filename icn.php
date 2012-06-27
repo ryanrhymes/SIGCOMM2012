@@ -10,6 +10,141 @@
 <b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
+
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("", "Welcoming Remarks", ""); ?>
+		
+		<?php tprog_add_item("", 
+			"", 
+			"", 
+			""); 
+		?>
+		
+		<?php tprog_add_session("", "Session 1: ICN Architecture", "Giacomo Morabito (University of Cantabria)"); ?>
+		
+		<?php tprog_add_item("Pervasive Persistent Identification for Information Centric Networking", 
+			"", 
+			"Karen Sollins", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Exploit the known or explore the unknown? Hamlet-like doubts in ICN", 
+			"", 
+			"Raffaele Chiocchetti, Dario Rossi, Giuseppe Rossini, Giovanna Carofiglio; Diego Perino", 
+			"Paper"); 
+		?>
+
+		<?php tprog_add_item("Mobility Support in Content Centric Networks", 
+			"", 
+			"Dohyung Kim, Jong-Hwan Kim, Yusung Kim, Hyun-Soo Yoon; Ikjun Yeom;", 
+			""); 
+		?>		
+
+		<?php tprog_add_item("Transport-layer issues in Information Centric Networks", 
+			"", 
+			"Stefano Salsano, Andrea Detti, Matteo Pomposini, Matteo Cancellieri and Nicola Blefari Melazzi", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("", "Session 2: Specific System Designs", "George C. Polyzos (AUEB)"); ?>
+		
+		<?php tprog_add_item("An Open Content Delivery Infrastructure Using Data Lockers", 
+			"", 
+			"Richard Alimi, Leo Chen, Dirk Kutscher, Harry Liu, Akbar Rahman, Y. Richard Yang and David Zhang", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Coexist: A Hybrid Approach for Content Oriented Publish/Subscribe Systems", 
+			"", 
+			"Jiachen Chen, Mayutan Arumaithurai, Xiaoming Fu and K.K. Ramakrishnan", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Joint Hop-by-Hop and Receiver-Driven Interest Control Protocol for Content-Centric Networks", 
+			"", 
+			"Giovanna Carofiglio, Massimo Gallo and Luca Muscariello", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("A Multi-Level DHT Routing Framework with Aggregation", 
+			"", 
+			"Hang Liu", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
+		
+		
+		<?php tprog_add_session("", "Session 3: Forwarding and Caching", "Ignacio Solis (PARC)"); ?>
+		
+		<?php tprog_add_item("CATT: Potential Based Routing with Content Caching for ICN", 
+			"", 
+			"Suyong Eum, Kiyohide Nakauchi, Masayuki Murata, Yozo Shoji and Nozomu Nishinaga", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("To Cache or Not To Cache: Probabilistic In-Network Caching for Information-Centric Networks", 
+			"", 
+			"Ioannis Psaras, Wei Koong Chai and George Pavlou", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Proactive Selective Neighbor Caching for enhancing Mobility Support in Information-Centric Networks", 
+			"", 
+			"Xenofon Vasilakos, Vasilios Siris, George Polyzos and Marios Pomonis", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("On the Effects of Caching in Access Aggregation Networks", 
+			"", 
+			"John Ardelius, Lars Westberg, &Aring;ke Arvidsson and Bj&ouml;rn Gr&ouml;nvall", 
+			""); 
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("", "Session 4: ICN Applications and Optimizations", "B&ouml;rje Ohlman (Ericsson Research)"); ?>
+		
+		<?php tprog_add_item("Caesar: a Content Router for High Speed Forwarding", 
+			"", 
+			"Matteo Varvello, Diego Perino and Jairo Esteban", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Information-Centric Networking Architecture for Data Centers", 
+			"", 
+			"Bong Jun Ko, Vasileios Pappas, Ramya Raghavendra, Yang Song, Raheleh B. Dilmaghani, Kang-Won Lee and Dinesh Verma", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("Access Control Enforcement Delegation for Information-Centric Networking Architectures", 
+			"", 
+			"Nikos Fotiou, Giannis Marias and George Polyzos", 
+			""); 
+		?>
+		
+		<?php tprog_add_item("ICN-RE: Redundancy Elimination for Information-Centric Networking", 
+			"", 
+			"Diego Perino, Matteo Varvello and Krishna P. N. Puttaswamy", 
+			""); 
+		?>
+		
+	</ul>
+
+
+
+<h2 class="hcls">Introduction</h2>
+
+
 <p>
 	  The rapid development of Information-Centric Networking
 	  (ICN) concepts in the last few years is one of the
