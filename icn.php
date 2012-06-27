@@ -14,15 +14,8 @@
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		<?php tprog_add_session("", "Welcoming Remarks", ""); ?>
 		
-		<?php tprog_add_item("", 
-			"", 
-			"", 
-			""); 
-		?>
-		
-		<?php tprog_add_session("", "Session 1: ICN Architecture", "Giacomo Morabito (University of Cantabria)"); ?>
+		<?php tprog_add_session("9:00-10:30", "Session 1: ICN Architecture", "Giacomo Morabito (University of Cantabria)"); ?>
 		
 		<?php tprog_add_item("Pervasive Persistent Identification for Information Centric Networking", 
 			"", 
@@ -52,7 +45,7 @@
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("", "Session 2: Specific System Designs", "George C. Polyzos (AUEB)"); ?>
+		<?php tprog_add_session("11:00-12:30", "Session 2: Specific System Designs", "George C. Polyzos (AUEB)"); ?>
 		
 		<?php tprog_add_item("An Open Content Delivery Infrastructure Using Data Lockers", 
 			"", 
@@ -82,7 +75,7 @@
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 		
-		<?php tprog_add_session("", "Session 3: Forwarding and Caching", "Ignacio Solis (PARC)"); ?>
+		<?php tprog_add_session("14:00-15:30", "Session 3: Forwarding and Caching", "Ignacio Solis (PARC)"); ?>
 		
 		<?php tprog_add_item("CATT: Potential Based Routing with Content Caching for ICN", 
 			"", 
@@ -112,7 +105,7 @@
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("", "Session 4: ICN Applications and Optimizations", "B&ouml;rje Ohlman (Ericsson Research)"); ?>
+		<?php tprog_add_session("16:00-17:30", "Session 4: ICN Applications and Optimizations", "B&ouml;rje Ohlman (Ericsson Research)"); ?>
 		
 		<?php tprog_add_item("Caesar: a Content Router for High Speed Forwarding", 
 			"", 
