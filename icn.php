@@ -39,13 +39,13 @@
 		<?php tprog_add_item("Mobility Support in Content Centric Networks", 
 			"", 
 			"Dohyung Kim, Jong-Hwan Kim, Yusung Kim, Hyun-Soo Yoon; Ikjun Yeom;", 
-			""); 
+			"Paper"); 
 		?>		
 
 		<?php tprog_add_item("Transport-layer issues in Information Centric Networks", 
 			"", 
 			"Stefano Salsano, Andrea Detti, Matteo Pomposini, Matteo Cancellieri and Nicola Blefari Melazzi", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -57,25 +57,25 @@
 		<?php tprog_add_item("An Open Content Delivery Infrastructure Using Data Lockers", 
 			"", 
 			"Richard Alimi, Leo Chen, Dirk Kutscher, Harry Liu, Akbar Rahman, Y. Richard Yang and David Zhang", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Coexist: A Hybrid Approach for Content Oriented Publish/Subscribe Systems", 
 			"", 
 			"Jiachen Chen, Mayutan Arumaithurai, Xiaoming Fu and K.K. Ramakrishnan", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Joint Hop-by-Hop and Receiver-Driven Interest Control Protocol for Content-Centric Networks", 
 			"", 
 			"Giovanna Carofiglio, Massimo Gallo and Luca Muscariello", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("A Multi-Level DHT Routing Framework with Aggregation", 
 			"", 
 			"Hang Liu", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -87,25 +87,25 @@
 		<?php tprog_add_item("CATT: Potential Based Routing with Content Caching for ICN", 
 			"", 
 			"Suyong Eum, Kiyohide Nakauchi, Masayuki Murata, Yozo Shoji and Nozomu Nishinaga", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("To Cache or Not To Cache: Probabilistic In-Network Caching for Information-Centric Networks", 
 			"", 
 			"Ioannis Psaras, Wei Koong Chai and George Pavlou", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Proactive Selective Neighbor Caching for enhancing Mobility Support in Information-Centric Networks", 
 			"", 
 			"Xenofon Vasilakos, Vasilios Siris, George Polyzos and Marios Pomonis", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("On the Effects of Caching in Access Aggregation Networks", 
 			"", 
 			"John Ardelius, Lars Westberg, &Aring;ke Arvidsson and Bj&ouml;rn Gr&ouml;nvall", 
-			""); 
+			"Paper"); 
 		?>
 		
 		
@@ -117,25 +117,25 @@
 		<?php tprog_add_item("Caesar: a Content Router for High Speed Forwarding", 
 			"", 
 			"Matteo Varvello, Diego Perino and Jairo Esteban", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Information-Centric Networking Architecture for Data Centers", 
 			"", 
 			"Bong Jun Ko, Vasileios Pappas, Ramya Raghavendra, Yang Song, Raheleh B. Dilmaghani, Kang-Won Lee and Dinesh Verma", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Access Control Enforcement Delegation for Information-Centric Networking Architectures", 
 			"", 
 			"Nikos Fotiou, Giannis Marias and George Polyzos", 
-			""); 
+			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("ICN-RE: Redundancy Elimination for Information-Centric Networking", 
 			"", 
 			"Diego Perino, Matteo Varvello and Krishna P. N. Puttaswamy", 
-			""); 
+			"Paper"); 
 		?>
 		
 	</ul>
