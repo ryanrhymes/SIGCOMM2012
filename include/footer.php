@@ -1,5 +1,7 @@
 	</div><!-- /ui-block-b -->
+		<?php include ("menu.php"); ?>
 	</div><!-- /content -->
+
 
 	<!-- Search Functionality -->
 	<script type="text/javascript">
@@ -26,6 +28,9 @@
 	<span id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" onclick="show_searchbar();">SHOW</span>
 	<!-- Search Functionality -->
 
+<?php if ($mypage != "supporters.php")
+	echo('<div class="logobar" data-role="footer" data-position="fixed" data-theme="c"></div>');
+?>
 </div><!-- /page -->
 
   
@@ -47,8 +52,6 @@
 	});
   }, true);
 </script>
-
-<div id="logobar"></div>
 
 <?php
 	$jsstr = "sps = [\n";

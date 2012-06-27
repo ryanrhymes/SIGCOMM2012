@@ -4,7 +4,7 @@
 ?>
 
 
-<h2 class="hcls">About Helsinki, Finland</h2>
+<h2 class="hcls">Local Information</h2>
 <p>
 Finland (in Finnish "Suomi") is a republic and a member of the European
 Union since 1995. Its population is 5.3 million and its surface area

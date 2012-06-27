@@ -1,5 +1,5 @@
 <?php
-        $page_title="Home";
+        $page_title="Main Page";
         include("include/header.php");
 ?>
 

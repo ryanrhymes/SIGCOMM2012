@@ -9,10 +9,10 @@
 
 <div id="prog_ctrl" data-role="navbar">
 	<ul>
-		<li><a id="2" href="">Tuesday</a></li>
-		<li><a id="3" href="">Wednesday</a></li>
-		<li><a id="4" href="">Thursday</a></li>
-		<li><a id="0" href="" class="ui-btn-active ui-state-persist">All</a></li>
+		<li><a id="2" href="#">Tuesday</a></li>
+		<li><a id="3" href="#">Wednesday</a></li>
+		<li><a id="4" href="#">Thursday</a></li>
+		<li><a id="0" href="#" class="ui-btn-active ui-state-persist">All</a></li>
 	</ul>
 </div><!-- /navbar -->
 

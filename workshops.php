@@ -1,5 +1,5 @@
 <?php
-        $page_title="Workshops";
+        $page_title="Workshops &amp; Tutorials";
         include("include/header.php");
 ?>
 

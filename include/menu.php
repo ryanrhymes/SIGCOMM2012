@@ -3,7 +3,10 @@ $mypage = current_pagename();
 ?>
 
 	<div id="left-column" class="content-secondary">
-		<a href="index.php"><img class="center conflogo" src="images/helsinki-logo.png"  alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
+		<a href="index.php"><img class="center conflogo" src="images/helsinki-logo.png" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
+		
+		<a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls" id="sitenav">Site Navigation</h2></a>
+		
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li <?php if ($page_title=="Home") echo 'class="page-now"' ?> ><a href="index.php">Home</a></li>
 			<li <?php if ($page_title=="Supporters") echo 'class="page-now"' ?> ><a href="supporters.php">Supporters</a></li>
@@ -15,7 +18,7 @@ $mypage = current_pagename();
 			<li <?php if ($mypage=="pclist.php") echo 'class="page-now"' ?> ><a href="pclist.php">Program Committee</a></li>
 			<li <?php if ($mypage=="organization.php") echo 'class="page-now"' ?> ><a href="organization.php">Organization Committee</a></li>
 			
-			<li class="subnavlist" data-icon="plus" data-theme="c" ><a class="navlink" href="">Older Information</a></li>
+			<li class="subnavlist" data-icon="plus" data-theme="c" ><a class="navlink" href="#">Older Information</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="cfd.php">Call for Posters &amp; Demos</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="cfp.php">Call for Papers</a></li>
 			<li class="subnavlink hidden" data-theme="c"><a href="proposals.php">Call for Workshop Proposals</a></li>
