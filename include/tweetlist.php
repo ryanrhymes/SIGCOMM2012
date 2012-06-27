@@ -27,7 +27,7 @@
 			new TWTR.Widget({
 			  version: 2,
 			  type: 'search',
-			  search: '#sigcomm12 OR #sigcomm OR @sigcomm12 OR from:sigcomm12 OR sigcomm since:2012-1-1',
+			  search: '#sigcomm12 OR #sigcomm OR @sigcomm12 OR from:sigcomm12 OR sigcomm since:2012-1-1 lang:en',
 			  interval: 30000,
 			  title: '',
 			  subject: '#sigcomm12',
