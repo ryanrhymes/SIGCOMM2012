@@ -1,0 +1,48 @@
+#! /usr/bin/env bash
+
+# Copyright (C) 2012 Lars Eggert <lars@eggert.org>
+# All rights reserved.
+#                                                                
+# Redistribution and use in source and binary forms are permitted
+# provided that the above copyright notice and this paragraph are
+# duplicated in all such forms and that any documentation,
+# advertising materials, and other materials related to such
+# distribution and use acknowledge that the software was developed
+# by Lars Eggert. The name of the author may not be used to endorse
+# or promote products derived from this software without specific
+# prior written permission.
+# 
+# THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+# WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+# PURPOSE.
+
+# for all local files, do...
+ls *.php | while read item
+do
+	# fetch the HTML from the PHP testing server
+	src=$(mktemp /tmp/XXXXXXXXXX)
+	url=http://127.0.0.1:8000/$item
+	echo "----------------------------------------------------------"
+	echo $url
+	curl -s $url -o $src
+
+	# run it through a version of tidy that groks HTML5
+	err=$(mktemp /tmp/XXXXXXXXXX)
+	~/Documents/Code/tidy-html5/bin/tidy -eq $src > $err 2>&1
+
+	# find the error messahes
+	cat $err | while read msg
+	do
+		line=$(echo $msg | cut -f2 -d" ")		
+		# and print them together with the corresponding source line(s)
+		if [[ $line =~ [0-9]+ ]]; then
+			echo "***" $msg
+			sed -n "$(($line-2)),$(($line+2))p" $src
+			echo
+		fi
+	done
+	
+	echo	
+	rm $err $src
+done
