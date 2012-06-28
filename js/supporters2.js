@@ -184,6 +184,11 @@ $(document).bind('pageshow', function(event){
 			}
 		);
 		
+		// Expand the navigation menu if one of the links there is active
+		if ($.mobile.activePage.find(".subnavlink.page-now").size()) {
+			$.mobile.activePage.find(".subnavlist").click();
+		}
+
 		// Bind conf prog btn
 		$.mobile.activePage.find("#prog_ctrl a").click(
 			function() {
