@@ -25,7 +25,7 @@ echo Creating minified site in $out...
 find . -print0 | while read -d $'\0' item
 do
   if [[ $item == ./.git* || $item == ./.DS* || 
-  	    $item == ./README.md || $item == ./publish ]]; then
+  	    $item == ./README.md || $item == ./publish || $item == ./lint ]]; then
 	# skip these files
   	continue
   	
@@ -58,6 +58,7 @@ do
     cp $item $out/$item
   fi
 done
+echo
 
 # fix permissions
 chmod -R ug+rwX $out
@@ -75,7 +76,8 @@ echo '*' >> $cm
 echo >> $cm
 
 # upload to the ACM's server
-lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
+#lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
+rsync -azv --rsh=ssh --delete $out/ lars@turing.acm.org:~/2012/
 
 # remove temporary directory
 rm -rf $out
