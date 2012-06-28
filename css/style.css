@@ -24,6 +24,10 @@ li {
 	margin-bottom: .5em;
 }
 
+p.ui-li-desc + p.ui-li-desc {
+	margin-top: .5em;
+}
+
 ul li {
 	margin-top: .5em;
 }

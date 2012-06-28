@@ -13,6 +13,56 @@ Techniques for Networking Researchers</h2>
 </p><p>
 <b>Presented by:</b> <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
 
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("9:00-9:45", "Techniques for Understanding Users"); ?>
+		<?php
+			tprog_add_item("", "", "
+<p>	<b>Interviews:</b> Basics of creating and using interview guides and the types of data best gathered through this technique. </p>
+<p>	<b>Questionnaires:</b> Developing and deploying questionnaires. </p>
+<p>	<b>Fieldwork:</b> Recruiting users, sample sizes, compensation, and incentives. </p>
+<p>	<b>Probes:</b> Eliciting different kinds of user feedback, creating and using probes.</p>
+<p>	<b>Observations: </b>Conducting observations, managing field notes and interpreting results.</p>
+<p>	<b>Quantitative logs:</b> Using logging to understand user behavior and supplement qualitative techniques.</p>
+			", "");
+		?>
+	
+		<?php tprog_add_session("9:45-10:30", "Design and Development"); ?>
+		<?php
+			tprog_add_item("", "", "
+<p>	<b>User-centered Development:</b> Basics of designing with the user in mind and end goals.</p>
+<p>	<b>Lo-Fidelity and Hi-Fidelity Development:</b>Creating system mockups vs. functioning prototypes.</p>
+			", "");
+		?>
+				
+		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
+				
+		<?php tprog_add_session("11:00-11:45", "Evaluation Techniques"); ?>		
+		<?php
+			tprog_add_item("", "", "
+<p>	<b>Summative &amp; Formative Evaluation:</b> Goals of each approach, and interpreting the results. </p>
+<p>	<b>In the lab:</b>Basics of experimental design, heuristic evaluation, and usability testing. </p>
+<p>	<b>In the field:</b>Gaining access to research sites, field study design, and timeframes.</p>
+<p>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</p>
+			", "");
+		?>
+		
+		<?php tprog_add_session("11:45-12:30", "Ethics consent and privacy"); ?>
+		<?php
+			tprog_add_item("", "", "
+<p>	<b>Ethical Foundations and History:</b> Key principles of ethics, how they have emerged, and why they are important. </p>
+<p>	<b>Consent and user approval:</b> Basics of an Institutional Review Board (IRB) process, what constitutes human subjects research, and how to gain consent and user approval.</p>
+<p>	<b>Privacy of data:</b> Protecting user data, anonymization and publishing results.</p>
+<p>	<b>Legal restrictions:</b> Legal issues surrounding different types of user research. </p>
+<p>	<b>Responsibilities of researchers:</b> Ethical conduct and setting expectations for users.</p>
+<p>	<b>International differences and perspectives:</b> How ethics process and legal issues vary and what are the various ethical and legal issues in undertaking research in different countries.</p>
+			", "");
+		?>
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
+	</ul>
+
 
 <h2 class="hcls">Motivation</h2>
 
@@ -41,49 +91,6 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 
 <a class="button" data-role="button" href="mailto:marshini@cc.gatech.edu,tar@cs.nott.ac.uk">Email the Organizers</a>
 
-
-<h2 class="hcls">Outline</h2>
-
-<ul>
-
-<li> <b>Techniques for Understanding Users:</b> We will introduce a range of techniques for understanding user including when each approach should be employed, how to develop research instruments, determine sample sizes, and how results gathered using each approach generalize.
-<ul>
-<li>	<b>Interviews:</b> Basics of creating and using interview guides and the types of data best gathered through this technique. </li>
-<li>	<b>Questionnaires:</b> Developing and deploying questionnaires. </li>
-<li>	<b>Fieldwork:</b> Recruiting users, sample sizes, compensation, and incentives. </li>
-<li>	<b>Probes:</b> Eliciting different kinds of user feedback, creating and using probes.</li>
-<li>	<b>Observations: </b>Conducting observations, managing field notes and interpreting results.</li>
-<li>	<b>Quantitative logs:</b> Using logging to understand user behavior and supplement qualitative techniques.</li>
-</ul>
-</li>
-
-<li><b>Design and Development:</b> We will cover a variety of approaches for creating lightweight user-centered designs to fully functioning systems.
-<ul>
-<li>	<b>User-centered Development:</b> Basics of designing with the user in mind and end goals.</li>
-<li>	<b>Lo-Fidelity and Hi-Fidelity Development:</b>Creating system mockups vs. functioning prototypes.</li>
-</ul>
-</li>
-
-<li><b>Evaluation techniques:</b> We will provide an overview of various evaluation approaches for systems including what each approach is suitable for, when to evaluate in the lab vs. in the field, and various data analysis techniques.
-<ul>
-<li>	<b>Summative &amp; Formative Evaluation:</b> Goals of each approach, and interpreting the results. </li>
-<li>	<b>In the lab:</b>Basics of experimental design, heuristic evaluation, and usability testing. </li>
-<li>	<b>In the field:</b>Gaining access to research sites, field study design, and timeframes.</li>
-<li>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</li>
-</ul>
-</li>
-
-<li><b>Ethics consent and privacy:</b> In this final section, we will cover the ethics of conducting user research and ensuring that both the rights of users and researchers are protected.
-<ul>	
-<li>	<b>Ethical Foundations and History:</b> Key principles of ethics, how they have emerged, and why they are important. </li>
-<li>	<b>Consent and user approval:</b> Basics of an Institutional Review Board (IRB) process, what constitutes human subjects research, and how to gain consent and user approval.</li>
-<li>	<b>Privacy of data:</b> Protecting user data, anonymization and publishing results.</li>
-<li>	<b>Legal restrictions:</b> Legal issues surrounding different types of user research. </li>
-<li>	<b>Responsibilities of researchers:</b> Ethical conduct and setting expectations for users.</li>
-<li>	<b>International differences and perspectives:</b> How ethics process and legal issues vary and what are the various ethical and legal issues in undertaking research in different countries.</li>
-</ul>
-</li>
-</ul>
 
 
 <h2 class="hcls">About the Presenters</h2>
