@@ -189,21 +189,61 @@ $(document).bind('pageshow', function(event){
 			$.mobile.activePage.find(".subnavlist").click();
 		}
 
-		// Bind conf prog btn
-		$.mobile.activePage.find("#prog_ctrl a").click(
-			function() {
-				if(this.id !=0 )
-				{
-					$.mobile.activePage.find(".prog_tbl").hide();
-					tid = "#prog_tbl_" + this.id;
-					$(tid).show();
+		// Don't filter certain divider lines in the program list
+		$.mobile.activePage.find("#proglist").listview('option', 'filterCallback', function (text, searchValue) { 
+			$("li.showalways").removeClass("ui-screen-hidden");
+			return text.toLowerCase().indexOf( searchValue ) === -1;
+		});
+
+		// Bind conference program buttons
+		$.mobile.activePage.find("#prog_ctrl a").click(function() {
+				// reset the search filter
+				$('input[data-type="search"]').val("");
+				$('input[data-type="search"]').trigger("change");
+
+				var day = $(this).text();
+				var hide = true;
+				var re = new RegExp("^" + day, "i");
+				var prev;
+				var kids = $.mobile.activePage.find("#proglist").children();
+
+				kids.each(function () {
+					// if we're hitting a date divider, determine if we need to show or hide items
+					if ($(this).text().match(re)) {
+						// show the date divider and all following items
+						hide = false;
+						// this is the first row
+						$(this).addClass("ui-corner-top");
+						
+					} else if (day == "All") {
+						// this is a new date divider, hide it and all following items
+						hide = false;
+						$(this).removeClass("ui-corner-top");
+						$(this).removeClass("ui-corner-bottom");
+
+					} else if ($(this).text().match("Tuesday|Wednesday|Thursday")) {
+						// this is a new date divider, hide it and all following items
+						hide = true;
+						
+						// the previous item was the last shown
+						if (prev) { prev.addClass("ui-corner-bottom"); }
+					}
+					
+					// show or hide the items
+					if (hide) {
+						$(this).addClass("ui-screen-hidden");
+					} else {
+						$(this).removeClass("ui-screen-hidden");
+					}
+					
+					prev = $(this);
+				});
+				
+				if (day == "All") {
+					kids.first().addClass("ui-corner-top");
+					kids.last().addClass("ui-corner-bottom");
 				}
-				else
-				{
-					$.mobile.activePage.find(".prog_tbl").show();
-				}
-			}
-		);
+		});
 		
 	}
 	catch(err)

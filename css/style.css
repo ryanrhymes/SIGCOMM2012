@@ -81,6 +81,10 @@ ul li {
 	background-color: #bbb;
 }
 
+#prog_ctrl {
+	padding-bottom: 2em;
+}
+
 .hostlogo div {
 	padding: 4% 2% 0 2%;
 	width: 43%;

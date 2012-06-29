@@ -6,21 +6,19 @@
 
 <h2 class="hcls">Conference Program</h2>
 
-
 <div id="prog_ctrl" data-role="navbar">
 	<ul>
-		<li><a id="2" href="#">Tuesday</a></li>
-		<li><a id="3" href="#">Wednesday</a></li>
-		<li><a id="4" href="#">Thursday</a></li>
-		<li><a id="0" href="#" class="ui-btn-active ui-state-persist">All</a></li>
+		<li><a href="#">Tuesday</a></li>
+		<li><a href="#">Wednesday</a></li>
+		<li><a href="#">Thursday</a></li>
+		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
 	</ul>
-</div><!-- /navbar -->
+</div>
 
 
-<div id="prog_tbl_2" class="prog_tbl">
-	<h2 class="hcls">Tuesday, August 14, 2012</h2>
+	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
+		<li class="showalways" data-theme="a"><h3>Tuesday, August 14, 2012</h3></li>
 
-	<ul data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
 		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>
 		<?php
 			tprog_add_item("General Chairs' Welcome",
@@ -268,14 +266,8 @@
 		
 		<?php tprog_add_session("18:30-19:30", "Community Feedback Session", ""); ?>
 
-	</ul>
-</div>	
+		<li class="showalways" data-theme="a"><h3>Wednesday, August 15, 2012</h3></li>
 
-
-<div id="prog_tbl_3" class="prog_tbl">
-	<h2 class="hcls">Wednesday, August 15, 2012</h2>
-
-	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30", "Session 4: Measuring Networks", "Sergey Gorinsky"); ?>
 		
 		<?php
@@ -524,16 +516,8 @@ Lieguang Zeng (Tsinghua University)",
 			"Anonymous", 
 			"Paper");
 		?>
-		
-	</ul>
+		<li class="showalways" data-theme="a"><h3>Thursday, August 16, 2012</h3></li>
 
-</div>
-
-
-<div id="prog_tbl_4" class="prog_tbl">
-	<h2 class="hcls">Thursday, August 16, 2012</h2>
-
-	<ul data-role="listview" data-filter="true" data-inset="true">
 		<?php tprog_add_session("9:00-10:30", "Session 7: Network Formalism and Algorithmics", "Matt Caesar"); ?>
 		
 		<?php
@@ -637,8 +621,6 @@ Multi-dimensional Packet Classification",
 		<?php tprog_add_session("17:30-18:00", "Closing", ""); ?>
 		
 	</ul>
-
-</div>
 
 
 <p>
