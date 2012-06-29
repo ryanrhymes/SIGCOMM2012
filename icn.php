@@ -15,7 +15,7 @@
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		
-		<?php tprog_add_session("9:00-10:30", "Session 1: ICN Architecture", "Giacomo Morabito (University of Cantabria)"); ?>
+		<?php tprog_add_session("9:00-10:30", "Session 1: ICN Architecture", "Giacomo Morabito (University of Catania)"); ?>
 		
 		<?php tprog_add_item("Pervasive Persistent Identification for Information Centric Networking", 
 			"", 
