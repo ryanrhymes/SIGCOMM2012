@@ -31,7 +31,7 @@ do
 	err=$(mktemp /tmp/XXXXXXXXXX)
 	~/Documents/Code/tidy-html5/bin/tidy -eq $src > $err 2>&1
 
-	# find the error messahes
+	# find the error messages
 	cat $err | while read msg
 	do
 		line=$(echo $msg | cut -f2 -d" ")		

@@ -6,12 +6,84 @@
 
 <h2 class="hcls">Programming Broadband Wireless with Sora</h2>
 
-<p><b>Presented by:</b> Kun Tan, Jiansong Zhang, Wireless and Networking Group, MSR Asia and 
-Paul Wang, Innovative Engineering Group, MSR Asia</p>
+<p><b>Presented by:</b> Kun Tan, Jiansong Zhang (Wireless and Networking Group, MSR Asia) and 
+Paul Wang (Innovative Engineering Group, MSR Asia)</p>
 
 <p>
 <b>Monday, August 13, 2012 (full day)</b>
 </p>
+
+
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("9:00-9:30", "Introduction and Sora basis", ""); ?>
+		
+		<?php
+			tprog_add_item("", "", "
+			<p>Sora architecture</p>
+			<p>Sora usage</p>
+			", "");
+		?>
+		
+		
+		<?php tprog_add_session("9:30-10:30", " Programming Sora I - API/Vector1/Brick programming model", ""); ?>
+		
+		<?php
+			tprog_add_item("", "", "
+			<p>Sora software architecture</p>
+			<p>The Brick programming model</p>
+			<p>Victor1 SIMD library</p>
+			<p>Debug using DbgPlot</p>
+			", "");
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30", "Programming Sora II - implementing an OFDM communication system", ""); ?>
+		
+		<?php
+			tprog_add_item("", "", "
+			<p>Introduction of OFDM communication</p>
+			<p>Walk-through of Sora broadband OFDM sample</p>
+			<p>Demonstration of Sora</p>
+			", "");
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
+		
+		
+		<?php tprog_add_session("14:00-15:30", "Sora lab I - system configuration, useful tools, spectrum analysis", ""); ?>
+		
+		<?php
+			tprog_add_item("", "", "
+			<p>Sora hardware configuration and tuning</p>
+			<p>Spectrum analysis using Sora</p>
+			", "");
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("16:00-17:30", "Sora lab II - build a complete communication system: PHY and MAC", ""); ?>
+		
+		<?php
+			tprog_add_item("", "", "
+			<p>A simple communication system: physical layer</p>
+			<p>A complete communication system: MAC and networking</p>
+			", "");
+		?>
+
+
+	</ul>
+
+
+<h2 class="hcls">Motivation</h2>
+
 <p>
 Wireless networking is ubiquitous and has become an essential part of the global Internet. Evidently, the general networking community is increasingly interested in wireless research, especially in broadband wireless communication and networking. More and more research works are crossing into the lower layer wireless primitives, instead of only higher layers (MAC and above) on existing standards (notably WiFi). 
 </p>
