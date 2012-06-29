@@ -49,7 +49,7 @@
 		
 		<?php tprog_add_item("An Open Content Delivery Infrastructure Using Data Lockers", 
 			"", 
-			"Richard Alimi, Leo Chen, Dirk Kutscher, Harry Liu, Akbar Rahman, Y. Richard Yang and David Zhang", 
+			"Richard Alimi, Leo Chen, Dirk Kutscher, Harry Liu, Akbar Rahman, Y. Richard Yang, David Zhang and Ning Zong", 
 			"Paper"); 
 		?>
 		
