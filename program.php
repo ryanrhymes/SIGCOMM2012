@@ -16,8 +16,8 @@
 </div>
 
 
-	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-divider-theme="b">
-		<li class="showalways" data-theme="a"><h3>Tuesday, August 14, 2012</h3></li>
+	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-dividertheme="a">
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 14, 2012</h3></li>
 
 		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>
 		<?php
@@ -266,7 +266,7 @@
 		
 		<?php tprog_add_session("18:30-19:30", "Community Feedback Session", ""); ?>
 
-		<li class="showalways" data-theme="a"><h3>Wednesday, August 15, 2012</h3></li>
+		<li class="heading" data-theme="a" data-role="list-divider" style="display:block"><h3>Wednesday, August 15, 2012</h3></li>
 
 		<?php tprog_add_session("9:00-10:30", "Session 4: Measuring Networks", "Sergey Gorinsky"); ?>
 		
@@ -475,7 +475,7 @@ Lieguang Zeng (Tsinghua University)",
 		<?php
 			tprog_add_item("First Insights from a Mobile Honeypot",
 			"", 
-			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Sebastian Trapp (Freie Universit&auml;t Berlin), Christian Keil (DFN-CERT Services GmbH), Jochen Sch&ouml;nfelder (DFN-CERT Services GmbH), Thomas C. schmidt (HAW Hamburg), Jochen Schiller (Freie Universit&auml;t Berlin)", 
+			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Sebastian Trapp (Freie Universit&auml;t Berlin), Christian Keil (DFN-CERT Services GmbH), Jochen Sch&ouml;nfelder (DFN-CERT Services GmbH), Thomas C. Schmidt (HAW Hamburg), Jochen Schiller (Freie Universit&auml;t Berlin)", 
 			"Poster");
 		?>
 		
@@ -516,7 +516,7 @@ Lieguang Zeng (Tsinghua University)",
 			"Anonymous", 
 			"Paper");
 		?>
-		<li class="showalways" data-theme="a"><h3>Thursday, August 16, 2012</h3></li>
+		<li class="heading" data-theme="a" data-role="list-divider" style="display:block"><h3>Thursday, August 16, 2012</h3></li>
 
 		<?php tprog_add_session("9:00-10:30", "Session 7: Network Formalism and Algorithmics", "Matt Caesar"); ?>
 		

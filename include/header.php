@@ -43,6 +43,13 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
 
+	<script>
+	$(document).bind("mobileinit", function(){
+		// apply jquerymobile global overrides here
+		$.mobile.listview.prototype.options.filterPlaceholder = "Filter program...";
+	});
+	</script>
+
 	<!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
 	<script src="//code.jquery.com/mobile/1.1.1-rc.1/jquery.mobile-1.1.1-rc.1.min.js"></script>
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>

@@ -79,23 +79,24 @@ function tprog_add_session($time, $title, $chair="")
 
 function tprog_add_item($paper, $link, $authors, $info)
 {
+	/* the spaces after various "%s" below are important for correct list filtering! */
 	$authors = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $authors);
 	print('<li data-theme="d" data-icon="false">');
 	if ($link) {
 		printf('<a href="%s" rel="external">', $link);
 	}
 	if ($paper) {
-		printf('<h3>%s</h3>', $paper);
+		printf('<h3>%s </h3>', $paper);
 	}
 	if ($authors) {
 		if (preg_match('/^\s*\<p\>/i', $authors)) {
-			printf('%s', $authors);
+			printf('%s ', $authors);
 		} else {
-			printf('<p>%s</p>', $authors);
+			printf('<p>%s </p>', $authors);
 		}	
 	}
 	if($info) {
-		printf('<p class="ui-li-aside prog-%s">%s</p>', strtolower($info), $info);
+		printf('<p class="ui-li-aside prog-%s">%s </p>', strtolower($info), $info);
 	}
 	if ($link) {
 		print('</a>');
