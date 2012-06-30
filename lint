@@ -18,11 +18,12 @@
 # PURPOSE.
 
 # for all local files, do...
-ls *.php | while read item
+ls *.php *.html *.htm| while read item
 do
 	# fetch the HTML from the PHP testing server
 	src=$(mktemp /tmp/XXXXXXXXXX)
 	url=http://127.0.0.1:8000/$item
+#	url=http://127.0.0.1/lars/html5-boilerplate/$item
 	echo "----------------------------------------------------------"
 	echo $url
 	curl -s $url -o $src
