@@ -12,6 +12,68 @@
 <a href="mailto:xavier.perez-costa@neclab.eu">Xavier P&eacute;rez Costa</a>
 </b>
 </p>
+
+<h2 class="hcls">Tutorial Requirements</h2>
+<p>
+Attendants must bring their own laptops to connect to the WMP boards. A Java environment
+is required to run the graphical tools for building the XFSMs.
+</p>
+
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		<?php tprog_add_session("9:00-9:30", "Review of Programmability of Wireless Networks State of the Art"); ?>
+		<?php
+			tprog_add_item("", "", "
+	<p>Importance of programmability of wireless networks for R&amp;D</p>
+	<p>Related approaches</p>
+	<p>Limitations of current State of the Art</p>
+			", "");
+		?>
+	
+		<?php tprog_add_session("9:30-10:00", "Wireless MAC Processor (WMP) Concept Overview"); ?>
+		<?php
+			tprog_add_item("", "", "
+	<p>Architecture description</p>
+	<p>Differences to state of the art</p>
+	<p>New programmability potential</p>
+			", "");
+		?>
+				
+		<?php tprog_add_session("10:00-10:30", "Review of WMP Implementation and MAC Program Developing Tool"); ?>
+		<?php
+			tprog_add_item("", "", "
+	<p>WMP Machine language</p>
+	<p>Finite State Machine builder (XFSM)</p>
+	<p>Programmability illustration examples: standard DCF and minor variations</p>
+			", "");
+		?>
+
+		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
+				
+		<?php tprog_add_session("11:00-11:30", "Demonstration of WMP Concepts"); ?>		
+		<?php
+			tprog_add_item("", "", "
+	<p>Insight on a packet jammer</p>
+	<p>Implementation of new MACs on commodity hardware</p>
+	<p>Time-Division-Multiple-Access</p>
+	<p>Multi-Channel MAC</p>
+	<p>Piggybacking (e.g., for TCP speed up)</p>
+			", "");
+		?>
+		
+		<?php tprog_add_session("11:30-12:30", "Hands-on Experimentation by Attendees"); ?>
+		<?php
+			tprog_add_item("", "", "
+	<p>Participants implement their own MAC</p>
+	<p>Behaviors of designed MAC verified by tracing throughputs from the userspace</p>
+	<p>More tests capturing and displaying signals with USRP hardware</p>
+			", "");
+		?>
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
+	</ul>
+
 <h2 class="hcls">Motivation</h2>
 <p>Wireless networks importance for the future Internet is raising at a fast pace
 as mobile devices increasingly become its entry point. However, today
@@ -74,53 +136,7 @@ Further information (and tools) will be made available soon, stay tuned!
 </h2>
 -->
 
-<h2 class="hcls">Tutorial Content</h2>
-<ol type="I">
-<li>Review of Programmability of Wireless Networks State of the Art
-	<ol type="a">
-	<li>Importance of programmability of wireless networks for R&amp;D</li>
-	<li>Related approaches</li>
-	<li>Limitations of current State of the Art</li>
-	</ol>
-</li>
-<li>Wireless MAC Processor (WMP) Concept Overview
-	<ol type="a">
-	<li>Architecture description</li>
-	<li>Differences to state of the art</li>
-	<li>New programmability potential</li>
-	</ol>
-</li>
-<li>Review of the WMP implementation and MAC program developing tool
-	<ol type="a">
-	<li>WMP Machine language</li>
-	<li>Finite State Machine builder (XFSM)</li>
-	<li>Programmability illustration examples: standard DCF and minor variations</li>
-	</ol>
-</li>
-<li>Demonstration of WMP concepts
-	<ol type="a">
-	<li>Insight on a packet jammer</li>
-	<li>Implementation of new MACs on commodity hardware</li>
-	<li>Time-Division-Multiple-Access</li>
-	<li>Multi-Channel MAC</li>
-	<li>Piggybacking (e.g., for TCP speed up)</li>
-	</ol>
-</li>
-<li>Hands-on experimentation by attendants
-	<ol type="a">
-	<li>Participants implement their own mac</li>
-	<li>Behaviors of designed MAC verified by tracing throughputs from the userspace</li>
-	<li>More tests capturing and displying signals with USRP hardware</li>
-	</ol>
-</li>
-</ol>
 
-
-<h2 class="hcls">Tutorial Requirements</h2>
-<p>
-Attendants must carry their own laptops to connect to the WMP boards. A Java environment
-is required to run the graphical tools for building the XFSMs.
-</p>
 <?php
     include ("include/footer.php");
 ?>
