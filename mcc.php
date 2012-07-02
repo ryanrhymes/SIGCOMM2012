@@ -7,6 +7,72 @@
 <h2 class="hcls">Mobile Cloud Computing (MCC)</h2>
 
 
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		
+		<?php tprog_add_session("8:45-9:00", "Welcoming Remarks", ""); ?>
+		
+		<?php tprog_add_item("", 
+			"", 
+			"Mario Gerla and Dijiang Huang", 
+			"");
+		?>
+		
+		
+		<?php tprog_add_session("9:00-10:00", "Keynote: NyMoTe: Personal Mobile Cloud", "Mario Gerla"); ?>
+		
+		<?php tprog_add_item("", 
+			"", 
+			"<p>Jon Crowcroft (Cambridge University, UK)</p>
+			<p>In this keynote, a personal mobile cloud called “NyMoTe” is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
+			"");
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture", ""); ?>
+		
+		<?php tprog_add_item("On Cloud-Centric Network Architecture for Multi-Dimensional Mobility", 
+			"", 
+			"K. Kim, S. Lee, P. Congdon", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("SCAMPI: Service platform for soCial Aware Mobile and Pervasive computing", 
+			"", 
+			"M. Pitk&auml;nen, A. Passarella, S. Giordano, F. Legendre, T. Spyropoulos, J. Ott, T. K&auml;rkk&auml;inen, M. Conti, D. Puccinelli, M. May, N. Hedge, K. Hummel, S. Trifunovic", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Fog Computing and Its Role in the Internet of Things", 
+			"", 
+			"F. Bonomi, S. Addepalli, R. Milito, J. Zhu", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing", 
+			"", 
+			"A. Ferrari, D. Puccinelli, S. Giordano", 
+			"Paper"); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
+		
+
+
+		<?php tprog_add_session("14:00-15:30", "Panel: Mobile Cloud Computing: Open the Pandora’s Box", ""); ?>
+
+
+	</ul>
+
+
+
+<h2 class="hcls">Introduction</h2>
+
 <p>
 Today the Internet Web Service is the main way we access any kind of information from fixed or mobile terminals. Some of the information is stored in the Internet Cloud, where computing, communication, and storage services are main services provided for Internet users. In a non-distant future many of our queries will be beyond current Internet scope and will be about the people, the physical environments that surround us, and virtual environments that we will be involved. Having witnessed the phenomenal burst of research in cloud computing, Mobile Cloud Computing (MCC) is to extend cloud computing functions, services and results to the world of future mobile applications. MCC will address issues that current Internet Clouds or Mobile Computing Technologies alone cannot effectively or efficiently address.
 </p>
