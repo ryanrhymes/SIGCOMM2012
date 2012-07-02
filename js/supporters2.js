@@ -159,34 +159,55 @@ setInterval(function () {
   onfinish();
 }, 3000);
 
-$(document).bind('pageshow', function(event){
+
+// Toggle the logobar footer based on taphold rather than tap events.
+$(document).on('pageinit','[data-role=page]', function(){
+    $('[data-position=fixed]').fixedtoolbar({ tapToggle:false});
+});
+$(document).on('taphold', '[data-role=page]', function(){
+    $('[data-position=fixed]').fixedtoolbar('toggle');
+});
+
+$(document).bind('pagebeforeshow', function(event){
 	try
 	{
 		init_sps();
 		resize();
 		
-		$.mobile.activePage.find(".subnavlist").addClass("ui-corner-bottom");
-		$.mobile.activePage.find(".subnavlist").click(
-			function() {
-				//$.mobile.activePage.find(".subnavlist").addClass("page-now");
-				$.mobile.activePage.find(".subnavlist").find("span").toggleClass("ui-icon-plus");
-				$.mobile.activePage.find(".subnavlist").find("span").toggleClass("ui-icon-minus");
-				if( $.mobile.activePage.find(".subnavlink").css("display") == "none" )
-				{
-					$.mobile.activePage.find(".subnavlink").css("display", "block");
-					$.mobile.activePage.find(".subnavlist").removeClass("ui-corner-bottom");
+		["a", "b", "c"].forEach(function(x) {
+			// hide all by default
+			$.mobile.activePage.find(".subnav-" + x).hide();				
+			$.mobile.activePage.find(".navheader-" + x).click(
+				function () {
+					$.mobile.activePage.find(".navheader-" + x).toggleClass("headerselected");
+					$(this).find("span").toggleClass("ui-icon-plus");
+					$(this).find("span").toggleClass("ui-icon-minus");
+					if ($.mobile.activePage.find(".subnav-" + x).css("display") == "none") {
+						$.mobile.activePage.find(".subnav-" + x).show();
+					} else {
+						$.mobile.activePage.find(".subnav-" + x).hide();
+					}
+
+					// for the last menu (which right now is "c") handle the bottom corners
+					if (x == "c") {
+						if ($.mobile.activePage.find(".subnav-c").css("display") == "none") {
+							$.mobile.activePage.find(".navheader-c").addClass("ui-corner-bottom");
+						} else {
+							$.mobile.activePage.find(".navheader-c").removeClass("ui-corner-bottom");
+						}
+					}
 				}
-				else
-				{
-					$.mobile.activePage.find(".subnavlink").css("display", "none");
-					$.mobile.activePage.find(".subnavlist").addClass("ui-corner-bottom");
-				}
+			);
+
+			// Expand the navigation menu if one of the links there is active
+			if ($.mobile.activePage.find(".subnav-" + x + ".navselected").size()) {
+				$.mobile.activePage.find(".navheader-" + x).click();
 			}
-		);
-		
-		// Expand the navigation menu if one of the links there is active
-		if ($.mobile.activePage.find(".subnavlink.page-now").size()) {
-			$.mobile.activePage.find(".subnavlist").click();
+		});
+
+		// start out with the bottom menu closed -> need to add corners
+		if ($.mobile.activePage.find(".subnav-c").css("display") == "none") {
+			$.mobile.activePage.find(".navheader-c").addClass("ui-corner-bottom");
 		}
 
 		// Bind conference program buttons

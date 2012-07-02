@@ -369,8 +369,16 @@ div.fees {
 	color: #000000;
 }
 
-#jqm-home .ui-listview-inset .page-now {
+#jqm-home .ui-listview-inset .navselected {
     background-color: #ffcc00;
+}
+
+#jqm-home .headerselected {
+    background-color: #ffeb9d;
+}
+
+.subnav-a .ui-btn-text, .subnav-b .ui-btn-text, .subnav-c .ui-btn-text {
+	padding-left: 30px;
 }
 
 #jqm-home .cthm1a {
