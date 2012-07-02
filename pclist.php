@@ -1,19 +1,19 @@
 <?php
-        $page_title="Program Committee";
+        $page_title="Technical Program Committee";
         include("include/header.php");
 ?>
 
-<h2 class="hcls">Program Committee</h2>
+<h2 class="hcls">Technical Program Committee</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-	<li data-role="list-divider">PC Chairs</li>
+	<li data-role="list-divider">TPC Chairs</li>
 	<?php
 		add_listitem("Venkat Padmanabhan", "Microsoft Research, India", "http://research.microsoft.com/en-us/um/people/padmanab/");
 		add_listitem("George Varghese", "UCSD, USA", "http://cseweb.ucsd.edu/~varghese/");
 	?>
 
-	<li data-role="list-divider">PC Members</li>
+	<li data-role="list-divider">TPC Members</li>
 	<?php
 		add_listitem("Aditya Akella", "University of Wisconsin, USA", "");
 		add_listitem("Virgilio Almeida", "UFMG, Brazil", "");
