@@ -3,55 +3,10 @@
 	</div><!-- /content -->
 
 
-	<!-- Search Functionality -->
-	<script type="text/javascript">
-		function show_searchbar() {
-			$("#csebtn").toggleClass("ui-btn-up-c");
-			$("#csebtn").toggleClass("ui-btn-up-e");
-			if( $("#cse").css("display") == "none" )
-			{
-				$("#cse").css("display", "block");
-				$("#gsc-i-id1").focus();
-			}
-			else
-			{
-				$("#cse").css("display", "none");
-			}
-		}
-	</script>
-
-	<ul id="toolbar">
-		<li><a id="gpbtn" href="https://plus.google.com/s/sigcomm%202012" rel="external"></a></li>
-		<li><a id="fbbtn" href="http://www.facebook.com/groups/sigcomm2012/" rel="external"></a></li>
-		<li><a id="twbtn" href="https://twitter.com/?category=people#!/sigcomm12" rel="external"></a></li>
-	</ul>
-	<span id="csebtn" data-role="button" data-icon="search" data-iconpos="notext" data-theme="c" onclick="show_searchbar();">SHOW</span>
-	<!-- Search Functionality -->
-
 <?php if ($mypage != "supporters.php")
 	echo('<div class="logobar" data-role="footer" data-position="fixed" data-theme="c"></div>');
 ?>
 </div><!-- /page -->
-
-  
-<div id="cse" style="display:none; background-color:white; padding:1px 5px; -moz-border-radius: 10px; border-radius: 10px; ">Loading</div>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-  google.setOnLoadCallback(function() {
-    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-      '012399979458248589958:lpem1r75tsw', customSearchOptions);
-    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
-    customSearchControl.draw('cse');
-    $("#gsc-i-id1").keyup(function () {
-      customSearchControl.execute($("#gsc-i-id1").val());
-    });
-    $("#cse").focusout(function() {
-    	if( $("#cse").css("display") == "block" ){
-    	}
-	});
-  }, true);
-</script>
 
 <?php
 	$jsstr = "sps = [\n";

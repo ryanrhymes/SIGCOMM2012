@@ -240,53 +240,6 @@ em {
 	height: 25px;
 }
 
-#twbtn, #fbbtn, #gpbtn {
-	display: block;
-	background-image: url(../images/social-icon.png);
-	width: 25px;
-	height: 25px;
-}
-
-#twbtn {
-	background-position: 0 0;
-}
-
-#twbtn:hover {
-	background-position: 0 -25px;
-}
-
-#fbbtn {
-	background-position: -25px 0;
-}
-
-#fbbtn:hover {
-	background-position: -25px -25px;
-}
-
-#gpbtn {
-	background-position: -50px 0;
-}
-
-#gpbtn:hover {
-	background-position: -50px -25px;
-}
-
-#csebtn {
-	position: fixed;
-	list-style: none;
-	top: 3px;
-	right: 3px;
-}
-
-#cse {
-	width: 50%;
-	border: black solid 1px;
-	position: absolute;
-	top: 3px;
-	right: 25%;
-	z-index: 999;
-}
-
 .logobar {
 	-webkit-box-shadow:inset 0 0 7px #000000;
 	-moz-box-shadow:inset 0 0 7px #000000;
@@ -302,15 +255,12 @@ em {
 }
 
 #jqm-home .header a {
-	top: 12px;
-	right: 15px;
-}
-
-#tweet {
-	display: inline-block;
+       top: 12px;
+       right: 15px;
 }
 
 .content-primary h2, h3, h4 {
+	font-size: 1.5em;
 	margin-top:1.5em;
 	text-shadow: none;
 }
@@ -429,8 +379,16 @@ div.fees {
 	a.button {
 		width: 80%;
 	}
-	.hostlogo, #toolbar, #csebtn, .tweetlist, .socialbuttons, img.conflogo {
+	.hostlogo, .tweetlist, .socialbuttons, img.conflogo {
 		display: none;
+	}
+	.content-primary h2 {
+		font-size: 1.25em;
+		margin-top:1.25em;
+	}
+	.content-primary h3, h4 {
+		font-size: 1em;
+		margin-top:1em;
 	}
 }
 
