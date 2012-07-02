@@ -3,38 +3,17 @@
         include("include/header.php");
 ?>
 
-<h2 class="hcls">PC Chairs</h2>
+<h2 class="hcls">Program Committee</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-	<li>
-	   <div class="ui-grid-a">
-		<div class="ui-block-a">
-			<a href="mailto:sigcomm12-pc-chairs@acm.org">Venkat Padmanabhan</a>
-		</div>
-		<div class="ui-block-b">
-			Microsoft Research, India
-		</div>
-	  </div><!-- /grid-a -->
-	</li>
+	<li data-role="list-divider">PC Chairs</li>
+	<?php
+		add_listitem("Venkat Padmanabhan", "Microsoft Research, India", "http://research.microsoft.com/en-us/um/people/padmanab/");
+		add_listitem("George Varghese", "UCSD, USA", "http://cseweb.ucsd.edu/~varghese/");
+	?>
 
-	<li>
-	   <div class="ui-grid-a">
-		<div class="ui-block-a">
-			<a href="mailto:sigcomm12-pc-chairs@acm.org">George Varghese</a>
-		</div>
-		<div class="ui-block-b">
-			UCSD and Yahoo! Research, USA
-		</div>
-	  </div><!-- /grid-a -->
-	</li>
-</ul>
-
-
-<h2 class="hcls">PC Members</h2>
-
-<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
-
+	<li data-role="list-divider">PC Members</li>
 	<?php
 		add_listitem("Aditya Akella", "University of Wisconsin, USA", "");
 		add_listitem("Virgilio Almeida", "UFMG, Brazil", "");

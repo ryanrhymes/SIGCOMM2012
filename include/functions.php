@@ -41,18 +41,16 @@ function current_pagename()
 
 function add_listitem($name, $organization, $link)
 {
-	print( "
-	<li>
-	   <div class=\"ui-grid-a\">
-		<div class=\"ui-block-a\">
-			$name
-		</div>
-		<div class=\"ui-block-b\">
-			$organization
-		</div>
-	  </div><!-- /grid-a -->
-	</li>
-	");
+	print('<li data-theme="d" data-icon="false">');
+	if ($link) {
+		printf('<a href="%s" rel="external">', $link);
+	}
+	printf('<div class="ui-grid-a"><div class="ui-block-a">%s</div><div class="ui-block-b">%s</div></div>',
+		   $name, $organization);
+	if ($link) {
+		printf('</a>');
+	}
+	print('</li>');
 }
 
 function add_dateitem($date, $info)
