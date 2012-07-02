@@ -13,6 +13,21 @@ Paul Wang (Innovative Engineering Group, MSR Asia)</p>
 <b>Monday, August 13, 2012 (full day)</b>
 </p>
 
+<h2 class="hcls">Tutorial Requirements</h2>
+<p>
+Attendees will utilize a Windows-based PC equipped with Sora hardware. A basic understanding of Windows programming and Windows Driver Kit (WDK) is expected. 
+Knowledge on wireless communication/OFDM is useful but not required. 
+Further, since PCs prepared in the tutorial is limited (and may be shared for online experiments), <em>each attendee is expected to bring his/her own Windows laptop</em> for offline programing and exercises. 
+The laptop should have an Intel CPU with a Windows operating system (XP/Win7) or a Windows system running in a virtual machine.
+The latest Sora SDK should be installed. You can find the latest version <a href="http://research.microsoft.com/en-us/downloads/ca9a93a1-2a38-4e3d-b87c-b7e8ddc46eae/">here</a>.
+More background information on the Sora Platform can be found on <a href="http://research.microsoft.com/en-us/projects/sora/">MSRA site</a> or <a href="http://social.microsoft.com/Forums/is/sora/threads">Sora forum</a>.
+</p>
+<p>
+Due to the facility constraints, the number of attendees for the tutorial is limited to <em>20</em>.
+</p>
+
+<a class="button" data-role="button" href="mailto:sigcomm2012-gen-chairs@acm.org">Email the Organizers</a>
+
 
 <h2 class="hcls">Technical Program</h2>
 
@@ -95,21 +110,6 @@ Sora is highly capable to implement and experiment state-of-the-art broadband wi
 This full-day tutorial will be split into two parts. In the morning session, we will focus on the Sora basic, architecture, programming model, and useful tools. We will also present an introduction to OFDM and MIMO communication. 
 In the afternoon, we will use the tools discussed in the morning session to program on Sora platform and rapidly develop a broadband wireless communication system.
 </p>
-
-<h2 class="hcls">Background</h2>
-<p>
-Attendees will utilize a Windows-based PC equipped with Sora hardware. A basic understanding of Windows programming and Windows Driver Kit (WDK) is expected. 
-Knowledge on wireless communication/OFDM is useful but not required. 
-Further, since PCs prepared in the tutorial is limited (and may be shared for online experiments), each attendee is expected to carrier his/her own laptop for offline programing and exercises. 
-The laptop should have an Intel CPU with a Windows operating system (XP/Win7) or a Windows system running in a virtual machine.
-The latest Sora SDK should be installed. You can find the latest version <a href="http://research.microsoft.com/en-us/downloads/ca9a93a1-2a38-4e3d-b87c-b7e8ddc46eae/">here</a>.
-More background information on the Sora Platform can be found on <a href="http://research.microsoft.com/en-us/projects/sora/">MSRA site</a> or <a href="http://social.microsoft.com/Forums/is/sora/threads">Sora forum</a>.
-</p>
-<p>
-Due to the facility constraints, the number of attendees for the tutorial is limited to <em>20</em>.
-</p>
-
-<a class="button" data-role="button" href="mailto:sigcomm2012-gen-chairs@acm.org">Email the Organizers</a>
 
 
 <h2 class="hcls">Outline</h2>
