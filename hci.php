@@ -23,7 +23,7 @@ Techniques for Networking Researchers</h2>
 <p>	<b>Questionnaires:</b> Developing and deploying questionnaires. </p>
 <p>	<b>Fieldwork:</b> Recruiting users, sample sizes, compensation, and incentives. </p>
 <p>	<b>Probes:</b> Eliciting different kinds of user feedback, creating and using probes.</p>
-<p>	<b>Observations: </b>Conducting observations, managing field notes and interpreting results.</p>
+<p>	<b>Observations: </b> Conducting observations, managing field notes and interpreting results.</p>
 <p>	<b>Quantitative logs:</b> Using logging to understand user behavior and supplement qualitative techniques.</p>
 			", "");
 		?>
@@ -32,7 +32,7 @@ Techniques for Networking Researchers</h2>
 		<?php
 			tprog_add_item("", "", "
 <p>	<b>User-centered Development:</b> Basics of designing with the user in mind and end goals.</p>
-<p>	<b>Lo-Fidelity and Hi-Fidelity Development:</b>Creating system mockups vs. functioning prototypes.</p>
+<p>	<b>Lo-Fidelity and Hi-Fidelity Development:</b> Creating system mockups vs. functioning prototypes.</p>
 			", "");
 		?>
 				
@@ -42,8 +42,8 @@ Techniques for Networking Researchers</h2>
 		<?php
 			tprog_add_item("", "", "
 <p>	<b>Summative &amp; Formative Evaluation:</b> Goals of each approach, and interpreting the results. </p>
-<p>	<b>In the lab:</b>Basics of experimental design, heuristic evaluation, and usability testing. </p>
-<p>	<b>In the field:</b>Gaining access to research sites, field study design, and timeframes.</p>
+<p>	<b>In the lab:</b> Basics of experimental design, heuristic evaluation, and usability testing. </p>
+<p>	<b>In the field:</b> Gaining access to research sites, field study design, and timeframes.</p>
 <p>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</p>
 			", "");
 		?>
@@ -101,7 +101,7 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 <p><a href="http://marshini.net">Marshini Chetty</a> is a postdoctoral researcher in the College of Computing at Georgia Institute of Technology, where she recently graduated with her Ph.D. in Human-Centered Computing. Her research in human computer interaction and ubiquitous computing focuses on home networking, sustainability, and international development. She received her Bachelors of Science and Masters of Science degrees in Computer Science from the University of Cape Town. Marshini was awarded a Fulbright Scholarship, a Google Anita Borg Scholarship, a GVU Foley Scholar award, and an Intel Ph.D. fellowship for her research. Her work has been featured in technical blogs, notably Slashdot, Ars Technica, Network World, and BoingBoing! and she received a CHI Best Paper Award in 2011. She collaborates regularly with systems researchers and is a co-chair for the SIGCOMM W-MUST 2012 workshop. </p>
 
 <h3>Tom Rodden</h3>
-<p><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden:</a> is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences.
+<p><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a> is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences.
 </p>
 
 <?php
