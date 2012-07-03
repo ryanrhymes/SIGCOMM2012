@@ -193,7 +193,7 @@ Hostel Academica is located in the city center. Most of the sights in Helsinki a
   <tr><th>Reservation code:</th><td>SIGCOMM</td></tr>
   <tr><th>Dates:</th><td> August 13-17, 2012</td></tr>
   <tr><th>Distance to venue:</th><td>1.2 km, 16 minute walk</td></tr>
-  <tr><th>Price:</th><td> 57&nbsp;&euro; single <br> 72&nbsp;&euro; double <br> 84&nbsp;&euro; triple </td></tr>
+  <tr><th>Price:</th><td> 57&nbsp;&euro; single <br> 72&nbsp;&euro; double</td></tr>
   </table>
 
 <p><em>The hostel cannot handle online reservations for group rates.</em> You need to <em>call the hostel</em> at +358-9-13114334<em> or email them</em> at <a href="mailto:hostel.academica@hyy.fi">hostel.academica@hyy.fi</a>, mentioning the rate code ("SIGCOMM") to get the negotiated rate.</p>
