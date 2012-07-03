@@ -10,6 +10,7 @@
 <b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
+<!--
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
@@ -21,52 +22,57 @@
 			"Mario Gerla and Dijiang Huang", 
 			"");
 		?>
-			
-		<?php tprog_add_session("9:00-10:00", "Keynote", "Mario Gerla"); ?>
 		
-		<?php tprog_add_item("NyMoTe: Personal Mobile Cloud", 
+		
+		<?php tprog_add_session("9:00-10:00", "Keynote: NyMoTe: Personal Mobile Cloud", "Mario Gerla"); ?>
+		
+		<?php tprog_add_item("", 
 			"", 
 			"<p>Jon Crowcroft (Cambridge University, UK)</p>
-			<p>In this keynote, a personal mobile cloud called NyMoTe is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
+			<p>In this keynote, a personal mobile cloud called “NyMoTe” is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
 			"Keynote");
 		?>
 		
+		
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-				
+		
+		
 		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture", ""); ?>
 		
 		<?php tprog_add_item("On Cloud-Centric Network Architecture for Multi-Dimensional Mobility", 
 			"", 
-			"K. Kim, S. Lee, P. Congdon", 
+			"K. Kim, S. Lee, P. Congdon", 
 			"Paper"); 
 		?>
 		
-		<?php tprog_add_item("SCAMPI: Service Platform for Social Aware Mobile and Pervasive Computing", 
+		<?php tprog_add_item("SCAMPI: Service platform for soCial Aware Mobile and Pervasive computing", 
 			"", 
-			"M. Pitk&auml;nen, A. Passarella, S. Giordano, F. Legendre, T. Spyropoulos, J. Ott, T. K&auml;rkk&auml;inen, M. Conti, D. Puccinelli, M. May, N. Hedge, K. Hummel, S. Trifunovic", 
+			"M. Pitk&auml;nen, A. Passarella, S. Giordano, F. Legendre, T. Spyropoulos, J. Ott, T. K&auml;rkk&auml;inen, M. Conti, D. Puccinelli, M. May, N. Hedge, K. Hummel, S. Trifunovic", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Fog Computing and Its Role in the Internet of Things", 
 			"", 
-			"F. Bonomi, S. Addepalli, R. Milito, J. Zhu", 
+			"F. Bonomi, S. Addepalli, R. Milito, J. Zhu", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing", 
 			"", 
-			"A. Ferrari, D. Puccinelli, S. Giordano", 
+			"A. Ferrari, D. Puccinelli, S. Giordano", 
 			"Paper"); 
 		?>
 		
+		
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
+		
 
-		<?php tprog_add_session("14:00-15:30", "Panel: Mobile Cloud Computing: Open the Pandora's Box", ""); ?>
 
-		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		<?php tprog_add_session("14:00-15:30", "Panel: Mobile Cloud Computing: Open the Pandora’s Box", ""); ?>
+
 
 	</ul>
-
+-->
 
 
 <h2 class="hcls">Introduction</h2>
