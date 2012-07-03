@@ -10,6 +10,86 @@
   <b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
+
+<h2 class="hcls">Technical Program</h2>
+
+	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
+		
+		<?php tprog_add_session("9:00-9:10", "Welcoming and Introduction", ""); ?>
+		
+		
+		<?php tprog_add_session("9:10-10:30", "Session 1: Design From the Networking Perspective", ""); ?>
+		
+		<?php tprog_add_item("Measuring the Perceptual Quality of Skype Sources", 
+			"", 
+			"", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Creating Relevant Network Measurements That Are Accessible to User-Facing Systems", 
+			"", 
+			"", 
+			"Panel"); 
+		?>
+		
+		
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("11:00-12:30", "Session 2: Design From the User Perspective", ""); ?>
+		
+		
+		<?php tprog_add_item("Estimating Packet Loss Rate in the Access Through Application Level Measurements", 
+			"", 
+			"", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Up, Down and Around the Stack: ISP Characterisation From Network Intensive Applications", 
+			"", 
+			"", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Incorporating User Needs Into Network Measurement Design", 
+			"", 
+			"", 
+			"Panel"); 
+		?>
+		
+		
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
+		
+		
+		<?php tprog_add_session("14:00-15:30", "Session 3: Co-Design, Considering the Network Stack and the End-User", ""); ?>
+		
+		
+		<?php tprog_add_item("User-driven Dynamic Prioritisation In the Home", 
+			"", 
+			"", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Bridging the HCI and Networking Communities to Create User-Centered Systems", 
+			"", 
+			"", 
+			"Panel"); 
+		?>
+		
+		
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		
+		
+		
+		<?php tprog_add_session("16:00-16:30", "Reflect and Wrap-Up", ""); ?>
+		
+	</ul>
+
+
+
+<h2 class="hcls">Introduction</h2>
+
+
 <p>
   Following the success of the first W-MUST workshop at SIGCOMM 2011, we are holding a second workshop this
   year. W-MUST aims to bring together researchers and practitioners in the networking and HCI communities to

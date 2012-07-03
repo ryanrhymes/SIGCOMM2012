@@ -6,7 +6,7 @@
 
 <h2 class="hcls">Mobile Cloud Computing (MCC)</h2>
 
-
+<!--
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
@@ -26,7 +26,7 @@
 			"", 
 			"<p>Jon Crowcroft (Cambridge University, UK)</p>
 			<p>In this keynote, a personal mobile cloud called “NyMoTe” is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
-			"");
+			"Keynote");
 		?>
 		
 		
@@ -68,7 +68,7 @@
 
 
 	</ul>
-
+-->
 
 
 <h2 class="hcls">Introduction</h2>
