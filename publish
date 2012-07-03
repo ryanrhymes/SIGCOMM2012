@@ -80,7 +80,7 @@ echo >> $cm
 rsync -azv --rsh=ssh --delete $out/ lars@turing.acm.org:~/2012/
 
 # fix permissions remotely
-ssh lars@turing.acm.org "chown -R lars:sigcomm 2012 ; chmod -R ug+rwX 2012 ; ls -lt 2012/"
+ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012 ; find 2012/ -ls"
 
 # remove temporary directory
 rm -rf $out
