@@ -69,7 +69,7 @@ echo CACHE MANIFEST > $cm
 date +'# %F %R' >> $cm
 echo >> $cm
 echo CACHE: >> $cm
-find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store))|publish|lint" >> $cm
+find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm))|publish|lint" >> $cm
 echo >> $cm
 echo NETWORK: >> $cm
 echo '*' >> $cm
