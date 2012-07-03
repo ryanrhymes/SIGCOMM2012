@@ -20,7 +20,7 @@ $mypage = current_pagename();
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="icn.php") echo 'navselected' ?>" data-theme="c"><a href="icn.php">ICN</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="mcc.php") echo 'navselected' ?>" data-theme="c"><a href="mcc.php">MCC</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="wmust.php") echo 'navselected' ?>" data-theme="c"><a href="wmust.php">W-MUST</a></li>
-			<li data-icon="false" class="subnav-a <?php if ($mypage=="wosn12.php") echo 'navselected' ?>" data-theme="c"><a href="wosn12.php">WOSN'12</a></li>
+			<li data-icon="false" class="subnav-a <?php if ($mypage=="wosn12.php") echo 'navselected' ?>" data-theme="c"><a href="wosn12.php">WOSN</a></li>
 
 			<li class="navheader-b" data-icon="plus" data-theme="c" ><a href="#">Tutorials</a></li>
 			<li data-icon="false" class="subnav-b <?php if ($mypage=="nasg.php") echo 'navselected' ?>" data-theme="c"><a href="nasg.php">NASG</a></li>
@@ -49,9 +49,9 @@ $mypage = current_pagename();
 		</div>
 
 		<div class="border ui-corner-all ui-shadow socialbuttons">
-			<iframe src="include/socialbtn.php" scrolling="no" height="21" width="100%"></iframe>
+			<iframe src="include/socialbtn.php" scrolling="no" height="21" width="100%" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 		</div>
  		<div style="margin-top: 2em" class="tweetlist">
-			<iframe src="include/tweetlist.php" scrolling="no" height="380" width="100%"></iframe>
+			<iframe src="include/tweetlist.php" scrolling="no" height="380" width="100%" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 		</div>
 	</div>
