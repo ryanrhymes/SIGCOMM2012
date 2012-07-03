@@ -90,13 +90,13 @@
 			"<p>Mobile Cloud Computing (MCC) research has attracted more research efforts in recent years in both industry and academia. An increasing demand for highly scalable, timely and efficient resource management, content delivery, and mobile sensing has motivated the development of MCC architectures that focus on mobility management, mobile service composition, resource offloading, and mobile device-assistant sensing in various MCC application domains. The MCC research emerges as a key paradigm, receiving increasing attention and departing from the traditional pure mobile computing and sensor networking models.</p>
 			<p>This panel of distinguished researchers from both academia and industry will try to establish the state-of-the-art in MCC and pose key open questions and future research directions in the area.</p>
 			<p>The panel participants: </p>
-			<ul>
-				<li>Fan Bai, General Motors Research & Development, USA</li>
-				<li>Kyu-Han Kim, Hewlett-Packard Laboratories, USA</li>
-				<li>Gunnar Karlsson,  Kungliga Tekniska högskolan, Swiden</li>
-				<li>J&ouml;rg Ott, Aalto University, Finland</li>
-				<li>Yevgeni Koucheryavy, Tampere University of Technology, Finland</li>
-			</ul>", 
+			<p>
+				Fan Bai, General Motors Research & Development, USA<br />
+				Kyu-Han Kim, Hewlett-Packard Laboratories, USA<br />
+				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Swiden<br />
+				J&ouml;rg Ott, Aalto University, Finland<br />
+				Yevgeni Koucheryavy, Tampere University of Technology, Finland<br />
+			</p>", 
 			"Panel");
 		?>
 		
