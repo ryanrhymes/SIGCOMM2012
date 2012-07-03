@@ -10,31 +10,21 @@
 <b>Helsinki, Finland (Friday, August 17, 2012)</b>
 </p>
 
-<!--
+
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		
-		<?php tprog_add_session("8:45-9:00", "Welcoming Remarks", ""); ?>
+		<?php tprog_add_session("8:30-8:45", "Welcoming Remarks", ""); ?>
 		
 		<?php tprog_add_item("", 
 			"", 
 			"Mario Gerla and Dijiang Huang", 
 			"");
 		?>
-				
-		<?php tprog_add_session("9:00-10:00", "Keynote", "Mario Gerla"); ?>
 		
-		<?php tprog_add_item("NyMoTe: Personal Mobile Cloud", 
-			"", 
-			"<p>Jon Crowcroft (Cambridge University, UK)</p>
-			<p>In this keynote, a personal mobile cloud called NyMoTe is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
-			"Keynote");
-		?>
-				
-		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-				
-		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture", ""); ?>
+		
+		<?php tprog_add_session("8:45-9:30", "Session 1: Mobile Cloud Architecture I", ""); ?>
 		
 		<?php tprog_add_item("On Cloud-Centric Network Architecture for Multi-Dimensional Mobility", 
 			"", 
@@ -48,25 +38,109 @@
 			"Paper"); 
 		?>
 		
+				
+		<?php tprog_add_session("9:30-10:30", "Keynote", "Mario Gerla"); ?>
+		
+		
+		<?php tprog_add_item("NyMoTe: Personal Mobile Cloud", 
+			"", 
+			"<p>Jon Crowcroft (Cambridge University, UK)</p>
+			<p>In this keynote, a personal mobile cloud called NyMoTe is presented. There are several levels of this system: a small footprint cloud OS called Mirage is established; signposts support the mobile devices to connect to each other; a set of services including a decentralized store and approaches to distribute Applications.</p>", 
+			"Keynote");
+		?>
+		
+				
+		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
+		
+				
+		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture II", ""); ?>
+		
+		<?php tprog_add_item("Scalability of a Mobile Cloud Management System", 
+			"", 
+			"R. Bifulco, M. Brunner, R. Canonico, P. Hesselmeyer, F. Mir", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Computing in Cirrus Clouds: The Challenge of Intermittent Connectivity", 
+			"", 
+			"C. Shi, M. Ammar, E. Zegura, M. Naik", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("SNARF: A Social Networking-inspired Accelerator Remoting Framework", 
+			"", 
+			"H. Eom, P. Juste, R. Figueiredo, O. Tickoo, R. Illikkal, R. Iyer", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing", 
+			"", 
+			"A. Ferrari, D. Puccinelli, S. Giordano", 
+			"Paper"); 
+		?>
+
+				
+		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
+		
+		
+		<?php tprog_add_session("14:00-15:30", "Panel: Mobile Cloud Computing: Open the Pandora's Box", ""); ?>
+		
+		<?php tprog_add_item("", 
+			"", 
+			"<p>Mobile Cloud Computing (MCC) research has attracted more research efforts in recent years in both industry and academia. An increasing demand for highly scalable, timely and efficient resource management, content delivery, and mobile sensing has motivated the development of MCC architectures that focus on mobility management, mobile service composition, resource offloading, and mobile device-assistant sensing in various MCC application domains. The MCC research emerges as a key paradigm, receiving increasing attention and departing from the traditional pure mobile computing and sensor networking models.</p>
+			<p>This panel of distinguished researchers from both academia and industry will try to establish the state-of-the-art in MCC and pose key open questions and future research directions in the area.</p>
+			<p>The panel participants: </p>
+			<ul>
+				<li>Fan Bai, General Motors Research & Development, USA</li>
+				<li>Kyu-Han Kim, Hewlett-Packard Laboratories, USA</li>
+				<li>Gunnar Karlsson,  Kungliga Tekniska högskolan, Swiden</li>
+				<li>J&ouml;rg Ott, Aalto University, Finland</li>
+				<li>Yevgeni Koucheryavy, Tampere University of Technology, Finland</li>
+			</ul>", 
+			"Panel");
+		?>
+		
+
+		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		
+		
+		<?php tprog_add_session("16:00-17:45", "Session 2: Mobile Cloud Sensing", ""); ?>
+		
+		<?php tprog_add_item("A Cloud-Assisted Design for Autonomous Driving", 
+			"", 
+			"S. Kumar, S. Gollakota, D. Katabi", 
+			"Paper"); 
+		?>
+		
 		<?php tprog_add_item("Fog Computing and Its Role in the Internet of Things", 
 			"", 
 			"F. Bonomi, S. Addepalli, R. Milito, J. Zhu", 
 			"Paper"); 
 		?>
 		
-		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing", 
+		<?php tprog_add_item("The Case for Cloud-Enabled Mobile Sensing Services", 
 			"", 
-			"A. Ferrari, D. Puccinelli, S. Giordano", 
+			"S. Sen, A. Misra, R. Balan, L. Lim", 
 			"Paper"); 
 		?>
-				
-		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
-		<?php tprog_add_session("14:00-15:30", "Panel: Mobile Cloud Computing: Open the Pandora's Box", ""); ?>
-
-		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
+		<?php tprog_add_item("An Integrated Cloud-based Framework for Mobile Phone Sensing", 
+			"", 
+			"R. Fakoor, M. Raj, A. Nazi, M. Francesco, S. Das", 
+			"Paper"); 
+		?>
+		
+		<?php tprog_add_item("Energy-Aware Keyword Search on Mobile Phones", 
+			"", 
+			"W. Rao, K. Zhao, E. Lagerspetz, P. Hui, S. Tarkoma", 
+			"Paper"); 
+		?>
+		
+		
+		
 	</ul>
--->
+
+
 
 <h2 class="hcls">Introduction</h2>
 
