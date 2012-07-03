@@ -29,6 +29,10 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
     include ("include/dates.html");
 ?>
 
+<h2 class="hcls">Sponsors</h2>
+	<a href="http://www.acm.org/"><img src="images/acm.png" alt="Association for Computing Machinery" style="width:41%;padding:4%;vertical-align:middle" /></a>
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:41%;padding:4%;vertical-align:middle" /></a>
+
 <?php
     include ("include/footer.php");
 ?>
