@@ -59,9 +59,10 @@ The exact number of awards will depend on the availability of funds and will be 
 
 <h2 class="hcls">Supporters</h2>
 <p> ACM SIGCOMM thanks the following supporters, who make the 2012 student travel grants program possible:</p>
-	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width:21%;padding:2%;vertical-align:middle"/></a>
-	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:21%;padding:2%;vertical-align:middle" /></a>
-	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width:21%;padding:2%;vertical-align:middle" /></a>
+	<a href="http://www.isoc.org/"><img src="images/isoc.png" alt="Internet Society" style="width:20%;padding:2%;vertical-align:middle"/></a>
+	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:20%;padding:2%;vertical-align:middle" /></a>
+	<a href="http://internet-science.eu/"><img src="images/eins.jpg" alt="Network of Excellence in Internet Science" style="width:20%;padding:2%;vertical-align:middle" /></a>
+	<a href="http://research.microsoft.com/"><img src="images/microsoftresearch.png" alt="Microsoft Research" style="width:20%;padding:2%;vertical-align:middle" /></a>
 	<!--<a href="http://nsf.gov/"><img src="images/nsf.gif" alt="National Science Foundation" style="width:20%;padding:2%;vertical-align:middle" /></a>-->
 <h2 class="hcls">Selection Criteria</h2>
 
