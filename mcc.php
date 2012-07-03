@@ -6,6 +6,9 @@
 
 <h2 class="hcls">Mobile Cloud Computing (MCC)</h2>
 
+<p>
+<b>Helsinki, Finland (Friday, August 17, 2012)</b>
+</p>
 
 <h2 class="hcls">Technical Program</h2>
 
