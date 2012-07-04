@@ -94,7 +94,8 @@ function tprog_add_item($paper, $link, $authors, $info)
 		}	
 	}
 	if($info) {
-		printf('<p class="ui-li-aside prog-%s">%s </p>', strtolower($info), $info);
+		printf('<p class="ui-li-aside prog-%s">%s </p>',
+			   preg_replace('/\s/', '', strtolower($info)), $info);
 	}
 	if ($link) {
 		print('</a>');

@@ -1,8 +1,8 @@
 /*
 
-Logo blue:		#6ec8e8
-Logo green:		#b1c918
-Logo yellow:	#ffcc00
+Logo blue:		#6ec8e8 (darker #42b7e1)
+Logo green:		#b1c918 (darker #899b13)
+Logo yellow:	#ffcc00 (darler #cca300)
 */
 
 
@@ -55,7 +55,7 @@ ul li {
 	margin-top: 2em;
 }
 
-.prog-paper, .prog-demo, .prog-poster, .prog-keynote {
+.prog-paper, .prog-demo, .prog-poster, .prog-keynote, .prog-panel, .prog-tutorial, .prog-invitedtalk {
 	font-weight: bold;
 	padding: 5px;
 	-webkit-border-radius: 6px;
@@ -65,18 +65,27 @@ ul li {
 
 .prog-paper {
 	background-color: #ffcc00;
+	border-color: 1px solid #cca300;
 }
 
 .prog-demo {
 	background-color: #6ec8e8;
+	border: 1px solid #42b7e1;
 }
 
 .prog-poster {
 	background-color: #b1c918;
+	border: 1px solid #899b13;
 }
 
 .prog-keynote {
 	background-color: #bbb;
+	border: 1px solid #a2a2a2;
+}
+
+.prog-panel, .prog-tutorial, .prog-invitedtalk {
+	border: 1px solid #d5d5d5;
+	background-color: #eee;
 }
 
 #prog_ctrl {
@@ -204,7 +213,7 @@ em {
 	text-shadow: none;
 	background-color: #ffcc00;
 	color: #ffcc00;
-	border: #ffcc00 solid 1px;
+	border: #cca300 solid 1px;
 }
 
 .datetag {
@@ -339,7 +348,7 @@ div.fees {
 
 #jqm-home .heading {
 	background-color: #b1c918;
-	border-color: #92a614;
+	border-color: #899b13;
 	text-align: center;	
 	font-size: 16px;	
 	letter-spacing:1px;
