@@ -41,7 +41,7 @@
 		
 		<?php tprog_add_item("Estimating Packet Loss Rate in the Access Through Application Level Measurements", 
 			"", 
-			"Simone Basso (NEXA Center for Internet & Society at Politecnico di Torino) Michela Meo (Politecnico di Torino) Antonio Servetti (Politecnico di Torino) Juan Carlos De Martin (NEXA Center for Internet & Society at Politecnico di Torino)", 
+			"Simone Basso (NEXA Center for Internet &amp; Society at Politecnico di Torino) Michela Meo (Politecnico di Torino) Antonio Servetti (Politecnico di Torino) Juan Carlos De Martin (NEXA Center for Internet &amp; Society at Politecnico di Torino)", 
 			"Paper"); 
 		?>
 		

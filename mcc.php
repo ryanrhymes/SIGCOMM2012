@@ -91,7 +91,7 @@
 			<p>This panel of distinguished researchers from both academia and industry will try to establish the state-of-the-art in MCC and pose key open questions and future research directions in the area.</p>
 			<p>The panel participants: </p>
 			<p>
-				Fan Bai, General Motors Research & Development, USA<br />
+				Fan Bai, General Motors Research &amp; Development, USA<br />
 				Kyu-Han Kim, Hewlett-Packard Laboratories, USA<br />
 				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Swiden<br />
 				J&ouml;rg Ott, Aalto University, Finland<br />
