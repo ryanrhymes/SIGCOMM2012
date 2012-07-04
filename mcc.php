@@ -57,25 +57,25 @@
 		
 		<?php tprog_add_item("Scalability of a Mobile Cloud Management System", 
 			"", 
-			"R. Bifulco, M. Brunner, R. Canonico, P. Hesselmeyer, F. Mir", 
+			"R. Bifulco, M. Brunner, R. Canonico, P. Hesselmeyer, F. Mir", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Computing in Cirrus Clouds: The Challenge of Intermittent Connectivity", 
 			"", 
-			"C. Shi, M. Ammar, E. Zegura, M. Naik", 
+			"C. Shi, M. Ammar, E. Zegura, M. Naik", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("SNARF: A Social Networking-inspired Accelerator Remoting Framework", 
 			"", 
-			"H. Eom, P. Juste, R. Figueiredo, O. Tickoo, R. Illikkal, R. Iyer", 
+			"H. Eom, P. Juste, R. Figueiredo, O. Tickoo, R. Illikkal, R. Iyer", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing", 
 			"", 
-			"A. Ferrari, D. Puccinelli, S. Giordano", 
+			"A. Ferrari, D. Puccinelli, S. Giordano", 
 			"Paper"); 
 		?>
 
@@ -93,7 +93,7 @@
 			<p>
 				Fan Bai, General Motors Research & Development, USA<br />
 				Kyu-Han Kim, Hewlett-Packard Laboratories, USA<br />
-				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Swiden<br />
+				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Swiden<br />
 				J&ouml;rg Ott, Aalto University, Finland<br />
 				Yevgeni Koucheryavy, Tampere University of Technology, Finland<br />
 			</p>", 
@@ -108,7 +108,7 @@
 		
 		<?php tprog_add_item("A Cloud-Assisted Design for Autonomous Driving", 
 			"", 
-			"S. Kumar, S. Gollakota, D. Katabi", 
+			"S. Kumar, S. Gollakota, D. Katabi", 
 			"Paper"); 
 		?>
 		
@@ -120,19 +120,19 @@
 		
 		<?php tprog_add_item("The Case for Cloud-Enabled Mobile Sensing Services", 
 			"", 
-			"S. Sen, A. Misra, R. Balan, L. Lim", 
+			"S. Sen, A. Misra, R. Balan, L. Lim", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("An Integrated Cloud-based Framework for Mobile Phone Sensing", 
 			"", 
-			"R. Fakoor, M. Raj, A. Nazi, M. Francesco, S. Das", 
+			"R. Fakoor, M. Raj, A. Nazi, M. Francesco, S. Das", 
 			"Paper"); 
 		?>
 		
 		<?php tprog_add_item("Energy-Aware Keyword Search on Mobile Phones", 
 			"", 
-			"W. Rao, K. Zhao, E. Lagerspetz, P. Hui, S. Tarkoma", 
+			"W. Rao, K. Zhao, E. Lagerspetz, P. Hui, S. Tarkoma", 
 			"Paper"); 
 		?>
 		

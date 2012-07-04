@@ -57,12 +57,10 @@ ul li {
 
 .prog-paper, .prog-demo, .prog-poster, .prog-keynote {
 	font-weight: bold;
-	padding: 4px;
+	padding: 5px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
-	margin-top: .75em;
-	margin-left: 1em;
 }
 
 .prog-paper {
@@ -255,7 +253,7 @@ em {
 }
 
 #jqm-home .header a {
-       top: 12px;
+       top: 11px;
        right: 15px;
 }
 
@@ -347,31 +345,32 @@ div.fees {
 	letter-spacing:1px;
 }
 
-.ui-btn-text {
+#jqm-home .ui-btn-text {
 	font-size: 14px;
 }
 
-.ui-collapsible .ui-collapsible-heading .ui-btn-text {
+#jqm-home .ui-collapsible .ui-collapsible-heading .ui-btn-text {
 	font-size: 16px;
 }
 
-.ui-li-heading, .ui-li-desc {
+#jqm-home .ui-li-heading, .ui-li-desc {
 	white-space: normal;
 	margin: 0;
 }
 
-.ui-li-desc em {
+#jqm-home .ui-li-desc em {
 	color: inherit;
 	font-weight: normal;
 	font-style: italic;
 }
 
-.ui-li-heading {
+#jqm-home .ui-li-heading {
 	font-size: 1em;
 }
 
-.ui-li-aside {
+#jqm-home .ui-li-aside {
 	width: auto;
+	margin: 0 0 10px 10px;
 }
 
 /* site layout */

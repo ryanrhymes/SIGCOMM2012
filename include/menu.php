@@ -5,7 +5,7 @@ $mypage = current_pagename();
 	<div id="left-column" class="content-secondary">
 		<a href="index.php"><img class="center conflogo" src="images/helsinki-logo.png" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
 		
-		<a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls" id="sitenav">Site Navigation</h2></a>
+		<a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls" id="sitenav">Site Menu</h2></a>
 		
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li data-icon="false" <?php if ($mypage=="index.php") echo 'class="navselected"' ?> ><a href="index.php">Home</a></li>
