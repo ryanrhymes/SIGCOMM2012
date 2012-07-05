@@ -338,7 +338,7 @@ Reservations in Data Centers",
 		<?php
 			tprog_add_item("TUBE: Time Dependent Pricing for Mobile Data",
 			"", 
-			"Sangtae Ha (Princeton University), Soumya Sen (Princeton University), Carlee Joe-Wong (Princeton University), Youngbin Im (Princeton University), Mung Chiang (Princeton University)", 
+			"Sangtae Ha (Princeton University), Soumya Sen (Princeton University), Carlee Joe-Wong (Princeton University), Youngbin Im (Seoul National University), Mung Chiang (Princeton University)", 
 			"Paper");
 		?>
 		
