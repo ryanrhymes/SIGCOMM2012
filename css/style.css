@@ -166,13 +166,7 @@ em {
 	text-align: center;
 }
 
-.newstbl p {
-	margin:0;
-	font-size:1em;
-}
-
-.datetbl p {
-	margin:0;
+.newstbl p, .datetbl p {
 	font-size:1em;
 }
 
@@ -216,19 +210,8 @@ em {
 	border: #cca300 solid 1px;
 }
 
-.datetag {
-	margin-right: 1em; 
-	font-weight: bold;
-	width: 8em;
-	float: left;
-}
-
-.datetag_w {
-	margin-right: 1em; 
-	font-weight: bold;
-	width: 40%;
-	float: left;
-}
+.datetbl .ui-grid-a .ui-block-a { width: 30% }
+.datetbl .ui-grid-a .ui-block-b { width: 70%; } 
 
 #toolbar {
 	position: fixed;
@@ -307,6 +290,10 @@ div.fees {
 	float: left;
 }
 
+.newslibtn .ui-btn-text{
+	text-align: center;	
+}
+
 /* jqm overrides go here */
 
 .ui-body-c .ui-link {
@@ -336,14 +323,6 @@ div.fees {
 
 .subnav-a .ui-btn-text, .subnav-b .ui-btn-text, .subnav-c .ui-btn-text {
 	padding-left: 30px;
-}
-
-#jqm-home .cthm1a {
-	background-color: lightgray;
-}
-
-#jqm-home .cthm1b {
-	background-color: transparent;
 }
 
 #jqm-home .heading {
@@ -397,6 +376,9 @@ div.fees {
 	.content-primary h3, h4 {
 		font-size: 1em;
 		margin-top:1em;
+	}
+	.fees td, .fees th {
+			padding: .2em;
 	}
 }
 

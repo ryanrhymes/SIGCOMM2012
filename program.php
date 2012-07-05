@@ -16,7 +16,7 @@
 </div>
 
 
-	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-dividertheme="a">
+	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 14, 2012</h3></li>
 
 		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>

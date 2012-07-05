@@ -207,7 +207,7 @@ other workshop, conference, or journal.<p>
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Paper Registration", "<span class='linethrough'>March 23, 2012, 11:59 PM GMT</span>"); ?>
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'> March 30, 2012; extension: <em>April 11, 2012, 23:59 GMT</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 11, 2012</span>"); ?>

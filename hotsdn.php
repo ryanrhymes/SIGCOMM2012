@@ -278,7 +278,7 @@ expected to present their papers at the workshop.<p>
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>April 6, 2012; extension: <em>April 10, 2012, 11:59 PM GMT</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 25, 2012</span>"); ?>
 	<?php add_dateitem("Camera-Ready", "June 15, 2012"); ?>

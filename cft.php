@@ -53,11 +53,11 @@ Proposals must include:
 </ul>
 
 <h2 class="hcls">Important tutorial dates</h2>
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
+        <?php add_dateitem("February 15, 2012", "Tutorial proposals due"); ?>
+        <?php add_dateitem("March 31, 2012", "Notification of Acceptance"); ?>
 
-<table class="datetbl">
-        <tr class="cthm1a"><td>Tutorial proposals due</td><td>February 15, 2012</td></tr>
-        <tr class="cthm1b"><td>Notification of Acceptance</td><td>March 31, 2012</td></tr>
-</table>
+</ul>
 
 <p>
 Tutorials will be held in parallel to the workshops, i.e., Monday and/or

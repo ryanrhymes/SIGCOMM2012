@@ -16,13 +16,14 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
 <a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" class="button">Contact the Organizers</a>
 
 <h2 class="hcls">News</h2>
-<ul data-role="listview" data-inset="true" data-theme="c" class="newstbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 <?php
         include("include/news.html");
 ?>
-
 </ul>
-
+<script>
+$(".newslibtn").siblings().slice(10).hide();
+</script>
 
 <h2 class="hcls">Important Dates</h2>
 <?php

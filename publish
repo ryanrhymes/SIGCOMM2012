@@ -60,9 +60,6 @@ do
 done
 echo
 
-# fix permissions locally
-chmod -R ug+rwX $out
-
 # generate a cache manifest
 cm=$out/sigcomm.appcache
 echo CACHE MANIFEST > $cm
@@ -75,12 +72,15 @@ echo NETWORK: >> $cm
 echo '*' >> $cm
 echo >> $cm
 
+# fix permissions locally
+chmod -R ug+rwX,o+rX $out
+
 # upload to the ACM's server
 #lftp -c "open sftp://lars@turing.acm.org ; mirror -Reva $out 2012 ; cd 2012 ; chmod -R 664 ."
 rsync -azv --rsh=ssh --delete $out/ lars@turing.acm.org:~/2012/
 
 # fix permissions remotely
-ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012 ; find 2012/ -ls"
+ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012"
 
 # remove temporary directory
 rm -rf $out

@@ -89,7 +89,7 @@ After giving priority to the above criteria, (co-)authors of papers may be consi
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 
 <li>
 <div class="ui-grid-a">

@@ -41,11 +41,11 @@ function current_pagename()
 
 function add_listitem($name, $organization, $link)
 {
-	print('<li data-theme="d" data-icon="false">');
+	print('<li data-icon="false">');
 	if ($link) {
 		printf('<a href="%s" rel="external">', $link);
 	}
-	printf('<div class="ui-grid-a"><div class="ui-block-a">%s</div><div class="ui-block-b">%s</div></div>',
+	printf('<div class="ui-grid-a"><div class="ui-block-a"><p>%s</p></div><div class="ui-block-b"><p>%s</p></div></div>',
 		   $name, $organization);
 	if ($link) {
 		printf('</a>');
@@ -55,12 +55,8 @@ function add_listitem($name, $organization, $link)
 
 function add_dateitem($date, $info)
 {
-	print( "
-		<li>
-			<div class=\"datetag_w\">$date</div>
-			<p>$info</p>
-		</li>
-	");
+	printf('<li data-icon="false"><div class="ui-grid-a"><div class="ui-block-a"><h2>%s</h2></div><div class="ui-block-b"><p>%s</p></div></div></li>',
+		   $date, $info);
 }
 
 function tprog_add_session($time, $title, $chair="")
@@ -79,7 +75,7 @@ function tprog_add_item($paper, $link, $authors, $info)
 {
 	/* the spaces after various "%s" below are important for correct list filtering! */
 	$authors = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $authors);
-	print('<li data-theme="d" data-icon="false">');
+	print('<li data-icon="false">');
 	if ($link) {
 		printf('<a href="%s" rel="external">', $link);
 	}

@@ -215,7 +215,7 @@ In this first Mobile Gaming workshop at SIGCOMM, we will bring together practiti
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 22, 2012</span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 15, 2012</span>"); ?>
 	<?php add_dateitem("Camera Ready", "June 1, 2012"); ?>

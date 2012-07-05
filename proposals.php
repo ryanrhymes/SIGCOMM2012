@@ -44,12 +44,11 @@ Email proposals in PDF to
 
 
 <h2 class="hcls">Important workshop dates</h2>
-
-<table class="datetbl">
-        <tr class="cthm1a"><td>Workshop proposals due</td><td>November 28, 2011</td></tr>
-        <tr class="cthm1b"><td>Notification of Acceptance</td><td>December 12, 2011</td></tr>
-        <tr class="cthm1a"><td>Workshop Call for Papers due</td><td>January  2, 2012</td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
+        <?php add_dateitem("November 28, 2011", "Workshop proposals due"); ?>
+        <?php add_dateitem("December 12, 2011", "Notification of Acceptance"); ?>
+        <?php add_dateitem("January  2, 2012", "Workshop Call for Papers due"); ?>
+</ul>
 
 <p>
 Note that there are only three weeks between the notification and the final CFP. Thus, while it is not a strict requirement, <em>we strongly encourage you to contact your workshop potential PC members before submitting the proposal</em>.
@@ -58,13 +57,13 @@ Note that there are only three weeks between the notification and the final CFP.
 
 <h2 class="hcls">Additional important workshops dates</h2>
 
-<table class="datetbl">
-        <tr class="cthm1a"><td>Paper submissions deadline</td><td>before beginning of April, 2012</td></tr>
-        <tr class="cthm1b"><td>Paper accept notifications</td><td>before mid-May, 2012</td></tr>
-        <tr class="cthm1a"><td>Camera-ready due</td><td>before the beginning of June, 2012</td></tr>
-        <tr class="cthm1b"><td>Program available online</td><td>before mid-June, 2012</td></tr>
-        <tr class="cthm1a"><td>List of organization details</td><td>before mid-June, 2012</td></tr>
-</table>
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
+        <?php add_dateitem("Before beginning of April, 2012", "Paper submissions deadline"); ?>
+        <?php add_dateitem("Before mid-May, 2012", "Paper accept notifications"); ?>
+        <?php add_dateitem("Before the beginning of June, 2012", "Camera-ready due"); ?>
+        <?php add_dateitem("Before mid-June, 2012", "Program available online"); ?>
+        <?php add_dateitem("Before mid-June, 2012", "List of organization details"); ?>
+</ul>
 
 <p>
 In order for the workshops to be synchronized with preparations for the main conference and with travel grants, the dates above must be followed strictly by all workshops. For questions, send email to 

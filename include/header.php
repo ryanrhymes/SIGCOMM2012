@@ -68,7 +68,7 @@
 
 	<div class="header" data-role="header" data-theme="c" data-position="inline"> 
 		<div><a href="index.php"><img src="images/helsinki-logo-vert.png" style="height:40px" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland"></a></div>
-		<a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('#sitenav').position().top)" class="ui-btn-right" data-icon="grid">Site Menu</a>
+		<a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.navselected').position().top)" class="ui-btn-right" data-icon="grid">Site Menu</a>
 	</div> 
 
 	<div data-role="content" class="content">	

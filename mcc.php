@@ -198,7 +198,7 @@ Papers should be submitted via the <a href="http://www.sheridanprinting.com/type
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Paper Registration", "<span class='linethrough'>March 19, 2012; extension: <em>April 2,2012</em></span>"); ?>
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 26, 2012; extension: <em>April 11,2012</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 7, 2012</span>"); ?>

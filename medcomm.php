@@ -165,7 +165,7 @@ Papers should be submitted via the <a href="https://pain.cs.umass.edu/" >submiss
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Paper Registration", "<span class='linethrough'>March 16, 2012</span>"); ?>
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>March 23, 2012</span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 1, 2012</span>"); ?>

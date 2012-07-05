@@ -225,7 +225,7 @@ well as on results from implementations and experimentation.
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Abstract Registration", "<span class='linethrough'>March 18, 2012; extension: <em>(extended to March 22,2012)</em></span>"); ?>
 	<?php add_dateitem("Submissions due", "<span class='linethrough'>March 25, 2012; extension: <em>(extended to April 1,2012)</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "<span class='linethrough'>May 7, 2012</span>"); ?>

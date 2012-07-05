@@ -146,11 +146,14 @@ function ticker_tape() {
 function showall(divname) {
   $.mobile.activePage.find(".newslibtn").find("span").toggleClass("ui-icon-plus");
   $.mobile.activePage.find(".newslibtn").find("span").toggleClass("ui-icon-minus");
-  if ($.mobile.activePage.find(".newsli").css("display") == "none") {
-    $.mobile.activePage.find(".newsli").css("display", "block");
+  
+  if ($.mobile.activePage.find(".newslibtn").siblings().slice(-1).css("display") == "none") {
+	console.log("show");
+	$.mobile.activePage.find(".newslibtn").siblings().show();
     $.mobile.activePage.find(".newslibtn").find("a").text("Hide Older News");
   } else {
-    $.mobile.activePage.find(".newsli").css("display", "none");
+	console.log("hide");
+	$.mobile.activePage.find(".newslibtn").siblings().slice(10).hide();
     $.mobile.activePage.find(".newslibtn").find("a").text("Older News");
   }
 }

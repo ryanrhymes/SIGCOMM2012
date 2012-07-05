@@ -63,18 +63,10 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 
 <h2 class="hcls">Important dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
-
-<li class="linethrough"><div class="datetag">May 11, 2012</div>
-<p> Submission Deadline (23:59 PDT)</p></li>
-
-
-<li class="linethrough"><div class="datetag">May 31, 2012</div>
-<p> Acceptance Notification</p></li>
-
-<li><div class="datetag"><em>June 13, 2012</em></div>
-<p> Camera-Ready Deadline</p></li>
-
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
+<?php add_dateitem('<span class="linethrough">May 11, 2012</span>', 'Submission Deadline (23:59 PDT)'); ?>
+<?php add_dateitem('<span class="linethrough">May 31, 2012</span>', 'Acceptance Notification'); ?>
+<?php add_dateitem('<span class="linethrough">June 13, 2012</span>', 'Camera-Ready Deadline'); ?>
 </ul>
 
 

@@ -145,7 +145,7 @@
 
 <h2 class="hcls">Important Dates</h2>
 
-<ul data-role="listview" data-inset="true" data-theme="c" class="datetbl">
+<ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
 	<?php add_dateitem("Abstract Registration", "<span class='linethrough'>March 30, 2012</span>"); ?>
 	<?php add_dateitem("Submissions Due", "<span class='linethrough'>April 6, 2012; extension: <em>April 10, 2012, 23:59 PM PST)</em></span>"); ?>
 	<?php add_dateitem("Notification of Acceptance", "May 16, 2012"); ?>
