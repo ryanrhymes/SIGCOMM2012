@@ -1,4 +1,14 @@
 <?php
+	# Turn on zlib output compression. It would be better if the apache installed on
+	# turing.acm.org would honor the mod_deflate setting we enable in .htaccess,
+	# but apparently it doesn't. This at least compresses the HTML/PHP stuff.
+	ini_set("zlib.output_compression", "On");
+	
+	# Transparently convert normal ASCII quotes into typographic punctuation HTML entities.
+	# http://michelf.com/projects/php-smartypants/
+	include_once "include/smartypants.php";
+	ob_start();	
+
     include_once "functions.php";
     $mypage = current_pagename();
 ?>
