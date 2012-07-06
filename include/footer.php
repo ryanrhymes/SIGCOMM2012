@@ -66,3 +66,9 @@
 </body>
 
 </html>
+
+<?php
+	# Transparently convert normal ASCII quotes into typographic punctuation HTML entities.
+	# http://michelf.com/projects/php-smartypants/
+	print SmartyPants(ob_get_clean());
+?>

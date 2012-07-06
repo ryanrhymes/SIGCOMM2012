@@ -33,6 +33,11 @@ do
     # make the directory
     echo mkdir $item
   	mkdir -p $out/$item
+
+  elif [[ $item == ./include/smartypants.php ]]; then
+	# just copy this, it breaks when minified
+  	echo cp $item
+    cp $item $out/$item
   	
   elif [[ $item == *.php || $item == *.htm || $item == *.html ]]; then
 	# compress PHP and HTML
