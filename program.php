@@ -29,7 +29,7 @@
 		<?php
 			tprog_add_item("Hosts' Welcome Address",
 			"", 
-			"Hannu Kauppinen (Nokia) &amp; N.N. (Aalto University)", 
+			"Hannu Kauppinen (Head of Nokia Research Center)<br>Tuija Pulkkinen (Dean, School of Electrical Engineering, Aalto University)", 
 			"");
 		?>
 		<?php
