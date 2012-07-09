@@ -44,6 +44,11 @@ do
 	echo htmlcompressor $item
   	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item
   	
+  elif [[ $item == *.xml ]]; then
+	# compress XML
+	echo htmlcompressor $item
+  	htmlcompressor -t xml -o $out/$(dirname $item)/ $item
+  	
   elif [[ $item == *.js ]]; then
 	# compress javascript
 	echo closure $item
@@ -76,6 +81,8 @@ echo >> $cm
 echo NETWORK: >> $cm
 echo '*' >> $cm
 echo >> $cm
+
+exit
 
 # fix permissions locally
 chmod -R ug+rwX,o+rX $out
