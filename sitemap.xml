@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/mcc.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/wmust.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/pwn.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/nasg.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/hci.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/sora.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/icn.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/cellnet.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/wosn12.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/medcomm.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/mobigame.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/program.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/hotsdn.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/registration.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/workshops.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/localinfo.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/travel_grant.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/cfd.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/submission.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/supporters.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/pclist.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/organization.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/cfp.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/proposals.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>http://conferences.sigcomm.org/sigcomm/2012/cft.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+</urlset>
