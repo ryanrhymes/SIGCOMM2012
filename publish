@@ -82,8 +82,6 @@ echo NETWORK: >> $cm
 echo '*' >> $cm
 echo >> $cm
 
-exit
-
 # fix permissions locally
 chmod -R ug+rwX,o+rX $out
 
