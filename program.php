@@ -201,7 +201,7 @@
 		<?php
 			tprog_add_item("Towards Detecting BGP Route Hijacking using the RPKI",
 			"", 
-			"Matthias W&auml;hlisch (Freie Universität Berlin), Olaf Maennel (Loughborough University), Thomas C. Schmidt (HAW Hamburg)", 
+			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Olaf Maennel (Loughborough University), Thomas C. Schmidt (HAW Hamburg)", 
 			"Poster");
 		?>
 		
@@ -355,7 +355,7 @@ Reservations in Data Centers",
 		<?php
 			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperative and Lightweight Security at Mobiles",
 			"", 
-			"Matthias W&auml;hlisch (Freie Universität Berlin), Sebastian Trapp (Freie Universität Berlin), Jochen Schiller (Freie Universität Berlin), Benjamin Jochheim (HAW Hamburg), Theodor Nolte (HAW Hamburg), Thomas C. Schmidt (HAW Hamburg), Osman Ugus (HAW Hamburg), Dirk Westhoff (HAW Hamburg), Martin Kutscher (escrypt GmbH), Matthias Küster (escrypt GmbH), Christian Keil (DFN-CERT Services GmbH), Jochen Schönfelder (DFN-CERT Services GmbH)",
+			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Sebastian Trapp (Freie Universit&auml;t Berlin), Jochen Schiller (Freie Universit&auml;t Berlin), Benjamin Jochheim (HAW Hamburg), Theodor Nolte (HAW Hamburg), Thomas C. Schmidt (HAW Hamburg), Osman Ugus (HAW Hamburg), Dirk Westhoff (HAW Hamburg), Martin Kutscher (escrypt GmbH), Matthias K&uuml;ster (escrypt GmbH), Christian Keil (DFN-CERT Services GmbH), Jochen Sch&ouml;nfelder (DFN-CERT Services GmbH)",
 			"Demo");
 		?>
 		
@@ -376,7 +376,7 @@ Reservations in Data Centers",
 		<?php
 			tprog_add_item("Runtime MAC Reconfiguration Using a Meta-compiler Assisted Toolchain",
 			"", 
-			"Xi Zhang (RWTH Aachen University), Junaid Ansari (RWTH Aachen University), Petri Mähönen (RWTH Aachen University",
+			"Xi Zhang (RWTH Aachen University), Junaid Ansari (RWTH Aachen University), Petri M&auml;h&ouml;nen (RWTH Aachen University",
 			"Demo");
 		?>
 		

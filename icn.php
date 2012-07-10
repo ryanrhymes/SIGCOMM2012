@@ -55,7 +55,7 @@
 		
 		<?php tprog_add_item("Coexist: A Hybrid Approach for Content Oriented Publish/Subscribe Systems", 
 			"", 
-			"Jiachen Chen (University of G&ouml;ttingen), Mayutan Arumaithurai (NEC Laboratories Europe), Xiaoming Fu (University of Göttingen) and K.K. Ramakrishnan (AT&amp;T Laboratories)", 
+			"Jiachen Chen (University of G&ouml;ttingen), Mayutan Arumaithurai (NEC Laboratories Europe), Xiaoming Fu (University of G&ouml;ttingen) and K.K. Ramakrishnan (AT&amp;T Laboratories)", 
 			"Paper"); 
 		?>
 		

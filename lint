@@ -44,6 +44,8 @@ do
 		fi
 	done
 	
+	perl -ne 'print "$. $_" if m/[\x80-\xFF]/' $item
+	
 	echo	
 	rm $err $src
 done
