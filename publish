@@ -59,8 +59,9 @@ do
 	echo yuicompressor $item
 	yuicompressor -o $out/$item $item
 
-  # images are run through optipng and jpegtran when added to git,
-  # no need to re-optimize here
+  # we do NOT optimize images in this script, it would take too long
+  # run your images through image_optim when you add them to the repository
+  # https://github.com/toy/image_optim
 
   else
   	# simply copy all other files
