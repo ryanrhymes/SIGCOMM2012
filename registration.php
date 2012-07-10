@@ -4,7 +4,7 @@
 ?>
 
 <h2 class="hcls">Registration</h2>
-
+<!--
 	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center"><em>Early</em> Registration (until July 9)</h3>
 <table class="center">
@@ -55,7 +55,7 @@
 </table>
 <p class="center">If you register before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the conference week!</p>
 	</div>
-	
+-->	
 	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center"><em>Late</em> Registration (after July 9)</h3>
 <table class="center">
@@ -104,7 +104,9 @@
         </tr>
     </tbody>
 </table>
+<!--
 <p class="center">We unfortunately cannot guarantee that your registration package will include a complimentary public transportation pass if you register late.</p>
+-->
 	</div>
 
 
