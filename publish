@@ -59,8 +59,9 @@ do
 	echo yuicompressor $item
 	yuicompressor -o $out/$item $item
 
-  # images are run through optipng and jpegtran when added to git,
-  # no need to re-optimize here
+  # we do NOT optimize images in this script, it would take too long
+  # run your images through image_optim when you add them to the repository
+  # https://github.com/toy/image_optim
 
   else
   	# simply copy all other files
@@ -76,7 +77,8 @@ echo CACHE MANIFEST > $cm
 date +'# %F %R' >> $cm
 echo >> $cm
 echo CACHE: >> $cm
-find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm))|publish|lint" >> $cm
+# omit some older pages (various CFx, etc.) from the cache manifest to speed up loading
+find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm|xml))|publish|lint|proposals|submission|workshops|^cf" >> $cm
 echo >> $cm
 echo NETWORK: >> $cm
 echo '*' >> $cm
