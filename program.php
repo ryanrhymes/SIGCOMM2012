@@ -285,9 +285,9 @@
 		?>
 		
 		<?php
-			tprog_add_item("Measuring and Fingerprinting ClickSpam in Online Ad Networks",
+			tprog_add_item("Measuring and Fingerprinting Click-Spam in Ad Networks",
 			"", 
-			"Vacha Dave (The University of Texas at Austin), Saikat Guha (Microsoft Research India), Yin Zhang (The University of Texas at Austin)", 
+			"Vacha Dave (MSR India and UT Austin), Saikat Guha (Microsoft Research India), Yin Zhang (Univ. of Texas at Austin)", 
 			"Paper");
 		?>
 		
