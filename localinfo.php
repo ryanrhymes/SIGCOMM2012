@@ -249,7 +249,7 @@ transportation. Public transportation in Helsinki consist of bus,
 tram and metro.
 </p>
 <p>
-<em>Note: </em>If you register before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the Helsinki zone during the conference week!
+<em>Note: </em>If you registered before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the Helsinki zone during the conference week!
 
 <p>
 Otherwise, the fare varies from 1-4&nbsp;&euro;, depending on 
