@@ -31,7 +31,7 @@ Creating a minified version of the site
 
 Much better to publish this minimized version than the source files. Bash script in `publish`.
 
-In order to save time, this script does *not* optimize any images. You should really run your images through image_optim (https://github.com/toy/image_optim) when you add the images to the repository.
+In order to save time, this script does *not* optimize any images. You should really run your images through pngquant (http://pngquant.org/) and then image_optim (https://github.com/toy/image_optim) before you add them to the repository.
 
 
 Local test server
