@@ -255,8 +255,12 @@ em {
 	text-shadow: none;
 }
 
-div.content-primary > h2:first-child {
+.content-primary > h2:first-child {
 	margin-top: 0;
+}
+
+#jqm-home .content-secondary {
+	padding: 0;
 }
 
 .hidden { display: none; }
