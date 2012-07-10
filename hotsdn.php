@@ -288,39 +288,44 @@ expected to present their papers at the workshop.<p>
 
 <h2 class="hcls">Organizers</h2>
 
-<h3>Program Committee Co-Chairs</h3>
-<ul>
-<li>Nick Feamster (University of Maryland)</li>
-<li>Jennifer Rexford (Princeton)</li>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Nick Feamster", "University of Maryland", "http://www.cc.gatech.edu/~feamster/");
+		add_listitem("Jennifer Rexford", "Princeton", "http://www.cs.princeton.edu/~jrex/");
+	?>
+	
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Katerina Argyraki", "EPFL", "");
+		add_listitem("Jun Bi", "Tsinghua University", "");
+		add_listitem("Marco Canini", "EPFL", "");
+		add_listitem("Martin Casado", "Nicira", "");
+		add_listitem("Anja Feldmann", "T-Labs/TU Berlin", "");
+		add_listitem("Nate Foster", "Cornell", "");
+		add_listitem("Yashar Ganjali", "U. Toronto", "");
+		add_listitem("Sachin Katti", "Stanford", "");
+		add_listitem("Teemu Koponen", "Nicira", "");
+		add_listitem("Jeff Mogul", "HP Labs", "");
+		add_listitem("Richard Mortier", "University of Nottingham", "");
+		add_listitem("Nick McKeown", "Stanford", "");
+		add_listitem("Rob Sherwood", "BigSwitch", "");
+		add_listitem("Amin Vahdat", "UCSD/Google", "");
+		add_listitem("Andreas Voellmy", "Yale", "");
+		add_listitem("Dave Ward", "Cisco", "");
+	?>
+	
+	<li data-role="list-divider">Steering Committee</li>
+	<?php
+		add_listitem("Bruce Davie", "Nicira", "");
+		add_listitem("Nick Feamster", "University of Maryland", "");
+		add_listitem("Guru Parulkar", "Stanford", "");
+		add_listitem("Jennifer Rexford", "Princeton", "");
+	?>
+	
 </ul>
 
-<h3>Program Committee Members</h3>
-<ul>
-<li>Katerina Argyraki (EPFL)					 </li>
-<li>Jun Bi (Tsinghua University)				 </li>
-<li>Marco Canini (EPFL)						 </li>
-<li>Martin Casado (Nicira)					 </li>
-<li>Anja Feldmann (T-Labs/TU Berlin)			 </li>
-<li>Nate Foster (Cornell)					 </li>
-<li>Yashar Ganjali (U. Toronto)				 </li>
-<li>Sachin Katti (Stanford)					 </li>
-<li>Teemu Koponen (Nicira)					 </li>
-<li>Jeff Mogul (HP Labs)						 </li>
-<li>Richard Mortier (University of Nottingham)</li>
-<li>Nick McKeown (Stanford)					 </li>
-<li>Rob Sherwood (BigSwitch)					 </li>
-<li>Amin Vahdat (UCSD/Google)				 </li>
-<li>Andreas Voellmy (Yale)					 </li>
-<li>Dave Ward (Cisco)					 </li>
-</ul>
-
-<h3>Steering Committee</h3>
-<ul>
-<li>Bruce Davie (Nicira)		   </li>
-<li>Nick Feamster (University of Maryland)</li>
-<li>Guru Parulkar (Stanford)	   </li>
-<li>Jennifer Rexford (Princeton)</li>
-</ul>
 <?php
     include ("include/footer.php");
 ?>

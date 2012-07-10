@@ -174,30 +174,32 @@ Papers should be submitted via the <a href="https://pain.cs.umass.edu/" >submiss
 
 
 <h2 class="hcls">Organization</h2>
-<h3>Workshop Chair</h3>
+
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Chair</li>
+	<?php
+		add_listitem("Kevin Fu", "University of Massachusetts Amherst", "http://www.cs.umass.edu/~kevinfu/");
+	?>
 
 
-<ul>
-  <li><a href="http://www.cs.umass.edu/~kevinfu/">Kevin Fu</a> (University of Massachusetts Amherst)</li>
-  
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Srdjan Capkun", "ETH Z&uuml;rich", "http://www.syssec.ethz.ch/people/capkun");
+		add_listitem("Nicolas Christin", "Carnegie Mellon University", "http://www.andrew.cmu.edu/user/nicolasc/");
+		add_listitem("Prabal Dutta", "University of Michigan", "http://www.cs.berkeley.edu/~prabal/");
+		add_listitem("Nick Feamster", "University of Maryland", "http://www.cc.gatech.edu/~feamster/");
+		add_listitem("Shyamnath Gollakota", "Massachusetts Institute of Technology", "http://people.csail.mit.edu/gshyam/");
+		add_listitem("Matt Reynolds", "Duke University", "http://alumni.media.mit.edu/~matt/");
+		add_listitem("Joshua Smith", "University of Washington", "http://sensor.cs.washington.edu/jrs.html");
+		add_listitem("Jacob Sorber", "Dartmouth College", "http://www.cs.dartmouth.edu/~sorber/");
+		add_listitem("John Stankovic", "University of Virginia", "http://www.cs.virginia.edu/people/faculty/stankovic.html");
+		add_listitem("Desney Tan", "Microsoft Research", "http://research.microsoft.com/en-us/um/people/desney/");
+		add_listitem("Keith Winstein", "Massachusetts Institute of Technology", "");
+	?>
+
 </ul>
 
-
-	<h3>Program Committee</h3>
-	
-<ul>
-  <li><a href="http://www.syssec.ethz.ch/people/capkun">Srdjan Capkun</a> (ETH Z&uuml;rich)</li>
-  <li><a href="http://www.andrew.cmu.edu/user/nicolasc/">Nicolas Christin</a> (Carnegie Mellon University)</li>
-  <li><a href="http://www.cs.berkeley.edu/~prabal/">Prabal Dutta</a> (University of Michigan)</li>
-  <li><a href="http://www.cc.gatech.edu/~feamster/">Nick Feamster</a> (University of Maryland)</li>
-  <li><a href="http://people.csail.mit.edu/gshyam/">Shyamnath Gollakota</a> (Massachusetts Institute of Technology)</li>
-  <li><a href="http://alumni.media.mit.edu/~matt/">Matt Reynolds</a> (Duke University)</li>
-  <li><a href="http://sensor.cs.washington.edu/jrs.html">Joshua Smith</a> (University of Washington)</li>
-  <li><a href="http://www.cs.dartmouth.edu/~sorber/">Jacob Sorber</a> (Dartmouth College)</li>
-  <li><a href="http://www.cs.virginia.edu/people/faculty/stankovic.html">John Stankovic</a> (University of Virginia)</li>
-  <li><a href="http://research.microsoft.com/en-us/um/people/desney/">Desney Tan</a> (Microsoft Research)</li>
-  <li>Keith Winstein (Massachusetts Institute of Technology)</li>
-</ul>
 
 <?php
     include ("include/footer.php");

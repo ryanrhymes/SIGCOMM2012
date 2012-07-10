@@ -218,29 +218,34 @@ other workshop, conference, or journal.<p>
 
 <h2 class="hcls">Organizers</h2>
 
-<h3>Program Committee Co-Chairs</h3>
-<ul>
-<li>Li Erran Li (Bell Labs)		   </li>
-<li>Z. Morley Mao (Univ of Michigan)</li>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Li Erran Li", "Bell Labs", "http://www.bell-labs.com/user/erranlli/");
+		add_listitem("Z. Morley Mao", "Univ of Michigan", "http://web.eecs.umich.edu/~zmao/");
+	?>
+	
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Suman Banerjee", "Wisconsin", "");
+		add_listitem("Andrew Campbell", "Dartmouth College", "");
+		add_listitem("Xu Simon Chen", "AT&amp;T Research", "");
+		add_listitem("Zihui Ge", "AT&amp;T Research", "");
+		add_listitem("Marco Gruteser", "Winlab/Rutgers University", "");
+		add_listitem("Edward Knightly", "Rice", "");
+		add_listitem("Ulas Kozat", "Docomo", "");
+		add_listitem("Haiyun Luo", "China Mobile Research, USA", "");
+		add_listitem("Kobus Van Der Merwe", "AT&amp;T Research", "");
+		add_listitem("Ram Ramjee", "Microsoft Research", "");
+		add_listitem("Jennifer Rexford", "Princeton", "");
+		add_listitem("Cedric Westphal", "Huawei", "");
+		add_listitem("Hui Zang", "Sprint Labs", "");
+		add_listitem("Yongguang Zhang", "Microsoft Research", "");
+	?>
+	
 </ul>
 
-<h3>Program Committee Members</h3>
-<ul>
-<li>Suman Banerjee, Wisconsin				</li>
-<li> Andrew Campbell, Dartmouth College		</li>
-<li> Xu Simon Chen, AT&amp;T Research		</li>
-<li> Zihui Ge, AT&amp;T Research				</li>
-<li> Marco Gruteser,Winlab/Rutgers University</li>
-<li> Edward Knightly, Rice					</li>
-<li> Ulas Kozat, Docomo						</li>
-<li> Haiyun Luo, China Mobile Research, USA	</li>
-<li> Kobus Van Der Merwe, AT&amp;T Research	</li>
-<li> Ram Ramjee, Microsoft Research			</li>
-<li> Jennifer Rexford, Princeton				</li>
-<li> Cedric Westphal, Huawei					</li>
-<li> Hui Zang, Sprint Labs					</li>
-<li> Yongguang Zhang, Microsoft Research		</li>
-</ul>
 
 <?php
     include ("include/footer.php");

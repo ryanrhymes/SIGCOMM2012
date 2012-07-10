@@ -178,35 +178,40 @@ Papers should be submitted via the <a href="http://cyclops.cs.ucsb.edu/WOSN12" r
 
 <h2 class="hcls">Committees</h2>
 
-<h3>Workshop Organizer</h3>
-<ul>
-<li>Balachander Krishnamurthy (AT&amp;T Labs - Research)</li>
-</ul>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-<h3>Program Committee</h3>
-<ul>
-<li> Alessandro Acquisti (CMU)
-<li> Virgilio Almeida (UFMG, Brazil)
-<li> Landon Cox (Duke University)
-<li> Yafei Dai (Peking University, China)
-<li> Josh Elman (Greylock Partners)
-<li> Lixin Gao (Univ of Massachusetts, Amherst)
-<li> Krishna Gummadi (Max-Planck Institute for Software Systems)
-<li> Pankaj Gupta (Twitter Inc.)
-<li> Emre Kiciman (Microsoft Research)
-<li> Yongdae Kim (University Minnesota)
-<li> Cecilia Mascolo (University of Cambridge )
-<li> Alan Mislove (Northeastern University)
-<li> Sue Moon (KAIST, Korea)
-<li> Jennifer Neville (Purdue University)
-<li> Eamonn O'Neill (University of Bath, U.K.)
-<li> Reza Rejaie (Univ of Oregon)
-<li> Keith Ross (NYU-Polytechnic University)
-<li> Alessandra Sala (Bell Labs, Ireland)
-<li> James Salter (Government Communications HQ, UK)
-<li> Stefan Saroiu (Microsoft Research, PC Co-Chair)
-<li> Walter Willinger (AT&amp;T Labs - Research)
-<li> Ben Zhao (UC Santa Barbara, PC Co-Chair)
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Balachander Krishnamurthy", "AT&amp;T Labs - Research", "http://www2.research.att.com/~bala/papers/");
+		add_listitem("Stefan Saroiu", "Microsoft Research", "");
+		add_listitem("Ben Zhao", "UC Santa Barbara", "");
+	?>
+
+
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Alessandro Acquisti", "CMU", "");
+		add_listitem("Virgilio Almeida", "UFMG, Brazil", "");
+		add_listitem("Landon Cox", "Duke University", "");
+		add_listitem("Yafei Dai", "Peking University, China", "");
+		add_listitem("Josh Elman", "Greylock Partners", "");
+		add_listitem("Lixin Gao", "Univ of Massachusetts, Amherst", "");
+		add_listitem("Krishna Gummadi", "Max-Planck Institute for Software Systems", "");
+		add_listitem("Pankaj Gupta", "Twitter Inc.", "");
+		add_listitem("Emre Kiciman", "Microsoft Research", "");
+		add_listitem("Yongdae Kim", "University Minnesota", "");
+		add_listitem("Cecilia Mascolo", "University of Cambridge", "");
+		add_listitem("Alan Mislove", "Northeastern University", "");
+		add_listitem("Sue Moon", "KAIST, Korea", "");
+		add_listitem("Jennifer Neville", "Purdue University", "");
+		add_listitem("Eamonn O'Neill", "University of Bath, U.K.", "");
+		add_listitem("Reza Rejaie", "Univ of Oregon", "");
+		add_listitem("Keith Ross", "NYU-Polytechnic University", "");
+		add_listitem("Alessandra Sala", "Bell Labs, Ireland", "");
+		add_listitem("James Salter", "Government Communications HQ, UK", "");
+		add_listitem("Walter Willinger", "AT&amp;T Labs - Researc", "");
+	?>
+
 </ul>
 
 

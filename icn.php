@@ -235,67 +235,64 @@ well as on results from implementations and experimentation.
 
 <h2 class="hcls">Committees</h2>
 
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-<h3>Technical Program Chairs</h3>
+	<li data-role="list-divider">Technical Program Chairs</li>
+	<?php
+		add_listitem("Dirk Kutscher", "NEC Laboratories Europe &mdash; Germany", "");
+		add_listitem("B&ouml;rje Ohlman", "Ericsson &mdash; Sweden", "");
+		add_listitem("Ignacio Solis", "PARC &mdash; USA", "");
+	?>
+	
+	<li data-role="list-divider">Steering Committee</li>
+	<?php
+		add_listitem("Dirk Kutscher", "NEC Laboratories Europe &mdash; Germany", "");
+		add_listitem("Giacomo Morabito", "University of Catania &mdash; Italy", "");
+		add_listitem("B&ouml;rje Ohlman", "Ericsson &mdash; Sweden", "");
+		add_listitem("George C. Polyzos", "AUEB &mdash; Greece", "");
+		add_listitem("Ignacio Solis", "PARC &mdash; USA", "");
+		add_listitem("Lixia Zhang", "UCLA &mdash; USA", "");
+	?>
+	
+	<li data-role="list-divider">Technical Program Committee</li>
+	<?php
+		add_listitem("Bengt Ahlgren", "SICS", "");
+		add_listitem("Hitoshi Asaeda", "Keio University", "");
+		add_listitem("Tohru Asami", "The University of Tokyo", "");
+		add_listitem("Jun Bi", "Tsinghua University", "");
+		add_listitem("Nicola Blefari-Melazzi", "U Rome", "");
+		add_listitem("Giovanna Carofiglio", "ALU", "");
+		add_listitem("Yanghee Choi", "Seoul Nat. U", "");
+		add_listitem("Dave Clark", "MIT", "");
+		add_listitem("Costas Courcoubetis", "AUEB", "");
+		add_listitem("Andrea Detti", "U Rome", "");
+		add_listitem("Stephen Farrell", "Trinity College Dublin", "");
+		add_listitem("Volker Hilt", "ALU", "");
+		add_listitem("Jussi Kangasharju", "Helsinki University", "");
+		add_listitem("Holger Karl", "Universitaet Paderborn", "");
+		add_listitem("Gunnar Karlsson", "KTH", "");
+		add_listitem("Teemu Koponen", "SICS", "");
+		add_listitem("Daniel Massey", "Colorado SU", "");
+		add_listitem("Christos Papadopoulos", "Colorado SU", "");
+		add_listitem("George Pavlou", "UCL", "");
+		add_listitem("Dave Oran", "Cisco", "");
+		add_listitem("Joerg Ott", "Aalto University", "");
+		add_listitem("Max Ott", "NICTA", "");
+		add_listitem("Konstantinos Pentikousis", "Huawei", "");
+		add_listitem("Jarno Rajahalme", "NSN", "");
+		add_listitem("Thomas Schmidt", "HAW Hamburg", "");
+		add_listitem("Scott Shenker", "ICSI", "");
+		add_listitem("Karen Sollins", "MIT", "");
+		add_listitem("Sasu Tarkoma", "University of Helsinki", "");
+		add_listitem("Dirk Trossen", "Cambridge Univ.", "");
+		add_listitem("Ryuji Wakikawa", "Toyota ITC", "");
+		add_listitem("Lan Wang", "U Memphis", "");
+		add_listitem("George Xylomenos", "AUEB", "");
+		add_listitem("Tomohiko Yagyu", "NEC", "");
+		add_listitem("Edmund Yeh", "Yale University", "");
+		add_listitem("Beichuan Zhang", "U Arizona", "");
+	?>
 
-<ul>
-  <li>Dirk Kutscher, NEC Laboratories Europe &mdash;  Germany</li>
-  <li>B&ouml;rje Ohlman, Ericsson &mdash; Sweden</li>
-  <li>Ignacio Solis, PARC &mdash; USA</li>
-</ul>
-
-
-	<h3>Steering Committee</h3>
-
-<ul>
-  <li>Dirk Kutscher, NEC Laboratories Europe &mdash;  Germany</li>
-  <li>Giacomo Morabito, University of Catania &mdash; Italy</li>
-  <li>B&ouml;rje Ohlman, Ericsson &mdash; Sweden</li>
-  <li>George C. Polyzos, AUEB &mdash; Greece</li>
-  <li>Ignacio Solis, PARC &mdash; USA</li>
-  <li>Lixia Zhang, UCLA &mdash; USA</li>
-</ul>
-
-
-<h3>Technical Program Committee</h3>
-
-<ul>
-  <li>Bengt Ahlgren, SICS</li>
-  <li>Hitoshi Asaeda, Keio University</li>
-  <li>Tohru Asami, The University of Tokyo</li>
-  <li>Jun Bi, Tsinghua University</li>
-  <li>Nicola Blefari-Melazzi, U Rome</li>
-  <li>Giovanna Carofiglio, ALU</li>
-  <li>Yanghee Choi, Seoul Nat. U</li>
-  <li>Dave Clark, MIT</li>
-  <li>Costas Courcoubetis, AUEB</li>
-  <li>Andrea Detti, U Rome</li>
-  <li>Stephen Farrell, Trinity College Dublin</li>
-  <li>Volker Hilt, ALU</li>
-  <li>Jussi Kangasharju, Helsinki University</li>
-  <li>Holger Karl, Universitaet Paderborn</li>
-  <li>Gunnar Karlsson, KTH</li>
-  <li>Teemu Koponen, Nicira</li>
-  <li>Anders Lindgren, SICS</li>
-  <li>Daniel Massey, Colorado SU</li>
-  <li>Christos Papadopoulos, Colorado SU</li>
-  <li>George Pavlou, UCL</li>
-  <li>Dave Oran, Cisco</li>
-  <li>Joerg Ott, Aalto University</li>
-  <li>Max Ott, NICTA</li>
-  <li>Konstantinos Pentikousis, Huawei</li>
-  <li>Jarno Rajahalme, NSN</li>
-  <li>Thomas Schmidt, HAW Hamburg</li>
-  <li>Scott Shenker, ICSI</li>
-  <li>Karen Sollins, MIT</li>
-  <li>Sasu Tarkoma, University of Helsinki</li>
-  <li>Dirk Trossen, Cambridge Univ.</li>
-  <li>Ryuji Wakikawa, Toyota ITC</li>
-  <li>Lan Wang, U Memphis</li>
-  <li>George Xylomenos, AUEB</li>
-  <li>Tomohiko Yagyu, NEC</li>
-  <li>Edmund Yeh, Yale University</li>
-  <li>Beichuan Zhang, U Arizona</li>
 </ul>
 
 

@@ -155,19 +155,30 @@
 
 <h2 class="hcls">Program Committee</h2>
 
-<ul>
-  <li>Marshini Chetty (Georgia Tech, co-chair)</li>
-  <li>Richard Mortier (University of Nottingham, co-chair)</li>
-  <li>Suman Banerjee (University of Wisconsin)</li>
-  <li>AJ Brush (Microsoft Research Redmond)</li>
-  <li>Fabian Bustamante (Northwestern University)</li>
-  <li>Sean Goggins (Drexel University)</li>
-  <li>Tristan Henderson (University of St. Andrews)</li>
-  <li>Thomas Karagiannis (Microsoft Research Cambridge)</li>
-  <li>Janne Lindqvist (Rutgers University)</li>
-  <li>Nina Taft (Technicolor)</li>
-  <li>Renata Texeira (CNRS)</li>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Marshini Chetty", "Georgia Tech", "http://marshini.net/");
+		add_listitem("Richard Mortier", "University of Nottingham", "http://www.cs.nott.ac.uk/~rmm/");
+	?>
+
+
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Suman Banerjee", "University of Wisconsin", "");
+		add_listitem("AJ Brush", "Microsoft Research Redmond", "");
+		add_listitem("Fabian Bustamante", "Northwestern University", "");
+		add_listitem("Sean Goggins", "Drexel University", "");
+		add_listitem("Tristan Henderson", "University of St. Andrews", "");
+		add_listitem("Thomas Karagiannis", "Microsoft Research Cambridge", "");
+		add_listitem("Janne Lindqvist", "Rutgers University", "");
+		add_listitem("Nina Taft", "Technicolor", "");
+		add_listitem("Renata Texeira", "CNRS", "");
+	?>
+
 </ul>
+
 
 
 <?php
