@@ -228,13 +228,20 @@ AddType application/x-shockwave-flash       swf
   ExpiresByType image/x-icon              "access plus 1 week"
 
 # Media: images, video, audio
-  ExpiresByType image/gif                 "access plus 1 month"
-  ExpiresByType image/png                 "access plus 1 month"
-  ExpiresByType image/jpeg                "access plus 1 month"
-  ExpiresByType video/ogg                 "access plus 1 month"
-  ExpiresByType audio/ogg                 "access plus 1 month"
-  ExpiresByType video/mp4                 "access plus 1 month"
-  ExpiresByType video/webm                "access plus 1 month"
+#  ExpiresByType image/gif                 "access plus 1 month"
+#  ExpiresByType image/png                 "access plus 1 month"
+#  ExpiresByType image/jpeg                "access plus 1 month"
+#  ExpiresByType video/ogg                 "access plus 1 month"
+#  ExpiresByType audio/ogg                 "access plus 1 month"
+#  ExpiresByType video/mp4                 "access plus 1 month"
+#  ExpiresByType video/webm                "access plus 1 month"
+  ExpiresByType image/gif                 "access plus 1 day"
+  ExpiresByType image/png                 "access plus 1 day"
+  ExpiresByType image/jpeg                "access plus 1 day"
+  ExpiresByType video/ogg                 "access plus 1 day"
+  ExpiresByType audio/ogg                 "access plus 1 day"
+  ExpiresByType video/mp4                 "access plus 1 day"
+  ExpiresByType video/webm                "access plus 1 day"
 
 # HTC files  (css3pie)
   ExpiresByType text/x-component          "access plus 1 month"
@@ -247,8 +254,10 @@ AddType application/x-shockwave-flash       swf
   ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
 
 # CSS and JavaScript
-  ExpiresByType text/css                  "access plus 1 year"
-  ExpiresByType application/javascript    "access plus 1 year"
+#  ExpiresByType text/css                  "access plus 1 year"
+#  ExpiresByType application/javascript    "access plus 1 year"
+  ExpiresByType text/css                  "access plus 1 day"
+  ExpiresByType application/javascript    "access plus 1 day"
 
 </IfModule>
 
@@ -271,13 +280,13 @@ Header set Cache-Control "no-transform"
 
 # FileETag None is not enough for every server.
 <IfModule mod_headers.c>
-  Header unset ETag
+#  Header unset ETag
 </IfModule>
 
 # Since we're sending far-future expires, we don't need ETags for
 # static content.
 #   developer.yahoo.com/performance/rules.html#etags
-FileETag None
+#FileETag None
 
 
 
