@@ -288,6 +288,40 @@ expected to present their papers at the workshop.<p>
 
 <h2 class="hcls">Organizers</h2>
 
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Nick Feamster", "University of Maryland", "http://www.cc.gatech.edu/~feamster/");
+		add_listitem("Jennifer Rexford", "Princeton", "http://www.cs.princeton.edu/~jrex/");
+	?>
+	
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Katerina Argyraki", "EPFL", "");
+		add_listitem("Jun Bi", "Tsinghua University", "");
+		add_listitem("Marco Canini", "EPFL", "");
+		add_listitem("Martin Casado", "Nicira", "");
+		add_listitem("Anja Feldmann", "T-Labs/TU Berlin", "");
+		add_listitem("Nate Foster", "Cornell", "");
+		add_listitem("Yashar Ganjali", "U. Toronto", "");
+		add_listitem("Sachin Katti", "Stanford", "");
+		add_listitem("Teemu Koponen", "Nicira", "");
+		add_listitem("Jeff Mogul", "HP Labs", "");
+		add_listitem("Richard Mortier", "University of Nottingham", "");
+		add_listitem("Nick McKeown", "Stanford", "");
+		add_listitem("Rob Sherwood", "BigSwitch", "");
+		add_listitem("Amin Vahdat", "UCSD/Google", "");
+		add_listitem("Andreas Voellmy", "Yale", "");
+		add_listitem("Dave Ward", "Cisco", "");
+		add_listitem("", "", "");
+		add_listitem("", "", "");
+		add_listitem("", "", "");
+		add_listitem("", "", "");
+	?>
+	
+</ul>
+
 <h3>Program Committee Co-Chairs</h3>
 <ul>
 <li>Nick Feamster (University of Maryland)</li>

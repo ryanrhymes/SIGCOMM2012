@@ -225,25 +225,31 @@ In this first Mobile Gaming workshop at SIGCOMM, we will bring together practiti
 
 <h2 class="hcls">Committees</h2>
 
-<h3>Workshop chairs</h3>
-<ul>
-<li>Sharad Agarwal (Microsoft Research)</li>
-<li>Rajesh Krishna Balan (Singapore Management University)</li>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
+
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Sharad Agarwal", "Microsoft Research", "http://research.microsoft.com/en-us/people/sagarwal/");
+		add_listitem("Rajesh Krishna Balan", "Singapore Management University", "http://apollo.smu.edu.sg/");
+	?>
+
+
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Sharad Agarwal", "Microsoft Research", "");
+		add_listitem("Aditya Akella", "U. Wisconsin-Madison", "");
+		add_listitem("Rajesh Balan", "Singapore Management University", "http://apollo.smu.edu.sg/");
+		add_listitem("Suman Banerjee", "U. Wisconsin-Madison", "");
+		add_listitem("David Chu", "Microsoft Research", "");
+		add_listitem("Janne Lindqvist", "Rutgers University", "");
+		add_listitem("April Slayden Mitchell", "Hewlett-Packard Labs", "");
+		add_listitem("Jeffrey Pang", "AT&amp;T Labs", "");
+		add_listitem("Junehwa Song", "KAIST", "");
+		add_listitem("Lin Zhong", "Rice University", "");
+	?>
+
 </ul>
 
-<h3>Program Committee</h3>
-<ul>
-<li>Sharad Agarwal (Microsoft Research)</li>
-<li>Aditya Akella (U. Wisconsin-Madison)</li>
-<li>Rajesh Balan (Singapore Management University)</li>
-<li>Suman Banerjee (U. Wisconsin-Madison)</li>
-<li>David Chu (Microsoft Research)</li>
-<li>Janne Lindqvist (Rutgers University)</li>
-<li>April Slayden Mitchell (Hewlett-Packard Labs)</li>
-<li>Jeffrey Pang (AT&amp;T Labs)</li>
-<li>Junehwa Song (KAIST)</li>
-<li>Lin Zhong (Rice University)</li>
-</ul>
 
 <?php
     include ("include/footer.php");

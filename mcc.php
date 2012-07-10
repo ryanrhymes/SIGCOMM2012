@@ -209,47 +209,51 @@ Papers should be submitted via the <a href="http://www.sheridanprinting.com/type
 
 <h2 class="hcls">Program Committee</h2>
 
-<h3>TPC Co-Chairs </h3>
+<ul data-role="listview" data-inset="true" data-theme="d" data-content-theme="d">
 
-<ul>
-<li>  Mario Gerla, University of California Los Angeles </li>
-<li>  Dijiang Huang, Arizona State University</li>
+	<li data-role="list-divider">Program Committee Co-Chairs</li>
+	<?php
+		add_listitem("Mario Gerla", "University of California Los Angeles", "http://www.cs.ucla.edu/people/faculty/mario-gerla");
+		add_listitem("Dijiang Huang", "Arizona State University", "http://snac.eas.asu.edu/");
+	?>
+
+
+	<li data-role="list-divider">Program Committee Members</li>
+	<?php
+		add_listitem("Nath Badri", "Rutgers, USA", "");
+		add_listitem("Paolo Bellavista", "DEIS University of Bologna, Italy", "");
+		add_listitem("Thomas Michael Bohnert", "ZHAW, Switzerland", "");
+		add_listitem("Samia Bouzefrane", "CNAM, France", "");
+		add_listitem("Andrew T. Campbell", "Rutgers, USA", "");
+		add_listitem("Marco Conti", "IIT-CNR, Italy", "");
+		add_listitem("Christophe Diot", "Technicolor, France", "");
+		add_listitem("Falko Dressler", "University of Innsbruck, Austria", "");
+		add_listitem("Serge Fdida", "Paris VI, France", "");
+		add_listitem("Jeffrey R. Foerster", "Intel, USA", "");
+		add_listitem("Silvia Giordano", "University of Lugano, Switzerland", "");
+		add_listitem("Robert A. Greenes", "ASU, USA", "");
+		add_listitem("Myong Kang", "Naval Research Lab, USA", "");
+		add_listitem("Andreas Kassler", "Karlstad University, Sweden", "");
+		add_listitem("Robin Kravets", "UIUC, USA", "");
+		add_listitem("Jeongkeun Lee", "HP Lab, USA", "");
+		add_listitem("G&eacute;rard Le Lann", "INRIA Paris, France", "");
+		add_listitem("Liviu Lftode", "Rutgers, USA", "");
+		add_listitem("Huan Liu", "ASU, USA", "");
+		add_listitem("Songwu Lu", "UCLA, USA", "");
+		add_listitem("Gregorio Martinez", "University of Murcia, Spain", "");
+		add_listitem("Peng Ning", "NCSU, USA", "");
+		add_listitem("Giovanni Pau", "UCLA, USA", "");
+		add_listitem("Guy Pujolle", "Paris VI, France", "");
+		add_listitem("Marco Roccetti", "University of Bologna, Italy", "");
+		add_listitem("James C. Ramming", "Intel, USA", "");
+		add_listitem("Kishor S. Trivedi", "Duke, USA", "");
+		add_listitem("Cliff Wang", "Army Research Office, USA", "");
+		add_listitem("Lixia Zhang", "UCLA, USA", "");
+		add_listitem("Haojin Zhu", "Shanghai JiaoTong University, China", "");
+	?>
+
 </ul>
-  
-  
-<h3>Committee Members</h3>
-<ul>
-<li>  Nath Badri (Rutgers, USA)</li>
-<li>  Paolo Bellavista (DEIS University of Bologna, Italy)</li>
-<li>  Thomas Michael Bohnert (ZHAW, Switzerland)</li>
-<li>  Samia Bouzefrane (CNAM, France)</li>
-<li>  Andrew T. Campbell (Rutgers, USA)</li>
-<li>  Marco Conti (IIT-CNR, Italy)</li>
-<li>  Christophe Diot (Technicolor, France)</li>
-<li>  Falko Dressler (University of Innsbruck, Austria)</li>
-<li>  Serge Fdida (Paris VI, France)</li>
-<li>  Jeffrey R. Foerster (Intel, USA)</li>
-<li>  Silvia Giordano (University of Lugano, Switzerland)</li>
-<li>  Robert A. Greenes (ASU, USA)</li>
-<li>  Myong Kang (Naval Research Lab, USA)</li>
-<li>  Andreas Kassler (Karlstad University, Sweden)</li>
-<li>  Robin Kravets (UIUC, USA)</li>
-<li>  Jeongkeun Lee (HP Lab, USA)</li>
-<li>  G&eacute;rard Le Lann (INRIA Paris, France)</li>
-<li>  Liviu Lftode (Rutgers, USA)</li>
-<li>  Huan Liu (ASU, USA)</li>
-<li>  Songwu Lu (UCLA, USA)</li>
-<li>  Gregorio Martinez (University of Murcia, Spain)</li>
-<li>  Peng Ning (NCSU, USA)</li>
-<li>  Giovanni Pau (UCLA, USA)</li>
-<li>  Guy Pujolle (Paris VI, France)</li>
-<li>  Marco Roccetti (University of Bologna, Italy)</li>
-<li>  James C. Ramming (Intel, USA)</li>
-<li>  Kishor S. Trivedi (Duke, USA)</li>
-<li>  Cliff Wang (Army Research Office, USA)</li>
-<li>  Lixia Zhang (UCLA, USA)</li>
-<li>  Haojin Zhu (Shanghai JiaoTong University, China)</li>
-</ul>
+
 
 <?php
     include ("include/footer.php");
