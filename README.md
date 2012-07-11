@@ -54,3 +54,9 @@ Checking for HTML issues
 ------------------------
 
 Run a local test server (see above) and then run `bash lint`.
+
+
+License
+-------
+The ACM SIGCOMM 2012 Website by ACM SIGCOMM 2012 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Please see http://creativecommons.org/licenses/by-nc-sa/3.0/. Source code is available at https://github.com/ryanrhymes/SIGCOMM2012.
+
