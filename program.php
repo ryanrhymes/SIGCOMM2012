@@ -101,6 +101,13 @@
 		?>
 		
 		<?php
+			tprog_add_item("RaptorStream: Boosting Mobile Peer-to-Peer Streaming with Raptor Codes",
+			"", 
+			"Philipp M. Eittenberger (University of Bamberg)", 
+			"Poster");
+		?>
+		
+		<?php
 			tprog_add_item("SP4: Scalable Programmable Packet Processing Platform",
 			"", 
 			"Harjot Gill (University of Pennsylvania), Dong Lin (University of Pennsylvania), Lohit Sarna (University of Pennsylvania), Robert Mead (University of Pennsylvania), Kenton C.T. Lee (University of Pennsylvania), Boon Thau Loo (University of Pennsylvania)", 
@@ -175,13 +182,6 @@
 			"", 
 			"Nathan Farrington (UC San Diego), George Porter (UC San Diego), Pang-Chen Sun (UC San Diego), Alex Forencich (UC San Diego), Joseph Ford (UC San Diego), Yeshaiahu Fainman (UC San Diego), George Papen (UC San Diego), Amin Vahdat (UC San Diego)",
 			"Demo");
-		?>
-		
-		<?php
-			tprog_add_item("AutoNetkit: Simplifying Large Scale Open-Source Network Experimentation",
-			"", 
-			"Simon Knight (University of Adelaide), Askar Jaboldinov (Loughborough University), Olaf Maennel (Loughborough University), Iain Phillips (Loughborough University), Matthew Roughan (University of Adelaide)", 
-			"Poster");
 		?>
 		
 		<?php
@@ -353,6 +353,13 @@ Reservations in Data Centers",
 		<?php tprog_add_session("16:00-17:30", "Poster &amp; Demo Break 2", ""); ?>
 		
 		<?php
+			tprog_add_item("AutoNetkit: Simplifying Large Scale Open-Source Network Experimentation",
+			"", 
+			"Simon Knight (University of Adelaide), Askar Jaboldinov (Loughborough University), Olaf Maennel (Loughborough University), Iain Phillips (Loughborough University), Matthew Roughan (University of Adelaide)", 
+			"Poster");
+		?>
+		
+		<?php
 			tprog_add_item("Vitamin C for your Smartphone: The SKIMS Approach for Cooperative and Lightweight Security at Mobiles",
 			"", 
 			"Matthias W&auml;hlisch (Freie Universit&auml;t Berlin), Sebastian Trapp (Freie Universit&auml;t Berlin), Jochen Schiller (Freie Universit&auml;t Berlin), Benjamin Jochheim (HAW Hamburg), Theodor Nolte (HAW Hamburg), Thomas C. Schmidt (HAW Hamburg), Osman Ugus (HAW Hamburg), Dirk Westhoff (HAW Hamburg), Martin Kutscher (escrypt GmbH), Matthias K&uuml;ster (escrypt GmbH), Christian Keil (DFN-CERT Services GmbH), Jochen Sch&ouml;nfelder (DFN-CERT Services GmbH)",
@@ -420,13 +427,6 @@ Reservations in Data Centers",
 			"", 
 			"Andreas Voellmy (Yale University), Junchang Wang (University of Science and Technology of China)", 
 			"Demo");
-		?>
-		
-		<?php
-			tprog_add_item("RaptorStream: Boosting Mobile Peer-to-Peer Streaming with Raptor Codes",
-			"", 
-			"Philipp M. Eittenberger (University of Bamberg)", 
-			"Poster");
 		?>
 		
 		<?php
