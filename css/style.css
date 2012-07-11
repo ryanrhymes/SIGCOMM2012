@@ -298,6 +298,15 @@ div.fees {
 	text-align: center;	
 }
 
+#license-div {
+	max-width:450px; 
+	margin:0 auto 10px auto; 
+	padding:0px; 
+	border:0px; 
+	font-size:10px; 
+	text-align:center;
+}
+
 /* jqm overrides go here */
 
 .ui-body-c .ui-link {
