@@ -13,7 +13,7 @@ What's in the various subdirectories:
 * `css/images`	jquerymobile CSS images
 * `images`		our images
 * `include`		PHP partials and code
-* `js`			Javascript, only edit supporters2.js, the rest is from vendors
+* `js`			Javascript, only edit script.js, the rest is from vendors
 * `workshops`	workshop CFPs in various formats stuff
 
 This site uses a bunch of open javascript libraries. You will want to use their latest versions:

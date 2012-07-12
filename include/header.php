@@ -65,7 +65,7 @@
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
 	<script src="js/jqm-docs.js"></script>
-	<script src="js/supporters2.js"></script>
+	<script src="js/script.js"></script>
 </head>
 
 <body>
