@@ -22,7 +22,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-	<meta name="copyright" content="&copy; 2011-12 ACM SIGCOMM 2012 Organization Committee. If you reuse this web site template, we ask that you acknowledge ACM SIGCOMM 2012 as the source." />
+	<meta name="copyright" content="The ACM SIGCOMM 2012 Website by ACM SIGCOMM 2012 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License." />
 	
 	<title>
 <?php
