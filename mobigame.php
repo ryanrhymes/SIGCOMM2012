@@ -46,19 +46,20 @@
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("11:00-12:30", "Panel 1", ""); ?>
+		<?php tprog_add_session("11:00-12:00", "Panel 1", ""); ?>
 		
 		<?php tprog_add_item("Bridging the Gap Between Mobile Devices and MMOGs", 
 			"", 
 			"Markus Pasula (CEO, Grand Cru), Suman Banerjee (University of Wisconsin-Madison), Frans M&auml;yr&auml; (University of Tampere)", 
 			"Panel"); 
 		?>
-		
-		
+
+		<?php tprog_add_session("12:00-12:30", "Demo Session 1", ""); ?>
+				
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 				
-		<?php tprog_add_session("14:00-15:30", "Panel 2", ""); ?>
+		<?php tprog_add_session("14:00-15:00", "Panel 2", ""); ?>
 		
 		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
 			"", 
@@ -66,6 +67,7 @@
 			"Panel"); 
 		?>
 		
+		<?php tprog_add_session("15:00-15:30", "Demo Session 2", ""); ?>
 		
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
