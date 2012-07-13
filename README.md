@@ -11,10 +11,11 @@ What's in the various subdirectories:
 
 * `css`			CSS code, only edit style.css, the rest is from vendors
 * `css/images`	jquerymobile CSS images
-* `images`		our images
+* `images`		our images (logos, etc.)
 * `include`		PHP partials and code
 * `js`			Javascript, only edit script.js, the rest is from vendors
 * `workshops`	workshop CFPs in various formats stuff
+* `paper`		PDF copies of the various papers - not part of the repository due to copyright issues
 
 This site uses a bunch of open javascript libraries. You will want to use their latest versions:
 
