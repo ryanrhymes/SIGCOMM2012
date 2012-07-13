@@ -15,7 +15,7 @@
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		
-		<?php tprog_add_session("9:00-9:10", "Welcoming and Introduction", ""); ?>
+		<?php tprog_add_session("9:00-9:10", "Welcome and Introduction", ""); ?>
 		
 		
 		<?php tprog_add_session("9:10-10:30", "Session 1: Design From the Networking Perspective", ""); ?>
