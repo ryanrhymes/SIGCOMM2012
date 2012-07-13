@@ -61,7 +61,7 @@
 	</script>
 
 	<!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
-	<script src="//code.jquery.com/mobile/1.1.1-rc.1/jquery.mobile-1.1.1-rc.1.min.js"></script>
+	<script src="//code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
 	<script src="js/jqm-docs.js"></script>
