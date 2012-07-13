@@ -13,7 +13,7 @@ echo Creating minified site in $out...
 find . -print0 | while read -d $'\0' item
 do
   if [[ $item == ./.git* || $item == ./.DS* || 
-  	    $item == ./README.md || $item == ./publish || $item == ./lint ]]; then
+  	    $item == ./*.md || $item == ./publish || $item == ./lint ]]; then
 	# skip these files
   	continue
   	
