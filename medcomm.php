@@ -32,7 +32,13 @@
 		?>
 		
 		
-		<?php tprog_add_session("10:00-10:30", "Social Engineering Event", ""); ?>
+		<?php tprog_add_session("10:00-10:30", "Wireless Neural Interfaces", ""); ?>
+		
+		<?php tprog_add_item("", 
+			"", 
+			"<a href=\"http://nurmikko.engin.brown.edu/?q=node/1\">Prof. Arto Nurmikko</a> (Brown University, Engineering and Physics)", 
+			"Invited Talk"); 
+		?>
 		
 		
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
@@ -63,13 +69,7 @@
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 		
 		
-		<?php tprog_add_session("14:00-15:30", "Session 2: Medical Device Communication: Safety, Effectiveness, Security", ""); ?>
-		
-		<?php tprog_add_item("Wireless Insulin Pump Security", 
-			"", 
-			"<a href=\"http://www.mcafee.com/us/events/2011/Q2/06-23-11-wc-hacking-exposed-on-demand.aspx\">Barnaby Jack</a> (McAfee)", 
-			"Invited Talk"); 
-		?>
+		<?php tprog_add_session("14:00-15:00", "Session 2: Medical Device Communication: Safety, Effectiveness, Security", ""); ?>
 		
 		<?php tprog_add_item("Microchip Based Sensors and Drug Delivery Systems", 
 			"", 
@@ -84,21 +84,18 @@
 		?>
 		
 		
+		<?php tprog_add_session("15:00-15:30", "Social Engineering Event", ""); ?>
+		
+		
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
 		
-		<?php tprog_add_session("16:00-17:30", "Session 3: Medical Communication: Radio Interference and Propagation", ""); ?>
+		<?php tprog_add_session("16:00-17:00", "Session 3: Medical Communication: Radio Interference and Propagation", ""); ?>
 		
 		
 		<?php tprog_add_item("Wireless Medical Devices and Electromagnetic Compatibility", 
 			"", 
 			"<a href=\"http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm077210.htm\">Don Witters*</a> (Center for Devices and Radiological Health [CDRH] at the U.S. Food and Drug Administration [FDA])", 
-			"Invited Talk"); 
-		?>
-		
-		<?php tprog_add_item("Wireless Interference on Medical Devices", 
-			"", 
-			"<a href=\"http://www.cimit.org/images/forum/headshots/hampton_rick.pdf\">Rickey Hampton</a> (Partners Health)", 
 			"Invited Talk"); 
 		?>
 		
@@ -111,6 +108,8 @@
 	</ul>
 	
 <p>* pending federal approval</p>
+
+<p><a href="http://spqr.cs.umass.edu/events/MedCOMM-program-draft-2012.pdf" rel="external" class="lnkcls">Printable program</a></p>
 
 
 <h2 class="hcls">Introduction</h2>
