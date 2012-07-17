@@ -109,7 +109,7 @@
 	
 <p>* pending federal approval</p>
 
-<p><a href="http://spqr.cs.umass.edu/events/MedCOMM-program-draft-2012.pdf" rel="external" class="lnkcls">Printable program</a></p>
+<p><a href="workshops/MedCOMM-program-draft-2012.pdf" rel="external" class="lnkcls">Printable program</a></p>
 
 
 <h2 class="hcls">Introduction</h2>
