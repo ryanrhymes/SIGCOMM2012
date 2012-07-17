@@ -25,7 +25,7 @@ one of the safest cities in Europe. Helsinki was declared the capital of Finland
 	  Read more about Helsinki and Finland on the web sites of the <a href="http://www.visitfinland.com/en/web/guest/finland-guide/home">Finnish Tourist Board</a>,  <a href="http://virtual.finland.fi/">Virtual Finland</a>, <a href="http://www.finland.fi/">Finland.fi</a>, <a href="http://en.wikipedia.org/wiki/Finland">Finland in Wikipedia</a>, <a href="http://wikitravel.org/en/Finland">Wikitravel</a>, <a href="http://www.stat.fi/index_en.html">Statistics Finland</a> and the <a href="http://www.helsinki.fi/eng/">City of Helsinki</a>.
 </p>
 
-<div><img src="images/helsinki_5.jpg" class="banner"alt="pic"></div>
+<div><img src="images/helsinki_5.jpg" class="banner" alt="pic"></div>
 
 
 <h2 class="hcls">Conference Venue</h2>
@@ -37,7 +37,7 @@ SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia
 
 <p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf">"Kansallismuseo" stop</a>). 
 
-<div><img src="images/helsinki_1.jpg" class="banner"alt="pic"></div>
+<div><img src="images/helsinki_1.jpg" class="banner" alt="pic"></div>
 
 <h2 class="hcls">Hotels</h2>
 
@@ -268,7 +268,7 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 </p>
 
 
-<div><img src="images/helsinki_6.jpg" class="banner"alt="pic"></div>
+<div><img src="images/helsinki_6.jpg" class="banner" alt="pic"></div>
 
 <!--
 <h2 class="hcls">Hints</h2>
@@ -342,7 +342,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 <b>St. Petersburg</b> - You can also visit St. Petersburg during your stay here. It is only a 4-hour train ride from Helsinki to St. Petersburg. <span >For most tourists to Russia, a Russian visa is required.</span> You should apply for a Russian visa beforehand (from your country of residence). Contact <a href="http://www.mid.ru/zu_r.nsf/strawebeng">your local Russian embassy</a> for details.  To find out more information, see <a href="http://www.vr.fi/eng/ulkomaat/venaja/pietari_moskova_ja_viipuri/pietari.shtml">list of attractions, train schedules and fares</a>. Visiting St. Petersburg on an overnight cruise allows a <span >visa-free stay of up to 72 hours</span> for all nationalities. Please see the website of <a href="http://www.stpeterline.com/en/OnBoard/News.aspx">St. Peter Line</a> for more information on this arrangement.
 </p>
 
-<div><img src="images/helsinki_7.jpg" class="banner"alt="pic"></div> 
+<div><img src="images/helsinki_7.jpg" class="banner" alt="pic"></div> 
 
 <h2 class="hcls">Culture</h2>
 <p>
