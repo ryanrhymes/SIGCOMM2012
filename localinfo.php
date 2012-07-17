@@ -43,23 +43,11 @@ SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia
 
 <p>
 There are plenty of options for accommodation available in easy walking distance from the venue. 
-Below is a list of downtown hotels with which we have a contracted a room block.
-</p>
-
-<p>
-<em>Book early! Helsinki will be busy this summer due to other ongoing events.</em>
-</p>
-
-
-<p>
-SIGCOMM 2012 does not need to generate a certain number of nights at the contracted hotels, so <em>you should shop around</em> for the best room rates. Cheaper rates may be available at other hotels, and even the generic rates at the hotels listed below might sometimes be cheaper. The intent of the negotiated rate is to set an upper bar on room rates for attendees (given that due to concurrent events Helsinki will be busy this summer), but cheaper rates may still be available. Also make sure to double-check the change and cancellation policy of the rate you are booking!
-</p>
-
-<p>
-If you do decide to book a room at a negotiated rate, please make
-your hotel reservations as soon as possible. The <em>room blocks are
-released on July 12</em> and some hotels may release some rooms even
-earlier. Make sure to use the reservation codes below to get the negotiated rates.
+Below is a list of downtown hotels with which we had contracted room block, but
+those blocks were returned on July 12 to avoid penalty fees. However, some of the hotels
+(esp. the Scandic Continental and the Hostel Academia)
+agreed to continue to offer the negotiated rates for a little while longer.
+Make sure to use the reservation codes below when asking for the negotiated rates.
 </p>
 
 
