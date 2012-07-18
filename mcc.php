@@ -126,7 +126,7 @@
 		
 		<?php tprog_add_item("An Integrated Cloud-based Framework for Mobile Phone Sensing", 
 			"", 
-			"R. Fakoor, M. Raj, A. Nazi, M. Francesco, S. Das", 
+			"R. Fakoor, M. Raj, A. Nazi, M. Di Francesco, S. K. Das", 
 			"Paper"); 
 		?>
 		
