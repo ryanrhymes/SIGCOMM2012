@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# The ACM SIGCOMM 2012 Website (of which this script is a part of) by 
+# The ACM SIGCOMM 2012 Website (of which this script is a part of) by
 # ACM SIGCOMM 2012 is licensed under a Creative Commons Attribution-
 # NonCommercial-ShareAlike 3.0 Unported License. Source code is
 # available at github.com.
@@ -12,40 +12,40 @@ echo Creating minified site in $out...
 # for all local files, do...
 find . -print0 | while read -d $'\0' item
 do
-  if [[ $item == ./.git* || $item == ./.DS* || 
+  if [[ $item == ./.git* || $item == ./.DS* || $item == ./*.xls ||
   	    $item == ./*.md || $item == ./publish || $item == ./lint ]]; then
 	# skip these files
   	continue
-  	
+
   elif [ -d $item ]; then
     # make the directory
     echo mkdir $item
-  	mkdir -p $out/$item
+  	mkdir -p $out/$item || exit
 
   elif [[ $item == ./include/smartypants.php ]]; then
 	# just copy this, it breaks when minified
   	echo cp $item
-    cp $item $out/$item
-  	
+    cp $item $out/$item || exit
+
   elif [[ $item == *.php || $item == *.htm || $item == *.html ]]; then
 	# compress PHP and HTML
 	echo htmlcompressor $item
-  	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item
-  	
+  	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item || exit
+
   elif [[ $item == *.xml ]]; then
 	# compress XML
 	echo htmlcompressor $item
-  	htmlcompressor -t xml -o $out/$(dirname $item)/ $item
-  	
+  	htmlcompressor -t xml -o $out/$(dirname $item)/ $item || exit
+
   elif [[ $item == *.js ]]; then
 	# compress javascript
-	echo closure $item
-	closure --warning_level QUIET --js_output_file $out/$item $item
-	
+	echo closure-compiler $item
+	closure-compiler --warning_level QUIET --js_output_file $out/$item $item || exit
+
   elif [[ $item == *.css ]]; then
 	# compress CSS
 	echo yuicompressor $item
-	yuicompressor -o $out/$item $item
+	yuicompressor -o $out/$item $item || exit
 
   # we do NOT optimize images in this script, it would take too long
   # run your images through image_optim when you add them to the repository
@@ -54,7 +54,7 @@ do
   else
   	# simply copy all other files
   	echo cp $item
-    cp $item $out/$item
+    cp $item $out/$item || exit
   fi
 done
 echo
@@ -66,7 +66,7 @@ date +'# %F %R' >> $cm
 echo >> $cm
 echo CACHE: >> $cm
 # omit some older pages (various CFx, etc.) from the cache manifest to speed up loading
-find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm|xml))|publish|lint|proposals|submission|workshops|^cf" >> $cm
+find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm|xml|xls))|publish|lint|proposals|submission|workshops|^cf" >> $cm
 echo >> $cm
 echo NETWORK: >> $cm
 echo '*' >> $cm
