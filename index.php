@@ -16,6 +16,7 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
 <a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" class="button">Contact the Organizers</a>
 
 <h2 class="hcls">Schedule</h2>
+<p>Below is an outline of the schedule for the conference week. Click the image for a PDF version.</p>
 <a href="schedule.pdf" rel="external"><img class="banner" src="images/schedule.png" alt="Conference schedule" /></a>
 
 <h2 class="hcls">News</h2>
