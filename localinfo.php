@@ -21,7 +21,7 @@ one of the safest cities in Europe. Helsinki was declared the capital of Finland
 	  Monocle Magazine selected Helsinki as <a
 	  href="http://www.monocle.com/Locations/Finland/Helsinki/">the
 	  most liveable city</a>.
-</p><p>	  
+</p><p>
 	  Read more about Helsinki and Finland on the web sites of the <a href="http://www.visitfinland.com/en/web/guest/finland-guide/home">Finnish Tourist Board</a>,  <a href="http://virtual.finland.fi/">Virtual Finland</a>, <a href="http://www.finland.fi/">Finland.fi</a>, <a href="http://en.wikipedia.org/wiki/Finland">Finland in Wikipedia</a>, <a href="http://wikitravel.org/en/Finland">Wikitravel</a>, <a href="http://www.stat.fi/index_en.html">Statistics Finland</a> and the <a href="http://www.helsinki.fi/eng/">City of Helsinki</a>.
 </p>
 
@@ -35,17 +35,17 @@ SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia
 
 <p>The main conference will take in the main <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/congress-halls/">Congress Halls</a>, with workshops and tutorials taking place in various other rooms in the <a href="http://www.finlandiatalo.fi/en/event-organisers/premises/other-conference-facilities/">Congress Wing</a>.
 
-<p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf">"Kansallismuseo" stop</a>). 
+<p><a href="http://www.hsl.fi/EN/timetablesandroutes/trams/Pages/default.aspx">Trams 4, 7 and 10</a> stop on Mannerheimintie next to Finlandia Hall (<a href="http://www.hsl.fi/FI/aikataulutjareitit/Documents/ratikka_pysakit_2012.pdf">"Kansallismuseo" stop</a>).
 
 <div><img src="images/helsinki_1.jpg" class="banner" alt="Finlandia Hall"></div>
 
 <h2 class="hcls">Hotels</h2>
 
 <p>
-There are plenty of options for accommodation available in easy walking distance from the venue. 
+There are plenty of options for accommodation available in easy walking distance from the venue.
 Below is a list of downtown hotels with which we had contracted room block, but
-those blocks were returned on July 12 to avoid penalty fees. However, some of the hotels
-(esp. the Scandic Continental and the Hostel Academia)
+those blocks were returned on July 12 to avoid penalty fees. However, most of the hotels
+(possibly except the Sokos)
 agreed to continue to offer the negotiated rates for a little while longer.
 Make sure to use the reservation codes below when asking for the negotiated rates.
 </p>
@@ -68,15 +68,15 @@ The hotel offers perfect facilities for both business and leisure travelers. A b
   </table>
 
   <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&amp;h=ELIEL&amp;c=SIGCOMM&amp;d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
- 
-  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="hi"></iframe> 
+
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="hi"></iframe>
 	<script>
 		$("#hic").bind("expand", function () {
 			$("iframe#hi").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Elielinaukio%2FElielplatsen&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FeMnlgMdZYt8AQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&sll=60.1734,24.93627&sspn=0.006083,0.016415&dirflg=w&mra=dme&mrsp=0&sz=16&ie=UTF8&t=m&z=15&output=embed");
 		});
-	</script>  
-  
-Click on the Google icon in the map for a larger view.  
+	</script>
+
+Click on the Google icon in the map for a larger view.
 </div>
 
 
@@ -85,7 +85,7 @@ Click on the Google icon in the map for a larger view.
    <p>
 This hotel in central Helsinki has an ideal city location just opposite the beautiful T&ouml;&ouml;l&ouml; Bay, and only a 10 minute walk from Helsinki's city center and popular attractions.
   </p>
-  
+
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733; &#9733;</td></tr>
   <tr><th>Cut-off date:</th><td> July 12, 2012</td></tr>
@@ -97,14 +97,14 @@ This hotel in central Helsinki has an ideal city location just opposite the beau
 
   <a href="http://www.scandichotels.com/Hotels/Countries/Finland/Helsinki/Hotels/Scandic-Continental-Helsinki/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
 
-  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sc"></iframe> 
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sc"></iframe>
 	<script>
 		$("#scc").bind("expand", function () {
 			$("iframe#sc").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Mannerheimv%C3%A4gen+46,+00260+Helsinki,+Finland+(Scandic+Hotel+Continental)&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FbpBlgMdSWF8ASHFvXbKnL4sFimb6upaLgqSRjEMAKiZOrKDgA%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=0&oq=scandic+con&sll=60.180901,24.930682&sspn=0.012164,0.03283&dirflg=w&mra=pd&ie=UTF8&t=m&ll=60.177721,24.930768&spn=0.00747,0.018239&z=15&output=embed");
 		});
-	</script>  
-  
-Click on the Google icon in the map for a larger view.  
+	</script>
+
+Click on the Google icon in the map for a larger view.
 </div>
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" id="spc">
@@ -129,14 +129,14 @@ shopping center and the conference venue.
 
 <a href="http://www.sokoshotels.fi/en/hotels/helsinki/presidentti/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hotel Web Site</a>
 
-  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sp"></iframe> 
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="sp"></iframe>
 	<script>
 		$("#spc").bind("expand", function () {
 			$("iframe#sp").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Sokos+Hotel+Presidentti,+Etel%C3%A4inen+Rautatiekatu,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FQAilgMdoW98ASFSXS-DAzIUNSl7agpsMwqSRjG_wkz-rR_tPw%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=1&oq=sokos+hotel+pre&sll=60.173239,24.938064&sspn=0.012167,0.03283&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.173709,24.933472&spn=0.007471,0.018239&z=15&output=embed");
 		});
-	</script>  
-  
-Click on the Google icon in the map for a larger view.  
+	</script>
+
+Click on the Google icon in the map for a larger view.
 </div>
 
 
@@ -145,7 +145,7 @@ Click on the Google icon in the map for a larger view.
    <p>
 The hotel's location in the very center of Helsinki only two blocks from the main railway station across the street from a metro station makes it easy to reach the Cumulus Kaisaniemi.
   </p>
-  
+
   <table class="hotel">
   <tr><th>Rating:</th><td>&#9733; &#9733; &#9733;</td></tr>
   <tr><th>Cut-off date:</th><td> July 13, 2012</td></tr>
@@ -159,14 +159,14 @@ The hotel's location in the very center of Helsinki only two blocks from the mai
 
 <a href="https://www.hotellimaailma.fi/view.cfm?page=internet.english&amp;h=KAISACUM&amp;c=SIGCOMM&amp;d1=2012-08-11" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Online Reservation</a>
 
-  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ck"></iframe> 
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ck"></iframe>
 	<script>
 		$("#ckc").bind("expand", function () {
 			$("iframe#ck").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Cumulus+Kaisaniemi+Hotell,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FSwllgMd6Kt8ASFWYj4UGDMiDynHi3LkzQuSRjHSEM5BbZSPMQ%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=1&oq=cumulus+kai&sll=60.173436,24.936883&sspn=0.007124,0.012295&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.173132,24.939437&spn=0.007471,0.018239&z=15&output=embed");
 		});
-	</script>  
-  
-Click on the Google icon in the map for a larger view.  
+	</script>
+
+Click on the Google icon in the map for a larger view.
 </div>
 
 
@@ -188,14 +188,14 @@ Hostel Academica is located in the city center. Most of the sights in Helsinki a
 
   <a href="http://www.hostelacademica.fi/eng/" data-role="button" data-theme="b" data-icon="arrow-r" data-iconpos="right" class="button" >Hostel Web Site</a>
 
-  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ha"></iframe> 
+  <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="ha"></iframe>
 	<script>
 		$("#hac").bind("expand", function () {
 			$("iframe#ha").attr("src", "http://maps.google.com/maps?f=d&source=s_d&saddr=Domus+Academica,+Hietaniemenkatu+14,+Helsinki,+Suomi&daddr=Finlandia+Hall,+Helsinki,+Finland&hl=en&geocode=FWkflgMd2UV8ASEP_4J4tat6kSmhBguiNgqSRjE5wB_M_Imk-A%3BFVM1lgMd6XR8ASEA6LLTDcHNDg&aq=0&oq=hostel+academica&sll=60.172556,24.940274&sspn=0.014248,0.02459&dirflg=w&mra=ls&ie=UTF8&t=m&ll=60.17309,24.927635&spn=0.007471,0.018239&z=15&output=embed");
 		});
-	</script>  
-  
-Click on the Google icon in the map for a larger view.  
+	</script>
+
+Click on the Google icon in the map for a larger view.
 </div>
 
 
@@ -240,7 +240,7 @@ tram and metro.
 <em>Note: </em>If you registered before the early registration deadline, your conference package will include a  <em>complimentary public transportation pass</em> for the Helsinki zone during the conference week!
 
 <p>
-Otherwise, the fare varies from 1-4&nbsp;&euro;, depending on 
+Otherwise, the fare varies from 1-4&nbsp;&euro;, depending on
 whether the trip is within Helsinki or crosses into other <a
 href="http://www.hsl.fi/EN/ticketsandfares/prices/Pages/default.aspx"
 >zones</a> (Espoo, Vantaa, Kerava, etc.) You can buy a
@@ -248,7 +248,7 @@ ticket from the bus or tram driver (but not on the metro), but you may want to c
 card fore reduced fares. Detailed
 information is available from <a
 href="http://www.hsl.fi/EN/ticketsandfares/Pages/default.aspx"
->Helsinki Regional Transport</a>. 
+>Helsinki Regional Transport</a>.
 </p>
 
 <p>
@@ -261,7 +261,7 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 <!--
 <h2 class="hcls">Hints</h2>
 <ul>
-<li>Do not rent a car. Public transportation is excellent, and downtown parking fees will be more expensive than public transport fees for the week, incl. the occasional taxi ride.</li> 
+<li>Do not rent a car. Public transportation is excellent, and downtown parking fees will be more expensive than public transport fees for the week, incl. the occasional taxi ride.</li>
 
 <li>All prices shown in Finland always include VAT and other taxes.</li>
 
@@ -330,7 +330,7 @@ To find out more information, you can visit <a href="http://www.visithelsinki.fi
 <b>St. Petersburg</b> - You can also visit St. Petersburg during your stay here. It is only a 4-hour train ride from Helsinki to St. Petersburg. <span >For most tourists to Russia, a Russian visa is required.</span> You should apply for a Russian visa beforehand (from your country of residence). Contact <a href="http://www.mid.ru/zu_r.nsf/strawebeng">your local Russian embassy</a> for details.  To find out more information, see <a href="http://www.vr.fi/eng/ulkomaat/venaja/pietari_moskova_ja_viipuri/pietari.shtml">list of attractions, train schedules and fares</a>. Visiting St. Petersburg on an overnight cruise allows a <span >visa-free stay of up to 72 hours</span> for all nationalities. Please see the website of <a href="http://www.stpeterline.com/en/OnBoard/News.aspx">St. Peter Line</a> for more information on this arrangement.
 </p>
 
-<div><img src="images/helsinki_7.jpg" class="banner" alt="Helsinki glassware"></div> 
+<div><img src="images/helsinki_7.jpg" class="banner" alt="Helsinki glassware"></div>
 
 <h2 class="hcls">Culture</h2>
 <p>
