@@ -7,82 +7,84 @@
 <h2 class="hcls">Workshop on Measurements Up and Down the STack (W-MUST)</h2>
 
 <p>
-  <b>Helsinki, Finland (Friday, August 17, 2012)</b>
+Friday, August 17, 2012<br>
+Helsinki, Finland<br>
+Rooms: <b>#25-26</b>
 </p>
 
 
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
-		
+
 		<?php tprog_add_session("9:00-9:10", "Welcome and Introduction", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("9:10-10:30", "Session 1: Design From the Networking Perspective", ""); ?>
-		
-		<?php tprog_add_item("Measuring the Perceptual Quality of Skype Sources", 
-			"", 
-			"Chien-nan Chen; Cing-Yu Chu; Su-Ling Yeh; Hao-hua Chu; Polly Huang (National Taiwan University)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Measuring the Perceptual Quality of Skype Sources",
+			"",
+			"Chien-nan Chen; Cing-Yu Chu; Su-Ling Yeh; Hao-hua Chu; Polly Huang (National Taiwan University)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Creating Relevant Network Measurements That Are Accessible to User-Facing Systems", 
-			"", 
-			"", 
-			"Panel"); 
+
+		<?php tprog_add_item("Creating Relevant Network Measurements That Are Accessible to User-Facing Systems",
+			"",
+			"",
+			"Panel");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("11:00-12:30", "Session 2: Design From the User Perspective", ""); ?>
-		
-		
-		<?php tprog_add_item("Estimating Packet Loss Rate in the Access Through Application Level Measurements", 
-			"", 
-			"Simone Basso (NEXA Center for Internet &amp; Society at Politecnico di Torino) Michela Meo (Politecnico di Torino) Antonio Servetti (Politecnico di Torino) Juan Carlos De Martin (NEXA Center for Internet &amp; Society at Politecnico di Torino)", 
-			"Paper"); 
+
+
+		<?php tprog_add_item("Estimating Packet Loss Rate in the Access Through Application Level Measurements",
+			"",
+			"Simone Basso (NEXA Center for Internet &amp; Society at Politecnico di Torino) Michela Meo (Politecnico di Torino) Antonio Servetti (Politecnico di Torino) Juan Carlos De Martin (NEXA Center for Internet &amp; Society at Politecnico di Torino)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Up, Down and Around the Stack: ISP Characterisation From Network Intensive Applications", 
-			"", 
-			"Zachary S. Bischof; John S. Otto; Fabian E. Bustamante (Northwestern University)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Up, Down and Around the Stack: ISP Characterisation From Network Intensive Applications",
+			"",
+			"Zachary S. Bischof; John S. Otto; Fabian E. Bustamante (Northwestern University)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Incorporating User Needs Into Network Measurement Design", 
-			"", 
-			"", 
-			""); 
+
+		<?php tprog_add_item("Incorporating User Needs Into Network Measurement Design",
+			"",
+			"",
+			"");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("14:00-15:30", "Session 3: Co-Design, Considering the Network Stack and the End-User", ""); ?>
-		
-		
-		<?php tprog_add_item("User-driven Dynamic Prioritisation In the Home", 
-			"", 
-			"Jake Martin (Georgia Tech); Nick Feamster (University of Maryland)", 
-			"Paper"); 
+
+
+		<?php tprog_add_item("User-driven Dynamic Prioritisation In the Home",
+			"",
+			"Jake Martin (Georgia Tech); Nick Feamster (University of Maryland)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Bridging the HCI and Networking Communities to Create User-Centered Systems", 
-			"", 
-			"", 
-			"Panel"); 
+
+		<?php tprog_add_item("Bridging the HCI and Networking Communities to Create User-Centered Systems",
+			"",
+			"",
+			"Panel");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
-		
-		
-		
+
+
+
 		<?php tprog_add_session("16:00-16:30", "Reflect and Wrap-Up", ""); ?>
-		
+
 	</ul>
 
 
@@ -102,8 +104,8 @@
 </p>
 
 
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" class="button" data-role="button" rel="external">PDF version</a> 
-  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" class="button" data-role="button" rel="external">Text version</a> 
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.pdf" class="button" data-role="button" rel="external">PDF version</a>
+  <a href="http://www.cs.nott.ac.uk/~rmm/research/2012-wmust/cfp.txt" class="button" data-role="button" rel="external">Text version</a>
 
 <h2 class="hcls">Topics</h2>
 
@@ -122,7 +124,7 @@
     <li>Combining user, application, and network measurements on smartphone platforms. </li>
     <li>Exposing hidden activities, on the network and in the cloud, to users.</li>
     <li>Understanding tradeoffs in host data collection between performance impact and data quality.</li>
-    <li>Annotating measurement of peoples' use of networked applications with context.</li> 
+    <li>Annotating measurement of peoples' use of networked applications with context.</li>
     <li>Optimising network and system resources via context-aware user profiles.</li>
     <li>Quantifying user experience with both network-centric and user-centric metrics. </li>
     <li>Integration of formal and informal user-centric methodologies into measurement.</li>

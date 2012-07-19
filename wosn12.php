@@ -7,110 +7,112 @@
 <h2 class="hcls">Workshop on Online Social Networks (WOSN'12)</h2>
 
 <p>
-<b>Helsinki, Finland (Friday, August 17, 2012)</b>
+Friday, August 17, 2012<br>
+Helsinki, Finland<br>
+Room: <b>Hall B</b>
 </p>
 
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:30-8:50", "Welcome Message and Opening Remarks", "Balachander Krishnamurthy (Organizer), Ben Zhao &amp; Stefan Saroiu (PC Chairs)"); ?>
-				
+
 		<?php tprog_add_session("8:50-10:30", "Session 1: Share at Your Own Risk", "Krishna Gummadi (MPI-SWS)"); ?>
-		
-		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers", 
-			"", 
-			"Gianluca Stringhini, Manuel Egele, Christopher Kruegel, and Giovanni Vigna (UC Santa Barbara)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers",
+			"",
+			"Gianluca Stringhini, Manuel Egele, Christopher Kruegel, and Giovanni Vigna (UC Santa Barbara)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Big Friend is Watching You: Analyzing the Tracking Capabilities of Online Social Networks", 
-			"", 
-			"Abdelberi Chaabane (INRIA), Mohamed Ali Kaafar (INRIA, NICTA), and Roksana Boreli (NICTA, UNSW)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Big Friend is Watching You: Analyzing the Tracking Capabilities of Online Social Networks",
+			"",
+			"Abdelberi Chaabane (INRIA), Mohamed Ali Kaafar (INRIA, NICTA), and Roksana Boreli (NICTA, UNSW)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("A Workflow for Differentially-Private Graph Synthesis", 
-			"", 
-			"Davide Proserpio and Sharon Goldberg (Boston University), and Frank McScherry (Microsoft Research)", 
-			"Paper"); 
+
+		<?php tprog_add_item("A Workflow for Differentially-Private Graph Synthesis",
+			"",
+			"Davide Proserpio and Sharon Goldberg (Boston University), and Frank McScherry (Microsoft Research)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints", 
-			"", 
-			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints",
+			"",
+			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)",
+			"Paper");
 		?>
-		
+
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("11:00-12:30", "Session 2: Locked in A Long-Distance Relationship", "James Salter (GCHQ)"); ?>
-		
-		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions", 
-			"", 
-			"Andreas Kaltenbrunner (Barcelona Media Foundation), Salvatore Scellato (University of Cambridge), Yana Volkovich and David Laniado (Barcelona Media Foundation), Dave Currie and Erik J. Jutemar (Tuenti), and Cecilia Mascolo (University of Cambridge)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions",
+			"",
+			"Andreas Kaltenbrunner (Barcelona Media Foundation), Salvatore Scellato (University of Cambridge), Yana Volkovich and David Laniado (Barcelona Media Foundation), Dave Currie and Erik J. Jutemar (Tuenti), and Cecilia Mascolo (University of Cambridge)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Coarse-Grained Topology Estimation via Graph Sampling", 
-			"", 
-			"Maciej Kurant, Minas Gjoka, Yan Wang, Zack W. Almquist, Carter T. Butts, and Athina Markopoulou (UC Irvine)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Coarse-Grained Topology Estimation via Graph Sampling",
+			"",
+			"Maciej Kurant, Minas Gjoka, Yan Wang, Zack W. Almquist, Carter T. Butts, and Athina Markopoulou (UC Irvine)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("The Importance of Being Placefriends: Discovering Location-focused Online Communities", 
-			"", 
-			"Chlo&euml; Brown, Vincenzo Nicosia, Salvatore Scellato, Anastasios Noulas, Cecilia Mascolo (University of Cambridge)", 
-			"Paper"); 
+
+		<?php tprog_add_item("The Importance of Being Placefriends: Discovering Location-focused Online Communities",
+			"",
+			"Chlo&euml; Brown, Vincenzo Nicosia, Salvatore Scellato, Anastasios Noulas, Cecilia Mascolo (University of Cambridge)",
+			"Paper");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("14:00-15:30", "Session 3: Do Your Servers Social Network?", "Walter Willinger (AT&amp;T Labs--Research)"); ?>
-		
-		<?php tprog_add_item("Shortest Paths in Less Than a Millisecond", 
-			"", 
-			"Rachit Agarwal, Matthew Caesar, and P. Brighten Godfrey (UIUC), and Ben Y. Zhao (UC Santa Barbara)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Shortest Paths in Less Than a Millisecond",
+			"",
+			"Rachit Agarwal, Matthew Caesar, and P. Brighten Godfrey (UIUC), and Ben Y. Zhao (UC Santa Barbara)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Navigation Characteristics of Online Social Networks and Search Engines Users.", 
-			"", 
-			"Christopher W Dunn and Minaxi Gupta (Indiana University), and Oliver Spatscheck (AT&amp;T Labs-Research)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Navigation Characteristics of Online Social Networks and Search Engines Users.",
+			"",
+			"Christopher W Dunn and Minaxi Gupta (Indiana University), and Oliver Spatscheck (AT&amp;T Labs-Research)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Keeping Information Safe from Social Networking Apps", 
-			"", 
-			"Bimal Viswanath, MPI-SWS, Emre Kiciman and Stefan Saroiu (Microsoft Research)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Keeping Information Safe from Social Networking Apps",
+			"",
+			"Bimal Viswanath, MPI-SWS, Emre Kiciman and Stefan Saroiu (Microsoft Research)",
+			"Paper");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("16:00-16:50", "Session 4: Think Before You Post", "Sue Moon (KAIST)"); ?>
-		
-		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network", 
-			"", 
-			"Saptarshi Ghosh and Naveen Sharma (IIT Kharagpur), Fabricio Benevenuto (Federal University of Ouro Preto, Brazil), Niloy Ganguly, IIT Kharagpur, and Krishna P. Gummadi (MPI-SWS)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network",
+			"",
+			"Saptarshi Ghosh and Naveen Sharma (IIT Kharagpur), Fabricio Benevenuto (Federal University of Ouro Preto, Brazil), Niloy Ganguly, IIT Kharagpur, and Krishna P. Gummadi (MPI-SWS)",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Why Watching Movie Tweets Won't Tell the Whole Story", 
-			"", 
-			"Felix Ming Fai Wong, Soumya Sen, and Mung Chiang (Princeton University)", 
-			"Paper"); 
+
+		<?php tprog_add_item("Why Watching Movie Tweets Won't Tell the Whole Story",
+			"",
+			"Felix Ming Fai Wong, Soumya Sen, and Mung Chiang (Princeton University)",
+			"Paper");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("16:50-17:30", "Panel: Future of Social Networking Research", ""); ?>
 
-		
-	</ul>	
+
+	</ul>
 
 
 <h2 class="hcls">Introduction</h2>
@@ -129,8 +131,8 @@ questions posed by emerging social applications. Of particular
 interest are problems related to system architecture design, explosion
 of new media traffic, and mobile access. WOSN'12 will facilitate
 cross-disciplinary discussion of relevance to computer networking
-involving new ideas and applications and experimental results. The 
-workshop solicits original papers on ongoing work as well as 
+involving new ideas and applications and experimental results. The
+workshop solicits original papers on ongoing work as well as
 position papers. All papers are limited to 6 pages (10 pt).
 </p>
 
@@ -141,23 +143,23 @@ position papers. All papers are limited to 6 pages (10 pt).
 
 <p>Topics of interest include, but are not limited to:</p>
 <ul>
-<li>Implications of social networking on network design 
-<li>Network architecture design to support large scale social applications 
-<li>Search strategies in social networks 
+<li>Implications of social networking on network design
+<li>Network architecture design to support large scale social applications
+<li>Search strategies in social networks
 <li>Reputation and trust systems
-<li>Anonymity and privacy  
-<li>Economic incentives for privacy 
-<li>Architecture and design of external OSN applications 
-<li>Decentralized (ad hoc) network applications and services 
-<li>Measurement and analysis of online communities 
+<li>Anonymity and privacy
+<li>Economic incentives for privacy
+<li>Architecture and design of external OSN applications
+<li>Decentralized (ad hoc) network applications and services
+<li>Measurement and analysis of online communities
 </ul>
 
 
 <h2 class="hcls">Submission Instructions</h2>
 
-<p>All submissions must be original work not under review at any other 
+<p>All submissions must be original work not under review at any other
 venue. Submissions must be no greater than 6 pages in length and author
-names and affiliations should be included in the submission. Submissions 
+names and affiliations should be included in the submission. Submissions
 must follow the formatting guidelines at <a href="http://conferences.sigcomm.org/sigcomm/2012/" rel="external">http://conferences.sigcomm.org/sigcomm/2012/</a>.
 Papers should be submitted via the <a href="http://cyclops.cs.ucsb.edu/WOSN12" rel="external">submission site</a>.
 </p>

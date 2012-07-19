@@ -5,19 +5,22 @@
 
 
 <h2 class="hcls">A Networking Approach to the Smart Grid</h2>
-<p>
-<b>Monday, August 13, 2012 (half day)</b>
-</p>
+
 <p>
 <b>Presented by:</b> <a href="mailto:keshav@uwaterloo.ca">S. Keshav</a>, <a href="mailto:cath@uwaterloo.ca">C. Rosenberg</a> (University of Waterloo)
 </p>
 
+<p>
+Monday, August 13, 2012 (half day)<br>
+Helsinki, Finland<br>
+Room: <b>#15</b>
+</p>
 
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("9:00-9:05", "Introduction", ""); ?>
-	
+
 		<?php tprog_add_session("9:05-9:30", "Today's Grid", ""); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -26,7 +29,7 @@
 					<p>Distribution</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("9:30-9:50", "Motivation for the Smart Grid", ""); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -36,7 +39,7 @@
 					<p>Dealing with new loads</p>
 			", "");
 		?>
-				
+
 		<?php tprog_add_session("9:50-10:30", "New Technologies for the Smart Grid", ""); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -47,12 +50,12 @@
 					<p>Sensing: smart meters and power measurement units</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-		
-		
-		<?php tprog_add_session("11:00-11:20", "Similarities and Differences Between the Internet and the Smart Grid", ""); ?>		
-		
+
+
+		<?php tprog_add_session("11:00-11:20", "Similarities and Differences Between the Internet and the Smart Grid", ""); ?>
+
 		<?php tprog_add_session("11:20-11:30", "Survey of Current Work, Open Issues and Challenges", ""); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -62,10 +65,10 @@
 					<p>Storage sizing and operation</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
 	</ul>
-	
+
 
 <h2 class="hcls">Motivation</h2>
 <p>
@@ -80,11 +83,11 @@ Several factors have come together to make the Smart Grid a topic of great inter
 </ol>
 
 <p>
-These factors are quickly coming together, spurred by the rapid deployment of smart meters as well as a huge governmental push to study, design, and deploy the grid in many countries around the world. This makes it likely that research advances made in the next decade will have a chance to greatly influence the structure and operations of the next power grid. 
+These factors are quickly coming together, spurred by the rapid deployment of smart meters as well as a huge governmental push to study, design, and deploy the grid in many countries around the world. This makes it likely that research advances made in the next decade will have a chance to greatly influence the structure and operations of the next power grid.
 </p>
 
 <p>
-Computer networking researchers have the potential to play a critical role in the design of the smart grid. Our background in large-scale systems design, data-driven modeling and analysis, and our capacity to design systems that span multiple time-scales of control are precisely the skills needed to design the smart grid. This tutorial aims at exposing computer networking researchers and professionals to the challenges and opportunities raised by the Smart Grid. 
+Computer networking researchers have the potential to play a critical role in the design of the smart grid. Our background in large-scale systems design, data-driven modeling and analysis, and our capacity to design systems that span multiple time-scales of control are precisely the skills needed to design the smart grid. This tutorial aims at exposing computer networking researchers and professionals to the challenges and opportunities raised by the Smart Grid.
 </p>
 
 

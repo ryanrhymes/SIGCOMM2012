@@ -3,7 +3,7 @@
         include("include/header.php");
 ?>
 <h2 class="hcls">Programmability of Wireless Networks</h2>
-<p><b>Friday, August 17, 2012 (half day)</b></p>
+
 <p>
 <b>Presented by:
 <a href="http://www.tti.unipa.it/~ilenia/informazioni.htm">Ilenia Tinnirello</a>,
@@ -11,6 +11,12 @@
 <a href="http://www.ing.unibs.it/~gringoli">Francesco Gringoli</a>,
 <a href="mailto:xavier.perez-costa@neclab.eu">Xavier P&eacute;rez Costa</a>
 </b>
+</p>
+
+<p>
+Friday, August 17, 2012 (half day)<br>
+Helsinki, Finland<br>
+Room: <b>#21</b>
 </p>
 
 <h2 class="hcls">Tutorial Requirements</h2>
@@ -30,7 +36,7 @@ is required to run the graphical tools for building the XFSMs.
 	<p>Limitations of current State of the Art</p>
 			", "");
 		?>
-	
+
 		<?php tprog_add_session("9:30-10:00", "Wireless MAC Processor (WMP) Concept Overview"); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -39,7 +45,7 @@ is required to run the graphical tools for building the XFSMs.
 	<p>New programmability potential</p>
 			", "");
 		?>
-				
+
 		<?php tprog_add_session("10:00-10:30", "Review of WMP Implementation and MAC Program Developing Tool"); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -50,8 +56,8 @@ is required to run the graphical tools for building the XFSMs.
 		?>
 
 		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
-				
-		<?php tprog_add_session("11:00-11:30", "Demonstration of WMP Concepts"); ?>		
+
+		<?php tprog_add_session("11:00-11:30", "Demonstration of WMP Concepts"); ?>
 		<?php
 			tprog_add_item("", "", "
 	<p>Insight on a packet jammer</p>
@@ -61,7 +67,7 @@ is required to run the graphical tools for building the XFSMs.
 	<p>Piggybacking (e.g., for TCP speed up)</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("11:30-12:30", "Hands-on Experimentation by Attendees"); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -70,7 +76,7 @@ is required to run the graphical tools for building the XFSMs.
 	<p>More tests capturing and displaying signals with USRP hardware</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
 	</ul>
 

@@ -9,9 +9,13 @@ Techniques for Networking Researchers";
 Techniques for Networking Researchers</h2>
 
 <p>
-<b>Friday, August 17, 2012 (half day)</b>
-</p><p>
 <b>Presented by:</b> <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
+
+<p>
+Friday, August 17, 2012 (half day)<br>
+Helsinki, Finland<br>
+Room: <b>#15</b>
+</p>
 
 <h2 class="hcls">Technical Program</h2>
 
@@ -27,7 +31,7 @@ Techniques for Networking Researchers</h2>
 <p>	<b>Quantitative logs:</b> Using logging to understand user behavior and supplement qualitative techniques.</p>
 			", "");
 		?>
-	
+
 		<?php tprog_add_session("9:45-10:30", "Design and Development"); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -35,10 +39,10 @@ Techniques for Networking Researchers</h2>
 <p>	<b>Lo-Fidelity and Hi-Fidelity Development:</b> Creating system mockups vs. functioning prototypes.</p>
 			", "");
 		?>
-				
+
 		<?php tprog_add_session("10:30-11:00", "Coffee Break"); ?>
-				
-		<?php tprog_add_session("11:00-11:45", "Evaluation Techniques"); ?>		
+
+		<?php tprog_add_session("11:00-11:45", "Evaluation Techniques"); ?>
 		<?php
 			tprog_add_item("", "", "
 <p>	<b>Summative &amp; Formative Evaluation:</b> Goals of each approach, and interpreting the results. </p>
@@ -47,7 +51,7 @@ Techniques for Networking Researchers</h2>
 <p>	<b>Analysis:</b> Making sense of data collected, basics of qualitative and quantitative analysis techniques.</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("11:45-12:30", "Ethics consent and privacy"); ?>
 		<?php
 			tprog_add_item("", "", "
@@ -59,20 +63,20 @@ Techniques for Networking Researchers</h2>
 <p>	<b>International differences and perspectives:</b> How ethics process and legal issues vary and what are the various ethical and legal issues in undertaking research in different countries.</p>
 			", "");
 		?>
-		
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break"); ?>
 	</ul>
 
 
 <h2 class="hcls">Motivation</h2>
 
-<p>As the Internet has grown to underpin many aspects of modern life, the challenges in understanding the network and developing new network mechanisms have changed. Recent predictions by Cisco suggest that there will be 15 Billion network devices by 2015 and more than 3 billion Internet users.  Today, the network has become interwoven with human activities to the extent that broadband access has already become critical for many countries. For example, Finland made broadband access a legal right in July 2010 and has vowed to connect everyone to a 100Mbps connection by 2015. 
+<p>As the Internet has grown to underpin many aspects of modern life, the challenges in understanding the network and developing new network mechanisms have changed. Recent predictions by Cisco suggest that there will be 15 Billion network devices by 2015 and more than 3 billion Internet users.  Today, the network has become interwoven with human activities to the extent that broadband access has already become critical for many countries. For example, Finland made broadband access a legal right in July 2010 and has vowed to connect everyone to a 100Mbps connection by 2015.
 </p>
 <p>
-As the network is made available to an increasingly diverse set of users each exploiting the infrastructure for a broad set of activities, the need to understand what people do with the network and how they do it becomes critical. Equally important, network systems not only need to be presented to a diverse set of non-expert users, they need to be understood and often managed by users who are not skilled network operators. The need to combine human and systems understanding of the network has already been recognized by the SIGCOMM community with the establishment of dedicated workshops such as Homenets (2010, 2011) and W-MUST (2011, 2012). 
+As the network is made available to an increasingly diverse set of users each exploiting the infrastructure for a broad set of activities, the need to understand what people do with the network and how they do it becomes critical. Equally important, network systems not only need to be presented to a diverse set of non-expert users, they need to be understood and often managed by users who are not skilled network operators. The need to combine human and systems understanding of the network has already been recognized by the SIGCOMM community with the establishment of dedicated workshops such as Homenets (2010, 2011) and W-MUST (2011, 2012).
 </p>
 <p>
-As well as highlighting the importance of understanding users and engaging in interdisciplinary projects, these workshops also recognize the critical need for SIGCOMM researchers to increase their understanding of Human Computer Interaction (HCI). This tutorial responds to this need by providing a synopsis of HCI targeted towards the networking community. We will provide an overview of techniques for understanding users and for designing and evaluating systems that are more user-focused. A particular emphasis will be on understanding how these approaches might be used within the context of networking, what the limits and scope of each approach are, and how researchers might select appropriate techniques for their research question. 
+As well as highlighting the importance of understanding users and engaging in interdisciplinary projects, these workshops also recognize the critical need for SIGCOMM researchers to increase their understanding of Human Computer Interaction (HCI). This tutorial responds to this need by providing a synopsis of HCI targeted towards the networking community. We will provide an overview of techniques for understanding users and for designing and evaluating systems that are more user-focused. A particular emphasis will be on understanding how these approaches might be used within the context of networking, what the limits and scope of each approach are, and how researchers might select appropriate techniques for their research question.
 .</p>
 
 <h2 class="hcls">Tutorial Format</h2>

@@ -5,175 +5,179 @@
 
 
 <h2 class="hcls">Workshop on Mobile Gaming (MobiGame)</h2>
-<b>Helsinki, Finland (Monday, August 13, 2012)</b><br />
 
+<p>
+Monday, August 13, 2012<br>
+Helsinki, Finland<br>
+Rooms: <b>#22-24</b>
+</p>
 
 <h2 class="hcls">Technical Program</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("8:30-9:50", "Introductory Remarks", ""); ?>
-		
-		<?php tprog_add_item("Introduction", 
-			"", 
-			"Sharad Agarwal &amp; Rajesh Balan", 
-			""); 
+
+		<?php tprog_add_item("Introduction",
+			"",
+			"Sharad Agarwal &amp; Rajesh Balan",
+			"");
 		?>
-		
-		<?php tprog_add_item("Keynote", 
-			"", 
-			"Antti Aaltonen (Ph.D., Director, User Experience, Rovio)", 
-			"Keynote"); 
+
+		<?php tprog_add_item("Keynote",
+			"",
+			"Antti Aaltonen (Ph.D., Director, User Experience, Rovio)",
+			"Keynote");
 		?>
-		
-		
-		
-		
+
+
+
+
 		<?php tprog_add_session("9:50-10:30", "Session 1: Analytics", ""); ?>
-		
-		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game", 
-			"", 
-			" Ian Obermiller; Sam Bayless", 
-			"Paper"); 
+
+		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game",
+			"",
+			" Ian Obermiller; Sam Bayless",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("The Anatomy of a Large Mobile Massively Multiplayer Online Game", 
-			"", 
-			"Ashish Patro; Shravan Rayanchu; Michael Griepentrog; Yadi Ma; Suman Banerjee", 
-			"Paper"); 
+
+		<?php tprog_add_item("The Anatomy of a Large Mobile Massively Multiplayer Online Game",
+			"",
+			"Ashish Patro; Shravan Rayanchu; Michael Griepentrog; Yadi Ma; Suman Banerjee",
+			"Paper");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("11:00-12:00", "Panel 1", ""); ?>
-		
-		<?php tprog_add_item("Bridging the Gap Between Mobile Devices and MMOGs", 
-			"", 
-			"Markus Pasula (CEO, Grand Cru), Suman Banerjee (University of Wisconsin-Madison), Frans M&auml;yr&auml; (University of Tampere)", 
-			"Panel"); 
+
+		<?php tprog_add_item("Bridging the Gap Between Mobile Devices and MMOGs",
+			"",
+			"Markus Pasula (CEO, Grand Cru), Suman Banerjee (University of Wisconsin-Madison), Frans M&auml;yr&auml; (University of Tampere)",
+			"Panel");
 		?>
 
 		<?php tprog_add_session("12:00-12:30", "Demo Session 1", ""); ?>
-				
+
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
-		
-				
+
+
 		<?php tprog_add_session("14:00-15:00", "Panel 2", ""); ?>
-		
-		<?php tprog_add_item("Bridging the Gap between Industry and Academia", 
-			"", 
-			"Christoph Th&uuml;r (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabi&aacute;n Bustamante (Northwestern)", 
-			"Panel"); 
+
+		<?php tprog_add_item("Bridging the Gap between Industry and Academia",
+			"",
+			"Christoph Th&uuml;r (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabi&aacute;n Bustamante (Northwestern)",
+			"Panel");
 		?>
-		
+
 		<?php tprog_add_session("15:00-15:30", "Demo Session 2", ""); ?>
-		
+
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
-		
-		
+
+
 		<?php tprog_add_session("16:00-17:00", "Session 2: Platforms", ""); ?>
-		
-		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games", 
-			"", 
-			"Anh Le; Lorenzo Keller; Christina Fragouli; Athina Markopoulou", 
-			"Paper"); 
+
+		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games",
+			"",
+			"Anh Le; Lorenzo Keller; Christina Fragouli; Athina Markopoulou",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Toward a Mobile Platform for Pervasive Games", 
-			"", 
-			"Inseok Hwang; Youngki Lee; Taiwoo Park; Junehwa Song", 
-			"Paper"); 
+
+		<?php tprog_add_item("Toward a Mobile Platform for Pervasive Games",
+			"",
+			"Inseok Hwang; Youngki Lee; Taiwoo Park; Junehwa Song",
+			"Paper");
 		?>
-		
-		<?php tprog_add_item("Adaptive Display Power Management for OLED Displays", 
-			"", 
-			"Tan Kiat Wee; Rajesh Krishna Balan", 
-			"Paper"); 
+
+		<?php tprog_add_item("Adaptive Display Power Management for OLED Displays",
+			"",
+			"Tan Kiat Wee; Rajesh Krishna Balan",
+			"Paper");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("17:00-17:45", "Keynote", ""); ?>
-		
-		
-		<?php tprog_add_item("Keynote", 
-			"", 
-			"Victor Bahl (Director, Microsoft Research)", 
-			"Keynote"); 
+
+
+		<?php tprog_add_item("Keynote",
+			"",
+			"Victor Bahl (Director, Microsoft Research)",
+			"Keynote");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("17:45-18:00", "Closing Remarks", ""); ?>
-		
-		
-		<?php tprog_add_item("Closing Remarks", 
-			"", 
-			"Sharad Agarwal &amp; Rajesh Balan", 
-			""); 
+
+
+		<?php tprog_add_item("Closing Remarks",
+			"",
+			"Sharad Agarwal &amp; Rajesh Balan",
+			"");
 		?>
-		
+
 	</ul>
-	
+
 
 <h2 class="hcls">Bios</h2>
 
 	<ul data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-content-theme="d" class="tprog">
 		<?php tprog_add_session("", "Keynotes", ""); ?>
-		
-		<?php tprog_add_item("Antti Aaltonen, Ph.D., (Rovio)", 
-			"", 
-			"<img alt=\"Antti Aaltonen, Ph.D., (Rovio)\" src=\"images/people_image001.jpg\" class=\"bio_img\" /> Dr. Antti Aaltonen has been doing and leading user experience design over 15 years for different domains and platforms. Being enthusiastic gamer since Commodore VIC-20 days, in his current role as Director of User experience in Rovio Entertainment Ltd. Antti is passionate about creating polished and rewarding gaming experiences. Before joining Rovio he worked in various user experience related positions in Nokia. Antti has written a book about personal content experiencing and over ten publications.", 
-			""); 
+
+		<?php tprog_add_item("Antti Aaltonen, Ph.D., (Rovio)",
+			"",
+			"<img alt=\"Antti Aaltonen, Ph.D., (Rovio)\" src=\"images/people_image001.jpg\" class=\"bio_img\" /> Dr. Antti Aaltonen has been doing and leading user experience design over 15 years for different domains and platforms. Being enthusiastic gamer since Commodore VIC-20 days, in his current role as Director of User experience in Rovio Entertainment Ltd. Antti is passionate about creating polished and rewarding gaming experiences. Before joining Rovio he worked in various user experience related positions in Nokia. Antti has written a book about personal content experiencing and over ten publications.",
+			"");
 		?>
-		
-		<?php tprog_add_item("Paramvir Bahl, Ph.D., (Microsoft Research)", 
-			"", 
-			"<img alt=\"Paramvir Bahl, Ph.D., (Microsoft Research)\"src=\"images/people_image004.jpg\" class=\"bio_img\" /> Victor Bahl is the Director of the Mobile Computing Research Center (MCRC) in Microsoft Research. Prior to MCRC, Victor founded the Networking Research Group and served as its manager for 8 years. He continues to help shape Microsoft's long-term vision related to networking technologies through research and associated policy engagement with governments and institutions around the world. His personal research interests span a variety of topics in mobile computing, wireless systems, cloud computing and datacenter / enterprise networking &amp; management. He has built and deployed several seminal and highly cited systems many of which have been broadly adopted by the computing industry and shipped in Microsoft products. He has authored over 115 peer-reviewed papers and 86 patents. He has received several notable accolades including Microsoft's Individual Performance Award (three times), SIGMOBILE's Distinguished Service Award, IEEE's Northwest Region 6 Outstanding Engineer Award, UMASS Amherst's Distinguished Alumni Award, SIGCOMM's and CoNext's Best Paper Award, FCC's Open Internet App. Award and FCC's People's Choice App Award. Dr. Bahl is a Fellow of the ACM, IEEE and AAAS.", 
-			""); 
+
+		<?php tprog_add_item("Paramvir Bahl, Ph.D., (Microsoft Research)",
+			"",
+			"<img alt=\"Paramvir Bahl, Ph.D., (Microsoft Research)\"src=\"images/people_image004.jpg\" class=\"bio_img\" /> Victor Bahl is the Director of the Mobile Computing Research Center (MCRC) in Microsoft Research. Prior to MCRC, Victor founded the Networking Research Group and served as its manager for 8 years. He continues to help shape Microsoft's long-term vision related to networking technologies through research and associated policy engagement with governments and institutions around the world. His personal research interests span a variety of topics in mobile computing, wireless systems, cloud computing and datacenter / enterprise networking &amp; management. He has built and deployed several seminal and highly cited systems many of which have been broadly adopted by the computing industry and shipped in Microsoft products. He has authored over 115 peer-reviewed papers and 86 patents. He has received several notable accolades including Microsoft's Individual Performance Award (three times), SIGMOBILE's Distinguished Service Award, IEEE's Northwest Region 6 Outstanding Engineer Award, UMASS Amherst's Distinguished Alumni Award, SIGCOMM's and CoNext's Best Paper Award, FCC's Open Internet App. Award and FCC's People's Choice App Award. Dr. Bahl is a Fellow of the ACM, IEEE and AAAS.",
+			"");
 		?>
 
 
 		<?php tprog_add_session("", "Panel 1: Bridging the Gap Between Mobile Devices and MMOGs", ""); ?>
 
-		<?php tprog_add_item("Markus Pasula (Grand Cru)", 
-			"", 
-			"<img alt=\"Markus Pasula (Grand Cru)\" src=\"images/people_image002.jpg\" class=\"bio_img\" /> Markus Pasula (Helsinki, Finland) is a technology and games guru with background in mobile game industry and real-time graphics development. In 2011, Markus embarked with five Finnish game industry veterans to found Grand Cru. Grand Cru's mission is to revolutionize the mobile and social gaming. As the CEO of the company, he keeps the things rolling from planning and hands-on operations to leading the team of game creators. Prior to Grand Cru, Markus worked at Mr.Goodliving/RealNetworks in various roles, including Head of Studio, Head of Technology and Head of Customer Operations EMEA. Back in the 1990's Markus was one of the pioneers in the Finnish Demoscene winning international demo competitions.", 
-			""); 
+		<?php tprog_add_item("Markus Pasula (Grand Cru)",
+			"",
+			"<img alt=\"Markus Pasula (Grand Cru)\" src=\"images/people_image002.jpg\" class=\"bio_img\" /> Markus Pasula (Helsinki, Finland) is a technology and games guru with background in mobile game industry and real-time graphics development. In 2011, Markus embarked with five Finnish game industry veterans to found Grand Cru. Grand Cru's mission is to revolutionize the mobile and social gaming. As the CEO of the company, he keeps the things rolling from planning and hands-on operations to leading the team of game creators. Prior to Grand Cru, Markus worked at Mr.Goodliving/RealNetworks in various roles, including Head of Studio, Head of Technology and Head of Customer Operations EMEA. Back in the 1990's Markus was one of the pioneers in the Finnish Demoscene winning international demo competitions.",
+			"");
 		?>
-		
-		<?php tprog_add_item("Suman Banerjee (University of Wisconsin-Madison)", 
-			"", 
-			"<img alt=\"Suman Banerjee (University of Wisconsin-Madison)\"src=\"images/people_image003.jpg\" class=\"bio_img\" /> Suman Banerjee is an Associate Professor in Computer Sciences at UW-Madison. He received his undergraduate degree from IIT Kanpur, and MS and PhD degrees from the University of Maryland. He is a recipient of the NSF Career Award. He is the founding director of the WiNGS laboratory at UW-Madison. His research interest is broadly in networking and distributed systems, and his focus in recent years have been in different aspects of mobile and wireless systems.", 
-			""); 
+
+		<?php tprog_add_item("Suman Banerjee (University of Wisconsin-Madison)",
+			"",
+			"<img alt=\"Suman Banerjee (University of Wisconsin-Madison)\"src=\"images/people_image003.jpg\" class=\"bio_img\" /> Suman Banerjee is an Associate Professor in Computer Sciences at UW-Madison. He received his undergraduate degree from IIT Kanpur, and MS and PhD degrees from the University of Maryland. He is a recipient of the NSF Career Award. He is the founding director of the WiNGS laboratory at UW-Madison. His research interest is broadly in networking and distributed systems, and his focus in recent years have been in different aspects of mobile and wireless systems.",
+			"");
 		?>
-		
-		<?php tprog_add_item("Frans M&auml;yr&auml; (University of Tampere)", 
-			"", 
-			"<img alt=\"Frans M&auml;yr&auml; (University of Tampere)\" src=\"images/people_image005.jpg\" class=\"bio_img\" /> Frans M&auml;yr&auml; is the Professor of Information Studies and Interactive Media, with specialization in digital culture and game studies in the University of Tampere, Finland. He is the head of University of Tampere Game Research Lab, and has taught and studied digital culture and games from the early 1990s. His research interests include game cultures, meaning making through playful interaction, online social play, borderlines, identity, as well as transmedial fantasy and science fiction.", 
-			""); 
+
+		<?php tprog_add_item("Frans M&auml;yr&auml; (University of Tampere)",
+			"",
+			"<img alt=\"Frans M&auml;yr&auml; (University of Tampere)\" src=\"images/people_image005.jpg\" class=\"bio_img\" /> Frans M&auml;yr&auml; is the Professor of Information Studies and Interactive Media, with specialization in digital culture and game studies in the University of Tampere, Finland. He is the head of University of Tampere Game Research Lab, and has taught and studied digital culture and games from the early 1990s. His research interests include game cultures, meaning making through playful interaction, online social play, borderlines, identity, as well as transmedial fantasy and science fiction.",
+			"");
 		?>
-		
-		
+
+
 		<?php tprog_add_session("", "Panel 2: Bridging the Gap between Industry and Academia", ""); ?>
-		
-		<?php tprog_add_item("Christoph Th&uuml;r (Ovelin)", 
-			"", 
-			"<img alt=\"Christoph Th&uuml;r (Ovelin)\" src=\"images/people_image006.jpg\" class=\"bio_img\" /> Chris is co-founder and CEO of Ovelin, a Finnish company that is taking an exciting approach to gamification of music instrument learning. Ovelin's first title WildChords is an iPad game that makes learning to play the guitar fun, addictive and motivating. It is played with a real guitar, and requires no additional equipment (sound picked up through the iPad microphone). Prior to Ovelin, Chris was a Laser Scientist and guitar drop-out. Originally from Switzerland, Chris now lives in Finland where he co-founded Ovelin, and enjoys swimming in the Avanto (hole in the ice).", 
-			""); 
+
+		<?php tprog_add_item("Christoph Th&uuml;r (Ovelin)",
+			"",
+			"<img alt=\"Christoph Th&uuml;r (Ovelin)\" src=\"images/people_image006.jpg\" class=\"bio_img\" /> Chris is co-founder and CEO of Ovelin, a Finnish company that is taking an exciting approach to gamification of music instrument learning. Ovelin's first title WildChords is an iPad game that makes learning to play the guitar fun, addictive and motivating. It is played with a real guitar, and requires no additional equipment (sound picked up through the iPad microphone). Prior to Ovelin, Chris was a Laser Scientist and guitar drop-out. Originally from Switzerland, Chris now lives in Finland where he co-founded Ovelin, and enjoys swimming in the Avanto (hole in the ice).",
+			"");
 		?>
-		
-		<?php tprog_add_item("Sonja Kangas (Scoreloop / IGDA Finland)", 
-			"", 
-			"<img alt=\"Sonja Kangas (Scoreloop / IGDA Finland)\" src=\"images/people_image008.jpg\" class=\"bio_img\" /> Sonja Kangas (MA) is working as Senior Product Manager at Scoreloop. Previously she has been working as a resarcher and has written books and articles about game industry, various target groups and online &amp; mobile gaming trends for over 10 years. She has worked with online and mobile games as a developer at Guppylife, Digital Chocolate and Paf. For her the core focus has been on production and product management. In Finland she is the director of IGDA Finland which is one of the most active International Game Developers Association chapters in the world.", 
-			""); 
+
+		<?php tprog_add_item("Sonja Kangas (Scoreloop / IGDA Finland)",
+			"",
+			"<img alt=\"Sonja Kangas (Scoreloop / IGDA Finland)\" src=\"images/people_image008.jpg\" class=\"bio_img\" /> Sonja Kangas (MA) is working as Senior Product Manager at Scoreloop. Previously she has been working as a resarcher and has written books and articles about game industry, various target groups and online &amp; mobile gaming trends for over 10 years. She has worked with online and mobile games as a developer at Guppylife, Digital Chocolate and Paf. For her the core focus has been on production and product management. In Finland she is the director of IGDA Finland which is one of the most active International Game Developers Association chapters in the world.",
+			"");
 		?>
-		
-		<?php tprog_add_item("Fabi&aacute;n E. Bustamante (Northwestern University)", 
-			"", 
-			"<img alt=\"Fabi&aacute;n E. Bustamante (Northwestern University)\" src=\"images/people_image010.jpg\" class=\"bio_img\" /> Fabi&aacute;n E. Bustamante is an associate professor of computer science in the EECS Department at Northwestern University. He joined Northwestern in 2002, after receiving his M.S. and Ph.D. from the College of Computing at Georgia Tech. He leads the AquaLab group investigating networking and systems issues with Internet-scale distributed computing. Fabi&aacute;n is a recipient of the US National Science Foundation CAREER award and the E.T.S. Watson Fellowship Award from the Science Foundation of Ireland, and a senior member of both the ACM and the IEEE.", 
-			""); 
+
+		<?php tprog_add_item("Fabi&aacute;n E. Bustamante (Northwestern University)",
+			"",
+			"<img alt=\"Fabi&aacute;n E. Bustamante (Northwestern University)\" src=\"images/people_image010.jpg\" class=\"bio_img\" /> Fabi&aacute;n E. Bustamante is an associate professor of computer science in the EECS Department at Northwestern University. He joined Northwestern in 2002, after receiving his M.S. and Ph.D. from the College of Computing at Georgia Tech. He leads the AquaLab group investigating networking and systems issues with Internet-scale distributed computing. Fabi&aacute;n is a recipient of the US National Science Foundation CAREER award and the E.T.S. Watson Fellowship Award from the Science Foundation of Ireland, and a senior member of both the ACM and the IEEE.",
+			"");
 		?>
-		
+
 
 	</ul>
 
