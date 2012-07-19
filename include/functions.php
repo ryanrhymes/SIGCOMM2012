@@ -59,10 +59,13 @@ function add_dateitem($date, $info)
 		   $date, $info);
 }
 
-function tprog_add_session($time, $title, $chair="")
+function tprog_add_session($time, $title, $chair="", $style="")
 {
+    if (!$style) {
+        $style = preg_match('/lunch|coffee/i', $title) ? "d" : "b";
+    }
 	printf('<li class="ui-bar-%s" data-role="list-divider"><h3>%s %s</h3>',
-	       (preg_match('/lunch|coffee/i', $title) ? "d" : "b"), $time, $title);
+	       $style, $time, $title);
 	if ($chair) {
 		$chair = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $chair);
 		printf('<p>Session Chair: %s</p>', $chair);
@@ -87,7 +90,7 @@ function tprog_add_item($paper, $link, $authors, $info)
 			printf('%s ', $authors);
 		} else {
 			printf('<p>%s </p>', $authors);
-		}	
+		}
 	}
 	if($info) {
 		printf('<p class="ui-li-count prog-%s">%s </p>',

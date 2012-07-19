@@ -39,6 +39,24 @@ SIGCOMM 2012 will be held at <a href="http://www.finlandiatalo.fi/en/">Finlandia
 
 <div><img src="images/helsinki_1.jpg" class="banner" alt="Finlandia Hall"></div>
 
+<h2 class="hcls">Social Events</h2>
+<p>
+SIGCOMM 2012 features a Welcome Reception, a Student Dinner and a Conference Banquet.
+</p>
+<ul>
+<li>
+The <b>Welcome Reception</b> is hosted by the City of Helsinki at <a href="http://www.virka.fi/en/gallery/city-hall">City Hall</a> on Monday evening. Drinks and hors d'oeuvre will be served; plan on dinner afterwards. The closest tram stop near City Hall is "Senaatintori", which is a direct connection from the conference venue (Finlandia Hall) with lines 4 or 7B. <b>Because of security restrictions, you MUST bring your invitation card in order to be allowed into City Hall.</b>
+</li>
+
+<li>
+The <b>Student Dinner</b> takes place at <a href="http://www.kaivohuone.fi/">Restaurant Kaivuhoune</a> on Tuesday evening. <b>Attendance is restricted to student attendees, committee members and supporters.</b> The closest tram stop to the restaurant is "Kaivopuisto" on the 3T line. The 3T leaves from the "Lasipalatsi" stop near Finlandia Hall.
+</li>
+
+<li>
+The <b>Conference Banquet</b> takes place at the <a href="http://www.marinacongresscenter.com/DowebEasyCMS/?Page=Homepage">Marina Congress Center</a> on Wednesday evening. The closest tram stop to the banquet venue is "Kauppiaankatu" on the 4T line. The 4T leaves from the "Kansallismuseo" stop in front of Finlandia Hall.
+</li>
+</ul>
+
 <h2 class="hcls">Hotels</h2>
 
 <p>
