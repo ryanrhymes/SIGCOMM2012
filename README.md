@@ -16,6 +16,7 @@ What's in the various subdirectories:
 * `js`			Javascript, only edit script.js, the rest is from vendors
 * `workshops`	workshop CFPs in various formats stuff
 * `paper`		PDF copies of the various papers - not part of the repository due to copyright issues
+* `scripts`		various helper scripts to check and compile the site
 
 This site uses a bunch of open javascript libraries. You will want to use their latest versions:
 
@@ -28,13 +29,13 @@ This site uses a bunch of open javascript libraries. You will want to use their 
 Cache manifest for offline usage
 --------------------------------
 
-The `publish` script generates this automatically. Edit the script to control which objects are included in the manifest.
+The `scripts/publish` script generates this automatically. Edit the script to control which objects are included in the manifest.
 
 
 Creating a minified version of the site
 ---------------------------------------
 
-Much better to publish this minimized version than the source files. Bash script in `publish`.
+Much better to publish this minified version than the source files. Bash script in `scripts/publish`.
 
 In order to save time, this script does *not* optimize any images. You should really run your images through pngquant (http://pngquant.org/) and then image_optim (https://github.com/toy/image_optim) before you add them to the repository.
 
@@ -51,11 +52,11 @@ Checking for broken links
 Run a local test server (see above) and then run `linklint` (http://www.linklint.org/):
 
     linklint -doc report -http -host 127.0.0.1:8000 /@
-    
+
 Checker results are in `report/index.html` afterwards.
 
 
 Checking for HTML issues
 ------------------------
 
-Run a local test server (see above) and then run `bash lint`.
+Run a local test server (see above) and then run `bash scripts/lint`.

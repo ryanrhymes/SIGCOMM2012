@@ -13,8 +13,9 @@ echo Creating minified site in $out...
 find . -print0 | while read -d $'\0' item
 do
   if [[ $item == ./.git* || $item == ./.DS* || $item == ./*.xls ||
-  	    $item == ./*.md || $item == ./publish || $item == ./lint ]]; then
+  	    $item == ./*.md || $item == ./scripts* ]]; then
 	# skip these files
+	[[ $item != ./.git* ]] && echo "# skip $item"
   	continue
 
   elif [ -d $item ]; then
