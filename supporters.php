@@ -35,7 +35,7 @@ SIGCOMM thanks the following supporters for their generous support!
 
 <div>
 <h2 class="hcls">Bronze</h2>
-<!-- <a href="http://www.akamai.com/"><img src="images/akamai.jpg" alt="Akamai" style="width: 190px;" /></a> -->
+<a href="http://www.akamai.com/"><img src="images/akamai.png" alt="Akamai" style="width: 190px;" /></a>
 <a href="http://www.att.com/"><img src="images/att.png" alt="AT&amp;T" style="width: 180px;" /></a>
 <a href="http://www.bell-labs.com/"><img src="images/bell.png" alt="AL-LU Bell Labs" style="width: 230px;" /></a>
 <a href="http://www.comcast.com/"><img src="images/comcast.png" alt="Comcast" style="width: 220px;" /></a>

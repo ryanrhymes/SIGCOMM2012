@@ -32,7 +32,7 @@ The <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ACM SIGCOMM
 	$supporters["facebook"] = array(10, "facebook.png", "http://www.facebook.com/");
 	$supporters["google"] 	= array(10, "google.png", "http://www.google.com/");
 	$supporters["conviva"] 	= array(10, "conviva.png", "http://www.conviva.com/");
-	//$supporters["akamai"] 	= array(10, "akamai.png", "http://www.akamai.com/");
+	$supporters["akamai"] 	= array(10, "akamai.png", "http://www.akamai.com/");
 	$supporters["comcast"] 	= array(10, "comcast.png", "http://www.comcast.com/");
 	$supporters["hp"] 		= array(10, "hp.png", "http://www.hp.com/");
 	$supporters["microsoftresearch"] = array(10,"microsoftresearch.png", "http://research.microsoft.com/");
