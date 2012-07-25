@@ -6,7 +6,7 @@
 <h2 class="hcls">ACM SIGCOMM 2012 Workshops</h2>
 
 <p>
-SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and Friday of the SIGCOMM 2012 conference week. We invite everyone to consider submitting a paper and/or attending a workshop! The workshops, call for papers, dates, and workshop chairs are listed below. 
+SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and Friday of the SIGCOMM 2012 conference week. We invite everyone to consider submitting a paper and/or attending a workshop! The workshops, call for papers, dates, and workshop chairs are listed below.
 </p>
 <!--
 <p>If you would like to support the SIGCOMM 2012 workshops, please review <a class="lnkcls" href="sigcomm-support.pdf" rel="external">this information</a>. Please email the <a  class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.</p>
@@ -21,7 +21,7 @@ SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and F
 	  <p><b>Workshop date:</b> August 13, 2012</p>
 	</div>
 	  <p>
-	    <a href="http://www.bell-labs.com/user/erranlli/" >Li Erran Li</a> (Bell Labs)<br/>  
+	    <a href="http://www.bell-labs.com/user/erranlli/" >Li Erran Li</a> (Bell Labs)<br/>
 	    <a href="http://www.eecs.umich.edu/~zmao/" >Z. Morley Mao</a> (Univ of Michigan)
 	  </p>
    </div><!-- /grid-b -->
@@ -74,7 +74,7 @@ SIGCOMM 2012 will have an exciting spread of eight workshops on the Monday and F
 
 
 <div data-role="collapsible" data-theme="b" data-content-theme="b" data-collapsed="true" class="marginfix">
-   <h3>MobiGame: Workshop on Mobile Gaming</h3>
+   <h3>MobiGames: Workshop on Mobile Gaming</h3>
    <div class="ui-grid-a">
 	<div class="ui-block-a">
 	  <p><b>Organizers</b></p>
