@@ -1,10 +1,10 @@
 <?php
-        $page_title="Workshop on Mobile Gaming (MobiGame)";
+        $page_title="Workshop on Mobile Gaming (MobiGames)";
         include("include/header.php");
 ?>
 
 
-<h2 class="hcls">Workshop on Mobile Gaming (MobiGame)</h2>
+<h2 class="hcls">Workshop on Mobile Gaming (MobiGames)</h2>
 
 <p>
 Monday, August 13, 2012<br>

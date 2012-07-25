@@ -16,7 +16,7 @@ $mypage = current_pagename();
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="cellnet.php") echo 'navselected' ?>" data-theme="c"><a href="cellnet.php">CellNet</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="hotsdn.php") echo 'navselected' ?>" data-theme="c"><a href="hotsdn.php">HotSDN</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="medcomm.php") echo 'navselected' ?>" data-theme="c"><a href="medcomm.php">MedCOMM</a></li>
-			<li data-icon="false" class="subnav-a <?php if ($mypage=="mobigame.php") echo 'navselected' ?>" data-theme="c"><a href="mobigame.php">MobiGame</a></li>
+			<li data-icon="false" class="subnav-a <?php if ($mypage=="mobigame.php") echo 'navselected' ?>" data-theme="c"><a href="mobigame.php">MobiGames</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="icn.php") echo 'navselected' ?>" data-theme="c"><a href="icn.php">ICN</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="mcc.php") echo 'navselected' ?>" data-theme="c"><a href="mcc.php">MCC</a></li>
 			<li data-icon="false" class="subnav-a <?php if ($mypage=="wmust.php") echo 'navselected' ?>" data-theme="c"><a href="wmust.php">W-MUST</a></li>
