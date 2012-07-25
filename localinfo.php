@@ -276,60 +276,6 @@ Get a <a href="http://www.hsl.fi/EN/timetablesandroutes/Pages/Mobileapps.aspx">m
 
 <div><img src="images/helsinki_6.jpg" class="banner" alt="Helsinki tram"></div>
 
-<!--
-<h2 class="hcls">Hints</h2>
-<ul>
-<li>Do not rent a car. Public transportation is excellent, and downtown parking fees will be more expensive than public transport fees for the week, incl. the occasional taxi ride.</li>
-
-<li>All prices shown in Finland always include VAT and other taxes.</li>
-
-<li>Tipping is very uncommon. This includes taxis, bars, restaurants and most other places where you'd expect to leave a tip in the US. If this makes you feel uncomfortable, 5% is appropriate.</li>
-
-</ul>
--->
-
-<!--
-<h2 class="hcls">Organizers' Picks</h2>
-
-<p>Here are some of our personal food &amp; drink favorites in Helsinki. But go and explore!</p>
-
-<div class="ui-grid-a">
-	<div class="ui-block-a">
-		<ul data-role="listview" data-inset="true">
-			<li data-role="list-divider">Restaurants</li>
-			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&amp;L=1">
-				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
-			</li>
-		</ul>
-	</div>
-
-	<div class="ui-block-b">
-		<ul data-role="listview" data-inset="true">
-			<li data-role="list-divider">Pubs (Hi Jon!)</li>
-			<li><a href="http://www.botta.fi/ST-URHO-S-PUB.14.0.html?&amp;L=1">
-				<h3>St. Urho's Pub</h3><p>Decent selection; closest to the venue.</p></a>
-			</li>
-			<li><a href="http://www.pikkulintu.fi/">
-				<h3>Olutravintola Pikkulintu</h3><p>Remote, but probably the best beer and whisky selection in Finland.</p></a>
-			</li>
-			<li><a href="http://www.oluthuone.fi/en-kaisla.html">
-				<h3>Oluthuone Kaisla</h3><p>Probably the best selection downtown.</p></a>
-			</li>
-			<li><a href="http://www.teerenpeli.com/eng/teerenpelihelsinki">
-				<h3>Teerenpeli</h3><p>Brewpub; close to the venue.</p></a>
-			</li>
-			<li><a href="http://www.bruuveri.fi/">
-				<h3>Bruuveri</h3><p>Brewpub; close to the venue.</p></a>
-			</li>
-			<li><a href="http://www.panimoravintola.fi/">
-				<h3>Suomenlinnan Panimo</h3><p>Brewpub on Suomenlinna island; good food.</p></a>
-			</li>
-		</ul>
-	</div>
-
-</div>
--->
-
 <h2 class="hcls">Sightseeing</h2>
 
 <p>Most of Helsinki's tourist attractions are situated within easy walking distance of the city center, and if your feet do get tired, you can rely on Helsinki's excellent public transportation -- which has been ranked the best in Europe. There are plenty of sightseeing tours, excursions and other activities to fill every day of your holiday. You can also discover the city by hopping aboard the 3T tram or making the most the city's walking, cycling and nature paths. To help you discover Helsinki on your own, the brochure "Helsinki on Foot" can be purchased from Tourist information. The brochure presents seven well-marked walking routes</p>
