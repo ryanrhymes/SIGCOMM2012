@@ -35,13 +35,13 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("9:50-10:30", "Session 1: Analytics", ""); ?>
 
 		<?php tprog_add_item("Legends of Descent - Analytics of an Ad-supported Windows Phone Roleplaying Game",
-			"",
+			"paper/mobigames/p1.pdf",
 			" Ian Obermiller; Sam Bayless",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("The Anatomy of a Large Mobile Massively Multiplayer Online Game",
-			"",
+			"paper/mobigames/p7.pdf",
 			"Ashish Patro; Shravan Rayanchu; Michael Griepentrog; Yadi Ma; Suman Banerjee",
 			"Paper");
 		?>
@@ -79,19 +79,19 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("16:00-17:00", "Session 2: Platforms", ""); ?>
 
 		<?php tprog_add_item("MicroPlay: A Networking Framework for Local Multiplayer Games",
-			"",
+			"paper/mobigames/p13.pdf",
 			"Anh Le; Lorenzo Keller; Christina Fragouli; Athina Markopoulou",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Toward a Mobile Platform for Pervasive Games",
-			"",
+			"paper/mobigames/p19.pdf",
 			"Inseok Hwang; Youngki Lee; Taiwoo Park; Junehwa Song",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Adaptive Display Power Management for OLED Displays",
-			"",
+			"paper/mobigames/p25.pdf",
 			"Tan Kiat Wee; Rajesh Krishna Balan",
 			"Paper");
 		?>

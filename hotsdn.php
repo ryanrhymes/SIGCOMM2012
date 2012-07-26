@@ -20,42 +20,42 @@ Room: <b>Hall A</b>
 
 		<?php
 			tprog_add_item("Logically Centralized? State Distribution Tradeoffs in Software Defined Networks",
-			"",
+			"paper/hotsdn/p1.pdf",
 			"Dan Levin (TU Berlin / Telekom Innovation Laboratories), Andreas Wundsam (ICSI / UC Berkeley), Brandon Heller and Nikhil Handigol (Stanford University), and Anja Feldmann (TU Berlin / Telekom Innovation Laboratories)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("The Controller Placement Problem",
-			"",
+			"paper/hotsdn/p7.pdf",
 			"Brandon Heller (Stanford University), Rob Sherwood (Big Switch Networks), and Nick McKeown (Stanford University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Revisiting Routing Control Platforms with the Eyes and Muscles of Software- Defined Networking",
-			"",
+			"paper/hotsdn/p13.pdf",
 			"Christian Esteve Rothenberg, Marcelo Ribeiro Nascimento, and Marcos Rogerio Salvador (CPqD - R&amp;D Center for Telecommunications), Carlos N. A. Correa and Sidney C. de Lucena (Federal University of the Rio de Janeiro State (UniRio)), and Robert Raszuk (NTT MCL)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Kandoo: A Framework for Efficient and Scalable Offloading of Control Application",
-			"",
+			"paper/hotsdn/p19.pdf",
 			"Soheil Hassas Yeganeh and Yashar Ganjali (University of Toronto)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Hey, You Darned Counters! Get Off my ASIC!",
-			"",
+			"paper/hotsdn/p25.pdf",
 			"Jeffrey C. Mogul (HP Labs) and Paul Congdon (HP Labs/UC Davis)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Using CPU as a Traffic Co-processing Unit in Commodity Switches",
-			"",
+			"paper/hotsdn/p31.pdf",
 			"Guohan Lu (Microsoft Research Asia), Rui Miao (Tsinghua University), and Yongqiang Xiong and Chuanxiong Guo (Microsoft Research Asia)",
 			"Paper");
 		?>
@@ -65,42 +65,42 @@ Room: <b>Hall A</b>
 
 		<?php
 			tprog_add_item("Hierarchical Policies for Software Defined Networks",
-			"",
+			"paper/hotsdn/p37.pdf",
 			"Andrew D. Ferguson, Arjun Guha, Chen Liang, Rodrigo Fonseca, and Shriram Krishnamurthi (Brown University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Procera: A Language for High-Level Reactive Network Control",
-			"",
+			"paper/hotsdn/p43.pdf",
 			"Andreas Voellmy (Yale University) and Hyojoon Kim (Georgia Tech) and Nick Feamster (University of Maryland)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("VeriFlow: Verifying Network-Wide Invariants in Real Time",
-			"",
+			"paper/hotsdn/p49.pdf",
 			"Ahmed Khurshid, Wenxuan Zhou, Matthew Caesar, and P. Brighten Godfrey (University of Illinois at Urbana-Champaign)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Where is the debugger for my Software-Defined Network?",
-			"",
+			"paper/hotsdn/p55.pdf",
 			"Brandon Heller, Nikhil Handigol, Vimalkumar Jeyakumar, Nick McKeown, and David Mazi&#232;res (Stanford University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("A Safe, Efficient Update Protocol for OpenFlow Networks",
-			"",
+			"paper/hotsdn/p61.pdf",
 			"Rick McGeer (HP Labs)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Walk the Line: Consistent Network Updates with Bandwidth Guarantees",
-			"",
+			"paper/hotsdn/p67.pdf",
 			"Soudeh Ghorbani and Matthew Caesar (UIUC)",
 			"Paper");
 		?>
@@ -111,42 +111,42 @@ Room: <b>Hall A</b>
 
 		<?php
 			tprog_add_item("Outsourcing Network Functionality",
-			"",
+			"paper/hotsdn/p73.pdf",
 			"Glen Gibb, Hongyi Zeng, and Nick McKeown (Stanford University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Splendid Isolation: A Slice Abstraction for Software-Defined Networks",
-			"",
+			"paper/hotsdn/p79.pdf",
 			"Stephen Gutz and Alec Story (Cornell), Cole Schlesinger (Princeton), and Nate Foster (Cornell)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Fabric: A Retrospective on Evolving SDN",
-			"",
+			"paper/hotsdn/p85.pdf",
 			"Martin Casado and Teemu Koponen (Nicira), Scott Shenker (ICSI &amp; UCB), and Amin Tootoonchian (University of Toronto &amp; ICSI)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("A Management Method of IP Multicast in Overlay Networks using OpenFlow",
-			"",
+			"paper/hotsdn/p91.pdf",
 			"Yukihiro Nakagawa, Kazuki Hyoudou, and Takeshi Shimizu (Fujitsu Laboratories Ltd.)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Dynamic Graph Query Primitives for SDN-based Cloud Network Management",
-			"",
+			"paper/hotsdn/p97.pdf",
 			"Ramya Raghavendra, Jorge Lobo, and Kang-won Lee (IBM Research)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Programming Your Network at Run-time for Big Data Applications",
-			"",
+			"paper/hotsdn/p103.pdf",
 			"Guohui Wang (IBM T.J. Watson Research Center), T. S. Eugene Ng (Rice University), and Anees Shaikh (IBM T.J. Watson Research Center)",
 			"Paper");
 		?>
@@ -157,28 +157,28 @@ Room: <b>Hall A</b>
 
 		<?php
 			tprog_add_item("OpenRadio: A Programmable Wireless Dataplane",
-			"",
+			"paper/hotsdn/p109.pdf",
 			"Manu Bansal, Jeffrey Mehlman, Sachin Katti, and Philip Levis (Stanford University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("Towards Programmable Enterprise WLANs With Odin",
-			"",
+			"paper/hotsdn/p115.pdf",
 			"Lalith Suresh (Instituto Superior Tecnico), Julius Schulz-Zander, Ruben Merz, and Anja Feldmann (Telekom Innovation Laboratories/TU Berlin), and Teresa Vazao (INESC-ID/Instituto Superior Tecnico)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("A Security Enforcement Kernel for OpenFlow Networks",
-			"",
+			"paper/hotsdn/p121.pdf",
 			"Phillip Porras (SRI International), Seungwon Shin (Texas A&amp;M University), Vinod Yegneswaran, Martin Fong, and Mabry Tyson (SRI International), and Guofei Gu (Texas A&amp;M University)",
 			"Paper");
 		?>
 
 		<?php
 			tprog_add_item("OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking",
-			"",
+			"paper/hotsdn/p127.pdf",
 			"Jafar Haadi Jafarian, Ehab Al-Shaer, and Qi Duan (UNC Charlotte)",
 			"Paper");
 		?>

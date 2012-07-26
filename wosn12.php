@@ -20,25 +20,25 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("8:50-10:30", "Session 1: Share at Your Own Risk", "Krishna Gummadi (MPI-SWS)"); ?>
 
 		<?php tprog_add_item("Poultry Markets: On the Underground Economy of Twitter Followers",
-			"",
+			"paper/wosn/p1.pdf",
 			"Gianluca Stringhini, Manuel Egele, Christopher Kruegel, and Giovanni Vigna (UC Santa Barbara)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Big Friend is Watching You: Analyzing the Tracking Capabilities of Online Social Networks",
-			"",
+			"paper/wosn/p7.pdf",
 			"Abdelberi Chaabane (INRIA), Mohamed Ali Kaafar (INRIA, NICTA), and Roksana Boreli (NICTA, UNSW)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("A Workflow for Differentially-Private Graph Synthesis",
-			"",
+			"paper/wosn/p13.pdf",
 			"Davide Proserpio and Sharon Goldberg (Boston University), and Frank McScherry (Microsoft Research)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Is More Always Merrier? A Deep Dive Into Online Social Footprints",
-			"",
+			"paper/wosn/p67.pdf",
 			"Terence Chen (NICTA and UNSW), Mohamed Ali Kaafar (INRIA and NICTA), Arik Friedman (NICTA), and Roksana Boreli (NICTA, UNSW)",
 			"Paper");
 		?>
@@ -49,19 +49,19 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("11:00-12:30", "Session 2: Locked in A Long-Distance Relationship", "James Salter (GCHQ)"); ?>
 
 		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions",
-			"",
+			"paper/wosn/p19.pdf",
 			"Andreas Kaltenbrunner (Barcelona Media Foundation), Salvatore Scellato (University of Cambridge), Yana Volkovich and David Laniado (Barcelona Media Foundation), Dave Currie and Erik J. Jutemar (Tuenti), and Cecilia Mascolo (University of Cambridge)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Coarse-Grained Topology Estimation via Graph Sampling",
-			"",
+			"paper/wosn/p25.pdf",
 			"Maciej Kurant, Minas Gjoka, Yan Wang, Zack W. Almquist, Carter T. Butts, and Athina Markopoulou (UC Irvine)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("The Importance of Being Placefriends: Discovering Location-focused Online Communities",
-			"",
+			"paper/wosn/p31.pdf",
 			"Chlo&euml; Brown, Vincenzo Nicosia, Salvatore Scellato, Anastasios Noulas, Cecilia Mascolo (University of Cambridge)",
 			"Paper");
 		?>
@@ -73,19 +73,19 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("14:00-15:30", "Session 3: Do Your Servers Social Network?", "Walter Willinger (AT&amp;T Labs--Research)"); ?>
 
 		<?php tprog_add_item("Shortest Paths in Less Than a Millisecond",
-			"",
+			"paper/wosn/p37.pdf",
 			"Rachit Agarwal, Matthew Caesar, and P. Brighten Godfrey (UIUC), and Ben Y. Zhao (UC Santa Barbara)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Navigation Characteristics of Online Social Networks and Search Engines Users.",
-			"",
+			"paper/wosn/p43.pdf",
 			"Christopher W Dunn and Minaxi Gupta (Indiana University), and Oliver Spatscheck (AT&amp;T Labs-Research)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Keeping Information Safe from Social Networking Apps",
-			"",
+			"paper/wosn/p49.pdf",
 			"Bimal Viswanath, MPI-SWS, Emre Kiciman and Stefan Saroiu (Microsoft Research)",
 			"Paper");
 		?>
@@ -97,13 +97,13 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("16:00-16:50", "Session 4: Think Before You Post", "Sue Moon (KAIST)"); ?>
 
 		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network",
-			"",
+			"paper/wosn/p55.pdf",
 			"Saptarshi Ghosh and Naveen Sharma (IIT Kharagpur), Fabricio Benevenuto (Federal University of Ouro Preto, Brazil), Niloy Ganguly, IIT Kharagpur, and Krishna P. Gummadi (MPI-SWS)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Why Watching Movie Tweets Won't Tell the Whole Story",
-			"",
+			"paper/wosn/p61.pdf",
 			"Felix Ming Fai Wong, Soumya Sen, and Mung Chiang (Princeton University)",
 			"Paper");
 		?>

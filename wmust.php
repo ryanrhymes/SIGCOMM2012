@@ -23,7 +23,7 @@ Rooms: <b>#25-26</b>
 		<?php tprog_add_session("9:10-10:30", "Session 1: Design From the Networking Perspective", ""); ?>
 
 		<?php tprog_add_item("Measuring the Perceptual Quality of Skype Sources",
-			"",
+			"paper/w-must/p1.pdf",
 			"Chien-nan Chen; Cing-Yu Chu; Su-Ling Yeh; Hao-hua Chu; Polly Huang (National Taiwan University)",
 			"Paper");
 		?>
@@ -42,13 +42,13 @@ Rooms: <b>#25-26</b>
 
 
 		<?php tprog_add_item("Estimating Packet Loss Rate in the Access Through Application Level Measurements",
-			"",
+			"paper/w-must/p7.pdf",
 			"Simone Basso (NEXA Center for Internet &amp; Society at Politecnico di Torino) Michela Meo (Politecnico di Torino) Antonio Servetti (Politecnico di Torino) Juan Carlos De Martin (NEXA Center for Internet &amp; Society at Politecnico di Torino)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Up, Down and Around the Stack: ISP Characterisation From Network Intensive Applications",
-			"",
+			"paper/w-must/p13.pdf",
 			"Zachary S. Bischof; John S. Otto; Fabian E. Bustamante (Northwestern University)",
 			"Paper");
 		?>
@@ -67,7 +67,7 @@ Rooms: <b>#25-26</b>
 
 
 		<?php tprog_add_item("User-driven Dynamic Prioritisation In the Home",
-			"",
+			"paper/w-must/p19.pdf",
 			"Jake Martin (Georgia Tech); Nick Feamster (University of Maryland)",
 			"Paper");
 		?>

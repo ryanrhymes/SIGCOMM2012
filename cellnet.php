@@ -39,14 +39,14 @@ Room: <b>Hall B</b>
 
 
 		<?php tprog_add_item("Understanding Bufferbloat in Cellular Networks",
-			"",
+			"paper/cellnet/p1.pdf",
 			"Haiqing Jiang (North Carolina State University), Zeyu Liu (North Carolina State University), Yaogong Wang (North Carolina State University), Kyunghan Lee (North Carolina State University), and Injong Rhee  (North Carolina State University)",
 			"Paper");
 		?>
 
 
 		<?php tprog_add_item("Invited Paper: Characterizing Data Usage Patterns in Cellular Networks",
-			"",
+			"paper/cellnet/p7.pdf",
 			"Yu Jin (AT&amp;T Research), Nick Duffield (AT&amp;T Research), Alexandre Gerber (AT&amp;T Research), Patrick Haffner (AT&amp;T Research), Wen-Ling Hsu (AT&amp;T Research), Guy Jacobson (AT&amp;T Research), Subhabrata Sen (AT&amp;T Research), Shobha Venkataraman (AT&amp;T Research), and Zhi-Li Zhang (University of Minnesota)",
 			"Paper");
 		?>
@@ -58,7 +58,7 @@ Room: <b>Hall B</b>
 		?>
 
 		<?php tprog_add_item("Understanding the Characteristics of Cellular Data Traffic",
-			"",
+			"paper/cellnet/p13.pdf",
 			"Ying Zhang (Ericsson Research) and &Aring;ke Arvidsson (Ericsson Research)",
 			"Paper");
 		?>
@@ -70,25 +70,25 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("14:00-15:30", "Leveraging WiFi", "Jia Wang (AT&amp;T Research)"); ?>
 
 		<?php tprog_add_item("Making Use of All the Networks Around Us: A Case Study in Android",
-			"",
+			"paper/cellnet/p19.pdf",
 			"Kok-Kiong Yap (Stanford University), Te-Yuan Huang (Stanford University), Masayoshi Kobayashi (NEC Corp.), Ioannis Yiakoumis (Stanford University), Nick McKeown (Stanford University), Sachin Katti (Stanford University), and Guru Parulkar (Stanford University)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Casting Doubts on the Viability of WiFi Offloading",
-			"",
+			"paper/cellnet/p25.pdf",
 			"Shu Liu (University of Notre Dame) and Aaron D Striegel (University of Notre Dame)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Exploring Mobile/WiFi Handover with MultiPath TCP",
-			"",
+			"paper/cellnet/p31.pdf",
 			"Christoph Paasch (Universit&eacute; Catholique de Louvain), Gregory Detal (Universit&eacute; Catholique de Louvain), Fabien Duchene (Universit&eacute; Catholique de Louvain), Costin Raiciu (University Politehnica of Bucharest), and Olivier Bonaventure (Universit&eacute; Catholique de Louvain)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Invited Paper: Policy-Based Network Management For Generalized Vehicle-To-Internet Connectivity",
-			"",
+			"paper/cellnet/p37.pdf",
 			"Joshua Hare (University of Wisconsin), Lance Hartung (University of Wisconsin), and Suman Banerjee (University of Wisconsin)",
 			"Paper");
 		?>
@@ -100,7 +100,7 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("16:00-16:45", "Coverage and Location", "Suman Banerjee (University of Wisconsin)"); ?>
 
 		<?php tprog_add_item("Improving Coverage Estimation for Cellular Networks with Spatial Bayesian Prediction based on Measurements",
-			"",
+			"paper/cellnet/p43.pdf",
 			"Berna Sayrac (Orange Labs), Janne Riihij&auml;rvi (RWTH Aachen University), Petri M&auml;h&ouml;nen (RWTH Aachen University), Sana Ben Jemaa (Orange Labs), Eric Moulines (Ecole Nationale Sup&eacute;rieure des T&eacute;l&eacute;communications), S&eacute;bastien Grimoud (France Telecom R&amp;D)",
 			"Paper");
 		?>

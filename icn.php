@@ -19,25 +19,25 @@ Room: <b>Hall A</b>
 		<?php tprog_add_session("9:00-10:30", "Session 1: ICN Architecture", "Giacomo Morabito (University of Catania)"); ?>
 
 		<?php tprog_add_item("Pervasive Persistent Identification for Information Centric Networking",
-			"",
+			"paper/icn/p1.pdf",
 			"Karen Sollins (MIT)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Exploit the known or explore the unknown? Hamlet-like doubts in ICN",
-			"",
+			"paper/icn/p7.pdf",
 			"Raffaele Chiocchetti (Telecom ParisTech) , Dario Rossi (Telecom ParisTech), Giuseppe Rossini (Telecom ParisTech), Giovanna Carofiglio (Alcatel Lucent Bell Labs); Diego Perino (Alcatel Lucent Bell Labs)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Mobility Support in Content Centric Networks",
-			"",
+			"paper/icn/p13.pdf",
 			"Dohyung Kim (KAIST), Jong-Hwan Kim (ETRI), Yusung Kim (Sungkyunkwan Univ), Hyun-Soo Yoon (KAIST); Ikjun Yeom (Sungkyunkwan Univ);",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Transport-layer issues in Information Centric Networks",
-			"",
+			"paper/icn/p19.pdf",
 			"Stefano Salsano (University of Rome \"Tor Vergata\"), Andrea Detti (University of Rome \"Tor Vergata\"), Matteo Pomposini (University of Rome \"Tor Vergata\"), Matteo Cancellieri (University of Rome \"Tor Vergata\" ) and Nicola Blefari Melazzi (University of Rome \"Tor Vergata\")",
 			"Paper");
 		?>
@@ -49,25 +49,25 @@ Room: <b>Hall A</b>
 		<?php tprog_add_session("11:00-12:30", "Session 2: Specific System Designs", "George C. Polyzos (AUEB)"); ?>
 
 		<?php tprog_add_item("An Open Content Delivery Infrastructure Using Data Lockers",
-			"",
+			"paper/icn/p25.pdf",
 			"Richard Alimi(Yale Univ.), Leo Chen (HP Laboratories), Dirk Kutscher (NEC Laboratories Europe), Harry Liu (Yale Univ.), Akbar Rahman (InterDigital), Y. Richard Yang (Yale Univ.), David Zhang (PPLive) and Ning Zong (Huawei)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Coexist: A Hybrid Approach for Content Oriented Publish/Subscribe Systems",
-			"",
+			"paper/icn/p31.pdf",
 			"Jiachen Chen (University of G&ouml;ttingen), Mayutan Arumaithurai (NEC Laboratories Europe), Xiaoming Fu (University of G&ouml;ttingen) and K.K. Ramakrishnan (AT&amp;T Laboratories)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Joint Hop-by-Hop and Receiver-Driven Interest Control Protocol for Content-Centric Networks",
-			"",
+			"paper/icn/p37.pdf",
 			"Giovanna Carofiglio (Bell Labs, Alcatel Lucent), Massimo Gallo (Orange Labs, France Telecom) and Luca Muscariello (Orange Labs, France Telecom)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("A Multi-Level DHT Routing Framework with Aggregation",
-			"",
+			"paper/icn/p43.pdf",
 			"Hang Liu (InterDigital)",
 			"Paper");
 		?>
@@ -79,25 +79,25 @@ Room: <b>Hall A</b>
 		<?php tprog_add_session("14:00-15:30", "Session 3: Forwarding and Caching", "Ignacio Solis (PARC)"); ?>
 
 		<?php tprog_add_item("CATT: Potential Based Routing with Content Caching for ICN",
-			"",
+			"paper/icn/p49.pdf",
 			"Suyong Eum (NICT), Kiyohide Nakauchi (NICT), Masayuki Murata (Osaka University), Yozo Shoji (NICT) and Nozomu Nishinaga (NICT)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("To Cache or Not To Cache: Probabilistic In-Network Caching for Information-Centric Networks",
-			"",
+			"paper/icn/p55.pdf",
 			"Ioannis Psaras (University College London), Wei Koong Chai (University College London) and George Pavlou (University College London)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Proactive Selective Neighbor Caching for enhancing Mobility Support in Information-Centric Networks",
-			"",
+			"paper/icn/p61.pdf",
 			"Xenofon Vasilakos (Athens University of Economics and Business), Vasilios Siris (Athens University of Economics and Business), George Polyzos (Athens University of Economics and Business) and Marios Pomonis (Athens University of Economics and Business)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("On the Effects of Caching in Access Aggregation Networks",
-			"",
+			"paper/icn/p67.pdf",
 			"John Ardelius (SICS), Lars Westberg (Ericsson Research), &Aring;ke Arvidsson (Ericsson Research) and Bj&ouml;rn Gr&ouml;nvall (SICS)",
 			"Paper");
 		?>
@@ -109,25 +109,25 @@ Room: <b>Hall A</b>
 		<?php tprog_add_session("16:00-17:30", "Session 4: ICN Applications and Optimizations", "B&ouml;rje Ohlman (Ericsson Research)"); ?>
 
 		<?php tprog_add_item("Caesar: a Content Router for High Speed Forwarding",
-			"",
+			"paper/icn/p73.pdf",
 			"Matteo Varvello (Bell Labs, Alcatel-Lucent), Diego Perino (Bell Labs, Alcatel-Lucent) and Jairo Esteban (Bell Labs, Alcatel-Lucent)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Information-Centric Networking Architecture for Data Centers",
-			"",
+			"paper/icn/p79.pdf",
 			"Bong Jun Ko (IBM T. J. Watson Research Center) , Vasileios Pappas (IBM T. J. Watson Research Center), Ramya Raghavendra (IBM T. J. Watson Research Center), Yang Song (IBM T. J. Watson Research Center), Raheleh B. Dilmaghani (IBM T. J. Watson Research Center), Kang-Won Lee and Dinesh Verma (IBM T. J. Watson Research Center)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Access Control Enforcement Delegation for Information-Centric Networking Architectures",
-			"",
+			"paper/icn/p85.pdf",
 			"Nikos Fotiou (Athens University of Economics and Business), Giannis Marias (Athens University of Economics and Business) and George Polyzos (Athens University of Economics and Business)",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("ICN-RE: Redundancy Elimination for Information-Centric Networking",
-			"",
+			"paper/icn/p91.pdf",
 			"Diego Perino (Bell Labs, Alcatel-Lucent), Matteo Varvello (Bell Labs, Alcatel-Lucent) and Krishna P. N. Puttaswamy (Bell Labs, Alcatel-Lucent)",
 			"Paper");
 		?>

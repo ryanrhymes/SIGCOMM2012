@@ -28,13 +28,13 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("8:45-9:30", "Session 1: Mobile Cloud Architecture I", ""); ?>
 
 		<?php tprog_add_item("On Cloud-Centric Network Architecture for Multi-Dimensional Mobility",
-			"",
+			"paper/mcc/p1.pdf",
 			"K. Kim, S. Lee, P. Congdon",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("SCAMPI: Service platform for soCial Aware Mobile and Pervasive computing",
-			"",
+			"paper/mcc/p7.pdf",
 			"M. Pitk&auml;nen, A. Passarella, S. Giordano, F. Legendre, T. Spyropoulos, J. Ott, T. K&auml;rkk&auml;inen, M. Conti, D. Puccinelli, M. May, N. Hedge, K. Hummel, S. Trifunovic",
 			"Paper");
 		?>
@@ -57,25 +57,25 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture II", ""); ?>
 
 		<?php tprog_add_item("Scalability of a Mobile Cloud Management System",
-			"",
+			"paper/mcc/p17.pdf",
 			"R. Bifulco, M. Brunner, R. Canonico, P. Hesselmeyer, F. Mir",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Computing in Cirrus Clouds: The Challenge of Intermittent Connectivity",
-			"",
+			"paper/mcc/p23.pdf",
 			"C. Shi, M. Ammar, E. Zegura, M. Naik",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("SNARF: A Social Networking-inspired Accelerator Remoting Framework",
-			"",
+			"paper/mcc/p29.pdf",
 			"H. Eom, P. Juste, R. Figueiredo, O. Tickoo, R. Illikkal, R. Iyer",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Characterization of the Impact of Resource Availability on Opportunistic Computing",
-			"",
+			"paper/mcc/p35.pdf",
 			"A. Ferrari, D. Puccinelli, S. Giordano",
 			"Paper");
 		?>
@@ -108,31 +108,31 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("16:00-17:45", "Session 2: Mobile Cloud Sensing", ""); ?>
 
 		<?php tprog_add_item("A Cloud-Assisted Design for Autonomous Driving",
-			"",
+			"paper/mcc/p41.pdf",
 			"S. Kumar, S. Gollakota, D. Katabi",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Fog Computing and Its Role in the Internet of Things",
-			"",
+			"paper/mcc/p13.pdf",
 			"F. Bonomi, S. Addepalli, R. Milito, J. Zhu",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("The Case for Cloud-Enabled Mobile Sensing Services",
-			"",
+			"paper/mcc/p53.pdf",
 			"S. Sen, A. Misra, R. Balan, L. Lim",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("An Integrated Cloud-based Framework for Mobile Phone Sensing",
-			"",
+			"paper/mcc/p41.pdf",
 			"R. Fakoor, M. Raj, A. Nazi, M. Di Francesco, S. K. Das",
 			"Paper");
 		?>
 
 		<?php tprog_add_item("Energy-Aware Keyword Search on Mobile Phones",
-			"",
+			"paper/mcc/p59.pdf",
 			"W. Rao, K. Zhao, E. Lagerspetz, P. Hui, S. Tarkoma",
 			"Paper");
 		?>
