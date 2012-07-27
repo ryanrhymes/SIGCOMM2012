@@ -102,5 +102,34 @@ function tprog_add_item($paper, $link, $authors, $info)
 	print("</li>\n");
 }
 
+function check_downloadcode($code, $code_file)
+{
+	/* Load the code table */
+	$content = strtoupper(file_get_contents($code_file));
+	preg_match_all('/\S+/', $content, $ctable);
+	/* Format the code */
+	$code = strtoupper(sha1($code));
+	echo $code;
+	return in_array(strtoupper($code), $ctable[0]);
+}
+
+function send_paper_archive($file)
+{
+	if (file_exists($file)) {
+    	header('Content-Description: File Transfer');
+    	header('Content-Type: application/octet-stream');
+    	header('Content-Disposition: attachment; filename='.basename($file));
+    	header('Content-Transfer-Encoding: binary');
+    	header('Expires: 0');
+    	header('Cache-Control: must-revalidate');
+    	header('Pragma: public');
+    	header('Content-Length: ' . filesize($file));
+    	ob_clean();
+    	flush();
+    	readfile($file);
+    	exit;
+	}
+}
+
 ?>
 
