@@ -109,7 +109,6 @@ function check_downloadcode($code, $code_file)
 	preg_match_all('/\S+/', $content, $ctable);
 	/* Format the code */
 	$code = strtoupper(sha1($code));
-	echo $code;
 	return in_array(strtoupper($code), $ctable[0]);
 }
 
