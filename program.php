@@ -41,7 +41,7 @@
 		<?php
 			tprog_add_item("SIGCOMM Award Keynote",
 			"",
-			"N.N.",
+			"Nick McKeown",
 			"Keynote");
 		?>
 
