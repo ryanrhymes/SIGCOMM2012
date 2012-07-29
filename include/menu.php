@@ -55,9 +55,6 @@ $mypage = current_pagename();
 			<iframe src="include/tweetlist.php" scrolling="no" height="380" width="100%" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 		</div>
 		<div>
-			<a href="archive.php" data-rel="dialog" data-transition="pop" data-role="button" rel="external">Download Archive</a>
-		</div>
-		<div>
-			<a href="#" id="archive_btn" data-role="button">Download Archive 2</a>
+			<a href="#" id="archive_btn" data-role="button">Download Proceedings</a>
 		</div>
 	</div>

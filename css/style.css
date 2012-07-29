@@ -417,6 +417,15 @@ div.fees {
 	margin: 0 0 10px 10px;
 }
 
+#jqm-home .ui-simpledialog-input {
+	margin: auto;
+}
+
+#jqm-home .ui-simpledialog-controls .ui-btn {
+	margin: 0.5em auto;
+	width: 85%;
+}
+
 /* site layout */
 @media all and (max-width: 650px){
 	a.button {
