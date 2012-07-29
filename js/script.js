@@ -245,6 +245,22 @@ $(document).bind('pagebeforeshow', function(event){
 				$('input[data-type="search"]').trigger("change");
 		});
 		
+		$(document).delegate('#archive_btn', 'click', function() {
+			$('<div>').simpledialog2({
+				mode: 'button',
+				headerText: 'Download Code',
+				headerClose: true,
+				buttonInput: true,
+				buttons : {
+					'OK': {
+						click: function () {
+								window.open('archive.php?code=' + $('input[name=pickin]').val());
+							}
+						},
+				}
+  			})
+		})
+		
 	}
 	catch(err)
 	{

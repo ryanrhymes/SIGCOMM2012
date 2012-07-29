@@ -12,11 +12,11 @@
     include_once "include/functions.php";
     $info = "Download Paper Archive";
 
-	if (!empty($_POST))
+	if (!empty($_GET))
 	{
 		/* If code in the POST, check the validity */
 		
-		$code = $_POST["code"];
+		$code = $_GET["code"];
 		if (check_downloadcode($code, "codes.txt"))
 		{
 			send_paper_archive("/home/lxwang/htdocs/SIGCOMM2012/archive.zip");
@@ -25,10 +25,11 @@
 		{
 			/* If the code is not valid, send the error message! */
 			$info = "<span style='color:red;'>Error: Wrong Code!</span>";
+			echo "<html><head></head><body><script type='text/javascript'> self.close(); </script></body></html>";
 		}
 	}
-	#else
-	#{
+	else
+	{
 		/* If there is nothing in the POST, load the form */
 ?>
 
@@ -94,5 +95,5 @@
 </html>
 
 <?php
-		#}
+		}
 ?>

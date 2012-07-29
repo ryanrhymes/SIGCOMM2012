@@ -57,4 +57,7 @@ $mypage = current_pagename();
 		<div>
 			<a href="archive.php" data-rel="dialog" data-transition="pop" data-role="button" rel="external">Download Archive</a>
 		</div>
+		<div>
+			<a href="#" id="archive_btn" data-role="button">Download Archive 2</a>
+		</div>
 	</div>

@@ -64,6 +64,10 @@
 	<script src="//code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
+	<!-- Test code -->
+	<link rel="stylesheet" type="text/css" href="http://dev.jtsage.com/cdn/simpledialog/latest/jquery.mobile.simpledialog.min.css" />
+	<script src="http://dev.jtsage.com/cdn/simpledialog/latest/jquery.mobile.simpledialog2.min.js"></script>
+
 	<script src="js/jqm-docs.js"></script>
 	<script src="js/script.js"></script>
 </head>
@@ -73,7 +77,6 @@
 <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
 	 chromium.org/developers/how-tos/chrome-frame-getting-started -->
 <!--[if lt IE 7 ]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
 <div data-role="page" id="jqm-home" class="type-home">
 
 	<div class="header" data-role="header" data-theme="c" data-position="inline"> 
