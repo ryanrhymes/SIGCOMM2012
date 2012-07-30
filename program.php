@@ -5,6 +5,7 @@
 
 
 <h2 class="hcls">Conference Program</h2>
+<a href="#" id="archive_btn" data-role="button" class="button">Download Proceedings</a>
 
 <div id="prog_ctrl" data-role="navbar">
 	<ul>

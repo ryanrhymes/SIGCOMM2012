@@ -3,11 +3,11 @@
 	# didn't honor the mod_deflate setting we enable in .htaccess for a while,
 	# which made this neccessary. No longer needed, but left for information.
 	# ini_set("zlib.output_compression", "On");
-	
+
 	# Transparently convert normal ASCII quotes into typographic punctuation HTML entities.
 	# http://michelf.com/projects/php-smartypants/
 	include_once "include/smartypants.php";
-	ob_start();	
+	ob_start();
 
     include_once "functions.php";
     $mypage = current_pagename();
@@ -23,7 +23,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 	<meta name="copyright" content="The ACM SIGCOMM 2012 Website by ACM SIGCOMM 2012 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License." />
-	
+
 	<title>
 <?php
     if(isset($page_title)) {
@@ -43,6 +43,7 @@
 	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
     <link rel="shortcut icon" href="images/favicon.ico" />
 	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
+	<link rel="stylesheet" href="css/jquery.mobile.simpledialog.min.css " />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
 
@@ -64,9 +65,8 @@
 	<script src="//code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
 	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
-	<!-- Test code -->
-	<link rel="stylesheet" type="text/css" href="http://dev.jtsage.com/cdn/simpledialog/latest/jquery.mobile.simpledialog.min.css" />
-	<script src="http://dev.jtsage.com/cdn/simpledialog/latest/jquery.mobile.simpledialog2.min.js"></script>
+	<!-- jQueryMobile - SimpleDialog -->
+	<script src="js/jquery.mobile.simpledialog2.min.js"></script>
 
 	<script src="js/jqm-docs.js"></script>
 	<script src="js/script.js"></script>
@@ -79,11 +79,11 @@
 <!--[if lt IE 7 ]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 <div data-role="page" id="jqm-home" class="type-home">
 
-	<div class="header" data-role="header" data-theme="c" data-position="inline"> 
+	<div class="header" data-role="header" data-theme="c" data-position="inline">
 		<div><a href="index.php"><img src="images/helsinki-logo-vert.png" style="height:40px" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland"></a></div>
 		<a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.navselected').position().top)" class="ui-btn-right" data-icon="grid">Site Menu</a>
-	</div> 
+	</div>
 
-	<div data-role="content" class="content">	
+	<div data-role="content" class="content">
 
 		<div class="content-primary">

@@ -4,26 +4,26 @@
   // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
   var debounce = function (func, threshold, execAsap) {
       var timeout;
- 
+
       return function debounced () {
           var obj = this, args = arguments;
           function delayed () {
               if (!execAsap)
                   func.apply(obj, args);
-              timeout = null; 
+              timeout = null;
           };
- 
+
           if (timeout)
               clearTimeout(timeout);
           else if (execAsap)
               func.apply(obj, args);
- 
-          timeout = setTimeout(delayed, threshold || 100); 
+
+          timeout = setTimeout(delayed, threshold || 100);
       };
   }
-	// smartresize 
+	// smartresize
 	jQuery.fn[sr] = function(fn){  return fn ? this.bind('resize', debounce(fn)) : this.trigger(sr); };
- 
+
 })(jQuery,'smartresize');
 
 function resize() {
@@ -146,12 +146,12 @@ function ticker_tape() {
 function showall(divname) {
   $.mobile.activePage.find(".newslibtn").find("span").toggleClass("ui-icon-plus");
   $.mobile.activePage.find(".newslibtn").find("span").toggleClass("ui-icon-minus");
-  
+
   if ($.mobile.activePage.find(".newslibtn").siblings().slice(-1).css("display") == "none") {
 	$.mobile.activePage.find(".newslibtn").siblings().show();
     $.mobile.activePage.find(".newslibtn").find("a").text("Hide Older News");
   } else {
-	$.mobile.activePage.find(".newslibtn").siblings().slice(10).hide();
+	$.mobile.activePage.find(".newslibtn").siblings().slice(7).hide();
     $.mobile.activePage.find(".newslibtn").find("a").text("Older News");
   }
 }
@@ -174,10 +174,10 @@ $(document).bind('pagebeforeshow', function(event){
 	{
 		init_sps();
 		resize();
-		
+
 		["a", "b", "c"].forEach(function(x) {
 			// hide all by default
-			$.mobile.activePage.find(".subnav-" + x).hide();				
+			$.mobile.activePage.find(".subnav-" + x).hide();
 			$.mobile.activePage.find(".navheader-" + x).click(
 				function () {
 					$.mobile.activePage.find(".navheader-" + x).toggleClass("headerselected");
@@ -226,7 +226,7 @@ $(document).bind('pagebeforeshow', function(event){
 					// if we're hitting a date divider, determine if we need to show or hide items
 					if ($(this).text().match(re)) {
 						// show the date divider and all following items
-						hide = false;						
+						hide = false;
 					} else if (day == "All") {
 						// this is a new date divider, hide it and all following items
 						hide = false;
@@ -234,7 +234,7 @@ $(document).bind('pagebeforeshow', function(event){
 						// this is a new date divider, hide it and all following items
 						hide = true;
 					}
-					
+
 					// show or hide the items
 					if (hide) {
 						$(this).addClass("ui-screen-hidden");
@@ -244,15 +244,16 @@ $(document).bind('pagebeforeshow', function(event){
 				});
 				$('input[data-type="search"]').trigger("change");
 		});
-		
+
 		$(document).delegate('#archive_btn', 'click', function() {
 			$('<div>').simpledialog2({
 				mode: 'button',
-				headerText: '<span id="archive_info">Code</span>',
+				headerText: '<span id="archive_info">Proceedings</span>',
 				headerClose: true,
 				buttonInput: true,
+                buttonPrompt: 'Enter the "Registration ID" from your registration confirmation email. ',
 				buttons : {
-					'OK': {
+					'Download': {
 						click: function () {
 							// Check the validity of the download code
 							$.ajax({
@@ -279,7 +280,7 @@ $(document).bind('pagebeforeshow', function(event){
 				}
   			})
 		});
-		
+
 	}
 	catch(err)
 	{

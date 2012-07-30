@@ -24,6 +24,7 @@ This site uses a bunch of open javascript libraries. You will want to use their 
 * http://jquerymobile.com/ - the javascript goes into `js` and the CSS and images go into `css`
 * http://jquerymobile.com/demos/1.1.0/docs/_assets/css/jqm-docs.css - the CSS for the jquerymobile documentation page, goes into CSS
 * http://code.google.com/p/css3-mediaqueries-js/ - the javascript goes into `js`
+* http://dev.jtsage.com/jQM-SimpleDialog/demos2/index.html - the javascript goes into `js` and the CSS and images go into `css`
 
 
 Cache manifest for offline usage
