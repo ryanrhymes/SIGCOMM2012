@@ -13,7 +13,7 @@ echo Creating minified site in $out...
 find . -print0 | while read -d $'\0' item
 do
   if [[ $item == ./.git* || $item == ./.DS* || $item == ./*.xls ||
-  	    $item == ./*.md || $item == ./scripts* ]]; then
+  	    $item == ./*.md || $item == ./scripts* || $item == ./paper* ]]; then
 	# skip these files
 	[[ $item != ./.git* ]] && echo "# skip $item"
   	continue
@@ -67,7 +67,7 @@ date +'# %F %R' >> $cm
 echo >> $cm
 echo CACHE: >> $cm
 # omit some older pages (various CFx, etc.) from the cache manifest to speed up loading
-find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm|xml|xls))|publish|lint|proposals|submission|workshops|^cf" >> $cm
+find . -type f | sed -Ee 's/^\.\///g' | grep -Ev '^\.' | grep -Ev "^include" | grep -Ev "(\.(docx?|pdf|txt|cls|md|DS_Store|htm|xml|xls))|publish|lint|proposals|submission|workshops|paper|^cf" >> $cm
 echo >> $cm
 echo NETWORK: >> $cm
 echo '*' >> $cm
@@ -77,7 +77,7 @@ echo >> $cm
 chmod -R ug+rwX,o+rX $out
 
 # upload to the ACM's server
-rsync -azvv --rsh=ssh --delete --exclude=paper $out/ lars@turing.acm.org:~/2012/
+rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ lars@turing.acm.org:~/2012/
 
 # fix permissions remotely
 ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012"
