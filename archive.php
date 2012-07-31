@@ -12,7 +12,7 @@
 
 		if ($check==0 && $valid==true)
 		{
-			send_paper_archive("/acminfo/2/sigs/sigcomm/conferences/sigcomm/2012/sigcomm-2012-proceedings.zip");
+			send_paper_archive("/home/lars/sigcomm-2012-proceedings.zip");
 		}
 		else if ($check==1 && $valid==true) 
 		{
