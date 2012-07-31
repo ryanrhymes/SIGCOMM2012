@@ -276,7 +276,7 @@ $(document).bind('pagebeforeshow', function(event){
 							}
 							// Click function ends
 						}
-					},
+					}
 				}
   			})
 		});
