@@ -109,7 +109,7 @@
 
 		<?php
 			tprog_add_item("RaptorStream: Boosting Mobile Peer-to-Peer Streaming with Raptor Codes",
-			"",
+			"paper/sigcomm/p291.pdf",
 			"Philipp M. Eittenberger (University of Bamberg)",
 			"Poster");
 		?>
