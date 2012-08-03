@@ -64,9 +64,6 @@
 	<script src="//code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.js"></script>
 	<!-- <script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script> -->
 
-	<!-- jQueryMobile - SimpleDialog -->
-	<script src="js/jquery.mobile.simpledialog2.min.js"></script>
-
 	<script src="js/jqm-docs.js"></script>
 	<script src="js/script.js"></script>
 </head>
