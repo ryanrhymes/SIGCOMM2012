@@ -426,6 +426,13 @@ div.fees {
 	width: 85%;
 }
 
+#archive_div {
+	font-size: 0.9em;
+	text-align: center;
+	width: 250px;
+	padding: 1em;
+}
+
 /* site layout */
 @media all and (max-width: 650px){
 	a.button {

@@ -10,7 +10,8 @@ Monday, August 13, 2012<br>
 Helsinki, Finland<br>
 Room: <b>Hall B</b>
 </p>
-<a href="#" id="archive_btn" data-role="button" class="button">Download Proceedings</a>
+
+<a href="#archive_div" class="button" data-rel="popup" data-role="button">Download Proceedings</a>
 
 <h2 class="hcls">Technical Program</h2>
 

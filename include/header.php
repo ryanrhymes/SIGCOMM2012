@@ -41,9 +41,8 @@
     </title>
 
 	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
-    <link rel="shortcut icon" href="images/favicon.ico" />
-	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
-	<link rel="stylesheet" href="css/jquery.mobile.simpledialog.min.css " />
+	<link rel="shortcut icon" href="images/favicon.ico" />
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
 
@@ -62,8 +61,8 @@
 	</script>
 
 	<!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
-	<script src="//code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
-	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
+	<script src="//code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.js"></script>
+	<!-- <script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script> -->
 
 	<!-- jQueryMobile - SimpleDialog -->
 	<script src="js/jquery.mobile.simpledialog2.min.js"></script>

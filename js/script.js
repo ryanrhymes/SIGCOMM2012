@@ -244,41 +244,30 @@ $(document).bind('pagebeforeshow', function(event){
 				});
 				$('input[data-type="search"]').trigger("change");
 		});
-
-		$(document).delegate('#archive_btn', 'click', function() {
-			$('<div>').simpledialog2({
-				mode: 'button',
-				headerText: '<span id="archive_info">Proceedings</span>',
-				headerClose: true,
-				buttonInput: true,
-                buttonPrompt: 'Enter the "Registration ID" from your registration confirmation email. ',
-				buttons : {
-					'Download': {
-						click: function () {
-							// Check the validity of the download code
-							$.ajax({
-								url: 'archive.php',
-								data: { check: 1, code: $('input[name=pickin]').val() },
-								async: false,
-								success: function(data) {
-									valid = $.trim(data);
-								}
-							});
-
-							// If the code is OK, start downloading; or give the error message!
-							if (valid=="true") {
-								window.open('archive.php?check=0&code=' + $('input[name=pickin]').val());
-							}
-							else {
-								$("#archive_info").css("color", "red");
-								$("#archive_info").html("Error!");
-								return false;
-							}
-							// Click function ends
-						}
-					}
+		
+		$.mobile.activePage.find("#archive_dbtn").click(function() {
+			// Check the validity of the download code
+			$.ajax({
+				url: 'archive.php',
+				data: { check: 1, code: $('#archive_code').val() },
+				async: false,
+				success: function(data) {
+					valid = $.trim(data);
 				}
-  			})
+			});
+
+			// If the code is OK, start downloading; or give the error message!
+			if (valid=="true") {
+				$("#archive_info").css("color", "green");
+				$("#archive_info").html("Success!");
+				window.open('archive.php?check=0&code=' + $('#archive_code').val());
+			}
+			else {
+				$("#archive_info").css("color", "red");
+				$("#archive_info").html("Error!");
+				return false;
+			}
+			// Click function ends
 		});
 
 	}
