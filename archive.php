@@ -1,6 +1,7 @@
 <?php
     include_once "include/functions.php";
 
+	$close_str = "<html><head></head><body><script type='text/javascript'> self.close(); </script></body></html>";
 	if (!empty($_GET))
 	{
 		/* If code in the POST, check the validity */
@@ -8,7 +9,6 @@
 		$code = $_GET["code"];
 		$check = $_GET["check"];
 		$valid = check_downloadcode($code, "codes.txt");
-		$close_str = "<html><head></head><body><script type='text/javascript'> self.close(); </script></body></html>";
 
 		if ($check==0 && $valid==true)
 		{

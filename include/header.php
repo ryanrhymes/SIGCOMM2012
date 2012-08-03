@@ -42,7 +42,7 @@
 
 	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
 	<link rel="shortcut icon" href="images/favicon.ico" />
-	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.css" />
+	<link rel="stylesheet" href="css/jquery.mobile.min.css" />
 	<link rel="stylesheet" href="css/jqm-docs.css" />
 	<link rel="stylesheet" href="css/style.css" />
 
@@ -50,7 +50,7 @@
 	<script src="js/css3-mediaqueries.js"></script>
 
 	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
 
 	<script>
@@ -62,7 +62,7 @@
 
 	<!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
 	<script src="//code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.js"></script>
-	<!-- <script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script> -->
+	<script>$.mobile || document.write('<script src="js/jquery.mobile.min.js"><\/script>')</script>
 
 	<script src="js/jqm-docs.js"></script>
 	<script src="js/script.js"></script>
