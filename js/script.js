@@ -244,7 +244,7 @@ $(document).bind('pagebeforeshow', function(event){
 				});
 				$('input[data-type="search"]').trigger("change");
 		});
-		
+
 		$.mobile.activePage.find("#archive_dbtn").click(function() {
 			// Check the validity of the download code
 			$.ajax({
