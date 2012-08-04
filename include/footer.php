@@ -2,7 +2,7 @@
 		<?php include ("menu.php"); ?>
 	</div><!-- /content -->
 
-		<div data-role="popup" data-position-to="window" data-transition="flip" id="archive_div" data-theme="a">
+		<div data-role="popup" data-position-to="window" data-transition="pop" data-overlay-theme="b" id="archive_div" data-theme="a">
 			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
 			<form>
 				<b><span id="archive_info">Download Proceedings</span></b>
