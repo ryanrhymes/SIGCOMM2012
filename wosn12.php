@@ -47,7 +47,7 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 
 
-		<?php tprog_add_session("11:00-12:30", "Session 2: Locked in A Long-Distance Relationship", "James Salter (GCHQ)"); ?>
+		<?php tprog_add_session("11:00-12:30", "Session 2: Locked in A Long-Distance Relationship", "Sue Moon (KAIST)"); ?>
 
 		<?php tprog_add_item("Far from the Eyes, Close on the Web: Impact of Geographic Distance on Online Social Interactions",
 			"paper/wosn/p19.pdf",
@@ -95,7 +95,7 @@ Room: <b>Hall B</b>
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 
 
-		<?php tprog_add_session("16:00-16:50", "Session 4: Think Before You Post", "Sue Moon (KAIST)"); ?>
+		<?php tprog_add_session("16:00-16:50", "Session 4: Think Before You Post", "James Salter (GCHQ)"); ?>
 
 		<?php tprog_add_item("Inferring Who-is-Who in the Twitter Social Network",
 			"paper/wosn/p55.pdf",
