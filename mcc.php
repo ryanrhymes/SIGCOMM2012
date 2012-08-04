@@ -26,7 +26,7 @@ Rooms: <b>#22-24</b>
 		?>
 
 
-		<?php tprog_add_session("8:45-9:30", "Session 1: Mobile Cloud Architecture I", ""); ?>
+		<?php tprog_add_session("8:45-9:30", "Session 1: Mobile Cloud Architecture I", "Mario Gerla"); ?>
 
 		<?php tprog_add_item("On Cloud-Centric Network Architecture for Multi-Dimensional Mobility",
 			"paper/mcc/p1.pdf",
@@ -55,7 +55,7 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
 
 
-		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture II", ""); ?>
+		<?php tprog_add_session("11:00-12:30", "Session 1: Mobile Cloud Architecture II", "Yevgeni Koucheryavy"); ?>
 
 		<?php tprog_add_item("Scalability of a Mobile Cloud Management System",
 			"paper/mcc/p17.pdf",
@@ -95,7 +95,7 @@ Rooms: <b>#22-24</b>
 			<p>
 				Fan Bai, General Motors Research &amp; Development, USA<br />
 				Kyu-Han Kim, Hewlett-Packard Laboratories, USA<br />
-				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Swiden<br />
+				Gunnar Karlsson,  Kungliga Tekniska h&ouml;gskolan, Sweden<br />
 				J&ouml;rg Ott, Aalto University, Finland<br />
 				Yevgeni Koucheryavy, Tampere University of Technology, Finland<br />
 			</p>",
@@ -106,7 +106,7 @@ Rooms: <b>#22-24</b>
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 
 
-		<?php tprog_add_session("16:00-17:45", "Session 2: Mobile Cloud Sensing", ""); ?>
+		<?php tprog_add_session("16:00-17:45", "Session 2: Mobile Cloud Sensing", "Mario Di Francesco"); ?>
 
 		<?php tprog_add_item("A Cloud-Assisted Design for Autonomous Driving",
 			"paper/mcc/p41.pdf",
