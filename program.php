@@ -103,7 +103,7 @@
 		<?php
 			tprog_add_item("Network-Aware Service Placement in a Distributed Cloud Environment",
 			"paper/sigcomm/p73.pdf",
-			"Moritz Steiner (Bell Labs), Bob Gaglianello Gaglianello (Bell Labs), Vijay Gurbani (Bell Labs), Volker Hilt (Bell Labs), W. D. Roome (Bell Labs), Michael Scharf (Bell Labs), Thomas Voith (Bell Labs)",
+			"Moritz Steiner (Bell Labs), Bob Gaglianello (Bell Labs), Vijay Gurbani (Bell Labs), Volker Hilt (Bell Labs), W. D. Roome (Bell Labs), Michael Scharf (Bell Labs), Thomas Voith (Bell Labs)",
 			"Demo");
 		?>
 
@@ -442,7 +442,7 @@ Reservations in Data Centers",
 		?>
 
 		<?php
-			tprog_add_item("Enabling Dynamic Network Processing with ClickO",
+			tprog_add_item("Enabling Dynamic Network Processing with ClickOS",
 			"paper/sigcomm/p293.pdf",
 			"Mohamed Ahmed (NEC Europe Ltd.), Felipe Huici (NEC Europe Ltd.), Armin Jahanpanah (NEC Europe Ltd.)",
 			"Poster");
