@@ -127,7 +127,7 @@ Rooms: <b>#22-24</b>
 		?>
 
 		<?php tprog_add_item("An Integrated Cloud-based Framework for Mobile Phone Sensing",
-			"paper/mcc/p41.pdf",
+			"paper/mcc/p47.pdf",
 			"R. Fakoor, M. Raj, A. Nazi, M. Di Francesco, S. K. Das",
 			"Paper");
 		?>
