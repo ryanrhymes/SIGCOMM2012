@@ -68,7 +68,7 @@ Rooms: <b>#22-24</b>
 
 		<?php tprog_add_item("Bridging the Gap between Industry and Academia",
 			"",
-			"Christoph Th&uuml;r (CEO, Ovelin), Sonja Kangas (IGDA Finland Director, Game Director, GuppyWorks), Fabi&aacute;n Bustamante (Northwestern)",
+			"Christoph Th&uuml;r (CEO, Ovelin), Aki J&auml;rvinen (Ph.D., Creative Director, Digital Chocolate), Fabi&aacute;n Bustamante (Northwestern)",
 			"Panel");
 		?>
 
@@ -167,9 +167,9 @@ Rooms: <b>#22-24</b>
 			"");
 		?>
 
-		<?php tprog_add_item("Sonja Kangas (Scoreloop / IGDA Finland)",
+		<?php tprog_add_item("Aki J&auml;rvinen, Ph.D., (Creative Director, Digital Chocolate)",
 			"",
-			"<img alt=\"Sonja Kangas (Scoreloop / IGDA Finland)\" src=\"images/people_image008.jpg\" class=\"bio_img\" /> Sonja Kangas (MA) is working as Senior Product Manager at Scoreloop. Previously she has been working as a resarcher and has written books and articles about game industry, various target groups and online &amp; mobile gaming trends for over 10 years. She has worked with online and mobile games as a developer at Guppylife, Digital Chocolate and Paf. For her the core focus has been on production and product management. In Finland she is the director of IGDA Finland which is one of the most active International Game Developers Association chapters in the world.",
+			"<img alt=\"Aki J&auml;rvinen, Ph.D., (Creative Director, Digital Chocolate)\" src=\"images/people_image011.jpg\" class=\"bio_img\" /> Aki J&auml;rvinen works as the Creative Director at Digital Chocolate's Helsinki studio in Finland. He has more than a decade of experience from designing and producing mobile games, online gambling, and browser-based games. Aki has also written a Ph.D. on academic methods of analyzing games from the perspectives of design and psychology. He has been involved in multiple game related research projects, and given numerous talks in both academic and industry conferences. Currently he is leading a team developing a next generation social game. You can follow his blog at: http://games4networks.posterous.com",
 			"");
 		?>
 
