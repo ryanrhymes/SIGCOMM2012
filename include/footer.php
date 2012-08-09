@@ -6,12 +6,12 @@
 			<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
 			<form>
 				<b><span id="archive_info">Download Proceedings</span></b>
-				<p>Enter the "Registration ID" from your registration confirmation email.<p>
+				<p>Enter the "Registration ID" from your registration confirmation email.</p>
 				<div data-role="fieldcontain">
 					<input type="text" name="archive_code" id="archive_code" value="" />
 				</div>
 				<div data-role="fieldcontain">
-					<a href="" id="archive_dbtn" data-role="button" data-theme="b">OK</a>
+					<a href="#" id="archive_dbtn" data-role="button" data-theme="b">OK</a>
 				</div>
 			</form>
 		</div>

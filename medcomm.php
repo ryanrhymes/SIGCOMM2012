@@ -63,7 +63,7 @@ Rooms: <b>#25-26</b>
 
 		<?php tprog_add_item("Modulated Backscatter for Ultra-low Power Uplinks from Wearable and Implantable Devices",
 			"paper/medcomm/p1.pdf",
-			"Stewart J. Thomas, Jordan S. Besnoff, <a href=\"http://alumni.media.mit.edu/~matt/\" rel=\"external\">Matthew S. Reynolds</a> (Duke University)",
+			"Stewart J. Thomas, Jordan S. Besnoff, Matthew S. Reynolds (Duke University)",
 			"Paper");
 		?>
 
@@ -81,7 +81,7 @@ Rooms: <b>#25-26</b>
 
 		<?php tprog_add_item("Towards a Safe Integrated Clinical Environment: A Communication Security Perspective",
 			"paper/medcomm/p7.pdf",
-			"<a href=\"http://www-users.cs.umn.edu/~foo/\">Denis Foo Kune</a>, Yongdae Kim (Univ. Minnesota); Krishna Venkatasubramanian, Insup Lee (UPenn); Eugene Vasserman (Kansas State Univ.)",
+			"Denis Foo Kune, Yongdae Kim (Univ. Minnesota); Krishna Venkatasubramanian, Insup Lee (UPenn); Eugene Vasserman (Kansas State Univ.)",
 			"Paper");
 		?>
 
