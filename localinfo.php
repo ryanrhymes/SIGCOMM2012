@@ -221,10 +221,11 @@ Click on the Google icon in the map for a larger view.
 The hotels in the list can be found from <a href="http://maps.google.com/maps/ms?msid=213290963722870945451.0004b8b3d32603bb32a48&amp;msa=0">Google Maps</a>. More information can be obtained from the <a href="http://www.visithelsinki.fi/In_English/Visitor/Helsinki/Accommodation/Hotels_in_the_center.iw3">Helsinki tourist office</a>.
 </p>
 
+<!--
 <?php
         include("include/visa.php");
 ?>
-
+-->
 
 <h2 class="hcls">Transportation</h2>
 
