@@ -21,7 +21,7 @@
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Monday, August 13, 2012</h3></li>
 		<?php
 		    tprog_add_session("18:30-20:00", "Welcome Reception", "", "a");
-		    tprog_add_item("Welcome Reception", "http://www.virka.fi/en/gallery/city-hall", 'Drinks and hors d\'oeuvre; hosted by the City of Helsinki at Helsinki City Hall.<br><b>Because of security restrictions, you MUST bring your invitation card in order to be allowed into City Hall.</b>', "");
+		    tprog_add_item("Welcome Reception", "http://www.virka.fi/en/gallery/city-hall", 'Drinks and hors d\'oeuvre; hosted by the City of Helsinki at Helsinki City Hall.<br><b>Because of security restrictions, you MUST bring your invitation card in order to be allowed into City Hall.</b> The invitation card is part of your registration package, to be picked up at Finlandia Hall.', "");
 		?>
 
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 14, 2012</h3></li>

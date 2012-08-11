@@ -45,7 +45,7 @@ SIGCOMM 2012 features a Welcome Reception, a Student Dinner and a Conference Ban
 </p>
 <ul>
 <li>
-The <b>Welcome Reception</b> is hosted by the City of Helsinki at <a href="http://www.virka.fi/en/gallery/city-hall">City Hall</a> on Monday evening. Drinks and hors d'oeuvre will be served; plan on dinner afterwards. The closest tram stop near City Hall is "Senaatintori", which is a direct connection from the conference venue (Finlandia Hall) with lines 4 or 7B. <b>Because of security restrictions, you MUST bring your invitation card in order to be allowed into City Hall.</b>
+The <b>Welcome Reception</b> is hosted by the City of Helsinki at <a href="http://www.virka.fi/en/gallery/city-hall">City Hall</a> on Monday evening. Drinks and hors d'oeuvre will be served; plan on having dinner on your own afterwards. The closest tram stop near City Hall is "Senaatintori", which is a direct connection from the conference venue (Finlandia Hall) with lines 4 or 7B. <b>Because of security restrictions, you MUST bring your invitation card in order to be allowed into City Hall.</b> The invitation card and public transport pass  are part of your registration package, to be picked up at Finlandia Hall prior to the reception. You will <b>not</b> be able to pick up your registration package at the reception. 
 </li>
 
 <li>
