@@ -88,7 +88,7 @@ Room: <b>Hall A</b>
 		<?php
 			tprog_add_item("Where is the debugger for my Software-Defined Network?",
 			"paper/hotsdn/p55.pdf",
-			"Brandon Heller, Nikhil Handigol, Vimalkumar Jeyakumar, Nick McKeown, and David Mazi&#232;res (Stanford University)",
+			"Nikhil Handigol, Brandon Heller, Vimalkumar Jeyakumar, David Mazi&#232;res, and Nick McKeown (Stanford University)",
 			"Paper");
 		?>
 
