@@ -275,7 +275,7 @@
 
 		<?php
 		    tprog_add_session("20:00-23:00", "Student Dinner", "", "a");
-		    tprog_add_item("Student Dinner", "http://www.kaivohuone.fi/", 'Only for student attendees, committee members and supporters; at restaurant Kaivohuone', "");
+		    tprog_add_item("Student Dinner", "http://www.kaivohuone.fi/", 'Only for student attendees, PC + org committee members, SIG officers, and supporters; at restaurant Kaivohuone', "");
 		?>
 
 		<li class="heading" data-theme="a" data-role="list-divider" style="display:block"><h3>Wednesday, August 15, 2012</h3></li>
