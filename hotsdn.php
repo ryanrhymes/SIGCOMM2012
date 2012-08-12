@@ -11,6 +11,7 @@ Helsinki, Finland<br>
 Room: <b>Hall A</b>
 </p>
 <a href="#archive_div" class="button" data-rel="popup" data-role="button">Download Proceedings</a>
+<a href="http://www.meetecho.com/sigcomm2012" data-role="button" class="button">Live Stream</a>
 
 <h2 class="hcls">Technical Program</h2>
 
