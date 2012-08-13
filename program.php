@@ -21,8 +21,8 @@
 	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Monday, August 13, 2012</h3></li>
 		<?php
-		    tprog_add_session("8:00-18:00", "Conference Registration", "", "a");
-		    tprog_add_item("Conference Registration", "", 'Pick up your registration package at the Finlandia Hall congress wing.', "");
+		    tprog_add_session("7:30-17:30", "Conference Registration", "", "a");
+		    tprog_add_item("Conference Registration", "", 'Pick up your registration package at the Finlandia Hall congress wing (M1 entrance).', "");
 		?>
 		<?php
 		    tprog_add_session("18:30-20:00", "Welcome Reception", "", "a");
@@ -30,6 +30,10 @@
 		?>
 
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, August 14, 2012</h3></li>
+		<?php
+		    tprog_add_session("7:30-17:30", "Conference Registration", "", "a");
+		    tprog_add_item("Conference Registration", "", 'Pick up your registration package at the Finlandia Hall congress wing (M1 entrance).', "");
+		?>
 
 		<?php tprog_add_session("8:30-10:30", "Welcome &amp; SIGCOMM Award Keynote", ""); ?>
 		<?php
