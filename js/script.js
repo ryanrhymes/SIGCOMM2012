@@ -175,8 +175,11 @@ $(document).bind('pagebeforeshow', function(event){
 		init_sps();
 		resize();
 
-		["a", "b", "c"].forEach(function(x) {
+		try {
+		arr = ["a", "b", "c"];
+		for (var i in arr) {
 			// hide all by default
+			x = arr[i];
 			$.mobile.activePage.find(".subnav-" + x).hide();
 			$.mobile.activePage.find(".navheader-" + x).click(
 				function () {
@@ -204,7 +207,12 @@ $(document).bind('pagebeforeshow', function(event){
 			if ($.mobile.activePage.find(".subnav-" + x + ".navselected").size()) {
 				$.mobile.activePage.find(".navheader-" + x).click();
 			}
-		});
+		}
+		}
+		catch(err)
+		{
+			//alert(err);
+		}
 
 		// start out with the bottom menu closed -> need to add corners
 		if ($.mobile.activePage.find(".subnav-c").css("display") == "none") {
@@ -249,7 +257,7 @@ $(document).bind('pagebeforeshow', function(event){
 			// Check the validity of the download code
 			$.ajax({
 				url: 'archive.php',
-				data: { check: 1, code: $('#archive_code').val() },
+				data: { check: 1, code: $.mobile.activePage.find('#archive_code').val() },
 				async: false,
 				success: function(data) {
 					valid = $.trim(data);
@@ -258,18 +266,17 @@ $(document).bind('pagebeforeshow', function(event){
 
 			// If the code is OK, start downloading; or give the error message!
 			if (valid=="true") {
-				$("#archive_info").css("color", "green");
-				$("#archive_info").html("Success!");
-				window.open('archive.php?check=0&code=' + $('#archive_code').val());
+				$.mobile.activePage.find("#archive_info").css("color", "green");
+				$.mobile.activePage.find("#archive_info").html("Success!");
+				window.open('archive.php?check=0&code=' + $.mobile.activePage.find('#archive_code').val());
 			}
 			else {
-				$("#archive_info").css("color", "red");
-				$("#archive_info").html("Error!");
+				$.mobile.activePage.find("#archive_info").css("color", "red");
+				$.mobile.activePage.find("#archive_info").html("Error!");
 				return false;
 			}
 			// Click function ends
 		});
-
 	}
 	catch(err)
 	{
