@@ -9,7 +9,7 @@ Techniques for Networking Researchers";
 Techniques for Networking Researchers</h2>
 
 <p>
-<b>Presented by:</b> <a href="http://marshini.net">Marshini Chetty</a>, Georgia Insitute of Technology and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
+<b>Presented by:</b> <a href="http://www.mrl.nott.ac.uk/people/101-dr-alan-chamberlain.html" rel="external">Alan Chamberlain</a>, University of Nottingham and <a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a>, University of Nottingham </p>
 
 <p>
 Friday, August 17, 2012 (half day)<br>
@@ -101,8 +101,8 @@ Throughout the tutorial, we will use examples most relevant to the SIGCOMM commu
 
 <p>Both presenters have an HCI background and have worked closely with members of the SIGCOMM community on projects exploring user issues in networking systems.</p>
 
-<h3>Marshini Chetty</h3>
-<p><a href="http://marshini.net">Marshini Chetty</a> is a postdoctoral researcher in the College of Computing at Georgia Institute of Technology, where she recently graduated with her Ph.D. in Human-Centered Computing. Her research in human computer interaction and ubiquitous computing focuses on home networking, sustainability, and international development. She received her Bachelors of Science and Masters of Science degrees in Computer Science from the University of Cape Town. Marshini was awarded a Fulbright Scholarship, a Google Anita Borg Scholarship, a GVU Foley Scholar award, and an Intel Ph.D. fellowship for her research. Her work has been featured in technical blogs, notably Slashdot, Ars Technica, Network World, and BoingBoing! and she received a CHI Best Paper Award in 2011. She collaborates regularly with systems researchers and is a co-chair for the SIGCOMM W-MUST 2012 workshop. </p>
+<h3>Alan Chamberlain</h3>
+<p><a href="http://www.mrl.nott.ac.uk/people/101-dr-alan-chamberlain.html" rel="external">Dr Alan Chamberlain</a> is currently a Senior Research Fellow in the Mixed Reality Lab at Nottingham. He has published numerous papers on many aspects of Human Computer Interaction and has successfully obtained funding for research projects. He is currently interested in the development of systems in real world settings (Research in the Wild) . His main research interests and other detailed information can be found on <a href="http://www.mrl.nott.ac.uk/people/101-dr-alan-chamberlain.html" rel="external">here</a>. </p>
 
 <h3>Tom Rodden</h3>
 <p><a href="http://www.cs.nott.ac.uk/~tar/">Tom Rodden</a> is Professor of Interactive Systems at the Mixed Reality Laboratory (MRL) at the University of Nottingham.  His research focuses on the development of interactive technologies to support users within the real world. This is a multi-disciplinary endeavor bringing together researchers in behavioral and social sciences and those involved in systems engineering, network infrastructures and interactive systems design. He has published widely in the areas of Computer Supported Cooperative Work (CSCW), HCI, and Ubiquitous computing. He has acted as research papers chair for all of the major international conferences in these areas and was elected as member of the ACM CHI Academy in 2009. He directed the Equator IRC from 2001-2006, a multi-site research endeavor in the area of Ubiquitous Computing involving 8 UK universities. He currently holds an EPSRC Senior Research Fellowship and is deputy director of the RCUK Horizon digital economy hub at Nottingham. He has previously given HCI tutorials at Pervasive Computing, CHI, and UK e-Science conferences.
