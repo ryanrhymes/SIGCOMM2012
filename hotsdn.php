@@ -87,7 +87,7 @@ Room: <b>Hall A</b>
 		?>
 
 		<?php
-			tprog_add_item("Where is the debugger for my Software-Defined Network?",
+			tprog_add_item("Where is the debugger for my Software-Defined Network?<br/> <span style='color:red;font-style:italic;'>Winner of the \"Best Student Presentation\" award</span>",
 			"paper/hotsdn/p55.pdf",
 			"Nikhil Handigol, Brandon Heller, Vimalkumar Jeyakumar, David Mazi&#232;res, and Nick McKeown (Stanford University)",
 			"Paper");

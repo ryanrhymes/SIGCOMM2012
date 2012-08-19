@@ -176,10 +176,8 @@ $(document).bind('pagebeforeshow', function(event){
 		resize();
 
 		try {
-		arr = ["a", "b", "c"];
-		for (var i in arr) {
+		["a", "b", "c"].forEach(function(x){
 			// hide all by default
-			x = arr[i];
 			$.mobile.activePage.find(".subnav-" + x).hide();
 			$.mobile.activePage.find(".navheader-" + x).click(
 				function () {
@@ -207,7 +205,7 @@ $(document).bind('pagebeforeshow', function(event){
 			if ($.mobile.activePage.find(".subnav-" + x + ".navselected").size()) {
 				$.mobile.activePage.find(".navheader-" + x).click();
 			}
-		}
+		});
 		}
 		catch(err)
 		{
