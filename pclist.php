@@ -53,7 +53,7 @@
 		add_listitem("K. K. Ramakrishnan", "AT&amp;T Labs Research, USA", "");
 		add_listitem("Bhaskaran Raman", "IIT Bombay, India", "");
 		add_listitem("Pablo Rodriguez", "Telefonica Research, Spain", "");
-		add_listitem("Ant Rowstro", "Microsoft Research Cambridge, UK", "");
+		add_listitem("Ant Rowstron", "Microsoft Research Cambridge, UK", "");
 		add_listitem("Srinivasan Seshan", "Carnegie Mellon University, USA", "");
 		add_listitem("Hovav Shacham", "UC San Diego, USA", "");
 		add_listitem("Emin G&uuml;n Sirer", "Cornell University, USA", "");
