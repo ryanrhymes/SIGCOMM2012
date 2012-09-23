@@ -63,21 +63,27 @@
 			tprog_add_item("Multi-Resource Fair Queueing for Packet Processing",
 			"paper/sigcomm/p1.pdf",
 			"Ali Ghodsi (UC Berkeley / KTH), Vyas Sekar (Intel Labs), Matei Zaharia (UC Berkeley), Ion Stoica (UC Berkeley)",
-			"Paper");
+			"Paper",
+			"slides",
+			"video");
 		?>
 
 		<?php
 			tprog_add_item("Making Middleboxes Someone Else's Problem: Network Processing as a Cloud Service",
 			"paper/sigcomm/p13.pdf",
 			"Justine Sherry (UC Berkeley), Shaddi Hasan (UC Berkeley), Colin Scott (UC Berkeley), Arvind Krishnamurthy (University of Washington), Sylvia Ratnasamy (UC Berkeley), Vyas Sekar (Intel Labs)",
-			"Paper");
+			"Paper",
+			"slides",
+			"video");
 		?>
 
 		<?php
 			tprog_add_item("HyperDex:  A Distributed, Searchable Key-Value Store",
 			"paper/sigcomm/p25.pdf",
 			"Robert Escriva (Cornell University), Bernard Wong (University of Waterloo), Emin G&uuml;n Sirer (Cornell University)",
-			"Paper");
+			"Paper",
+			"slides",
+			"video");
 		?>
 
 

@@ -74,10 +74,17 @@ function tprog_add_session($time, $title, $chair="", $style="")
 
 }
 
-function tprog_add_item($paper, $link, $authors, $info)
+function tprog_add_item($paper, $link, $authors, $info, $slides="", $video="")
 {
 	/* the spaces after various "%s" below are important for correct list filtering! */
 	$authors = preg_replace('/\(([^\)]*)\)/', '<em>(${1})</em>', $authors);
+	
+	//if ($info or $slides or $video) {
+	//	print('<li data-icon="false" class="ui-li-has-count">');
+	//}
+	//else {
+	//	print('<li data-icon="false">');
+	//}
 	print('<li data-icon="false">');
 	if ($link) {
 		printf('<a href="%s" rel="external">', $link);
@@ -93,8 +100,20 @@ function tprog_add_item($paper, $link, $authors, $info)
 		}
 	}
 	if($info) {
-		printf('<p class="ui-li-count prog-%s">%s </p>',
-			   preg_replace('/\s/', '', strtolower($info)), $info);
+		//printf('<p class="ui-li-count prog-%s">%s </p>',
+		//	   preg_replace('/\s/', '', strtolower($info)), $info);
+		printf('<p class="prog-info-p">');
+		printf('<a href="%s" class="prog-%s prog-general ui-btn-up-c ui-btn-corner-all" rel="external">%s </a>',
+				$link, preg_replace('/\s/', '', strtolower($info)), $info);
+
+		if($slides) {
+			printf('<a href="%s" class="prog-general ui-btn-up-c ui-btn-corner-all" rel="external">Slides</a>', $slides);
+		}
+		if($video) {
+			printf('<a href="%s" class="prog-general ui-btn-up-c ui-btn-corner-all" rel="external">Video</a>', $video);
+		}
+
+		printf('</p>');
 	}
 	if ($link) {
 		print('</a>');

@@ -118,6 +118,25 @@ ul li {
 	background-image:         linear-gradient( #ffffff /*{c-bup-background-start}*/, #d5d5d5 /*{c-bup-background-end}*/);
 }
 
+.prog-info-p {
+	//position:absolute;
+	font-size:11px;
+	font-weight:bold;
+	padding:.2em .5em .8em .5em;
+	vertical-align: middle;
+	text-align: right;
+	margin-top:-.9em;
+	right:-20px;
+
+}
+
+.prog-general {
+	display: inline;
+	margin: 1px 3px;
+	padding: 1px 8px;
+	font-weight: bold;
+}
+
 .ui-li-has-count .ui-li-heading, .ui-li-has-count .ui-li-desc {
 	padding-right: 50px;
 }
