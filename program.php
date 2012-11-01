@@ -50,7 +50,7 @@
 		?>
 		<?php
 			tprog_add_item("SIGCOMM Award Keynote",
-			"",
+			"slides/opening/01-keynote-McKeownSigcomm2012.pdf",
 			"Nick McKeown",
 			"Keynote");
 		?>
@@ -64,8 +64,8 @@
 			"paper/sigcomm/p1.pdf",
 			"Ali Ghodsi (UC Berkeley / KTH), Vyas Sekar (Intel Labs), Matei Zaharia (UC Berkeley), Ion Stoica (UC Berkeley)",
 			"Paper",
-			"slides",
-			"video");
+			"slides/session1/01-sigcomm.pdf",
+			"video/SIGCOMM-I-01-MultiResourceFairQueueingForPacketProcessing.mp4");
 		?>
 
 		<?php
@@ -73,8 +73,8 @@
 			"paper/sigcomm/p13.pdf",
 			"Justine Sherry (UC Berkeley), Shaddi Hasan (UC Berkeley), Colin Scott (UC Berkeley), Arvind Krishnamurthy (University of Washington), Sylvia Ratnasamy (UC Berkeley), Vyas Sekar (Intel Labs)",
 			"Paper",
-			"slides",
-			"video");
+			"slides/session1/02-justine.pdf",
+			"video/SIGCOMM-I-02-NetworkProcessingAsACloudService.mp4");
 		?>
 
 		<?php
@@ -82,8 +82,8 @@
 			"paper/sigcomm/p25.pdf",
 			"Robert Escriva (Cornell University), Bernard Wong (University of Waterloo), Emin G&uuml;n Sirer (Cornell University)",
 			"Paper",
-			"slides",
-			"video");
+			"slides/session1/03-hyperdex.pdf",
+			"video/SIGCOMM-I-03-HyperDexADistributedSearchableKeyValueStore.mp4");
 		?>
 
 
@@ -95,21 +95,27 @@
 			tprog_add_item("Picasso: Flexible RF and Spectrum Slicing",
 			"paper/sigcomm/p37.pdf",
 			"Steven Hong (Stanford University), Jeff Mehlman (Stanford University), Sachin Katti (Stanford University)",
-			"Paper");
+			"Paper",
+			"slides/session2/01new-Picasso_v4_SIGCOMM.pdf",
+			"video/SIGCOMM-II-01-PicassoFlexibleRFandSpectrumSlicing.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Spinal Codes",
 			"paper/sigcomm/p49.pdf",
 			"Jonathan Perry (MIT), Peter A. Iannucci (MIT), Kermin Elliott Fleming (MIT), Hari Balakrishnan (MIT), Devavrat Shah (MIT)",
-			"Paper");
+			"Paper",
+			"slides/session2/02new-Spinal_Sigcomm.pdf",
+			"video/SIGCOMM-II-02-SpinalCodes.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Efficient and Reliable Low-Power Backscatter Networks",
 			"paper/sigcomm/p61.pdf",
 			"Jue Wang (MIT), Haitham Hassanieh (MIT), Dina Katabi (MIT), Piotr Indyk (MIT)",
-			"Paper");
+			"Paper",
+			"slides/session2/03new-RFID-SIGCOMM12-Aug14.pdf",
+			"video/SIGCOMM-II-03-EfficientAndReliableLowPowerBackscatterNetworks.mp4");
 		?>
 
 
@@ -269,21 +275,27 @@
 			tprog_add_item("Deadline-Aware Datacenter TCP (D<sup>2</sup>TCP)",
 			"paper/sigcomm/p115.pdf",
 			"Balajee Vamanan (Purdue University), Jahangir Hasan (Google Inc.), T. N. Vijaykumar (Purdue University)",
-			"Paper");
+			"Paper",
+			"slides/session3/01-bvamanan-sigcomm12.pdf",
+			"video/SIGCOMM-III-01-DeadlineAwareDatacenterTCP_D2TCP.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Finishing Flows Quickly with Preemptive Scheduling",
 			"paper/sigcomm/p127.pdf",
 			"Chi-Yao Hong (University of Illinois at Urbana-Champaign), Matthew Caesar (University of Illinois at Urbana-Champaign), P. Brighten Godfrey (University of Illinois at Urbana-Champaign)",
-			"Paper");
+			"Paper",
+			"slides/session3/02new-PDQ-Sigcomm.pdf",
+			"video/SIGCOMM-III-02-FinishingFlowsQuicklyWithPreemptiveScheduling.mp4");
 		?>
 
 		<?php
 			tprog_add_item("DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks",
 			"paper/sigcomm/p139.pdf",
 			"David Zats (UC Berkeley), Tathagata Das (UC Berkeley), Prashanth Mohan (UC Berkeley), Dhruba Borthakur (Facebook), Randy Katz (UC Berkeley)",
-			"Paper");
+			"Paper",
+			"slides/session3/03-detail-sigcomm.pdf",
+			"video/SIGCOMM-III-03-DeTail.mp4");
 		?>
 
 		<?php tprog_add_session("18:30-19:30", "Community Feedback Session", ""); ?>
@@ -301,21 +313,27 @@
 			tprog_add_item("Inferring Visibility: Who's (not) talking to whom?",
 			"paper/sigcomm/p151.pdf",
 			"Gonca Gursun (Boston University), Natali Ruchansky (Boston University), Evimaria Terzi (Boston University), Mark Crovella (Boston University",
-			"Paper");
+			"Paper",
+			"slides/session4/01new-sig12.pdf",
+			"video/SIGCOMM-IV-01-InferringVisibility.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Anatomy of a Large European IXP",
 			"paper/sigcomm/p163.pdf",
 			"Bernhard Ager (ETH Zurich), Nikolaos Chatzis (TU Berlin / T-Labs), Anja Feldmann (TU Berlin / T-Labs), Nadi Sarrar (TU Berlin / T-Labs), Steve Uhlig (Queen Mary, University of London), Walter Willinger (AT&amp;T Labs-Research)",
-			"Paper");
+			"Paper",
+			"slides/session4/02new-sigcomm12_v11.pdf",
+			"video/SIGCOMM-IV-02-AnatomyOfaLargeEuropeanIXP.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Measuring and Fingerprinting Click-Spam in Ad Networks",
 			"paper/sigcomm/p175.pdf",
 			"Vacha Dave (MSR India and UT Austin), Saikat Guha (Microsoft Research India), Yin Zhang (Univ. of Texas at Austin)",
-			"Paper");
+			"Paper",
+			"slides/session4/03new-Sigcomm-clickspam.pdf",
+			"video/SIGCOMM-IV-03-MeasuringAndFingerprintingClickSpamInAdNetworks.mp4");
 		?>
 
 		<?php tprog_add_session("10:30-11:00", "Coffee Break", ""); ?>
@@ -326,7 +344,9 @@
 			tprog_add_item("FairCloud: Sharing The Network In Cloud Computing",
 			"paper/sigcomm/p187.pdf",
 			"Lucian Popa (HP Labs), Gautam Kumar (UC Berkeley), Mosharaf Chowdhury (UC Berkeley), Arvind Krishnamurthy (Univ. of Washington), Sylvia Ratnasamy (UC Berkeley), Ion Stoica (UC Berkeley)",
-			"Paper");
+			"Paper",
+			"slides/session5/01-faircloud_sigcomm.pdf",
+			"video/SIGCOMM-V-01-FairCloudSharingtheNetworkInCloudComputing.mp4");
 		?>
 
 		<?php
@@ -334,14 +354,18 @@
 Reservations in Data Centers",
 			"paper/sigcomm/p199.pdf",
 			"Di Xie (Purdue University), Ning Ding (Purdue University), Y. Charlie Hu (Purdue University), Ramana Kompella (Purdue University)",
-			"Paper");
+			"Paper",
+			"slides/session5/02new-The-Only-Constant-is-Change.pdf",
+			"video/SIGCOMM-V-02-TheOnlyConstantIsChange.mp4");
 		?>
 
 		<?php
 			tprog_add_item("It's Not Easy Being Green",
 			"paper/sigcomm/p211.pdf",
 			"Peter Xiang Gao (University of Waterloo), Andrew R Curtis (University of Waterloo), Bernard Wong (University of Waterloo), S. Keshav (University of Waterloo)",
-			"Paper");
+			"Paper",
+			"slides/session5/03new-Peter-Xiang-Gao-It-is-not-easy-being-green.pdf",
+			"video/SIGCOMM-V-03-ItSNotEasyBeingGreen.mp4");
 		?>
 
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
@@ -352,28 +376,36 @@ Reservations in Data Centers",
 			tprog_add_item("Flashback: Decoupled Lightweight Wireless Control",
 			"paper/sigcomm/p223.pdf",
 			"Asaf Cidon (Stanford University), Kanthi Nagaraj (Stanford University), Sachin Katti (Stanford University), Pramod Viswanath (UIUC)",
-			"Paper");
+			"Paper",
+			"slides/session6/01new-Sigcomm-final.pdf",
+			"video/SIGCOMM-VI-01-FlashbackDecoupledLightweightWirelessControl.mp4");
 		?>
 
 		<?php
 			tprog_add_item("MegaMIMO: Scaling Wireless Capacity with User Demand",
 			"paper/sigcomm/p235.pdf",
 			"Hariharan Rahul (MIT CSAIL), Swarun Suresh Kumar (MIT CSAIL), Dina Katabi (MIT CSAIL)",
-			"Paper");
+			"Paper",
+			"slides/session6/02new-megamimo-sigcomm2012-v2.pdf",
+			"video/SIGCOMM-VI-02-JMBScalingWirelessCapacityWithUserDemands.mp4");
 		?>
 
 		<?php
 			tprog_add_item("TUBE: Time Dependent Pricing for Mobile Data",
 			"paper/sigcomm/p247.pdf",
 			"Sangtae Ha (Princeton University), Soumya Sen (Princeton University), Carlee Joe-Wong (Princeton University), Youngbin Im (Seoul National University), Mung Chiang (Princeton University)",
-			"Paper");
+			"Paper",
+			"slides/session6/03new-TUBE_SIGCOMM_Meetecho.pdf",
+			"video/SIGCOMM-VI-03-TUBETimeDependentPricingForMobileData.mp4");
 		?>
 
 		<?php
 			tprog_add_item("CarSpeak: A Content-Centric Network for Autonomous Driving",
 			"paper/sigcomm/p259.pdf",
 			"Swarun Kumar (Massachusetts Institute of Technology), Lixin Shi (Massachusetts Institute of Technology), Stephanie Gil (Massachusetts Institute of Technology), Nabeel Ahmed (Massachusetts Institute of Technology), Dina Katabi (Massachusetts Institute of Technology), Daniela Rus (Massachusetts Institute of Technology)",
-			"Paper");
+			"Paper",
+			"slides/session6/04new-carspeak-v19.pdf",
+			"video/SIGCOMM-VI-04-CarSpeakAContentCentricNetworkForAutonomousDriving.mp4");
 		?>
 
 
@@ -527,21 +559,27 @@ Lieguang Zeng (Tsinghua University)",
 			tprog_add_item("Forty Data Communications Research Questions",
 			"paper/ccr-partridge.pdf",
 			"Craig Partridge (Raytheon BBN Technologies)",
-			"Paper");
+			"Paper",
+			"slides/ccr/01-SIGCOMM12-40Questions-v4.pdf",
+			"video/SIGCOMM-BESTOFCCR-01-FortyDataCommunicationsResearchQuestions.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Extracting Benefit from Harm: Using Malware Pollution to Analyze the Impact of Political and Geophysical Events on the Internet",
 			"paper/ccr-dainotti.pdf",
 			"Alberto Dainotti (University of Napoli Federico II), Roman Ammann (Auckland University of Technology), Emile Aben (RIPE NCC), Kimberly C. Claffy (CAIDA/UCSD)",
-			"Paper");
+			"Paper",
+			"slides/ccr/02-alberto-earthquakemm3.pdf",
+			"video/SIGCOMM-BESTOFCCR-02-ExtractingBenefitFromHarm.mp4");
 		?>
 
 		<?php
 			tprog_add_item("The Collateral Damage of Internet Censorship by DNS Injection",
 			"paper/ccr-paper266.pdf",
 			"Anonymous",
-			"Paper");
+			"Paper",
+			"slides/ccr/03-sigcomm.pdf",
+			"video/SIGCOMM-BESTOFCCR-03-TheCollateralDamageOfInternetCensorshipByDNSInjection.mp4");
 		?>
 
 		<?php
@@ -557,14 +595,18 @@ Lieguang Zeng (Tsinghua University)",
 			tprog_add_item("Perspectives on Network Calculus - No Free Lunch, But Still Good Value",
 			"paper/sigcomm/p311.pdf",
 			"Florin Ciucu (Telekom Innovation Laboratories / TU Berlin), Jens Schmitt (University of Kaiserslautern)",
-			"Paper");
+			"Paper",
+			"slides/session7/01new-gbu.pdf",
+			"video/SIGCOMM-VII-01-PerspectivesOnNetworkCalculus.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Abstractions for Network Update",
 			"paper/sigcomm/p323.pdf",
 			"Mark Reitblatt (Cornell University), Nate Foster (Cornell University), Jennifer Rexford (Princeton University), Cole Schlesinger (Princeton University), David Walker (Princeton University)",
-			"Paper");
+			"Paper",
+			"slides/session7/02-2012-08-sigcomm.pdf",
+			"video/SIGCOMM-VII-02-AbstractionsForNetworkUpdate.mp4");
 		?>
 
 		<?php
@@ -572,7 +614,9 @@ Lieguang Zeng (Tsinghua University)",
 Multi-dimensional Packet Classification",
 			"paper/sigcomm/p335.pdf",
 			"Yadi Ma (University of Wisconsin-Madison), Suman Banerjee (University of Wisconsin-Madison)",
-			"Paper");
+			"Paper",
+			"slides/session7/03new-sigcomm12-yadi.pdf",
+			"video/SIGCOMM-VII-03-ASmartPreClassifier.mp4");
 		?>
 
 		<?php tprog_add_session("10:30-11:00","Coffee Break", ""); ?>
@@ -584,7 +628,9 @@ Multi-dimensional Packet Classification",
 			tprog_add_item("ShadowStream: Performance Evaluation as a Capability in Production Internet Live Streaming Networks",
 			"paper/sigcomm/p347.pdf",
 			"Chen Tian (Yale University), Richard Alimi (Google), Y. R. Yang (Yale University), David Zhang (PPLive)",
-			"Paper");
+			"Paper",
+			"slides/session8/01new-shadowstream-sigcomm12-send.pdf",
+			"video/SIGCOMM-VIII-01-ShadowStream.mp4");
 		?>
 
 		<?php
@@ -592,14 +638,17 @@ Multi-dimensional Packet Classification",
 			"paper/sigcomm/p359.pdf",
 			"Xi Liu (Conviva), Florin Dobrian (Conviva), Henry Milner (Conviva), Junchen Jiang (CMU), Vyas Sekar (Intel Labs), Ion Stoica (Conviva/UC Berkeley), Hui Zhang (Conviva/CMU)
 ",
-			"Paper");
+			"Paper",
+			"slides/session8/02new-CoordinatedVideoControlPlane.Final.pdf",
+			"video/SIGCOMM-VIII-02-ACaseForACoordinatedInternetVideoControlPlane.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Optimizing Cost and Performance for Content Multihoming",
 			"paper/sigcomm/p371.pdf",
 			"Hongqiang Harry Liu (Yale University), Ye Wang (Yale University), Yang Richard Yang (Yale University), Hao Wang (Google), Chen Tian (Yale University)",
-			"Paper");
+			"Paper",
+			"slides/session8/03new-cmo-sigcomm2012-v12.pdf");
 		?>
 
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
@@ -610,21 +659,27 @@ Multi-dimensional Packet Classification",
 			tprog_add_item("Private and verifiable interdomain routing decisions",
 			"paper/sigcomm/p383.pdf",
 			"Mingchen Zhao (University of Pennsylvania), Wenchao Zhou (University of Pennsylvania), Alexander J. T. Gurney (University of Pennsylvania), Andreas Haeberlen (University of Pennsylvania), Micah Sherr (Georgetown University), Boon Thau Loo (University of Pennsylvania)",
-			"Paper");
+			"Paper",
+			"slides/session9/01new-Private-and-Verifiable-Interdomain-Routing-Decisions_SIGCOMM2012.pdf",
+			"video/SIGCOMM-IX-01-PrivateAndVerifiableInterdomainRoutingDecisions.mp4");
 		?>
 
 		<?php
 			tprog_add_item("LIFEGUARD: Practical Repair of Persistent Route Failures",
 			"paper/sigcomm/p395.pdf",
 			"Ethan Katz-Bassett (University of Washington / University of Southern California), Colin Scott (University of California, Berkeley), David R. Choffnes (University of Washington), &Iacute;talo Cunha (UFMG, Brazil), Vytautas Valancius (Georgia Tech), Nick Feamster (University of Maryland), Harsha V. Madhyastha (University of California, Riverside), Tom Anderson (University of Washington), Arvind Krishnamurthy (University of Washington)",
-			"Paper");
+			"Paper",
+			"slides/session9/02-katz-bassett_lifeguard_sigcomm_2012.pdf",
+			"video/SIGCOMM-IX-02-LIFEGUARDPracticalRepairOfPersistentRouteFailures.mp4");
 		?>
 
 		<?php
 			tprog_add_item("On-Chip Networks from a Networking Perspective: Congestion and Scalability in Many-Core Interconnects",
 			"paper/sigcomm/p407.pdf",
 			"George Nychis (Carnegie Mellon University), Chris Fallin (Carnegie Mellon University), Thomas Moscibroda (Microsoft Research Asia), Onur Mutlu (Carnegie Mellon University), Srinivasan Seshan (Carnegie Mellon University)",
-			"Paper");
+			"Paper",
+			"slides/session9/03-upload-this-one.pdf",
+			"video/SIGCOMM-IX-03-OnChipNetworksFromANetworkingPerspective.mp4");
 		?>
 
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
@@ -635,21 +690,27 @@ Multi-dimensional Packet Classification",
 			tprog_add_item("NetPilot: Automating Datacenter Network Failure Mitigation",
 			"paper/sigcomm/p419.pdf",
 			"Xin Wu (Duke University), Daniel Turner (University of California, San Diego), Chao-Chih Chen (University of California, Davis), David A. Maltz (Microsoft), Xiaowei Yang (Duke University), Lihua Yuan (Microsoft), Ming Zhang (Microsoft)",
-			"Paper");
+			"Paper",
+			"slides/session10/01new-NetPilot.pdf",
+			"video/SIGCOMM-X-01-NetPilotAutomatingDatacenterNetworkFailureMitigation.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Surviving Failures in Bandwidth-Constrained Datacenters",
 			"paper/sigcomm/p431.pdf",
 			"Peter Bodik (Microsoft Research), Ishai Menache (Microsoft Research), Mosharaf Chowdhury (UC Berkeley), Pradeepkumar Mani (Microsoft), David A. Maltz (Microsoft), Ion Stoica (UC Berkeley)",
-			"Paper");
+			"Paper",
+			"slides/session10/02new-SIGCOMM12-v2.pdf",
+			"video/SIGCOMM-X-02-SurvivingFailuresInBandwidthConstrainedDatacenters.mp4");
 		?>
 
 		<?php
 			tprog_add_item("Mirror Mirror on the Ceiling: Flexible Wireless Links for Data Centers",
 			"paper/sigcomm/p443.pdf",
 			"Xia Zhou (UC Santa Barbara), Zengbin Zhang (UC Santa Barbara), Yibo Zhu (UC Santa Barbara), Yubo Li (Xi'an Jiaotong University, China), Saipriya Kumar (UC Santa Barbara), Amin Vahdat (Google/UC San Diego), Ben Y. Zhao (UC Santa Barbara), Haitao Zheng (UC Santa Barbara)",
-			"Paper");
+			"Paper",
+			"slides/session10/03new-beam3d-sigcomm-final.pdf",
+			"video/SIGCOMM-X-03-MirrorMirrorOnTheCeiling.mp4");
 		?>
 		<?php tprog_add_session("17:30-18:00", "Closing", ""); ?>
 
