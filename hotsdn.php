@@ -25,7 +25,7 @@ Room: <b>Hall A</b>
 			"paper/hotsdn/p1.pdf",
 			"Dan Levin (TU Berlin / Telekom Innovation Laboratories), Andreas Wundsam (ICSI / UC Berkeley), Brandon Heller and Nikhil Handigol (Stanford University), and Anja Feldmann (TU Berlin / Telekom Innovation Laboratories)",
 			"Paper",
-			"slides/sdn/session1/01-Dan Levin.pd",
+			"slides/sdn/session1/01-Dan_Levin.pd",
 			"video/HotSDN-I-01-LogicallyCentralized.mp4");
 		?>
 
@@ -127,7 +127,7 @@ Room: <b>Hall A</b>
 			"paper/hotsdn/p67.pdf",
 			"Soudeh Ghorbani and Matthew Caesar (UIUC)",
 			"Paper",
-			"slides/sdn/session2/06-Walk the line.pdf",
+			"slides/sdn/session2/06-Walk_the_line.pdf",
 			"video/HotSDN-II-06-WalkTheLine.mp4");
 		?>
 
@@ -140,7 +140,7 @@ Room: <b>Hall A</b>
 			"paper/hotsdn/p73.pdf",
 			"Glen Gibb, Hongyi Zeng, and Nick McKeown (Stanford University)",
 			"Paper",
-			"slides/sdn/session3/01-HotSDN 2012 - Outsourcing Network Functionality - iPad.pdf",
+			"slides/sdn/session3/01-HotSDN2012OutsourcingNetwork FunctionalityiPad.pdf",
 			"video/HotSDN-III-01-OutsourcingNetworkFunctionality.mp4");
 		?>
 
@@ -149,7 +149,7 @@ Room: <b>Hall A</b>
 			"paper/hotsdn/p79.pdf",
 			"Stephen Gutz and Alec Story (Cornell), Cole Schlesinger (Princeton), and Nate Foster (Cornell)",
 			"Paper",
-			"slides/sdn/session3/02-Splendid Isolation.pdf",
+			"slides/sdn/session3/02-Splendid_Isolation.pdf",
 			"video/HotSDN-III-02-SplendidIsolation.mp4");
 		?>
 
