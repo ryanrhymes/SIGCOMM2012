@@ -648,7 +648,8 @@ Multi-dimensional Packet Classification",
 			"paper/sigcomm/p371.pdf",
 			"Hongqiang Harry Liu (Yale University), Ye Wang (Yale University), Yang Richard Yang (Yale University), Hao Wang (Google), Chen Tian (Yale University)",
 			"Paper",
-			"slides/session8/03new-cmo-sigcomm2012-v12.pdf");
+			"slides/session8/03new-cmo-sigcomm2012-v12.pdf",
+			"video/SIGCOMM-VIII-03-OptimizingCostAndPerformanceForContentMultihoming");
 		?>
 
 		<?php tprog_add_session("12:30-14:00", "Lunch Break", ""); ?>
